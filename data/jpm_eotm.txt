@@ -225,7 +225,8 @@ Redacted
 Contains video.
 Economy & Markets
 Redacted
-Straight talk from the CEO front lines on Liberation Day.  Almost all the news on tariffs and declining CEO business confidence…
+Straight talk from the CEO front lines on Liberation Day.
+Almost all the news on tariffs and declining CEO business confidence…
 Michael Cembalest
 Apr 2, 2025
 Fifty Days of Grey
@@ -247,7 +248,6 @@ Contains video.
 Economy & Markets
 From Here to Eternity
 From Here to Eternity: tracking Trump’s economic, market and constitutional milestones.
-
 Whether you’re elated or despondent…
 Michael Cembalest
 Feb 13, 2025
@@ -255,7 +255,6 @@ DeepSeek and the sincerest form of flattery
 Economy & Markets
 DeepSeek and the sincerest form of flattery
 The sincerest form of flattery: on DeepSeek, NVIDIA, OpenAI and the futility of US chip bans
-
 The DeepSeek episode can be two…
 Michael Cembalest
 Jan 28, 2025
@@ -369,7 +368,6 @@ Contains video.
 Investment Strategy
 The Good, the Bad and the Ugly
 The Good, the Bad and the Ugly: on tech valuations, AI, energy and US politics.
-
 Last week I spoke to the firm’s tech CEO…
 Michael Cembalest
 Apr 2, 2024
@@ -549,7 +547,8 @@ On CPI, S&P, GHG and the IRS
 Contains audio.
 Economy & Markets
 On CPI, S&P, GHG and the IRS
-Three topics in this month’s Eye on the Market.  First, an update on the Fed, inflation and corporate profits since we believe…
+Three topics in this month’s Eye on the Market.
+First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
 Sep 6, 2022
 The second gear of the Manchin-Schumer bill
@@ -686,7 +685,8 @@ Red Med Redemption
 Contains audio.
 Economy & Markets
 Red Med Redemption
-Red Med Redemption: A visual depiction of politics, ideology, vaccine resistance and the Delta variant.  Other topics: US…
+Red Med Redemption: A visual depiction of politics, ideology, vaccine resistance and the Delta variant.
+Other topics: US…
 Michael Cembalest
 Jul 26, 2021
 Thy Brother's Keeper
@@ -883,7 +883,8 @@ Redacted
 Contains video.
 Economy & Markets
 Redacted
-Straight talk from the CEO front lines on Liberation Day.  Almost all the news on tariffs and declining CEO business confidence…
+Straight talk from the CEO front lines on Liberation Day.
+Almost all the news on tariffs and declining CEO business confidence…
 Michael Cembalest
 Apr 2, 2025
 Fifty Days of Grey
@@ -905,7 +906,6 @@ Contains video.
 Economy & Markets
 From Here to Eternity
 From Here to Eternity: tracking Trump’s economic, market and constitutional milestones.
-
 Whether you’re elated or despondent…
 Michael Cembalest
 Feb 13, 2025
@@ -913,7 +913,6 @@ DeepSeek and the sincerest form of flattery
 Economy & Markets
 DeepSeek and the sincerest form of flattery
 The sincerest form of flattery: on DeepSeek, NVIDIA, OpenAI and the futility of US chip bans
-
 The DeepSeek episode can be two…
 Michael Cembalest
 Jan 28, 2025
@@ -1013,7 +1012,6 @@ Contains video.
 Investment Strategy
 The Good, the Bad and the Ugly
 The Good, the Bad and the Ugly: on tech valuations, AI, energy and US politics.
-
 Last week I spoke to the firm’s tech CEO…
 Michael Cembalest
 Apr 2, 2024
@@ -1159,7 +1157,8 @@ On CPI, S&P, GHG and the IRS
 Contains audio.
 Economy & Markets
 On CPI, S&P, GHG and the IRS
-Three topics in this month’s Eye on the Market.  First, an update on the Fed, inflation and corporate profits since we believe…
+Three topics in this month’s Eye on the Market.
+First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
 Sep 6, 2022
 Independence Days
@@ -1290,7 +1289,8 @@ Red Med Redemption
 Contains audio.
 Economy & Markets
 Red Med Redemption
-Red Med Redemption: A visual depiction of politics, ideology, vaccine resistance and the Delta variant.  Other topics: US…
+Red Med Redemption: A visual depiction of politics, ideology, vaccine resistance and the Delta variant.
+Other topics: US…
 Michael Cembalest
 Jul 26, 2021
 Thy Brother's Keeper
@@ -1373,7 +1373,8 @@ On CPI, S&P, GHG and the IRS
 Contains audio.
 Economy & Markets
 On CPI, S&P, GHG and the IRS
-Three topics in this month’s Eye on the Market.  First, an update on the Fed, inflation and corporate profits since we believe…
+Three topics in this month’s Eye on the Market.
+First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
 Sep 6, 2022
 The second gear of the Manchin-Schumer bill
@@ -1650,17 +1651,17 @@ Enter your city
 > or < are not allowed
 Only 35 characters allowed
 State
-        *
+*
 Select your state
 > or < are not allowed
 ZIP
-        *
+*
 Enter your ZIP code
 Please Enter a valid Zip Code
 > or < are not allowed
 Only 10 characters allowed
 Postal Code
-        *
+*
 Enter your postal code
 Please Enter a valid Zip Code
 > or < are not allowed
@@ -1677,9 +1678,7 @@ Tell Us More About You
 0/1000
 Only 1000 characters allowed
 > or < are not allowed
-* Yes, I want to learn more about J.P. Morgan Private Bank. By submitting this form, I understand the data I provide will be used to process my enquiry and hereby accept and agree that any applicable confidentiality or secrecy requirements do not apply, and I consent to J.P. Morgan Private Bank for sending me ideas and insights via email or phone in accordance with J.P. Morgan's
-privacy policy
-.
+* Yes, I want to learn more about J.P. Morgan Private Bank. By submitting this form, I understand the data I provide will be used to process my enquiry and hereby accept and agree that any applicable confidentiality or secrecy requirements do not apply, and I consent to J.P. Morgan Private Bank for sending me ideas and insights via email or phone in accordance with J.P. Morgan's privacy policy.
 Checkbox is not selected
 Submit
 Search
@@ -1700,8 +1699,7 @@ THE TEAM NEAREST YOU
 Explore this office
 View all offices
 North America
-English
-Selected
+English Selected
 Latin America
 English
 Español
@@ -1963,16 +1961,12 @@ Enter your email address
 Please enter a valid email address
 > or < are not allowed
 Only 50 characters allowed
-By continuing, I understand that the data I provide will be used to process my enquiry. I accept and agree that any applicable confidentiality or secrecy requirements do not apply, in accordance with J.P. Morgan's
-privacy policy
-.
+By continuing, I understand that the data I provide will be used to process my enquiry. I accept and agree that any applicable confidentiality or secrecy requirements do not apply, in accordance with J.P. Morgan's privacy policy.
 Checkbox is not selected
 Continue
 IDEAS & INSIGHTS MONTHLY NEWSLETTER
 Email address
-Yes, I want to receive Ideas & Insights monthly at the email address provided. I know that I can unsubscribe at any time in accordance with J.P. Morgan’s
-privacy policy
-.
+Yes, I want to receive Ideas & Insights monthly at the email address provided. I know that I can unsubscribe at any time in accordance with J.P. Morgan’s privacy policy.
 Subscribe
 Submission Successful
 of
@@ -1985,24 +1979,10 @@ You're Now Leaving J.P. Morgan
 J.P. Morgan’s website and/or mobile terms, privacy and security policies don’t apply to the site or app you're about to visit. Please review its terms, privacy and security policies to see how they apply to you. J.P. Morgan isn’t responsible for (and doesn’t provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the J.P. Morgan name.
 Proceed
 Cancel
-LEARN MORE
-About Our Firm and Investment Professionals Through FINRA BrokerCheck
-To learn more about J.P. Morgan’s investment business, including our accounts, products and services, as well as our relationship with you, please review our
-J.P. Morgan Securities LLC Form CRS
-and
-Guide to Investment Services and Brokerage Products
-.
-JPMorgan Chase Bank, N.A.
-and its affiliates (collectively "JPMCB") offer investment products, which may include bank-managed accounts and custody, as part of its trust and fiduciary services. Other investment products and services, such as brokerage and advisory accounts, are offered through
-J.P. Morgan Securities LLC
-("JPMS"), a member of
-FINRA
-and
-SIPC
-. Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance agency, doing business as Chase Insurance Agency Services, Inc. in Florida. JPMCB, JPMS and CIA are affiliated companies under the common control of JPMorgan Chase & Co. Products not available in all states.
-Please read the
-Legal Disclaimer
-for J.P. Morgan Private Bank regional affiliates and other important information in conjunction with these pages.
+LEARN MORE About Our Firm and Investment Professionals Through FINRA BrokerCheck
+To learn more about J.P. Morgan’s investment business, including our accounts, products and services, as well as our relationship with you, please review our J.P. Morgan Securities LLC Form CRS and Guide to Investment Services and Brokerage Products.
+JPMorgan Chase Bank, N.A. and its affiliates (collectively "JPMCB") offer investment products, which may include bank-managed accounts and custody, as part of its trust and fiduciary services. Other investment products and services, such as brokerage and advisory accounts, are offered through J.P. Morgan Securities LLC ("JPMS"), a member of FINRA and SIPC. Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance agency, doing business as Chase Insurance Agency Services, Inc. in Florida. JPMCB, JPMS and CIA are affiliated companies under the common control of JPMorgan Chase & Co. Products not available in all states.
+Please read the Legal Disclaimer for J.P. Morgan Private Bank regional affiliates and other important information in conjunction with these pages.
 INVESTMENT AND INSURANCE PRODUCTS ARE: • NOT FDIC INSURED • NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY • NOT A DEPOSIT OR OTHER OBLIGATION OF, OR GUARANTEED BY, JPMORGAN CHASE BANK, N.A. OR ANY OF ITS AFFILIATES • SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT INVESTED
 Bank deposit products, such as checking, savings and bank lending and related services are offered by JPMorgan Chase Bank, N.A. Member FDIC.
 Not a commitment to lend. All extensions of credit are subject to credit approval.
