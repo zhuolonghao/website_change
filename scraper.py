@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import io
 from pypdf import PdfReader
+import difflib
 
 TARGETS = {
     "jpm_eotm": "https://privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/eotm",
@@ -67,17 +68,44 @@ def fetch_content(name, url):
 def main():
     os.makedirs('data', exist_ok=True)
     
+    # We set a threshold for what constitutes a "real" update.
+    # 0.98 means the page must be LESS than 98% identical to trigger an update.
+    # A completely new article dropping onto a page will usually drop similarity to 80-95%.
+    SIMILARITY_THRESHOLD = 0.98 
+    
     for name, url in TARGETS.items():
         print(f"Fetching {name}...")
         try:
             content = fetch_content(name, url)
             
-            if content:
-                with open(f"data/{name}.txt", "w", encoding="utf-8") as f:
-                    f.write(content)
-                print(f"✅ Successfully updated {name}.txt")
-            else:
-                print(f"❌ Skipped updating {name}.txt due to errors.")
+            if not content:
+                print(f"❌ Skipped updating {name}.txt due to fetch errors.")
+                continue
+
+            filepath = f"data/{name}.txt"
+            old_content = ""
+            
+            # Read the existing file to compare against
+            if os.path.exists(filepath):
+                with open(filepath, "r", encoding="utf-8") as f:
+                    old_content = f.read()
+
+            # If we have old content, calculate how similar it is to the new content
+            if old_content:
+                similarity = difflib.SequenceMatcher(None, old_content, content).ratio()
+                print(f"📊 Similarity for {name}: {similarity:.2%}")
+                
+                if similarity >= SIMILARITY_THRESHOLD:
+                    print(f"⏭️  Skipped {name}: Changes were too minor (likely editorial).")
+                    continue # Skip the file write completely
+                else:
+                    print(f"🚨 Significant change detected for {name}!")
+
+            # If it passes the threshold (or if it's a brand new file), overwrite it
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(content)
+            print(f"✅ Successfully saved new data to {name}.txt")
+            
         except Exception as e:
             print(f"❌ Error processing {name}: {e}")
 
