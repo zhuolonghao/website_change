@@ -1,5 +1,8 @@
 name: Track Website Changes
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 on:
   schedule:
     # Runs automatically every day at 12:00 UTC
