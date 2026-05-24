@@ -17,13 +17,17 @@ def fetch_content(name, url):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
-        "Accept-Encoding": "gzip, deflate, br",
+        # FIX: Removed 'br' so requests can decompress the text natively
+        "Accept-Encoding": "gzip, deflate",
         "Connection": "keep-alive",
         "Upgrade-Insecure-Requests": "1",
         "Cache-Control": "max-age=0"
     }
     
     response = requests.get(url, headers=headers, timeout=20)
+    
+    # Force UTF-8 encoding just in case the server doesn't declare it properly
+    response.encoding = 'utf-8' 
     
     # Handle response errors gracefully without crashing the whole loop
     if response.status_code != 200:
