@@ -64,7 +64,7 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           subject: "Market Insights Tracker: Changes Detected"
-          to: zhuo.longhao@gmail.com
+          to: longhao.zhuo@wellsfargo.com
           from: GitHub Actions Tracker
           body: |
             The automated tracker has detected updates to the following files:
