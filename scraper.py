@@ -1,4 +1,5 @@
-import requests
+#import requests
+from curl_cffi import requests
 from bs4 import BeautifulSoup
 import os
 import io
@@ -27,7 +28,8 @@ def fetch_content(name, url):
         "Cache-Control": "max-age=0"
     }
     
-    response = requests.get(url, headers=headers, timeout=30)
+    #response = requests.get(url, headers=headers, timeout=30)
+    response = requests.get(url, headers=headers, timeout=30, impersonate="chrome110")
     
     if response.status_code != 200:
         print(f"⚠️ [{name}] Failed with status code: {response.status_code}")
