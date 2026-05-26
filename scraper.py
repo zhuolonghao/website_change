@@ -12,7 +12,8 @@ TARGETS = {
     "ubs_monthly": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/articles/monthly.html",
     "bofa_hartnett": "https://olui2.fs.ml.com/RIResearchReportsUI/BofAMLSearch.aspx?ResearchSearchQuery=TWljaGFlbCUyMEhhcnRuZXR0&NTR_RUN=RUN_RIResearchReportsUI_BofAMLHub",
     "ms_gic_weekly": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/gic-weekly.pdf",
-    "ms_gic_otm": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/On-The-Markets.pdf"
+    "ms_gic_otm": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/On-The-Markets.pdf",
+    "strs_ohio": "https://www.strsoh.org/about/board-meetings.html",
 }
 
 def fetch_content(name, url):
