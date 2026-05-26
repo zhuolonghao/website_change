@@ -54,9 +54,6 @@ Singapore
 Slovakia
 South Africa
 Spain
-ABC
-BBC
-UVS
 Sweden
 Switzerland
 Taiwan - 台灣
@@ -68,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-May 18, 2026
+May 26, 2026
 BlackRock Investment Institute
-Upping developed stocks strategically
+The need to diversify diversifiers
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -79,62 +76,65 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260518
-Devan Nathwani
-Portfolio Strategist
+Weekly video_20260526
+Beata Harasim
+Senior Investment Strategist
 BlackRock Investment Institute
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: Upgrading developed equities
-Mega forces are reshaping portfolio opportunities over a strategic horizon of five years or more. Their latest manifestation shifts where we take growth risk.
-1: Multiple possible outcomes
-Markets are being pulled in different directions by competing mega forces, namely AI and geopolitical fragmentation. AI is driving stocks higher, but we can’t say for sure what mega force will dominate over the long term. That’s why our capital market assumptions – for professional investors only – anchors to multiple plausible scenarios.
-In one, AI could drive a productivity boom that supports growth, earnings and equity valuations. In another, geopolitical fragmentation fuels stagflationary pressure, resulting in weaker equity valuations as investors demand more compensation for taking growth risk. Our starting point represents our latest thinking of how these mega forces will evolve.
-2. Strong earnings boost developed market stocks
-Earnings momentum for developed market stocks looks strong. Only three quarters since 1988 have seen bigger jumps in expected 24-month U.S. equity earnings than we’ve seen for each of the past two quarters.
-AI’s impact is also cutting across asset class labels, as the tech sector is now a larger share of the MSCI Emerging Markets index than for the S&P 500. The granular impact of mega forces underpins our developed equity upgrade and existing emerging equity overweight on a strategic horizon of five years or more.
-3. Total portfolio implications
-Our upgrade of developed equities means reducing exposure to fixed income. We like high yield in fixed income, but don’t build portfolios in asset class silos. So we downgrade high yield on a strategic horizon because we prefer to take growth risk through equities. We reduce developed market government bonds to underweight and continue to prefer inflation-linked government bonds. Why? We prefer to hold less duration risk at the total portfolio level and see inflation being more persistent than markets expect.
+Title slide: The need to diversify diversifiers
+Surging long-term bond yields are reinforcing one of our key views: traditional portfolio hedges are less reliable in today’s macro regime. We think investors need a Plan B — built around more unique sources of return.
+1: Traditional diversifiers under pressure
+Long-term government bond yields have surged again, with U.S. 30-year Treasury yields reaching their highest levels in roughly two decades.
+That matters because government bonds have historically helped cushion portfolios when risk assets fall. But that role is being tested. Since the onset of the Middle East conflict, U.S. Treasuries have come under further pressure as investors have focused on sticky inflation, energy supply risks and persistent fiscal deficits.
+Gold, often viewed as an inflation hedge, has also fallen over this period. That reinforces our view that the old playbook for diversification is becoming less reliable.
+2: A shifting macro regime
+Why is this happening? We think markets are adjusting to a new macro regime shaped by mega forces.
+Geopolitical fragmentation is increasing the risk of supply shocks. Persistent fiscal deficits are putting upward pressure on long-term borrowing costs. And the AI buildout is driving major investment demand.
+Together, these forces point to higher-for-longer inflation and interest rates than markets were used to before the pandemic. That is why we prefer short- and medium-term U.S. government bonds over long-term bonds. We also continue to like inflation-linked bonds on strategic horizons over five years or more.
+3: Building a plan B
+We still stay pro-risk, supported by solid corporate earnings and the AI theme. Strong earnings growth has helped equities absorb the drag from higher rates so far.
+But at the total portfolio level, we think investors need broader diversification sources. We favor idiosyncratic return streams, especially hedge funds and private markets, where returns are less dependent on broad stock and bond market moves.
 Outro: Here’s our Market take
-Solid momentum in earnings growth leads us to upgrade developed market equities over a longer-term horizon. We adjust for that by downgrading high yield credit.
+Traditional portfolio diversification is being challenged as long-term bond yields rise and old safe havens prove less reliable. We think investors need a Plan B — using broader sources of return while staying pro-risk on solid earnings and the AI theme.
 Closing frame: Read details: blackrock.com/weekly-commentary
-Moving overweight
-AI-driven earnings upgrades lead us to upgrade DM equities on a strategic basis. We downgrade high yield as we prefer taking growth risk through stocks.
+Finding diversification
+Surging bond yields underscore our view that traditional portfolio diversifiers are challenged. We favor unique diversifiers: active returns and private markets.
 Market backdrop
-AI optimism and policy caution drove markets last week: the S&P 500 hit record highs on strong earnings, while bond yields rose as Fed cut expectations faded.
+Since the Mideast conflict began, the S&P 500 is up 8%, while front month Brent crude prices are up 43% and U.S. 10-year yields nearly 60 basis points.
 Week ahead
-European and Japanese data this week should show whether high energy costs and supply disruptions are feeding into inflation and production hiccups.
-Stocks are rallying on strong AI earnings expectations, offsetting jitters over inflation pressures from geographical fragmentation such as the Middle East supply shock. That could change in the near term, but we look beyond this in our strategic views when we see these mega forces - big, structural trends - in action. We upgrade developed market stocks to overweight and downgrade high yield to neutral as we shift where we take growth risk on a horizon of five years or more.
+U.S. PCE data will help confirm the CPI’s upside surprise showing higher core inflation as markets price in a Federal Reserve interest rate hike later this year.
+The supply chain disruptions from the Middle East conflict and the accelerating AI buildout have caused some of the sharpest moves in long-term bond yields across developed markets. U.S. 30-year bond yields hit two-decade highs above 5% last week, up 40 basis points since the start of the war. We see our diversification mirage theme playing out in real time as bonds don’t cushion portfolios against risk asset selloffs. We favor diversifiers such as hedge funds and private markets.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Multiple outcomesU.S. equity 12-month forward price-earnings ratio, 1991-2031
-Forward –looking estimates may not come to pass. Past performance is not a reliable indicator of current or future results. Source: BlackRock Investment Institute, with data from Robert Shiller, (Yale University), May 2026. Note: The line shows the forward price-earnings ratio of U.S. equities, the markers indicate future estimates of the ratio across various scenarios.
-Markets are being pulled in different directions by competing mega forces. AI is driving stocks higher today, but we cannot say which force will dominate in the long run. That’s why our capital market assumptions (for professional investors only) are built on multiple scenarios that imply fundamentally different macro paths. Our starting point (the green dot) reflects our latest thinking, and the gap between outcomes shows how mega forces could affect outcomes over a five-year period. In one, AI drives a productivity boom that could sustain stronger growth and earnings, justifying higher equity valuations over the strategic horizon, as the chart’s pink dot shows. In another, geopolitical fragmentation fuels stagflationary pressures that push global risk premia higher as investors demand greater compensation for uncertainty. This would lower equity valuations, as the purple dot shows.
-For now, AI-driven earnings momentum looks strong: Upgrades to MSCI U.S. 2026 and 2027 earnings expectations in the past two quarters rank in the top five since 1988. And it’s broadening: The gap between expected “magnificent seven” earnings growth and the rest of the S&P 500 in 2027 has narrowed to 3 percentage points, down from 31% in 2024. Leadership is also broadening across regions and sectors, as AI reshapes markets beyond asset classes. The technology sector is a larger share of the MSCI EM Index than it is of the S&P 500, reflecting Taiwan’s and South Korea’s key role in the AI supply chain. All this underpins our DM equities upgrade and existing EM equities overweight on a long-term horizon. We view these not as broad market exposures but through sectors and regions. Within DM equities, we favor technology, AI-adopters such as health care and energy sectors tied to the AI buildout and rising power demand. We also favor EM tied to AI supply chains, including Taiwan and South Korea. We see India stocks benefiting from the demographic mega force: a growing workforce.
-A holistic portfolio approach
-To fund the DM equities upgrade, we reduce our fixed income exposure in our strategic portfolios. Within this segment, we like high yield as it offers attractive income with less duration, or sensitivity to interest rate swings, than investment grade credit. But we don’t build portfolios in asset class silos. Similar to a total portfolio approach, we prefer taking growth risk in equities, leading us to downgrade high yield to neutral. The reason: Investors can participate in equity upside rather than be capped by coupon income. We also downgrade DM government bonds to underweight, leaving our long-term portfolios with less duration risk than our benchmark. We overweight inflation-linked bonds as we expect inflation to be more persistent than markets currently price over a strategic horizon of five years or more.
-The clash of mega forces across asset classes this year reinforces the need for a dynamic, scenario-based approach to navigate uncertain outcomes. We see the industry increasingly recognizing this shift through greater focus on total portfolio approaches that cut through asset class labels. A prime example is investing in infrastructure. We think infrastructure can do well under all our scenarios as it has historically been resilient in periods of market stress. Most investors can up their holdings materially, depending on their tolerance for illiquidity risk, or the risk of being unable to sell an investment quickly.
+Hard to findCross-asset performance, Feb. 27-May 22, 2026
+Past performance is not a reliable indicator of current or future results. Index performance returns do not reflect any management fees, transaction costs or expenses. Indices are unmanaged and one cannot invest directly in an index. Source: BlackRock Investment Institute with data from LSEG Datastream, May 2026. Note: Lines show the returns of various assets since Feb. 27, 2026. Total returns are shown for the S&P 500 and U.S. Treasury, the latter proxied by 10-year U.S. Treasuries.
+The selloff in long-term government bonds is a reminder that traditional portfolio hedges are proving less reliable today: Since the onset of the Middle East conflict, returns on U.S. 10-year Treasuries have been negative, driven by energy supply disruption concerns adding to already sticky inflation and persistent fiscal deficits. Stocks and long-term bonds have increasingly sold off together as these concerns dominate markets. But pressure on traditional diversifiers hasn’t been confined to bonds: gold, touted as a portfolio diversifier that has sometimes worked in the past, has slid 15% since the conflict began, partly due to crowded positioning. See the chart. This underscores how long-held safe havens can become unreliable hedges. We think diversification is harder to achieve – thus the mirage – and that’s why investors need to diversify their diversifiers, in our view.
+The Mideast conflict has triggered a broader reset in interest rate expectations amid fears that supply chain disruptions would add to already sticky inflation. The shift has been drastic: markets went from expecting rate cuts before the conflict to now pricing in Federal Reserve and Bank of England rate hikes. More recently, another factor has pushed yields higher: Investors are now demanding more term premium – or greater compensation to hold long-term government bonds – our long-held view. The term premium embedded in U.S. 10-year yields is rising back near its highest levels in 12 years, according to New York Fed estimates of the ACM model. The changing base of the U.S. Treasury market is also a factor. The make-up of investors is shifting toward short-term, leveraged players quick to sell – and push up long-term yields – in volatile markets. This validates our preference for short- and medium-term U.S. government bonds over long-term bonds.
+Hunting for new diversifiers
+These developments require finding ways to shield portfolios against higher inflation. The macro regime is shaped by mega forces as stubborn inflation and higher rates become structural features. Geopolitical fragmentation adds to the risk of ongoing supply disruptions, while persistent fiscal deficits in major economies pile pressure on long-term borrowing costs. At the same time, the AI buildout is driving sustained investment demand across the economy, further stoking inflation and demand for capital. That’s one of the reasons we favor inflation-linked bonds on strategic horizons of five years or longer.
+These developments also reinforce why new sources of portfolio diversification are needed. For strategic horizons, we like hedge funds and private markets as diversifiers less reliant on broader market moves and instead tied to manager skill. We favor macro and absolute return hedge fund strategies that can better diversify portfolios when macro shocks hit risk assets broadly. In private markets, we like infrastructure equity with cash flows often linked directly to inflation, as well as private credit tied to AI-driven investment demand. On a tactical horizon, the AI mega force underpins our pro-risk stance, supported by strong corporate earnings growth and balance sheets. Earnings growth has offset the drag from higher interest rates and helped stocks absorb the sharp rise in yields – though we’re monitoring this key risk to our view.
 Our bottom line
-We upgrade DM equities on a strategic basis due to AI-driven earnings momentum strength. We downgrade high yield to neutral as we prefer to take growth risk in equities but still like it for income in a fixed income context.
+Traditional portfolio diversification is challenged today, underscoring the need for broader diversification sources. We stay pro-risk on solid corporate earnings and the AI theme.
 Market backdrop
-The S&P 500 last week notched another record high as investors kept their focus on strong AI-driven earnings before slipping on Friday. U.S. Treasury yields jumped to around 4.56% as investors scaled back expectations for Federal Reserve rate cuts while oil prices remained well above pre-conflict level amid ongoing supply disruptions caused by the Middle East conflict. Brent crude remained near $105, more than 40% above pre-conflict levels.
-This week’s focus is on inflation data from the UK and Japan, along with early signals on global production. Japan CPI will likely show how higher energy costs tied to the Middle East conflict are feeding into price pressures, while flash PMIs will indicate whether supply disruptions and rising costs are starting to weigh on activity.
+U.S. 30-year Treasury yields hit a 19-year high before easing as the global bond selloff paused. The S&P 500 was little changed near record highs as SpaceX set out its plan for what could be a record-sized stock listing. The S&P 500 has added 8% since the Mideast conflict began. European stocks outperformed with a 3% gain. Brent crude oil fell about 5% on hopes for a resolution to the conflict but is up about 70% this year. Energy flows through the Strait of Hormuz remain very limited.
+We eye U.S. core PCE for signs that higher energy costs are feeding through to underlying inflation. This comes as the Fed already faces a tougher trade-off between reining in inflation and supporting growth. We have been positioned for such an environment, underscored by our caution on long-term government bonds. We also eye Japan CPI data for evidence that inflation pressures remain persistent globally.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of May 14, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-May 19
-Euro area trade balance; China Loan Prime Rate
-May 20
-UK CPI and PPI; Japan trade balance
-May 21
-Global Flash PMIs; euro area consumer confidence
-May 22
-Japan CPI
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of May 21, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+May 26
+U.S. consumer confidence
+May 28
+U.S. PCE inflation
+May 29
+U.S. PMI; Japan CPI & unemployment
+May 30
+China PMI
 Read our past weekly market commentaries here.
 Big calls
 Our highest conviction views on six- to 12-month (tactical) and over five-year (strategic) horizons, May 2026
@@ -258,16 +258,14 @@ Stay informed on our latest weekly Market take. Listen wherever you get your pod
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
-Jean Boivin
-Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Vivek Paul
-Global Head of Portfolio Research – BlackRock Investment Institute
+Simon Wan
+Portfolio Manager – BlackRock Multi-Asset Strategies and Solutions
+Beata Harasim
+Senior Investment Strategist – BlackRock Investment Institute
 Devan Nathwani
 Portfolio Strategist – BlackRock Investment Institute
-Sally Du
-Co-Portfolio Manager - BlackRock Fundamental Equities
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -397,9 +395,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of May 18, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of May 26, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0526-5499081-EXP0527
+BII0526-5518519-EXP0527
