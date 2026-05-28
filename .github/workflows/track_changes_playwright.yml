@@ -1,4 +1,4 @@
-name: Track Website Changes
+name: Track Website Changes with Playwright
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
