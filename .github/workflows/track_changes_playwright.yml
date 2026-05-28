@@ -1,0 +1,82 @@
+name: Track Website Changes
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+on:
+  schedule:
+    - cron: '19 10 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  scrape-and-commit:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pypdf curl_cffi playwright
+
+      - name: Install Playwright Browsers and Linux Dependencies
+        run: |
+          playwright install chromium
+          # THIS IS THE MAGIC LINE FOR GITHUB ACTIONS
+          playwright install-deps
+
+          
+      - name: Run scraping script
+        run: python scrape_playwright.py
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add data/
+          
+          # Get list of changed files and format them nicely onto a single line
+          CHANGES=$(git diff --staged --name-only | tr '\n' ',' | sed 's/,/, /g' | sed 's/, $//')
+          
+          if [ -n "$CHANGES" ]; then
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+            echo "changed_files=$CHANGES" >> $GITHUB_OUTPUT
+          else
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes_detected == 'true'
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git commit -m "Automated update: Website content changed"
+          git push
+
+      - name: Send Email Notification
+        if: steps.git-check.outputs.changes_detected == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "Market Insights Tracker: Changes Detected"
+          to: longhao.zhuo@gmail.com
+          from: GitHub Actions Tracker
+          body: |
+            The automated tracker has detected updates to the following files:
+            
+            ${{ steps.git-check.outputs.changed_files }}
+            
+            You can review the exact text changes in your repository here:
+            https://github.com/${{ github.repository }}/commits/main
