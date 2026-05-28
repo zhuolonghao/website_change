@@ -14,7 +14,6 @@ TARGETS = {
     "bofa_hartnett": "https://olui2.fs.ml.com/RIResearchReportsUI/BofAMLSearch.aspx?ResearchSearchQuery=TWljaGFlbCUyMEhhcnRuZXR0&NTR_RUN=RUN_RIResearchReportsUI_BofAMLHub",
     "ms_gic_weekly": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/gic-weekly.pdf",
     "ms_gic_otm": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/On-The-Markets.pdf",
-    "strs_ohio": "https://www.strsoh.org/about/past-board-meetings.html",
     # Add your other targets back here
 }
 
