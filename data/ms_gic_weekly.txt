@@ -1,215 +1,217 @@
 INVESTMENT STRATEGY
-Ongoing but unfulﬁlled hopes for a US-Iran peace deal have
-dominated bond market narratives, with longer-duration global yields
-rising sharply only to partially unwind last week. With limited actual
-news on the peace front, long rates seem to be reﬂexively following
-oil spot prices and December futures contracts. We are inclined to
-read the latest yield move as reﬂective of short covering, with more
-essential information coming from curve ﬂattening. With the two-
-year/10-year US Treasury yield curve near its shallowest level of the
-past year, we think the bond market is accurately signaling nonzero
-stagﬂation potential, with near-term inﬂation risks anchoring short
-rates and longer-term growth uncertainties keeping long bonds range-
-bound. Beyond those messages, recent data suggests perceived
-consumer resilience may be on borrowed time. The threat of slower
-growth has traditionally supported longer-term bonds, and while 10-
-and 30-year Treasury yields near 4.5% and 5.0% could be attractive
-on an absolute basis, from a relative risk-return standpoint, the curve
-suggests little incentive to own duration—complicating portfolio
-construction at a time when stock-bond correlations already put the
-burden of diversifying risk on ownership of alternative asset classes.
-Consider tactics for navigating portfolio duration with cash proxies
-and dividend-growth stocks while currently avoiding the temptation
-to add long bonds. Focus on active equity strategies to balance
-passive index exposure. Now is the time to evaluate where true
-secular growth (the Mag-7?) may be on relative sale. Continue to
-reduce overbought semiconductors, favoring AI build-out diffusion
-over the most scarcity-priced epicenters. Emphasize diversiﬁcation
+One of the second quarter’s bigger surprises has been that, despite
+disappointment regarding reopening of the Strait of Hormuz, oil has
+stayed in a tight range, with West Texas Intermediate (WTI) crude
+20% below its April high. Given negative equity and bond correlations
+with the commodity during the Iran conﬂict, this has been a virtual
+gift to investors. As with tariffs last year, one might assume investors
+have “moved on” from concerns about oil. Some unique
+circumstances, however, have supported the oil market’s relative
+calm. Consider that global inventories were at a ﬁve-year high
+entering the conﬂict; the US has temporarily stepped up exports; and
+global strategic reserves have been quickly released. Unfortunately,
+those factors are not timeless, and complacency on oil, inﬂation and
+rates could still be a risk. With inventories normalizing, the Strategic
+Petroleum Reserve declining and near-term alternative supply growth
+limited, vigilance is warranted. That said, Morgan Stanley & Co.
+recently raised its Brent crude outlook for roughly the next six to nine
+months to $85–$95 per barrel. Proﬁt margin forecasts and the
+consumer could be most vulnerable. Consider maintaining measured
+exposure to consumer equities and stocks for which commodities
+disinﬂation is embedded in margin forecasts, while adding to energy
+and other commodities as a hedge. Focus on active equity strategies
+to balance passive index exposure. Now is the time to evaluate where
+true secular growth (the Mag-7?) may be on relative sale. Continue
+reducing overbought semiconductors on strength, favoring AI build-
+out diffusion over scarcity-priced epicenters. Emphasize diversiﬁcation
 across real assets, as hedge funds, gold, REITs, infrastructure and
 secondaries remain key allocations.
-As investors circle portfolio results for the ﬁfth full month of 2026, the S&P 500
-Index’s 5% ﬁrst quarter pullback seems like a distant memory. After a record-setting
-run over the past eight weeks, the benchmark is up 10.7% for the year to date,
-continuing to reach all-time highs above the 7,500 milestone. Given the Iran war,
-Curveballs and Squeeze Plays Lisa Shalett
+With US equities near all-time highs and on pace for another year of double-digit
+percentage gains amid 22%–23% consensus S&P 500 Index earnings growth
+forecasts, it’s hard to imagine that the US is locked in a military conﬂict with Iran
+that has closed the Strait of Hormuz. By some estimates, as much as 14%–20% of
+global oil supply has been impacted. Of course, oil, gasoline, inﬂation and US
+Strait Matters Lisa Shalett
 Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-June 01
-ISM Manufacturing
-US construction spending
-June 02
-US JOLTS Survey
-June 03
-US factory orders
-ISM Services
-June 04
-Challenger Job Cuts
+June 08
+New York Fed One-Year Inﬂation Expectations
+June 09
+NFIB Small Business Optimism Index
+US imports/exports
+US existing home sales
+June 10
+US CPI
+US core CPI
+US real average hourly earnings
+June 11
 US initial jobless claims
 US continuing jobless claims
-June 05
-US nonfarm payrolls
-US average hourly earnings
-US unemployment rate
-US labor force participation rate
-Global Investment Committee | June 01, 2026
+US PPI
+June 12
+U. of M. Consumer Sentiment Index
+Global Investment Committee | June 08, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. Thismaterial has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-soaring gasoline prices and step-changes in both global
-inﬂation and interest rates, the US stock market’s resilience
-continues to amaze. As we have previously noted, a large part
-of that stems from the accelerating impact of the AI-capex-
-boom story, which has powered positive earnings revisions
-and underpinned an increase in consensus 2026 proﬁt growth
-forecasts, from 14% to 22%. We continue to be cautiously
-optimistic that equities can grind another 10% higher over
-roughly the next 12 months, to Morgan Stanley & Co.’s 8,300
-base-case S&P 500 target. That said, we remain focused on
-the market’s narrowness, its dependence on a single theme
-and the roles that unsustainable pricing power and the pace
-of order booking are having on expectations. We also remain
-concerned that equity investors who have shrugged off
-macro, bond market and geopolitical risks—ever dependent
-on and conﬁdent in ﬁscal and monetary policy puts—may
-soon be approaching a deceleration inﬂection point, where
-bond market action becomes a headwind to valuations.
-Speciﬁcally, as we noted last week, bond markets appear to
-be further along in discounting the realities of a new, higher-
-for-longer regime. We observed that near-term inﬂation risks
-and the implications for Federal Reserve policy were reﬂected
-in a repriced front end of the curve, while a jump in real rates
-and term premiums on the long end reﬂected not only
-stronger economic growth and a higher neutral rate but the
-realities of coming sovereign debt issuance and deﬁcit
-constraints. In fact, during the past eight weeks, investors
-priced out 2026 Fed rate cuts, taking the two-year Treasury
-yield up through fed funds, at 4.1%, and shifting the trading
-range for 10- and 30-year Treasuries to yields near 4.5% and
-5.0%, respectively. Not only did the recent optimism about a
-potential reopening of the Strait of Hormuz lower the spot
-price and December 2026 futures contract for West Texas
-Intermediate crude by approximately 17% and 6%,
-respectively, it also again muddied the bond market narrative.
-As illustrated in Chart of the Week, the 10-year Treasury yield
-has fallen nearly 20 basis points since May 19, virtually in
-lockstep with the anticipation of a peace deal priced by the oil
-market.
-Unfortunately, we don’t see this as an “all clear” to add
-duration. We sense rather that market action may be more
-accurately characterized as speculative and short covering
-than as a genuine shift in fundamentals. After all, at 2.0%, the
-10-year real rate remains relatively anchored, within 10 basis
-points of its three-year average. Equally signiﬁcant, if not
-more so, the move in long rates comes with a “bear ﬂattener,”
-with steepness in the two-year/10-year segment of the curve
-at only 43 basis points—one of the lowest levels of the past
-year. This typically indicates nonzero potential for a
-stagﬂation episode or a period when inﬂation remains
-stubborn, policy is sidelined and growth slows. This is not
-always good for assets like hypergrowth stocks or long-
-maturity bonds.
-Importantly, this bond market scenario is not purely
-hypothetical. On the contrary, data released earlier this
-month conﬁrmed the potential for a growth slowdown on the
-consumer side of the economy. Consider that personal
-spending is still growing at an annualized pace of 5.9% but
-only around 2.1% adjusted for inﬂation. Personal income is
-not growing at all at a time when year-over-year inﬂation is
-running at 3.8%, having accelerated from 3.5% in the previous
-month. The squeeze is increasingly real, and April was the
-ﬁrst time in over three years that after-inﬂation wages were
-negative ex government transfers. The implication is that
-consumption is being funded out of tax refunds, dwindling
-savings and credit cards. To wit, 90-day household credit card
-delinquencies suggest the share of late outstanding balances
-has soared to 13%, the worst reading in 15 years. What
-happens when the tailwind of tax refunds ends in July? Will
-we still be talking about consumer resilience? Growth
-slowing while inﬂation is sticky is stagﬂation.
-Bottom Line. The “run it hot” euphoria that has ignited
-equities and paced positive earnings revisions has set an
-exceedingly high bar for corporate execution. While market
-hopes around reopening the Strait of Hormuz have eased
-pressure on the long end of the Treasury curve, we are not
-inclined to add duration currently. Higher-for-longer yield-
-regime factors—including AI capex, global sovereign debt
-issuance, higher term premiums and structural pricing
-pressures—remain in place. While the absolute level of
-rates may offer opportunity versus recent history, the
-meaningfully ﬂatter yield curve tells a story of duration risk
-not being fully compensated and potential for stagﬂation.
-This is showing up in the consumer side of the economy, as
-personal income growth trails inﬂation and spending, making
-affordability unsustainable and squeezing balance sheets.
-Market crosscurrents complicate portfolio construction
-choices and require both hypervigilance and balance. Watch
-dynamics around real economic growth reﬂected in long
-rates to reassess the higher-for-longer regime thesis.
-Consider tactics for navigating portfolio duration with cash
-proxies and dividend-growth stocks while currently avoiding
-the temptation to add long bonds. Focus on active equity
-strategies to balance passive index exposure. Now is the
-time to evaluate where true secular growth (the Mag-7?)
-may be on relative sale. Continue to reduce overbought
-semiconductors, favoring AI build-out diffusion over the
-most scarcity-priced epicenters. Emphasize diversiﬁcation
-across real assets, as hedge funds, gold, REITs, infrastructure
-and secondaries remain key allocations.
+Treasury yields initially reacted, pushing US equities down as
+much as 9% in March. And yes, WTI crude is up 57% for the
+year to date, US gas prices were recently up more than 45%,
+inﬂation has jumped above 3% and the two-year Treasury
+yield has risen nearly 70 basis points. But market conﬁdence
+that this will be temporary has been unwavering, with WTI
+spot prices and December 2026 futures contracts reﬂecting
+major backwardation of the futures curve and assumptions of
+rapid price normalization. Most recently, despite progress on
+the strait proving elusive, WTI has settled back down, off
+20% from its April high. As shown in Chart of the Week, such
+market conﬁdence has been a gift to equities, removing a
+potential key headwind, as stock and bond correlations with
+oil have been strongly negative. While stock owners have
+been buoyed by robust earnings, positive forecast revisions
+and constructive ﬁnancial conditions, in turn supporting
+capital markets activity, investors should not presume that
+current oil price optimism is permanent.
+For starters, we need to appreciate the uniqueness of the
+situation that has helped buffer the global economy. When
+the crisis began, world oil supply was ample. In January, WTI
+crude ranged from $55 to $65 per barrel, with global
+inventories their highest in ﬁve years. As the MS & Co.
+Research energy team has suggested, not only was the oil
+market in surplus, but “oil on the water” was elevated.
+Second, China was especially well inventoried. In fact, the
+team notes that seaborne net imports into China have fallen
+from approximately 13 million barrels per day this time last
+year to around 7.5 million per day in the past 30 days.
+Meanwhile, net US oil exports have increased from
+approximately 5 million barrels per day to 9 million, helped
+by a release from the Strategic Petroleum Reserve. Speaking
+of strategic reserves, the International Energy Agency
+announced a coordinated release of 400 million barrels from
+member countries in March. This amounts to about 2.5 million
+barrels per day, which when added to roughly 12.5 million in
+daily global inventory drawdowns, nearly matches the 14.5
+million barrels per day analysts estimate are impaired. These
+shock absorbers were further enhanced by ongoing sanctions
+relief for Russian and select Iranian shipments, not to mention
+global ﬁscal support to mitigate price pressures. We have also
+been helped by relatively strong demand destruction,
+especially around jet fuel.
+But those supports are aging, and some analysts suggest the
+clock is ticking on reopening the strait without renewed
+upward pressure on global prices. Speciﬁcally, US oil
+inventories have been declining sharply. Diesel and gasoline
+inventories are already well below ﬁve-year seasonal lows,
+and on the current trajectory, they are likely to test minimum
+operational requirements later this summer. Second,
+according to MS & Co. Research, cumulative crude-oil-
+purchase deals closed by Chinese companies for June and July
+delivery are still unusually low. This implies ﬁve consecutive
+months of low imports to China, and with that, likely
+sustained inventory draws. According to the team, there is a
+meaningful chance that Chinese crude buyers will return to
+the market for the September delivery cycle in mid-to-late
+June, stimulating demand. Third, global strategic petroleum
+reserve releases are set to fall from approximately 2.5 million
+barrels per day in the April to June period to approximately
+0.7 million per day in July and August. If the strait is not
+reopened by the time of this “SPR cliff,” the market could
+tighten meaningfully.
+While markets have clearly reacted to moves in oil spot prices
+and near-month futures contracts, we believe the scenarios
+being priced might still be overly optimistic. In fact, per the
+assessment of MS & Co. Research strategists, delays in
+reopening the strait push out likely market normalization by
+as much as three to four months. This has caused them to
+adjust their outlook for December futures, raising Brent crude
+pricing for roughly the next six to nine months to $85–$95
+per barrel, around $10 ahead of market pricing, as
+normalization continues to get pushed well into late summer.
+If this occurs, we anticipate that stock and bond markets
+could both face headwinds, the Federal Reserve would have
+to grapple with more inﬂation concerns, and consumers and
+corporate margins could experience stress. The asymmetric
+risk of this stagﬂation scenario is not fully priced.
+Bottom Line. Despite few signs of actual progress, oil spot
+prices and six-month futures contracts have reﬂected
+optimism that a Strait of Hormuz reopening is around the
+corner. Benign price action has been a major tailwind for risk
+assets given negative stock and bond correlations with oil.
+With equity market euphoria escalating, we note that factors
+cushioning the oil shock—global inventories, strategic
+reserve releases and ﬁscal support—may be evaporating.
+MS & Co. strategists have pushed out forecasts for market
+normalization and raised their oil price outlook for roughly
+the next six to nine months, with potential implications for
+inﬂation and rates. The capex boom and proﬁt/productivity
+cycle may be compelling, but it is not bulletproof, and with
+regard to oil, we’re not out of the woods yet; investors
+should avoid complacency. Watch oil futures pricing and
+pass-through to inﬂation expectations and rates. Consider
+maintaining measured exposure to consumer equities and
+stocks for which commodities disinﬂation is embedded in
+margin forecasts, while adding to energy and other
+commodities as a hedge. Focus on active equity strategies to
+balance passive index exposure. Now is the time to evaluate
+where true secular growth (the Mag-7?) may be on relative
+sale. Continue reducing overbought semiconductors on
+strength, favoring AI build-out diffusion over scarcity-priced
+epicenters. Emphasize diversiﬁcation across real assets, as
+hedge funds, gold, REITs, infrastructure and secondaries
+remain key allocations.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-Source: Bloomberg as of May 28, 2026
-Source: Bloomberg as of May 28, 2026
-Chart of the Week: Treasury Yield/Oil Correlation Not the Whole Story
-Investors singularly attributing the move in long-duration
-yields to oil prices can point to the extraordinary
-correlations we have seen between the two since the Iran
-war began. But the message from yield levels alone isn’t
-the entire story, and “bear ﬂattening” of the two-year/10-
-year yield curve may carry the more important tactical
-information. With the two-year yield recently anchored
-near the 4.05% range, much of the ﬂattening may say less
-about long-run inﬂation and more about potential near-
-term stagﬂation, long-term growth ambivalence, the
-neutral policy rate and debt sustainability. Speciﬁcally,
-with the 10-year real rate still around 2.0%, we think the
-case for a higher-for-longer regime remains intact and will
-not be unmoored without a commensurate resteepening of the curve from a lower two-year yield.
-Fixed Income Insight: Yield Curve Signaling Manufacturing-Rebound Pause?
-The two-year/10-year US Treasury yield curve has
-historically been a good forecasting tool for economic-
-cycle vibrancy, with a steeper curve portending economic
-strength, and ﬂattening or inversion pointing to an
-upcoming slowdown. The tool’s efﬁcacy has declined in
-recent years due to ﬁnancial repression and Federal
-Reserve manipulation of the long end of the curve. While
-those issues partially persist, the ﬂattening from 2021 to
-2023 foreshadowed nearly three years of a manufacturing
-recession. We are not forecasting that, but more recent
-ﬂattening has us wondering about a bout of stagﬂation
-and contemplating whether manufacturing momentum,
-per four months of positive ISM Purchasing Managers’
-Index readings, could stall ahead. This runs counter to the earnings forecast for acceleration. Stay tuned!
-Market Factor Data Points (for the week ending May 29, 2026)
+Source: Bloomberg as of June 3, 2026
+Source: Bloomberg as of June 3, 2026
+Chart of the Week: Strait of Hormuz Still Matters
+Market narratives appear to have moved on from daily
+concerns about a deal to reopen the Strait of Hormuz, as
+the economy has proved resilient to the oil price jump
+and investors have grown wary of headlines. That said, a
+wider perspective suggests easing oil prices may be
+critical to sustaining a rally in stocks and bonds, as both
+have been strongly negatively correlated with oil. Not
+only do higher oil prices translate into inﬂation and
+impact monetary policy, but the petrochemical supply
+chain has implications for proﬁt margins and consumer
+demand. A deal to reopen the strait may be delayed and
+forgotten about for now, but with buffers—global oil
+inventories, strategic petroleum reserves, US exports—
+that have cushioned the blow decaying, stress around the lack of a deal may resurface.
+Fixed Income Insight: Watch the 10-Year Yield for Equity “Broadening”
+With equity indexes hitting new highs over the past 10
+weeks, poor market breadth may be surprising, as
+outperformers have been concentrated in a handful of
+sectors linked to the AI-capex boom. The share of stocks
+above their 200-day moving average is only around 50%–
+55%, fairly unimpressive amid a bull market, when it
+usually hits 70%–80%. One headwind to improved
+breadth continues to be the 10-year US Treasury yield—
+key to valuations and cost-of-capital considerations. With
+investors contemplating a higher neutral rate and term
+premiums amid swollen budget deﬁcits, along with hand-
+wringing over inﬂation, the 10-year yield has hovered
+around 4.5%, a level that has been an impediment for
+most of this cycle. We continue to expect breadth to improve, but lower rates may be a requisite catalyst that is not imminent.
+Market Factor Data Points (for the week ending June 5, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-Semiconductors’ Weight in Index Increasing
-Source: Bloomberg as of May 27, 2026
-Semis’ Contribution to S&P 500 Returns Outsized
-Note: SOX Seven consists of Micron, AMD, Intel, Broadcom, Sandisk, Lam
-Research and Applied Materials. 
-Source: Bloomberg as of May 27, 2026
-Macro Factor Heat Map (as of May 29, 2026)
-Note: Text in a factor box denotes a color; for further explanation of the chart, see page 9. 
+The Two-Year Yield Has Disconnected From Oil Prices
+Source: Bloomberg as of June 2, 2026
+Brent Crude Oil Is in an Elevated Range
+Source: Bloomberg as of June 2, 2026
+Macro Factor Heat Map (as of June 5, 2026)
+Note: Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Tracking the Semiconductor Surge
-Semis Outperforming Big Tech and Emerging Markets
-Source: Bloomberg as of May 28, 2026
-Manufacturing May Be Poised for Further Growth
-Source: Bloomberg as of May 28, 2026
+Charts in Focus: Oil and Energy Dynamics
+Global Oil Inventories Have Declined Considerably
+Source: Oxford as of April 30, 2026
+US Strategic Petroleum Reserve Around 2022 Levels
+Source: Bloomberg as of May 29, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
 Short-Term Stock-Bond Indicator
@@ -217,10 +219,10 @@ Note: Shading reﬂects the relative strength of each component signal on a perc
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of May 29, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of June 5, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-Asset Class Performance (as of May 29, 2026)
+Asset Class Performance (as of June 5, 2026)
 Note: Performance values calculated using USD. 1. As of May 29, 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of May 29, 2026. 4.
 Volatility and Correlation: June 30, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds and managed
 futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its mean. 
@@ -229,12 +231,12 @@ THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
 Note: Consensus 2028 earnings as of May 13, 2026. 
-Source: FactSet, Morgan Stanley & Co. Research as of May 29, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of June 5, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of May 29, 2026
-S&P 500 Sector Performance and Valuation (as of May 29, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of June 5, 2026
+S&P 500 Sector Performance and Valuation (as of June 5, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of May 29, 2026)
+Equity Market Relative Valuation (as of June 5, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
@@ -243,11 +245,11 @@ Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of May 29, 2026
+Source: Bloomberg as of June 5, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of May 29, 2026
-Morgan Stanley & Co. Forecasts (as of May 29, 2026)
+Source: Bloomberg as of June 5, 2026
+Morgan Stanley & Co. Forecasts (as of June 5, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
@@ -255,67 +257,62 @@ Tactical Asset Allocation Reasoning
 Global Equities Weight Relative
 to Model Benchmark  
 US Overweight
-The disinﬂation boom thesis catalyzed by the GenAI capex buildout, along with aggressive
-monetary, ﬁscal and regulatory stimulus, is now very much consensus. Forecasts are ambitious
-and embed an expectation for cyclical broadening that takes S&P "493" earnings growth from 6%–
-8% in 2025 to 14%–16% in 2026. In a market that is already expensive, concentrated and
-complacent, this suggests the aperture for upside surprise is narrow, and markets are apt to be
-quite brittle in the face of exogenous shock. With midterm-election-related policy already hitting a
-fever pitch, potential for these undiscounted events to occur is going up. Thus, while we are
-bullish (with an S&P 500 Index target at 7,500 to 7,800), we prefer stock picking to simply
-owning the cap-weighted index. Favor ﬁnancials, health care and select industrials and energy.
+The productivity-boom thesis catalyzed by the GenAI-capex build-out, along with
+aggressive ﬁscal and regulatory stimulus, has become very much consensus. Forecasts are
+ambitious and embed an expectation for cyclical broadening that takes "S&P 493" earnings
+growth from 6%–8% in 2025 to 24%–26% in 2026. In a market that is already expensive,
+concentrated and complacent, this suggests the aperture for upside surprise is narrow, and
+markets are apt to be quite brittle in the face of exogenous shocks. With midterm-election-
+related policy already hitting a fever pitch, potential for these undiscounted events to
+occur is rising. Thus, while we are bullish (with MS & Co.'s 2Q2027 S&P 500 Index target at
+8,300), we prefer stock-picking to simply owning the cap-weighted index. Favor ﬁnancials,
+health care, select industrials and energy.
 International Equities
 (Developed Markets) Underweight
-Recent outperformance has been catalyzed as responses to the “America First” agenda have
-driven ﬁscal stimulus and China's record export push has been cooling rest-of-world (ROW)
-inﬂation. This is creating ROW opportunities that may simultaneously enjoy monetary, ﬁscal and
-currency-related stimulus. The outlook is improving in Japan as corporate restructuring occurs
-alongside a reﬂationary surge three decades in the making.
+Fiscal stimulus, a response to the "America First" agenda, has helped to drive recent
+outperformance. This is creating rest-of-world (ROW) opportunities that may
+simultaneously enjoy monetary, ﬁscal and currency-related stimulus. The outlook is
+improving in Japan, as corporate restructuring occurs alongside a reﬂationary surge three
+decades in the making.
 Emerging Markets Overweight
-The US-China trade conﬂict, now in a one-year truce, has created opportunities. China exports are
-booming and delivering helpful goods deﬂation to the ROW, where central banks are responding
-with rate cuts. Surging industrial commodity prices alongside falling energy prices are a perfect
-brew for emerging markets, especially as forces continue to bias the US dollar weaker, helping
-dollar-denominated debt servicing. The "new Monroe Doctrine" creates additional opportunities
-not only for pro-business political stability in Latin America but for direct investment. For Asia,
-strategic realignment opportunities continue to surface as the US turns away. India remains a
-recommended secular growth long.
+The "new Monroe Doctrine" creates additional opportunities not only for pro-business
+political stability in Latin America, but also for direct investment. For Asia, strategic
+realignment opportunities continue to surface, as the US turns away. The US-China trade
+conﬂict, though now effectively in a one-year truce, has created opportunities. India
+remains a recommended secular growth long.
 Global Fixed Income Weight Relative
 to Model Benchmark  
 US Investment Grade Underweight
-The Fed easing cycle, including some assumptions around the loss of Fed independence in 2026,
-has been baked into the US Treasury yield curve, with another two 25-basis-point rate cuts
-discounted. Stealth QE in the form of reserve management purchases of T-bills by the Fed and
-MBS QE by Fannie Mae and Freddie Mac are easing ﬁnancial conditions materially, putting
-pressure on the long end of the curve as inﬂationary pressures build. A ﬁnal note of caution is our
-forecast for a surge in IG corporate issuance, which we see on the back of increasing capex and
-rising M&A deal activity. As a result, we are continuing to reduce short-duration exposure and
-moving toward the “belly of the curve” to capture decent coupons with lower price volatility. We
-see the long end continuing to be plagued by structural imbalances that show up as widening
-term premiums, with the two-year/30-year portion of the curve remaining in a steepening pattern.
+Solid growth, supported by ﬁscal stimulus, and inﬂationary pressures may support a
+higher-for-longer interest rate environment. Another note of caution is our forecast for a
+surge in IG corporate issuance, which we see on the back of increasing capex and rising
+M&A activity. As a result, we are continuing to reduce short-duration exposure and moving
+toward the “belly of the curve” to capture decent coupons with lower price volatility. We
+see the long end continuing to be plagued by structural imbalances that show up as
+widening term premiums.
 Opportunistic Fixed Income Market-Weight
-High Yield is competing effectively with better liquidity, transparency and credit quality than
-private credit. In ROW and emerging market debt, yields are decent, central banks have begun to
-cut rates and there is room for spread tightening as economic growth improves. Currency impact
-is a tailwind for US dollar investors.
+High yield is competing effectively, with better liquidity, greater transparency and more
+favorable credit quality than private credit. In ROW and emerging market debt, yields are
+decent, and there is room for spread tightening, as economic growth improves.
 Alternative Investments Weight Relative
 to Model Benchmark  
 Real Assets Overweight
-We expect higher stock-bond correlations, which place a premium on the diversiﬁcation beneﬁts
-of investing in real assets. Nevertheless, with real interest rates positive and services inﬂation
-remaining quite sticky, we would need to be selective in adding to this asset class broadly. We are
-focused on industrial metals, energy infrastructure and interesting opportunities aimed at solving
-the residential housing shortage. 
+We expect higher stock-bond correlations, which place a premium on the diversiﬁcation
+beneﬁts of investing in real assets. Nevertheless, with real interest rates positive and
+services inﬂation remaining quite sticky, we would need to be selective in adding to this
+asset class broadly. We are focused on industrial metals, energy infrastructure and
+interesting opportunities aimed at solving the residential housing shortage. 
 Hedged Strategies Overweight
-We recently added to equity hedged positions, noting the pickup in idiosyncratic risk, falling
-borrowing costs and rising stock level dispersion. The current environment appears constructive
-for hedge fund managers, who are frequently good stock pickers and can use leverage and risk
-management to potentially amplify returns. We prefer very active and fundamental strategies,
-especially high-quality, low-beta, low-volatility and absolute return/market neutral hedge funds.
+We recently added to equity hedged positions, noting the pickup in idiosyncratic risk and
+rising stock-level dispersion. The current environment appears constructive for hedge fund
+managers, who are frequently good stock-pickers and can use leverage and risk
+management to potentially amplify returns. We prefer very active and fundamental
+strategies, especially high-quality, low-beta, low-volatility and absolute return/market
+neutral strategies.
 Note: Opportunistic Fixed Income includes Inﬂation-Linked Securities, High Yield Fixed Income, International Fixed Income and Emerging Market Fixed Income. The
 GIC asset allocation models’ benchmarks do not include exposure to Opportunistic Fixed Income. Real Assets includes Real Estate/REITs, Commodities and Energy
 Infrastructure/MLPs. Hedged Strategies include Absolute Return Assets, Equity Hedge Assets and Equity Return Assets. 
-Source: Morgan Stanley Wealth Management GlC as of May 29, 2026
+Source: Morgan Stanley Wealth Management GlC as of June 5, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
 Macro Factor Heat Map Key
@@ -405,18 +402,16 @@ Risk premium is the return in excess of the risk-free rate of return an investme
 Term premium is the excess yield that investors require to commit to holding a long-term bond instead of a series of shorter-term bonds.
 Volatility This is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by usingthe standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, the riskier thesecurity.
 For index, indicator and survey deﬁnitions referenced in this report please visit the following: https://www.morganstanley.com/wealth-investmentsolutions/wmir-deﬁnitions
-Additional Index Deﬁnitions
-PHILADELPHIA STOCK EXCHANGE SEMICONDUCTOR INDEX (SOX) This index is a modiﬁed market capitalization-weighted index composed of
-companies primarily involved in the design, distribution, manufacture and sale of semiconductors.
 Risk Considerations
 Important note regarding economic sanctions. This report references jurisdiction(s) or person(s) that are the subject of economic sanctions. Anyreferences in this report to jurisdictions, persons (individuals or entities), debt or equity instruments, or projects that may be covered by suchsanctions are strictly incidental to general coverage of the relevant economic sector as germane to its overall ﬁnancial outlook, and should notbe read as recommending or advising as to any investment activities in relation to such jurisdictions, persons, instruments, or projects. Readersare solely responsible for ensuring that their investment activities are carried out in compliance with applicable laws.
 Equity securities may ﬂuctuate in response to news on companies, industries, market conditions and general economic environment.
 MLPs
 Master Limited Partnerships (MLPs) are limited partnerships or limited liability companies that are taxed as partnerships and whose interests(limited partnership units or limited liability company units) are traded on securities exchanges like shares of common stock. Currently, mostMLPs operate in the energy, natural resources or real estate sectors. Investments in MLP interests are subject to the risks generally applicableto companies in the energy and natural resources sectors, including commodity pricing risk, supply and demand risk, depletion risk andexploration risk. Individual MLPs are publicly traded partnerships that have unique risks related to their structure. These include, but are notlimited to, their reliance on the capital markets to fund growth, adverse ruling on the current tax treatment of distributions (typically mostlytax deferred), and commodity volume risk. The potential tax beneﬁts from investing in MLPs depend on their being treated as partnerships forfederal income tax purposes and, if the MLP is deemed to be a corporation, then its income would be subject to federal taxation at the entitylevel, reducing the amount of cash available for distribution to the fund which could result in a reduction of the fund’s value.
 MLPs carry interest rate risk and may underperform in a rising interest rate environment. MLP funds accrue deferred income taxes for future taxliabilities associated with the portion of MLP distributions considered to be a tax-deferred return of capital and for any net operating gains aswell as capital appreciation of its investments; this deferred tax liability is reﬂected in the daily NAV; and, as a result, the MLP fund’s after-taxperformance could differ signiﬁcantly from the underlying assets even if the pre-tax performance is closely tracked.
+Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economicand market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, anddomestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of variedeconomic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.These risks include political and economic uncertainties of foreign countries as well as the risk of currency ﬂuctuations. These risks aremagniﬁed in countries with emerging markets and frontier markets, since these countries may have relatively unstable governments and less
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  11
-Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economicand market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, anddomestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of variedeconomic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.These risks include political and economic uncertainties of foreign countries as well as the risk of currency ﬂuctuations. These risks aremagniﬁed in countries with emerging markets and frontier markets, since these countries may have relatively unstable governments and lessestablished markets and economies.
+established markets and economies.
 Alternative investments may be either traditional alternative investment vehicles, such as hedge funds, fund of hedge funds, private equity,private real estate and managed futures or, non-traditional products such as mutual funds and exchange-traded funds that also seek alternative-like exposure but have signiﬁcant differences from traditional alternative investments. Alternative investments often are speculative and includea high degree of risk. Investors could lose all or a substantial amount of their investment. Alternative investments are appropriate only foreligible, long-term investors who are willing to forgo liquidity and put capital at risk for an indeﬁnite period of time. They may be highly illiquidand can engage in leverage and other speculative practices that may increase the volatility and risk of loss. Alternative Investments typicallyhave higher fees than traditional investments. Investors should carefully review and consider potential risks before investing. Certain of theserisks may include but are not limited to: Loss of all or a substantial portion of the investment due to leveraging, short-selling, or otherspeculative practices; Lack of liquidity in that there may be no secondary market for a fund; Volatility of returns; Restrictions on transferringinterests in a fund; Potential lack of diversiﬁcation and resulting higher risk due to concentration of trading authority when a single advisor isutilized; Absence of information regarding valuations and pricing; Complex tax structures and delays in tax reporting; Less regulation and higherfees than mutual funds; and Risks associated with the operations, personnel, and processes of the manager. Further, opinions regardingAlternative Investments expressed herein may differ from the opinions expressed by Morgan Stanley Wealth Management and/or otherbusinesses/afﬁliates of Morgan Stanley Wealth Management.
 Certain information contained herein may constitute forward-looking statements. Due to various risks and uncertainties, actual events, resultsor the performance of a fund may differ materially from those reﬂected or contemplated in such forward-looking statements. Clients shouldcarefully consider the investment objectives, risks, charges, and expenses of a fund before investing. Alternative investments involve complextax structures, tax inefﬁcient investing, and delays in distributing important tax information. Individual funds have speciﬁc risks related to theirinvestment programs that will vary from fund to fund. Clients should consult their own tax and legal advisors as Morgan Stanley WealthManagement does not provide tax or legal advice. Interests in alternative investment products are offered pursuant to the terms of theapplicable offering memorandum, are distributed by Morgan Stanley Smith Barney LLC and certain of its afﬁliates, and (1) are not FDIC-insured,(2) are not deposits or other obligations of Morgan Stanley or any of its afﬁliates, (3) are not guaranteed by Morgan Stanley and its afﬁliates,and (4) involve investment risks, including possible loss of principal. Morgan Stanley Smith Barney LLC is a registered broker-dealer, not a bank
 It is important to note that only eligible investors can invest in alternative investment funds and that in order for an FA/PWA to engage aprospective investor in general discussions about Alternative Investments and speciﬁcally with regards to Private Funds, the prospectiveinvestor will need to be pre-qualiﬁed through the Reg D system. 
@@ -425,10 +420,10 @@ Managed futures investments are speculative, involve a high degree of risk, use
 Hedge funds may involve a high degree of risk, often engage in leveraging and other speculative investment practices that may increase the riskof investment loss, can be highly illiquid, are not required to provide periodic pricing or valuation information to investors, may involve complextax structures and delays in distributing important tax information, are not subject to the same regulatory requirements as mutual funds, oftencharge high fees which may offset any trading proﬁts, and in many cases the underlying investments are not transparent and are known only tothe investment manager.
 Investing in commodities entails signiﬁcant risks. Commodity prices may be affected by a variety of factors at any time, including but not limitedto, (i) changes in supply and demand relationships, (ii) governmental programs and policies, (iii) national and international political and economicevents, war and terrorist events, (iv) changes in interest and exchange rates, (v) trading activities in commodities and related contracts, (vi)pestilence, technological change and weather, and (vii) the price volatility of a commodity. In addition, the commodities markets are subject totemporary distortions or other disruptions due to various factors, including lack of liquidity, participation of speculators and governmentintervention.
 Physical precious metals are non-regulated products. Precious metals are speculative investments, which may experience short-term and longterm price volatility. The value of precious metals investments may ﬂuctuate and may appreciate or decline, depending on market conditions. Ifsold in a declining market, the price you receive may be less than your original investment. Unlike bonds and stocks, precious metals do notmake interest or dividend payments. Therefore, precious metals may not be appropriate for investors who require current income. Preciousmetals are commodities that should be safely stored, which may impose additional costs on the investor. The Securities Investor ProtectionCorporation (“SIPC”) provides certain protection for customers’ cash and securities in the event of a brokerage ﬁrm’s bankruptcy, other ﬁnancialdifﬁculties, or if customers’ assets are missing. SIPC insurance does not apply to precious metals or other commodities.
-Bonds are subject to interest rate risk. When interest rates rise, bond prices fall; generally the longer a bond's maturity, the more sensitive it isto this risk. Bonds may also be subject to call risk, which is the risk that the issuer will redeem the debt at its option, fully or partially, beforethe scheduled maturity date. The market value of debt instruments may ﬂuctuate, and proceeds from sales prior to maturity may be more orless than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.
+Bonds are subject to interest rate risk. When interest rates rise, bond prices fall; generally the longer a bond's maturity, the more sensitive it isto this risk. Bonds may also be subject to call risk, which is the risk that the issuer will redeem the debt at its option, fully or partially, beforethe scheduled maturity date. The market value of debt instruments may ﬂuctuate, and proceeds from sales prior to maturity may be more orless than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on atimely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment maybe reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant risksbeyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful toconsider these risks alongside their individual circumstances, objectives and risk tolerance before investing in high-yield bonds. High yield bondsshould comprise only a limited portion of a balanced portfolio. Interest on municipal bonds is generally exempt from federal income tax;
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  12
-Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on atimely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment maybe reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant risksbeyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful toconsider these risks alongside their individual circumstances, objectives and risk tolerance before investing in high-yield bonds. High yield bondsshould comprise only a limited portion of a balanced portfolio. Interest on municipal bonds is generally exempt from federal income tax;however, some bonds may be subject to the alternative minimum tax (AMT). Typically, state tax-exemption applies if securities are issued withinone's state of residence and, if applicable, local tax-exemption applies if securities are issued within one's city of residence.
+however, some bonds may be subject to the alternative minimum tax (AMT). Typically, state tax-exemption applies if securities are issued withinone's state of residence and, if applicable, local tax-exemption applies if securities are issued within one's city of residence.
 Treasury Inﬂation Protection Securities’ (TIPS) coupon payments and underlying principal are automatically increased to compensate forinﬂation by tracking the consumer price index (CPI). While the real rate of return is guaranteed, TIPS tend to offer a low return. Because thereturn of TIPS is linked to inﬂation, TIPS may signiﬁcantly underperform versus conventional U.S. Treasuries in times of low inﬂation.
 Ultrashort bond funds Ultra-short bond funds are mutual funds and exchange-traded funds that generally invest in ﬁxed income securities withvery short maturities, typically less than one year. They are not money market funds. While money market funds attempt to maintain a stablenet asset value, an ultra-short bond fund’s net asset value will ﬂuctuate, which may result in the loss of the principal amount invested. They aretherefore subject to the risks associated with debt securities such as credit and interest rate risk.
 Ultrashort-term ﬁxed income asset class is comprised of ﬁxed income securities with high quality, very short maturities. They are thereforesubject to the risks associated with debt securities such as credit and interest rate risk.
@@ -443,10 +438,11 @@ Virtual Currency Products (Cryptocurrencies)
 Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highlyspeculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
 Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.The price of Digital Assets could decline rapidly, and investors could lose their entire investment.
 Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction andinaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed orinaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.
+Digital Assets may not have an established track record of credibility and trust. Further, any performance data relating to Digital Asset productsmay not be veriﬁable as pricing models are not uniform.
+Environmental, Social and Governance (“ESG”) investments in a portfolio may experience performance that is lower or higher than a portfolionot employing such practices.  Portfolios with ESG restrictions and strategies as well as ESG investments may not be able to take advantage of
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  13
-Digital Assets may not have an established track record of credibility and trust. Further, any performance data relating to Digital Asset productsmay not be veriﬁable as pricing models are not uniform.
-Environmental, Social and Governance (“ESG”) investments in a portfolio may experience performance that is lower or higher than a portfolionot employing such practices.  Portfolios with ESG restrictions and strategies as well as ESG investments may not be able to take advantage ofthe same opportunities or market trends as portfolios where ESG criteria is not applied. There are inconsistent ESG deﬁnitions and criteriawithin the industry, as well as multiple ESG ratings providers that provide ESG ratings of the same subject companies and/or securities thatvary among the providers. Certain issuers of investments may have differing and inconsistent views concerning ESG criteria where the ESGclaims made in offering documents or other literature may overstate ESG impact. ESG designations are as of the date of this material, and noassurance is provided that the underlying assets have maintained or will maintain and such designation or any stated ESG compliance. As aresult, it is difﬁcult to compare ESG investment products or to evaluate an ESG investment product in comparison to one that does not focuson ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There isno assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependablemeasure of future results.
+the same opportunities or market trends as portfolios where ESG criteria is not applied. There are inconsistent ESG deﬁnitions and criteriawithin the industry, as well as multiple ESG ratings providers that provide ESG ratings of the same subject companies and/or securities thatvary among the providers. Certain issuers of investments may have differing and inconsistent views concerning ESG criteria where the ESGclaims made in offering documents or other literature may overstate ESG impact. ESG designations are as of the date of this material, and noassurance is provided that the underlying assets have maintained or will maintain and such designation or any stated ESG compliance. As aresult, it is difﬁcult to compare ESG investment products or to evaluate an ESG investment product in comparison to one that does not focuson ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There isno assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependablemeasure of future results.
 Companies paying dividends can reduce or cut payouts at any time.
 Investing in smaller companies involves greater risks not associated with investing in more established companies, such as business risk,signiﬁcant stock price ﬂuctuations and illiquidity.
 Stocks of medium-sized companies entail special risks, such as limited product lines, markets, and ﬁnancial resources, and greater marketvolatility than securities of larger, more-established companies.
@@ -462,11 +458,11 @@ Rebalancing does not protect against a loss in declining ﬁnancial markets. The
 The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not representthe performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and otherinvestment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly differentthan those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
 The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. MorganStanley Smith Barney LLC retains the right to change representative indices at any time.
 Disclosures
-Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future
+Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to futureperformance.
+The author(s) (if any authors are noted) principally responsible for the preparation of this material receive compensation based upon variousfactors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), client feedback andcompetitive factors. Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securities or
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  14
-performance.
-The author(s) (if any authors are noted) principally responsible for the preparation of this material receive compensation based upon variousfactors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), client feedback andcompetitive factors. Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securities orinstruments mentioned in this material. This material has been prepared for informational purposes only and is not an offer to buy or sell or asolicitation of any offer to buy or sell any security/instrument, or to participate in any trading strategy. Any such offer would be made only aftera prospective investor had completed its own independent investigation of the securities, instruments or transactions, and received allinformation it required to make its own investment decision, including, where applicable, a review of any offering circular or memorandumdescribing such security or instrument. That information would contain material information not contained herein and to which prospectiveparticipants are referred. This material is based on public information as of the speciﬁed date, and may be stale thereafter. We have noobligation to tell you when information herein may change. We make no representation or warranty with respect to the accuracy orcompleteness of this material. Morgan Stanley Wealth Management has no obligation to provide updated information on thesecurities/instruments mentioned herein.
+instruments mentioned in this material. This material has been prepared for informational purposes only and is not an offer to buy or sell or asolicitation of any offer to buy or sell any security/instrument, or to participate in any trading strategy. Any such offer would be made only aftera prospective investor had completed its own independent investigation of the securities, instruments or transactions, and received allinformation it required to make its own investment decision, including, where applicable, a review of any offering circular or memorandumdescribing such security or instrument. That information would contain material information not contained herein and to which prospectiveparticipants are referred. This material is based on public information as of the speciﬁed date, and may be stale thereafter. We have noobligation to tell you when information herein may change. We make no representation or warranty with respect to the accuracy orcompleteness of this material. Morgan Stanley Wealth Management has no obligation to provide updated information on thesecurities/instruments mentioned herein.
 The summary at the beginning of the report may have been generated with the assistance of artiﬁcial intelligence (AI).
 The securities/instruments discussed in this material may not be appropriate for all investors. The appropriateness of a particular investment orstrategy will depend on an investor’s individual circumstances and objectives. Morgan Stanley Wealth Management recommends that investorsindependently evaluate speciﬁc investments and strategies, and encourages investors to seek the advice of a ﬁnancial advisor. The value of andincome from investments may vary because of changes in interest rates, foreign exchange rates, default rates, prepayment rates,securities/instruments prices, market indexes, operational or ﬁnancial conditions of companies and other issuers or other factors. Estimates offuture performance are based on assumptions that may not be realized. 
 Actual events may differ from those assumed and changes to any assumptions may have a material impact on any projections or estimates.Other events not taken into account may occur and may signiﬁcantly affect the projections or estimates. Certain assumptions may have beenmade for modeling purposes only to simplify the presentation and/or calculation of any projections or estimates, and Morgan Stanley WealthManagement does not represent that any such assumptions will reﬂect actual future events. Accordingly, there can be no assurance thatestimated returns or projections will be realized or that actual returns or performance results will not materially differ from those estimatedherein. This material should not be viewed as advice or recommendations with respect to asset allocation or any particular investment. Thisinformation is not intended to, and should not, form a primary basis for any investment decisions that you may make. Morgan Stanley WealthManagement is not acting as a ﬁduciary under either the Employee Retirement Income Security Act of 1974, as amended or under section 4975of the Internal Revenue Code of 1986 as amended in providing this material except as otherwise provided in writing by Morgan Stanley and/oras described at www.morganstanley.com/disclosures/dol.
@@ -477,6 +473,6 @@ Morgan Stanley Wealth Management is not acting as a municipal advisor to any mun
 Third-party data providers make no warranties or representations of any kind relating to the accuracy, completeness, or timeliness of the datathey provide and shall not have liability for any damages of any kind relating to such data.
 This material, or any portion thereof, may not be reprinted, sold or redistributed without the written consent of Morgan Stanley Smith BarneyLLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1780269930769 05/2026
+RSI1780846320039 06/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
