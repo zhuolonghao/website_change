@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Jun 22, 2026
+Jun 29, 2026
 BlackRock Investment Institute
-Powering through energy bottlenecks
+Dollar strength shifts case for EM
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,85 +76,84 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260622
-Hugo Liebaert
-Sustainable Research and Analytics
+Weekly video_20260629
+Michel Dilmanian
+Portfolio Strategist
 BlackRock Investment Institute
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: Powering through energy bottlenecks
-The recent Middle East supply disruption is a reminder of how the world’s energy system remains largely dependent on a few critical chokepoints. This comes at a time when electricity demand, driven in no small part by AI, is rising faster than expected.
-1: Bottlenecks driving returns
-We’ve long argued that we are in a world shaped by supply, where access to energy, infrastructure and other critical resources shape economic and market outcomes. In this environment, companies positioned to benefit from rising electricity demand have outperformed – from gas turbine manufacturers to utilities.
-But recently, the relative appeal of energy suppliers that rely less on vulnerable transport routes has grown.
-Why? The market’s recognition of a two-sided energy challenge: securing fuel supply today while building enough power capacity for tomorrow.
-2: Where energy security goes from here
-Now, governments, companies and investors have to confront a broader question: where does energy security go from here?
-The answer is two-fold, in our view. On one hand, the immediate priority is securing supply, improving flexibility and reducing dependence on vulnerable routes and infrastructure.
-On the other: the challenge is to accelerate electrification, which is a longer-term task. So far, countries are responding in different ways based on their available resources, infrastructure and policy priorities.
-3: Investing in bottlenecks
-The takeaway? Active management and thematic investing are key as opportunities emerge around the bottlenecks that connect energy supply with demand. These opportunities span both fuel and power systems, public and private markets, from liquefied natural gas export capacity to grids and energy storage.
-Regionally, we favor developed market supply chains and infrastructure assets. We’re selective in emerging markets where opportunities are differentiated by country policy framework and positioning.
+Title slide: Dollar strength shifts case for EM
+With the dollar index at a one-year high, the question is no longer whether the dollar’s haven role is intact, but what a resilient dollar means for emerging markets, in our view.
+1: Dollar decline worries are overdone
+We see two factors behind the dollar’s recent rebound: increased market expectations for a U.S. interest rate hike this year, and lower perceived risk around U.S. assets. Those factors – plus strong U.S. equity performance and portfolio flows – have supported demand for the dollar.
+Our framework suggests current dollar support levels are broadly aligned with fundamentals – not indicative of a new dollar bull market. But we think the more important question for investors is: what does a broadly stable dollar mean for emerging markets?
+2: Dual EM-dollar strength
+The Federal Reserve is central to the dollar’s near-term outlook, in our view. We think Kevin Warsh’s first meeting as chair was more about preserving optionality, rather than signaling a more restrictive course. The takeaway? Current rate projections should be viewed as a snapshot rather than a commitment. This supports a stable dollar backdrop and makes broad currency calls less compelling – increasing the importance of country-specific opportunities.
+3: Staying selective
+This reinforces our preference for a selective approach. We favor beneficiaries of the AI investment cycle. Within our EM equity overweight, we see opportunities in Latin American regions that are positioned to benefit from AI-fueled demand for critical minerals. Yet we think a stable dollar environment reinforces the case for active country and sector selection instead of broad currency calls.
 Outro: Here’s our Market take
-The combined pressures of vulnerable energy supply and rising power demand are making energy security a durable investment theme. We favor active exposure to infrastructure and critical bottlenecks to play it.
+The dollar’s haven role is still intact. Yet we think EM performance increasingly depends on local fundamentals and selectivity – not the direction of the dollar alone.
 Closing frame: Read details: blackrock.com/weekly-commentary
-Chokepoints in focus
-Energy security remains a critical investment theme. We favor active exposure to infrastructure and critical bottlenecks.
+Dual strength
+The U.S. dollar’s safe-haven status remains intact, yet a stronger dollar no longer automatically translates into broad emerging market weakness.
 Market backdrop
-Kevin Warsh chaired his first Federal Reserve meeting, surprising markets by dropping forward guidance and launching a broad policy review.
+Red-hot chip and memory stocks led a global equity retreat. We don’t see this as reflecting the ongoing revenue boost from the AI buildout.
 Week ahead
-This week we look to U.S. core PCE for whether higher energy costs are pushing up underlying inflation.
-The expected reopening of the Strait of Hormuz helped push oil prices lower. Yet the recent disruption is a reminder of how the world's energy system remains heavily dependent on a few critical bottlenecks. This comes at a time when electricity demand, driven in no small part by AI, is rising faster than many expected. These twin forces create opportunities in energy infrastructure and the associated bottlenecks that underpin energy flows.
+U.S. payrolls this week will be a key market test after the Federal Reserve’s hawkish tilt reinforced expectations for a rate hike later this year.
+We pushed back against calls for the U.S. dollar’s demise last year, arguing its safe-haven role remained intact. Recent market moves have supported that view. The U.S. dollar index is at a one-year high after the Federal Reserve stoked expectations for a rate hike this month. The question is no longer whether the dollar can hold its ground, but what dollar strength means for risk assets, particularly emerging markets (EM). We see selectivity as key in EM.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Bottlenecks driving returnsPerformance of selected equity power sectors vs MSCI World, 2025-2026
-Past performance is not a guarantee of future returns. Index performance returns do not reflect any management fees, transaction costs or expenses. Indices are unmanaged and one cannot invest directly in an index. Source: BlackRock Investment Institute, with data from Bloomberg, June 2026.Notes: Gas turbines and fuel cells: Mitsubishi Heavy Industries, GE Vernova and Siemens Energy; Copper miners: STOXX Global Copper Miners Index; Clean energy: iShares Global Clean Energy ETF; Non-SoH LNG exporters: Cheniere Energy, Woodside Energy, Venture Global and Santos.Custom indices are equal weighted and rebased to 100 on Jan. 1, 2025.
-We have long argued that we are in a world shaped by supply, where access to energy, infrastructure and other critical resources increasingly determine economic and market outcomes. Companies positioned to benefit from rising electricity demand have outperformed, from gas-turbine manufacturers and copper producers to clean-energy firms helping expand power systems for AI and electrification. (See chart) More recently, concerns over the Strait of Hormuz shifted attention to fuel security, boosting the relative appeal of energy suppliers less dependent on vulnerable transport routes (See non-SoH LNG exporter line). Together, these moves suggest an increased recognition of both sides of the energy challenge: securing fuel supply today while building enough power capacity for tomorrow.
-Oil prices retreated to March lows, but the broader challenge of energy security and resilience remains. How should governments, companies and investors best respond? We see the answer unfolding across two horizons. The first is the immediate need to secure supply, improve flexibility and reduce dependence on vulnerable routes and infrastructure. That is creating opportunities for fuel and commodity exporters outside the Strait of Hormuz, as well as for fuel transport, storage and distribution infrastructure that can help diversify supply and reduce exposure to key chokepoints. Providers that can deliver reliable fuel and power outside existing bottlenecks stand to benefit.
-Rising energy demand and security needs
-The second is longer term, where the challenge is not simply to produce more energy, but to meet rising demand while balancing energy security, affordability, resilience and decarbonization objectives. While AI and data centers are contributing to rising electricity demand, they are just one driver alongside electrification, rising cooling needs and economic growth. But countries are responding in different ways based on their resources, infrastructure and policy priorities. For fuel-importing economies, repeated shocks are strengthening the incentives to invest in electrification, grids, storage and domestic power systems. For energy exporters, the opportunity often lies in expanding and upgrading the infrastructure needed to continue delivering supply while also meeting rising energy and power demand at home.
-Energy has been one of the strongest-performing sectors this year, supported by earnings upgrades and concerns over supply security. Yet we do not think the opportunity is best expressed through a broad sector allocation. While recent disruptions have highlighted the value of energy suppliers outside major bottlenecks, we see more durable opportunities in the infrastructure that supports energy security and rising power demand. That reinforces our preference for a selective and active approach focused on bottlenecks and secure supply rather than energy producers more broadly. Regionally, we favor developed-market supply chains and infrastructure assets positioned to benefit from investment in energy security, while remaining more selective in emerging markets, where opportunities are increasingly differentiated by policy frameworks and exposure to global energy supply chains.
+Dollar’s rate boostU.S. dollar index vs. trade-weighted two-year yield differentials, 2023-2026
+Source: BlackRock Investment Institute, with data from LSEG Datastream, June 2026. Notes: The orange line shows the U.S. Dollar Index (DXY). The yellow line shows the trade-weighted average U.S. two-year yield differential versus Germany, Japan, the UK, Canada, Sweden and Switzerland (right axis), using DXY currency weights. Yield differentials are shown in percentage points.
+Two factors have driven the dollar's recent rebound. First, markets have increased expectations for a U.S. interest rate hike this year, widening interest rate differentials in the dollar's favor. Second, stable perceived risk around U.S. assets, together with strong U.S. equity performance and portfolio flows, has supported demand for the dollar. See the chart. After falling sharply following President Donald Trump's tariff announcements in April 2025, the U.S. dollar index has recovered more than half of that decline, challenging the narrative that it had entered a new era of sustained dollar weakness. Much of the rally has come as markets reassessed the outlook for Federal Reserve policy. Yet we think some of the hawkish repricing in rate expectations may be overdone. Our analysis suggests current dollar levels are broadly in line with underlying fundamentals, making a sustained appreciation cycle less likely.
+The Federal Reserve remains central to the dollar’s near-term outlook. Markets viewed Chair Warsh's first meeting as a hawkish surprise, even after months of repricing toward a higher-for-longer policy path. Yet we think the meeting was less about signaling a more restrictive course than preserving optionality as policymakers reassess the outlook. That means current rate projections should be viewed as a snapshot rather than a commitment. That supports a stable dollar backdrop.
+A stable dollar environment
+A stable dollar does not preclude opportunities in emerging markets. Instead, it leaves greater scope for country-specific fundamentals to differentiate returns. EM assets have performed well even without the dollar weakness that has typically accompanied periods of EM outperformance. The dollar still matters, particularly for economies with large external financing needs, but domestic factors and structural opportunities are becoming increasingly important.
+Selectivity, rather than broad EM exposure, is key for investors. Structural investment themes that we have been highlighting — including artificial intelligence, infrastructure investment, energy security and rewiring supply chains - are creating opportunities that extend well beyond the U.S. At the same time, differences in energy dependence, commodity exposure and policy credibility mean some economies are better positioned than others to benefit. The improving earnings outlook reinforces that view. Consensus now expects headline earnings per share for the MSCI Emerging Markets Index to grow by more than 50% this year versus 2025, compared with expectations for an increase of 18% at the start of the year. Within our EM equity overweight, we see opportunities in Latin America, where AI-fueled demand for critical minerals like copper and lithium should benefit the region’s commodity and energy exporters. Fixed income also offers selective opportunities. Many central banks have completed their tightening cycles, yet local rates remain elevated in several markets, creating attractive income potential across parts of the EM debt market. In our view, a stable dollar backdrop reinforces the case for active country and sector selection over broad currency calls.
 Our bottom line
-The combined pressures of vulnerable energy supply and rising power demand are making energy security a durable investment theme, favoring infrastructure and critical bottlenecks, in our view.
+The dollar’s safe-haven role remains intact, but EM performance increasingly depends on local fundamentals and selectivity rather than the direction of the dollar alone.
 Market backdrop
-The S&P 500 gained 1% and Treasury yields rose last week following Kevin Warsh's first meeting as Federal Reserve chair. Warsh’s first meeting seemed to be more about creating optionality. No matter what the FOMC views are at this stage, the five task forces he created have the potential to reset the basis of all these forecasts. This could result in more interest rate volatility going forward – not necessarily a bad thing if it reflects the macro rather than Fed’s reaction function uncertainty.
-This week, U.S. core PCE inflation will be in focus as markets assess whether higher energy costs are feeding into underlying price pressures. In Japan, service PPI and CPI data will provide an update on inflation trends, while flash PMIs across major economies and U.S. consumer sentiment will offer a read on economic momentum.
+Chip stocks and memory makers led a global selloff in tech shares last week. The Philadelphia semiconductor index slid 8% on the week but is still up nearly 90% this year. The Nasdaq Composite shed 5%, while the S&P 500 lost 2%. We think AI-linked companies lifting guidance on revenue and profit margins show the AI buildout is rolling on. Oil hit pre-Middle East conflict lows, with Brent crude falling to $72 as Strait of Hormuz flows picked up. U.S. 10-year yields fell to 4.37%.
+The June payrolls report will be this week’s key market event in a shortened U.S. trading week ahead of the July 4 holiday. Following a hawkish market reaction to the Federal Reserve’s last meeting, investors will watch the report closely for clues about the economy’s underlying strength and whether conditions could still support an interest rate hike this year.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of June 17, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-June 23
-Global Flash PMIs
-June 24
-Japan service PPI
-June 25
-U.S. Core PCE, durable goods
-June 26
-University of Michigan sentiment; Japan CPI
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of June 25, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+June 30
+U.S. job openings; UK GDP; China manufacturing PMI
+July 1
+Euro area flash inflation
+July 2
+U.S. payrolls; EU unemployment
+July 3
+UK service PMI
 Read our past weekly market commentaries here.
 Big calls
 Our highest conviction views on six- to 12-month (tactical) and over five-year (strategic) horizons, June 2026
-Reasons
-Tactical
-Favor AI beneficiaries
-We favor infrastructure and equipment supporting the AI buildout such as semiconductors, power and data centers. We think they stand to benefit no matter AI’s eventual winners or losers. We see the AI boom lifting U.S. corporate earnings, underpinning our U.S. equity overweight.
-Selected international exposures
-We like hard-currency EM debt on economic resilience, disciplined fiscal and monetary policy and a high ratio of commodities exporters. We’re also overweight EM equities, preferring commodity exporters and AI beneficiaries. In Europe, we favor equity sectors like infrastructure.
-Evolving diversifiers
-We suggest looking for “plan B” portfolio hedges such as thematic opportunities related to the AI buildout and search for energy security. Long-term U.S. Treasuries no longer provide a buffer against equity market declines, and gold also has shown to be an ineffective diversifier.
-Strategic
-Portfolio construction
-We favor a scenario-based approach as AI winners and losers emerge. We lean on private markets and hedge funds for idiosyncratic returns and to anchor portfolios in mega forces.
-Infrastructure equity and private credit
-We find infrastructure equity valuations attractive as geopolitical fragmentation and the AI buildout underpin structural demand. We still like private credit but see an increase in dispersion of returns. This highlights the importance of manager selection.
-Beyond market cap benchmarks
-We get granular in public markets. We are underweight DM government bonds as inflationary pressure mounts. Within equities, we lean into both EM and DM equity – and are selective in both. We like stocks across both regions that are supported by the accelerating AI buildout.
-Source
-Note: Views are from a U.S. dollar perspective, June 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
+Key investment views
+Our highest conviction views, June 2026
+Driver
+What we think
+Portfolio expression
+Growth and AI scarcity
+The AI buildout is speeding up, making bottlenecks binding.
+Overweight U.S. equities; focus on AI bottleneck opportunities: power, chips and data centers.
+Duration and diversification
+Long bonds carry high rate sensitivity and are less reliable diversifiers.
+Prefer short- and medium-term government bonds over long bonds for income.
+Credit spreads and liquidity
+Selectivity is crucial amid tight spreads and uneven fundamentals.
+Credit with clear cash flows, lender protections and recovery value; higher-rated high yield.
+Inflation and  scarcity
+Scarcity, secure supply and power demand carry inflation risks.
+Infrastructure, energy bottlenecks, EM local debt and real-asset-linked exposures.
+Alpha opportunity
+Wider dispersion and macro uncertainty raise value of active skill.
+Macro hedge funds, venture capital, market-neutral strategies, and selected private credit and non-U.S. alpha.
 Tactical granular views table
 Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, June 2026
 We have lengthened our tactical investment horizon back to six to 12 months. The table below reflects this and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at a time of heightened volatility.
@@ -258,16 +257,14 @@ Stay informed on our latest weekly Market take. Listen wherever you get your pod
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
+Jean Boivin
+Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Christopher Kaminker
-Head of Sustainable Investment and Research Analytics - BlackRock Investment Institute
-Chris Weber
-Sustainable Investment and Research Analytics – BlackRock Investment Institute
-Alastair Bishop
-Portfolio Manager, Thematics and Sectors Team - BlackRock Fundamental Equities
-Hugo Liebaert
-Sustainable Investment and Research Analytics – BlackRock Investment Institute
+Axel Christensen
+Chief Investment Strategist for Latin America — BlackRock Investment Institute
+Michel Dilmanian
+Portfolio Strategist – BlackRock Investment Institute
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -361,7 +358,7 @@ Connect with us
 Customer service
 Digital service
 Keep exploring
-As a global investment manager and fiduciary to our clients, our purpose at BlackRock is to help everyone experience financial well-being. Since 1999, we've been a leading provider of financial technology, and our clients turn to us for the solutions they need when planning for their most important goals.
+BlackRock’s purpose is to help more and more people experience financial well-being. As a fiduciary to investors and a leading provider of financial technology, we help millions of people build savings that serve them throughout their lives by making investing easier and more affordable. For additional information on BlackRock, please visit our Corporate Website | Twitter | LinkedIn
 Corporate
 Fraud protection tips
 Fraud protection tips
@@ -375,15 +372,13 @@ Contact us
 Contact us
 Accessibility
 Accessibility
-Responsible Disclosure
-Responsible Disclosure
 Legal
-Terms & conditions
-Terms & conditions
+Terms & Conditions
+Terms & Conditions
 Privacy Notice
 Privacy Notice
-Business continuity
-Business continuity
+Business Continuity
+Business Continuity
 FINRA BrokerCheck
 FINRA BrokerCheck
 Rule 606 Disclosure
@@ -397,9 +392,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of June 22, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of June 29, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0626-5626969-EXP0627
+BII0626-5664635-EXP0627
