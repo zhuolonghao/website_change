@@ -1,38 +1,37 @@
 INVESTMENT STRATEGY
-Entering June, US investors have to be feeling good. In the space of
-nine weeks, US equity indexes have reversed their ﬁrst quarter losses
-as the S&P 500 has surged nearly 20%, delivering an 11% year-to-date
-return and reaching a new all-time high. And while limited progress
-has been made on opening the Strait of Hormuz, curing inﬂation
-dynamics or easing gasoline prices, corporate earnings have been
-excellent. In fact, earnings revisions have been so strong that 2026
-proﬁt expectations have increased by 9%, boosting full-year
-consensus forecasts from 14% to the 22%–23% range. Equally
-heartening, after some unsettling US Treasury market volatility, which
-took the 10-year yield up through 4.5% and the 30-year close to 5.2%,
-rates appear to have settled back into their three-year range,
-digesting the potential that the Federal Reserve will not resume
-easing this calendar year.
-Underpinning the market narrative is increasing enthusiasm for the transformative
-build-out of generative artiﬁcial intelligence (GenAI) infrastructure. That
-development now extends well beyond the hyperscalers and data center operators
-to all the enablers of the ecosystem—from semiconductor manufacturers to
-power-generation suppliers to hardware and software vendors. The sheer scale of
-spending, having doubled since last year to more than $850 billion, suggests that
-earnings momentum for key sectors will likely allow for S&P 500 gains of roughly
-another 10% in the next 12 months. With that in mind, Morgan Stanley & Co.
-Research recently set its June 2027 price target at 8,300. 
-But new market highs and positive earnings revisions don’t tell the whole story for
-investors. Unlike prior bull markets driven by capex booms, this one remains
-exceptionally narrow, with much of the action accruing to only around one-ﬁfth of
-the benchmark index and an even larger share of companies actually in the red for
-the year. While some investors are ignoring the concentration, assuming that it will
-self-cure as economic strength broadens, the GIC is less sanguine that this bull
-market and business cycle will take on scope and duration beyond the AI build-out.
-Our pause stems from the fact that this may be the ﬁrst cycle in over 35 years that
-leaves the consumer behind. And given that US GDP is still roughly two-thirds
-driven by consumption, that matters. 
-Broadening? Lisa Shalett
+US equity markets have experienced strong gains in the ﬁrst half of
+2026, driven primarily by robust earnings growth rather than
+valuation increases. Despite various challenges, including geopolitical
+tensions and inﬂation concerns, corporate earnings and economic
+growth have surpassed expectations, supporting market performance.
+The passive S&P 500 index has risen 9.3% for the year to date,
+powered by year-over-year ﬁrst quarter earnings gains above 25%.
+This has led to upward revisions of full-year earnings growth
+forecasts, with the consensus rising from 13%–14% to 23%–25%.
+Expansion has also caused the average forward price/earnings (P/E)
+multiple to decline roughly 10% from peak levels, to 20 times. 
+Although the decline in P/E ratios has been a welcome development, given recent
+valuation concerns, concentration risk is still a dominant feature of this bull market
+and of the AI trade, as market leadership radically churns. Consider that this past
+quarter was one of the weakest in four years for the “Magniﬁcent Seven” stocks,
+which were down about 10%, on average, as value caught up to growth and equal-
+weighted indexes outperformed their capitalization-weighted brethren. Still,
+approximately 10 stocks, mostly in the semiconductor industry, have accounted for
+roughly 85% of year-to-date S&P 500 returns, with the PHLX Semiconductor
+Sector Index up nearly 90% in the second quarter. This concentration has also
+impacted emerging markets like Taiwan and Korea.
+While these results are in line with our constructive, “cyclical broadening” call and
+Morgan Stanley & Co.’s midyear 2027 target for the S&P 500 of 8,300, it has not
+been an easy journey. On the contrary, the S&P 500 fell more than 7% in the ﬁrst
+quarter through late March amid US-Iran tensions and oil price spikes. Markets
+began rebounding strongly by April, however, driven by semiconductor industry
+momentum and easing geopolitical concerns, which combined to fuel the strongest
+quarterly return for the index since 2021.
+Results have not come without controversy, however. June brought renewed
+pressure from inﬂation worries, a new Federal Reserve chair, a shift in market
+expectations for Fed rate cuts to hikes by December, and record equity and debt
+issuance. It has become clearer that the US economy is “running hot,” with nominal
+Reﬂections and Projections at Midyear Lisa Shalett
 Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
@@ -40,1129 +39,1189 @@ Daniel Skelly
 Senior Investment Strategist
 Morgan Stanley Wealth Management
 TABLE OF CONTENTS
-3 Global Economics: A Fluid Outlook
-Look for energy and commodity markets,
-policy choices and AI adoption to deﬁne
-growth through 2027.
-5 US Economics: Capex Over Consumption
-In the US, we think the oil shock is large
-enough to affect inﬂation, but not yet
-growth.
-7 Global Equities: Developed Markets to
-Outperform, Lean Into US 
-Expect the dominant story to be earnings
-durability in the face of macro uncertainty.
-9 US Corporate Credit: Writing Bigger
-Checks
-Credit markets are at a crossroads: strong
-fundamentals and demand versus surging
-supply.
-11 A Bit More Slack for the Greenback
-Look for cyclical US dollar weakness in the
-near term but recovery heading into 2027.
-13 Keeping Cool With Munis
-Demand for municipal bonds should rise as
-investors seek a late-cycle haven.
-14 US Housing: Nowhere to Go But Up?
-Home price appreciation has decelerated as
-inventory growth outpaces demand. 
-15 Emerging Market Equities: Can It Last?
-In our Q&A, Allspring Global Investments’
-Alison Shimada discusses the remarkable
-EM rally and the evolution of the asset
-class. 
-Global Investment Committee | June 2026
+3 America, Frontier Market
+Once a frontier economy, America’s
+adaptability over the past 250 years has
+saved it from the usual traps.
+5 Chipﬂation
+The surge in memory chip prices may mark
+a structural reset.
+6 Unlocking Biopharma’s Next Step: AI and
+Productivity 
+When and how will AI realize its potential
+in drug development?
+8 Deal or No Deal: The US Trade Agenda
+US trade policy is evolving from shock to
+framework.
+11 Short Takes
+We explore gold, space ETFs and the South
+Korean stock market.
+12 The Road Map to Potential Rate Hikes
+While we expect the Fed to stay on hold,
+the data has to cooperate.
+14 Financing AI: Is Capital the Constraint? 
+The real issue is how AI funding is spread
+across investor bases.
+16 The Wide World of Sports Investing
+In our Q&A, Ares’s Mark Affolter discusses
+opportunities in the expanding universe of
+sports investing. 
+Global Investment Committee | July 2026
 On the Markets
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. Thismaterial has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-Consider that the University of Michigan’s Consumer
-Sentiment Index is now at its lowest point in its 74-year
-history. While labor markets are frozen in a “no hire, no ﬁre”
-standstill and the unemployment rate remains unprovocative,
-employment anxiety is high and wage growth is slowing.
-Meanwhile, personal income net of inﬂation is negative, and
-consumer spending appears to be funded by one-time tax
-refunds, dwindling savings and growing credit card balances.
-At 2.6%, the national household savings rate is at a four-year
-low and running 70% below the 8.6% long-run average, while
-the 90-day credit card delinquency rate is at a 15-year high.
-Given the K-shaped economy, consumer resilience thus
-increasingly hinges on ongoing ﬁnancial market gains.
-The implication is that understanding the AI story’s inﬂection
-points takes on added importance. Portfolio consequences are
-especially heavy, as stock-bond correlations are positive and
-even regional diversiﬁcation strategies seem tied to the same
-“one note.” For clients looking for a way forward, we
-encourage a thematic embrace with laser focus on
-sustainable, secular growth that complements the AI story—
-in ﬁnancials and health care, real assets and commodities, and
-hedge funds and non-US assets, especially in Japan and
-Latin America. ■
+growth again well above the 5% 80-year average. Real GDP
+growth rebounded to 2.1% in the ﬁrst quarter and is expected
+to accelerate to 2.5%–2.6% in the second quarter, supported
+by strong capex, manufacturing expansion and robust
+consumer spending, despite a K-shaped economy with
+declining savings and wage growth below inﬂation.
+Meanwhile, the labor market remains tight, with
+unemployment at 4.2%. Inﬂation appears to have peaked,
+with core personal consumption expenditures at 3.3%, but
+sticky components such as import prices and AI-related inputs
+are keeping inﬂation pressures elevated. US Treasury yields
+have increased, ﬂattening the yield curve. Risks now include
+the potential for tighter ﬁnancial conditions and weaker
+liquidity. US Treasury real yields have risen meaningfully, with
+the two-year real rate recently at a four-year high close to 2%
+and the 10-year real rate near a one-year high close to 2.2%.
+Looking forward, we anticipate a US equity market that
+continues its June churn behavior for another couple months
+before reestablishing positive momentum during the fourth
+quarter and into year-end, as it becomes more apparent that
+economic slowing catalyzed by fading ﬁscal stimulus is
+leading to lower interest rates.
+The GIC recommends proﬁt-taking in semiconductor names,
+including among those based in emerging markets, and a shift
+toward AI-implementation beneﬁciaries and sectors that
+beneﬁt from broader economic growth. The AI adoption cycle
+is maturing, with a shift from training to inference workloads,
+leading to hybrid technology architectures and increased
+competition between hyperscalers and semiconductor
+makers. Signs include subscription pricing wars, declining
+graphics processing unit (GPU) prices and open-source
+adoption—suggesting a fragmented supply chain and
+rebalancing of market leadership. In addition, we are adding
+to ﬁxed income for the ﬁrst time in 18 months, with a
+preference for rates over investment grade credit, as well as
+for intermediate duration over the short end. ■
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-GLOBAL ECONOMICS
-Global Economics: A Fluid Outlook
-Seth B. Carpenter, Chief Global Economist, Morgan Stanley & Co. LLC
-In our midyear outlook, energy and commodity markets,
-policy choices and the speed of AI adoption combine to deﬁne
-growth through 2027. Per our baseline view, the energy shock
-will slow the global economy modestly through mid-2026
-before growth stabilizes and recovers into 2027.
-We see growth near potential across most major economies.
-AI-driven capex and ﬁscal spending on energy security and
-defense provide a ﬁrm ﬂoor to prolong late-cycle growth. But
-we are assuming that the conﬂict in Iran is resolved within
-the month, limiting the effects to one quarter, and that
-volatility from energy prices subsides over the balance of the
-year.
-While oil and gas prices push headline inﬂation higher in
-2026, pass-through to core inﬂation remains limited in most
-economies. By 2027, those effects should fade, and combined
-with somewhat slower growth this year, underlying inﬂation
-should soften again. Against this backdrop, monetary policy
-must spend much of 2026 wrestling with the energy shock
-before converging toward neutral in 2027. But in the US, the
-debate on where “neutral” is will gain steam over the rest of
-this year and into next. For now, we see room for two more
-Federal Reserve rate cuts as inﬂation softens, but upside
-surprises to growth or an indication that inﬂation is not
-moderating will drive a “no cut” scenario.
-US GROWTH. US growth is supported by AI-driven capex and
-household spending fueled effectively by wealth effects.
-Consumption is expected to soften in coming quarters as
-energy prices weigh on disposable income, though underlying
-consumption trends remain robust. Immigration restrictions
-and lower labor force participation from demographics have
-pulled the “breakeven rate” for job creation down to
-approximately 50,000 per month—about one-ﬁfth of the
-pace of early 2023. As economic growth broadens and hiring
-increases modestly late this year and next, the unemployment
-rate should move modestly lower over 2027. AI-driven capex
-is forecast to continue, but over time, we expect investment
-to broaden to non-AI business ﬁxed investment. In the case of
-a persistent oil price above $150 per barrel, both consumer
-and business spending would slump.
-US MONETARY POLICY. In our baseline, US disinﬂation
-resumes in the second half of this year, allowing the Fed to
-cut rates twice in the ﬁrst half of 2027. Persistent inﬂation or
-faster growth and lower unemployment would take away the
-cuts in 2027. Core inﬂation should begin to move lower in the
-second half after peak tariff effects. The Fed is set to wait for
-conﬁrmation that tariff inﬂation will fade and that energy
-inﬂation has only modest effects on core. After month-over-
-month and year-over-year core inﬂation trends decline, we
-expect a move toward the Fed’s estimate of "neutral." AI
-productivity could shift this narrative, so we model a scenario
-where a surge in productivity generates job loss and falling
-inﬂation; in that case, we think the Fed would cut much more
-aggressively.
-REST-OF-WORLD GROWTH. In the rest of the world, the
-inﬂation forecast is very sensitive to energy prices, even when
-we assume a rapid de-escalation. We expect exports from the
-Persian Gulf to carry a risk premium as production
-normalizes.
-Morgan Stanley & Co. Global GDP, Inﬂation and Monetary Policy Rate Forecasts
-  GDP (YoY) Headline CPI (%Y) Monetary Policy Rate (% p.a.)
-  2025 2026E 2027E 2025E 2026 2027E 2025
-EOP
-2026E
-EOP
-2027E
-EOP
-Global 3.5 3.2 3.4 1.9 2.7 2.2 - - -
-G10 1.8 1.4 1.7 2.6 3.2 2.1 - - -
-US 2.1 2.2 2.5 2.8 2.8 2.4 3.625 3.625 3.125
-Eurozone^^ 1.5 0.6 1.0 2.7 3.5 2.1 2.00 2.50 2.00
-Japan* 1.2 0.4 1.0 3.2 2.2 1.4 0.75 0.75 1.25
-UK 1.4 0.8 1.1 3.4 3.2 2.6 3.75 3.75 3.50
-Emerging Markets 4.9 4.6 4.6 1.5 2.4 2.2 - - -
-China** 5.0 4.8 4.7 0.1 0.8 0.6 1.40 1.40 1.40
-India 7.5 6.8 7.0 2.2 4.1 4.7 5.25 5.25 5.75
-Brazil 2.3 2.0 1.6 5.0 4.7 4.0 15.00 13.00 10.50
-Mexico 0.6 1.1 1.7 3.8 4.2 4.0 7.00 6.50 6.50
-Note: Global and regional aggregates are GDP-weighted averages, using PPP weights. CPI ﬁgures represent period averages. Policy rate indicated is the BOJ’s
-Uncollateralized Overnight Call Rate Upper Limit. ^^ECB Deposit Facility rate; **Seven-day reverse repo rate. Turkey, Egypt, Ukraine and Argentina are excluded
-when calculating global EM GDP aggregate. 
-Source: Haver Analytics, IMF, Morgan Stanley & Co. Research as of May 12, 2026
+GLOBAL MACRO
+America, Frontier Market
+Andrew Sheets, Global Head of Fixed Income Research , Morgan Stanley &
+Co. International plc+
+If you were a global investor at the end of the 18th century
+looking for a stable, low-risk home for your capital, it would
+have been entirely reasonable to avoid the newly minted
+United States of America.
+By the standards of modern ﬁnance, the young republic was
+not a developed market in waiting. It was a frontier economy:
+volatile, debt-burdened, institutionally fragile, resource-rich,
+politically combustible and astonishingly unequal. Its currency
+had collapsed, its public ﬁnances were suspect, its citizens
+resisted taxation and its growth prospects were extraordinary.
+In 1810, 70% of the country was under 25.
+FROM MESSY TO DYNAMIC. That is one of the revelations in
+Gordon Wood’s “Empire of Liberty,” which focuses on the
+early days of the new country (1789–1815). Wood’s America is
+not the marble republic of statues and myth. It is speculative,
+messy and full of motion. The US succeeded not by escaping
+the dysfunctions we associate with emerging or frontier
+markets, but by turning them into a source of dynamism.
+Start with capital. Early America needed it desperately. Roads,
+canals, land purchases and the government all required credit,
+and there was never enough of it. The country was rich in
+land and poor in liquidity, a classic emerging market
+mismatch. And what the young country couldn’t borrow or
+invent it misappropriated, lifting intellectual property from its
+former masters in Britain.
+It Took Nearly 100 Years, but by the 1890s the US Was
+Borrowing at Lower Rates Than the UK
+Note: Approximate yield at the start of each decade. Yields represent long-
+term government bonds/consols where possible. 
+Source: NBER, HSUS, Bloomberg, Morgan Stanley & Co. Research, Morgan
+Stanley Wealth Management Global Investment Committee as of June 28,
+2026
+NOT A SMOOTH JOURNEY. What Alexander Hamilton
+understood given this challenge was the importance of
+conﬁdence: that debts would be honored, contracts enforced
+and taxes, however unpopular, collected. His ﬁnancial
+program was an attempt to solve the emerging market
+problem before the phrase existed—persuading investors
+that a new state, born in revolution and nearly bankrupted by
+war, could be trusted. To Hamilton, public credit was the
+foundation of independence.
+To many Jeffersonians, however, his system looked like an
+attempt to smuggle a British ﬁnancial order back into a
+country that had just fought to expel it. The early republic’s
+debates over debt, banks, speculation and taxation sound
+contemporary because the underlying question is perennial in
+frontier markets: Can a society embrace credit and foreign
+capital without being captured by it?
+The US was not starting from zero. It inherited legal
+traditions, habits of self-government and a culture of contract
+and property. Those foundations instilled conﬁdence that
+disputes could be adjudicated and debts pursued, and that
+rules would not be arbitrary. Early America was risky, but it
+was not lawless.
+Still, all did not go smoothly. There was no Federal Reserve,
+FDIC or even a uniform national currency. Business was
+conducted with foreign coins, notes issued by private banks,
+IOUs and optimism. Bank failures were common. In 1808, the
+Farmers Exchange Bank in Rhode Island issued over
+$600,000 of notes against less than $90 in specie. You
+almost have to admire the audacity.
+ENERGY UNLEASHED. Yet the same instability that made
+early America risky also made it unusually open. Land was the
+country’s great asset class: a source of migration, ambition,
+speculation and opportunity, at least for white settlers. It also
+produced bubbles, administrative strain, the expansion of
+slavery and the violent dispossession of Native peoples. The
+Louisiana Purchase in 1803 was a risky, leveraged acquisition
+of distressed real estate, doubling the scale of the American
+experiment before anyone had quite ﬁgured out how the
+original version was supposed to work.
+Wood is especially good on the familiar energy unleashed by
+this world. The engine of growth was not an aristocracy of
+polished grandees, but the “middling sort”: shopkeepers,
+artisans, tavern owners, mechanics, farmers, merchants and
+speculators. Many were convinced that in America, birthright
+mattered less than hustle. Commentators of the time
+complained about the degraded press, political polarization,
+hostility to expertise and the vulgarity of a society obsessed
+with getting ahead. None of this sounds especially distant.
+What saved America from the usual traps of frontier
+economies was not immaculate stability. It was adaptability.
+Its Constitution was amended. Political power changed hands
+despite animosity. Bankruptcy law allowed for failure,
+competition was ferocious and economic power was too
+diffuse to be easily monopolized. The early republic’s genius
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-Where AI is a dominant swing factor in the US, energy is the
-dominant swing factor in Europe; Asia is exposed to both
-trends to differing degrees. Europe’s quick pass-through of
-energy costs to core inﬂation (and growth) means it may see
-the largest inﬂation and growth sensitivity in the short term.
-European core inﬂation may remain stubbornly elevated
-because of the persistent dual exposure to oil and liqueﬁed
-natural gas. Exposure in Asia, like the US, is more anchored in
-growth than inﬂation because Asia, broadly, uses ﬁscal policy
-to smooth energy prices; all of Asia experiences a growth
-deceleration in the second quarter, with growth stalling in
-much of Emerging Asia, where ﬁscal supports and reserves
-are fewer.
-REST-OF-WORLD MONETARY POLICY. Monetary policy
-diverges in 2026 before converging toward neutral in 2027.
-We see the Fed on hold this year and cutting next, while the
-European Central Bank hikes twice in 2026 before unwinding
-those hikes in 2027. The Bank of Japan continues with its pre-
-set hiking path, with a hike in June this year and a subsequent
-rate rise in 2027. For China, with very low interest rates amid
-high deﬂationary pressures, the risk of higher rates remains
-distant given the amount of reﬂation required to drive such
-an outcome.
-Across emerging markets, the picture is more mixed. The CE3
-(Poland, Czech Republic and Hungary) follows the eurozone
-closely, while South Africa similarly follows the contours of
-the oil shock. Asia ex Japan is broadly stable in 2026 but
-starts to see dispersion in 2027, as the delayed effects of oil
-and food prices pass through, though in India, rate hikes are
-more demand led than supply-shock driven. In Latin America,
-we see the Central Bank of Brazil continuing its cutting cycle,
-even as the rest of Latin America remains largely on hold.
-ALTERNATIVE SCENARIOS. We model four alternative
-scenarios: an AI productivity surge, upside aggregate demand
-and two oil scenarios—a permanent risk premium in the price
-and a “demand destruction” scenario that is recessionary.
-A severe re-escalation that leads to widespread physical
-shortages of energy and drives oil prices through $150 per
-barrel for a sustained period would likely drive a global
-recession. A milder re-escalation taking us to a multiquarter
-sustained price level of approximately $100 per barrel might
-come from the market pricing a structural risk premium and
-result in a growth drag with persistently higher inﬂation. For
-Europe and some other regions, even the baseline is skewed
-in that direction.
-The two upside growth scenarios distinguish between
-aggregate demand and aggregate supply. In the aggregate
-demand scenario, US capex and consumer spending prove
-stronger than expected, and faster growth, lower
-unemployment and rising inﬂation push the Fed to raise rates.
-In the AI productivity surge scenario, AI disrupts the labor
-market, causing a wave of layoffs, though growth holds up.
-With falling inﬂation and rising unemployment, the Fed cuts
-rates aggressively to stimulate the economy to take up the
-newly developed slack. ■
-This article was excerpted from the May 12 Morgan Stanley &
-Co. Research report, “A Fluid Outlook.” For a copy of the full
-report, please contact your Financial Advisor.
+lay less in resolving its contradictions than in creating ways to
+ﬁght over them without destroying the whole.
+LOOKING FORWARD. That is the useful lesson for America at
+250. We tend to look backward for reassurance, imagining
+that the country once possessed a unity, prudence and
+institutional solidity that we have since lost. Wood suggests
+something different: The US was turbulent from the start. Its
+legitimacy was contested, its ﬁnances distrusted, its politics
+venomous, its expansion intertwined with slavery and Native
+dispossession and its future uncertain.
+Emerging markets become developed markets not because
+they stop having crises, but because they build credibility
+through them. They learn which institutions matter, which
+bargains endure, which debts must be paid and which moral
+liabilities compound when deferred. America was not born
+orderly, rich or secure. It was born in the mud, ﬁnanced on
+fragile credit, driven by speculation and sustained by an
+almost irrational conﬁdence in the future.
+Enjoy the ﬁreworks. And let them be a reminder that national
+maturity is not the absence of volatility. It is the capacity to
+turn that volatility into renewal. ■
+This article was excerpted from the June 28 Morgan Stanley &
+Co. Research report, “America, Frontier Market.” For a copy of
+the full report, please contact your Financial Advisor.
+    
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
-US ECONOMICS
-US Economics: Capex OverConsumption
-Michael T. Gapen, Chief US Economist, Morgan Stanley & Co. LLC
-The US economy has been hit by another supply shock just as
-“animal spirits” were improving. The Middle East conﬂict and
-rise in oil prices mark a fourth shock in recent years, following
-the pandemic, the Russia-Ukraine conﬂict and the 2025 tariff
-shock. The broader theme is familiar: The economy continues
-to shift away from efﬁciency and benign globalization toward
-resilience, supply chain security and geopolitical competition
-over key resources. The Middle East conﬂict has added
-energy security and diversiﬁcation to this list.
-Our baseline is benign de-escalation of the oil disruption, but
-uncertainty is elevated. The US is insulated, but not isolated,
-from the energy shock. Much of the oil ﬂowing through the
-Strait of Hormuz is destined for Asia and Europe, but higher
-gasoline prices will still act as a tax on US consumers and
-keep inﬂation in focus. The oil shock is large enough to affect
-inﬂation, though not yet growth; transmission typically
-occurs through reduced real purchasing power, potential
-wealth effects and weaker business spending. So far, only the
-ﬁrst is evident, suggesting a modest drag on spending rather
-than a broader downturn.
-Morgan Stanley & Co. US Economic Forecasts
-  2024 2025 2026E 2027E
-Real GDP (% Q4/Q4) 2.4 2.0 2.3 2.6
-Private Consumption 3.4 2.1 1.8 2.1
-Gross Fixed Investment 0.9 5.6 7.0 8.0
-Government Consumption 3.6 -1.2 2.1 1.3
-GDP Contribution (percentage points)        
-Final Domestic Demand 2.8 2.3 2.2 2.7
-Net Exports -0.5 0.4 -0.4 -0.4
-Inventories -0.2 -0.2 0.1 0.2
-CPI (% Q4/Q4) 2.7 2.7 3.4 2.0
-Core PCE* (% Q4/Q4) 3.0 2.9 2.8 2.3
-Policy Rate** (%) 4.375 3.625 3.625 3.125
-Unemployment Rate (% labor force)** 4.1 4.5 4.3 4.1
-Labor Force Participation Rate (%)** 62.5 62.5 61.8 61.7
-General Govt. Balance (% of GDP) -6.9 -5.4 -6.3 -6.1
-Gross Govt. Debt (% of GDP) 123.6 125.2 125.1 125.6
-Current Account Balance (% of GDP) -4.0 -3.6 -2.9 -3.2
-*Personal Consumption Expenditures Index **End of Period  
-Source: Bureau of Economic Analysis, Bureau of Labor Statistics, Morgan
-Stanley & Co. Research, Morgan Stanley Wealth Management Global
-Investment Ofﬁce as of May 12, 2026
-RESILIENT ECONOMIC GROWTH. Real GDP growth should
-remain resilient despite slower real consumption growth in
-2026. The main headwind this year is higher energy prices,
-while we see a recovery in investment and consumption in
-2027 as the energy drag fades. We expect fourth-quarter
-consumption growth to slow by 30 basis points in 2026
-relative to 2025 before reaccelerating in 2027. In our forecast,
-the ﬁscal policy impulse to households via higher tax refunds
-has effectively been neutralized by higher gasoline prices;
-capex growth outpaces consumption growth; artiﬁcial
-intelligence (AI)-related investment remains strong; and while
-reshoring evidence is limited, policy continues to favor
-domestic investment.
-MODEST JOB GROWTH. The labor market is expected to be
-balanced but fragile. Slower labor supply and demand should
-leave job growth modest, with unemployment broadly stable.
-A small drop in demand could push payroll growth negative.
-That said, a “low hire” labor market normally does not stay
-that way for long: Either hires pick up or layoffs rise. We
-expect the former and look for modestly stronger
-employment growth than we saw in 2025. The other concern
-with labor markets is AI displacement. We see AI as primarily
-a capex and productivity story rather than a labor-
-displacement one: AI-related labor effects are minimal, while
-productivity gains are concentrated in high-AI-exposure
-industries.
-INFLATION RISE AND FED POLICY. In our forecast, inﬂation
-stays above target before easing in 2027. Energy prices push
-the headline Personal Consumption Expenditures Price Index
-to slightly above 4% year over year in mid-2026 before it
-decelerates. Core inﬂation sees limited second-round effects
-but remains well above target through 2026, only falling
-toward target in 2027.
-Different Scenarios for the Fed Policy Rate
-Source: Federal Reserve Bank, Haver Analytics. Morgan Stanley & Co. Research,
-Morgan Stanley Wealth Management Global Investment Ofﬁce as of May 12,
-2026
-We forecast that the Federal Reserve will stay on hold
-through 2026 at 3.50%–3.75% (see chart), as elevated
-inﬂation and resilient activity raise the bar for rate cuts and
-delay normalization. Fed communication has shifted in the
-direction of patience, and ofﬁcials require ﬁrm evidence of
-disinﬂation to ease. We think they will get it in the form of 1)
+ARTIFICIAL INTELLIGENCE
+Chipﬂation
+Shawn Kim, Equity Analyst, Morgan Stanley & Co. International plc+
+Artiﬁcial intelligence (AI) infrastructure demand is proving
+remarkably insensitive—or inelastic—to rising costs. Sharp
+price increases on items ranging from copper to gas turbines
+to memory have done little to slow the build-out. Here, we
+focus on the market for semiconductor memory—essentially
+the chips that store and process data for computers and
+smartphones—where the price signal is loudest and traveling
+furthest.
+STRUCTURAL RESET. The memory price move is a genuine
+discontinuity. For decades, memory got cheaper with almost
+metronomic reliability; the price of a gigabyte (GB) of
+dynamic random access memory (DRAM), the most common
+type of computer memory, fell roughly tenfold every ﬁve
+years from 1957 to 2020, the purest expression of Moore’s
+Law in the cost data. That era has ended. Memory prices have
+risen more than sixfold over the past year (see chart), and the
+memory market is on track to grow from approximately $220
+billion in 2025 to $890 billion in 2026, according to
+TrendForce forecasts. That incremental $600 billion or more
+is larger than the entire stand-alone total addressable market
+(TAM) for smartphones, personal computers (PCs) or servers.
+This is not a normal cyclical upswing; it is a structural reset in
+the price behavior of a foundational input. 
+It is tempting to call this a supply problem, given three main
+suppliers in two countries and a multiyear lead time to add
+capacity. But that inverts cause and effect. The surge exists
+because Al has created a sudden, price-inelastic leap in
+memory demand; without it there is no cost shock. What
+makes the jump durable is that supply cannot respond quickly
+—installing tools, qualifying processes and ramping yield is a
+two-year sequence—and the three companies that make
+around 90% of DRAM and effectively all high bandwidth
+memory (HBM) are rationally steering scarce leading-edge
+wafers—the silicon base for chips—toward higher-margin
+HBM and server DRAM. Inelastic demand meeting inﬂexible
+supply is what turns a cyclical upswing into a structural reset.
+IS THIS INFLATION IN THE CONVENTIONAL SENSE? Bit
+supply—the total data capacity that can be produced—is
+growing at only about 30% a year, capped by the availability
+of extreme ultraviolet lithography (EUV) tools and wafer
+capacity, while revenue is rising roughly fourfold. Almost the
+entire spending surge is therefore price, not volume.
+We expect total DRAM wafer capacity to expand around 30%
+by 2027, but with Al prioritization still leaving consumer
+markets short. In 2027, PC DRAM will likely fall some 15%
+short of demand (roughly 58 million units) and smartphone
+DRAM 12% short of demand (134 million units). HBM is the
+mechanism—it consumes three to four times the wafer
+capacity per usable bit of conventional DRAM and is expected
+to rise from around 6% of leading-edge memory wafers in
+2023 to about 34% by 2028. A two-tier market is forming:
+Hyperscalers lock in supply through long-term agreements
+and prepayments, while everyone else competes for a smaller,
+more volatile residual pool.
+HOW CRAZY COULD IT GET? To shield gross margins based
+on memory cost alone, we estimate like-for-like prices would
+need to rise roughly 34% for smartphones, 67% for PCs, 83%
+for servers and 14% for storage. A 67% increase in the average
+selling price for PCs would be the strongest in the market’s
+history, eight to nine times higher than even COVID-era
+inﬂation. Companies simply do not pass all of this increase
+through to buyers, which is why it surfaces instead as margin
+pressure, speciﬁcation cuts and delayed launches.
+When price effects are “muted in CPI,” this is not the same as
+“absent”: Rather, “chipﬂation” largely bypasses the inﬂation
+measures that markets and central banks watch most closely.
+Memory is rarely bought by households directly. It is an
+intermediate input, embedded in capital goods and services.
+Because computing carries a small weight in consumption
+baskets, it does not announce itself in headline CPI. For now,
+the effect is strong in producer prices—with electronic
+components up about 30% year over year—and in corporate
+cost of goods sold, cloud bills, capital expenditure budgets
+and delayed technology deployment. It transmits through
+business-to-business channels with a lag and surfaces in
+consumer-facing prices only at the far end of the chain.
+POLICY IMPLICATIONS. Conventional inﬂation is a demand-
+management problem, and central banks have instruments
+for it. Chipﬂation is a supply problem: No interest rate
+decision will add a semiconductor fabrication plant. The
+longer memory prices stay elevated, the more the cost
+compounds through the industries that depend on these
+chips. Policy can mitigate—expanding trusted supply and
+improving resilience—but cannot quickly resolve a shortage
+that requires years of construction to address.
+Inelastic demand and an invisible inﬂation channel reinforce
+one another. Because Al buyers do not ﬂinch at higher
+memory prices, suppliers have every incentive to keep
+allocation tight and pricing ﬁrm. And because the resulting
+inﬂation hides in capex lines and cloud invoices rather than
+turning up on the supermarket shelf, there is little public
+pressure to resolve it. ■
+This article was excerpted from the June 7 Morgan Stanley &
+Co. Research report, “Chipﬂation.” For a copy of the full
+report, please contact your Financial Advisor.
+   
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-an end to tariff pass-through, 2) limited second-round effects
-from energy, 3) modest further disinﬂation in shelter and 4)
-stable inﬂation expectations. Our inﬂation forecast has the
-year-over-year rate of inﬂation subsiding fairly rapidly in early
-2027, and we see 25-basis-point Fed rate cuts in March and
-June, for a terminal target range of 3.0%–3.25%. Risks tilt in
-the direction of no Fed cuts.
-OIL: THE SWING FACTOR. Risks to the outlook overall remain
-two-sided, with oil as the key near-term swing factor. A spike
-through $150 per barrel could trigger sharper demand
-destruction and a mild recession. In this scenario, we forecast
-that the Fed would ease by 200 basis points. In our oil-price
-premium scenario, with oil prices persistently high,
-second-round inﬂation risks arise, keeping the Fed on hold.
-We also consider other scenarios that lead to different Fed
-paths.
-If the event of stronger aggregate demand effects and ﬁrming
-core inﬂation, the Fed would hike. In the AI productivity
-scenario that brings labor displacement and rising
-unemployment, the Fed reduces rates by more than our
-baseline. ■
-This article was excerpted from the May 12 Morgan Stanley &
-Co. Research report, “A Fluid Outlook.” For a copy of the full
-report, please contact your Financial Advisor.
+GLOBAL EQUITIES
+Unlocking Biopharma’s Next Step: AIand Productivity 
+Sean Laaman, Ph.D., Equity Analyst, Morgan Stanley & Co. LLC
+Artiﬁcial intelligence (AI) is shifting drug development from a
+slow, trial ‑ and ‑ error process to a more data ‑ driven model,
+improving how drugs are discovered, developed and tested.
+Historically, overall industry productivity has been low, and AI
+can potentially increase success rates, reduce timelines and
+lower costs.
+While the potential for AI to improve drug development is
+exciting, the critical issues for investors are what the
+magnitude of the improvement will be, when to expect it and
+how to position portfolios accordingly.
+IMPROVING R&D RETURNS. AI is emerging as a structural
+force in drug development, with the potential to materially
+improve returns on biopharma research and development
+(R&D).
+We estimate AI-driven approaches can compress discovery
+timelines from roughly 4.5 years to 1.5 years; reduce early-
+stage R&D costs by 25%–60%; and shorten preclinical
+timelines by 30%–50%, with early evidence of improved
+success rates in Phase 1 and Phase 2 clinical trials, when drugs
+are ﬁrst tested on humans for safety and effectiveness.
+Against the current backdrop of rising R&D spending,
+persistent late-stage attrition and decade-long development
+cycles, AI represents the most credible path to structurally
+increasing biopharma productivity and capital efﬁciency.
+Importantly, AI should be viewed not as a replacement for
+biology, but as a decision-enhancement layer that improves
+outcomes at every step of the pipeline, shifting failure earlier,
+increasing signal quality and optimizing execution. Today’s
+drug development model remains highly inefﬁcient, with
+about 90% of assets failing and timelines often exceeding 10
+years. AI directly addresses these inefﬁciencies through better
+target selection, more efﬁcient molecule design and smarter
+clinical trial execution, transforming development into a more
+data-driven system that prioritizes higher-probability
+candidates.
+REAL-WORLD DATA. Early case studies suggest that AI-
+enabled platforms can accelerate target-to-investigational
+new drug (IND) timelines by more than 60%, improve
+preclinical ﬁltering efﬁciency (reducing the number of low-
+quality candidates entering the clinic) and drive meaningful
+cost savings across the development continuum. These gains
+have the potential to expand the number of viable drug
+candidates while simultaneously increasing capital efﬁciency
+—a combination that is historically difﬁcult to achieve in
+biotech.
+That said, AI’s impact is not uniform and is emerging ﬁrst in
+the highest-friction parts of the workﬂow—target
+identiﬁcation, molecule design and clinical trial optimization
+—where data scale and pattern recognition drive the greatest
+advantage (see table). These areas are already delivering
+measurable gains and are likely to drive near-term investment
+results, well ahead of full system-wide transformation.
+Where AI Delivers First (Near-Medium Term)
+Area What Improves Timeline Impact
+Target
+Identiﬁcation
+Better drug
+targets using
+large-scale
+biology data
+Near-term
+(1-3 years)
+Higher quality
+pipeline starts
+Molecule Impact
+Faster and
+improved 
+design of drug
+candidates
+Near-to-
+midterm 
+(1-5 years)
+Shorter
+preclinical
+timelines, 
+lower cost
+Patient Selection/
+Trial Design
+Smarter clinical
+trials, better
+outcomes
+Midterm 
+(2-6 years)
+Higher success
+rates, reduced
+trial risk
+Source: Morgan Stanley & Co. Research, Company data, Morgan Stanley
+Wealth Management Global Investment Ofﬁce as of June 8, 2026
+DOES EFFICIENCY BRING GREATER SUCCESS? While early-
+stage efﬁciency gains are increasingly visible, the key debate
+is whether these translate into a sustained uplift in clinical
+success rates, particularly at the Phase 2 inﬂection point. We
+believe AI can improve early-stage success rates and
+compress development timelines, but evidence of system-
+wide probability of success expansion remains limited, with
+late-stage validation still to come. As a result, the opportunity
+is real but not fully derisked, and the timing of value
+realization remains uneven.
+IMPLICATIONS FOR INVESTORS. From an investment
+perspective, what matters is not whether AI works, but where
+value is already visible versus where it remains contingent on
+future clinical proof, and what is priced into equities.
+In the near term, the most actionable exposure, in our view,
+remains in “pick and shovel” enablers—companies that
+provide the data, tools and infrastructure—where
+adoption is already translating into revenue and is less
+dependent on binary outcomes.
+AI-native platforms may offer the most direct upside
+exposure to clinical validation, but valuations already
+reﬂect wide dispersion tied to different Phase 2 success
+assumptions, making them inherently higher beta.
+Large-cap biopharma companies stand to beneﬁt
+meaningfully from AI-driven productivity gains due to
+ramping up AI investments and data moats, and the impact
+is likely over the medium to long term.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
-GLOBAL EQUITIES
-Global Equities: Developed Marketsto Outperform, Lean Into US 
-Michael Wilson, Chief Investment Ofﬁcer and Chief US Equity
-Strategist, Morgan Stanley & Co. LLC
-Marina Zavolock, Chief European Equity Strategist, Morgan Stanley & Co.
-International plc+
-Jonathan F. Garner, Chief Asia and Emerging Market Strategist, Morgan
-Stanley Asia (Singapore) Pte.+
-Reassessing global equities at midyear, the dominant story is
-one of earnings durability in the face of macro uncertainty,
-and with returns increasingly an earnings story, this also
-means the outlook remains positive. All told, we see the
-developed markets (DM) outperforming the emerging
-markets (EM). And keep in mind the AI theme is not only
-about the US; it’s global, too (see sidebar).
-Global Equity Index Forecast Summary
-Index 
-June 2027
-Base Case
-Index Target
-(% upside from
-May 8)
-MS & Co. Base Case
-EPS Forecast
-Year Over Year (%)
-2026 2027 2028
-S&P 500 8,300 339 380 429
-12% 23% 12% 13%
-MSCI Europe 2,700 154 163 174
-11% 11% 6% 7%
-TOPIX 4,300 210 225 246
-12% 12% 7% 9%
-MSCI Emerging
-Markets
-1,800 125 136 141
-9% 40% 9% 4%
-Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management
-Global Investment Ofﬁce as of May 12, 2026
-US: Strong Earnings Drive the Rolling Recovery
-The rolling recovery in earnings that began after Liberation
-Day —April 2, 2025, when President Trump imposed the most
-severe tariff regime in nearly a century —continues to mature.
-The recovery in proﬁts is underpinned by the strongest
-median S&P 500 Index earnings per share (EPS) surprise in
-four years, at 6%, and a sharp rebound in earnings revisions
-breadth.
-Our midyear 2027 S&P 500 target of 8,300—that’s 20.5
-times $404 forward EPS—comes from improved earnings,
-not from an expanding price/earnings (P/E) multiple. In fact,
-we are projecting slight multiple compression, in part because
-prospects for near-term rate cuts coming from the Federal
-Reserve have faded. Another reason for a dampening P/E is
-that the rolling recovery is maturing.
-All told, we are increasing our year-end 2026 target from
-7,800 to 8,000, reﬂecting earnings durability. In line with our
-view, a broadening in earnings is materializing and remains
-underappreciated: The forward EPS growth for the median
-S&P 1500 stock has accelerated from 8% at the start of the
-year to 12%.
-As for sectors and styles, we see cyclicals outperforming
-defensives, which is consistent with our rolling recovery and
-earnings acceleration thesis. Small-cap earnings are inﬂecting
-higher—22% expected earnings growth—but the prospect of
-less accommodative monetary policy this year means small-
-caps remain equal weight relative to large-caps for now. In
-terms of sector preferences, we favor ﬁnancials, industrials
-and consumer discretionary.
-Earnings Strength Has Boosted US Equities
-Source: Bloomberg, Morgan Stanley Wealth Management Global Investment
-Ofﬁce as of May 29, 2026
-Europe: Beyond the Pendulum
-European earnings growth ex energy is proving resilient to
-typical midyear downgrades. We have added upside to our
-MSCI Europe Index forecast, raising our June 2027 target to
-2,700. We reduced the target multiple from 17 to 16 given the
-skew of earnings growth to energy.
-EU equities have generally been in more of a holding pattern
-than US stocks given the disruption in the Strait of Hormuz.
-While earnings have so far been resilient, our analysis points
-out a broadening downside if the strait remains closed
-beyond two months.
-If and when the strait reopens, we expect a tactical catch-up
-in EU equities, particularly in cyclical sectors. That said,
-seasonality does not favor Europe. In 10 of the last 11 years,
-EU equities traded choppy and either sideways or down in the
-summer months.
-The more durable upside is likely toward year-end and in the
-ﬁrst quarter of next year.
-This period could coincide with more meaningful Russia-
-Ukraine ceaseﬁre negotiations, more evidence of German
-ﬁscal execution and a continued material rise in mergers and
-acquisitions supported by easing competition commission
-rules.
+Putting these together, we believe the most effective way to
+position for AI in drug development today is to own enablers,
+selectively track AI-native platforms for clinical inﬂection and
+underwrite large-cap productivity gains with appropriate
+skepticism. The key proof point for the entire drug
+development ecosystem will be Phase 2 signal quality, which
+will determine whether early efﬁciency gains translate into
+durable increases in R&D productivity.
+If AI-derived programs fail to demonstrate meaningfully
+superior Phase 2 outcomes by 2027, we would expect a
+material reset in probability of success assumptions and
+valuation multiples across AI-linked biotech, particularly for
+platform-driven companies. AI is clearly widening the top of
+the funnel, accelerating timelines and improving early-stage
+decision-making, but the ultimate value creation will depend
+on whether it can produce consistently better clinical
+outcomes, not just faster ones. ■
+This article was excerpted from the June 8 Morgan Stanley &
+Co. Research report, “Unlocking Biopharma’s Next Step: AI as
+a Productivity Engine.” For a copy of the full report, please
+contact your Financial Advisor.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  7
-Among industries and sectors, we recommend overweighting
-semiconductors, energy, utilities, tobacco, banks and telecom,
-as well as select AI-related pockets of capital goods and
-metals & mining. Amid Europe’s high stock dispersion,
-idiosyncratic (stock-speciﬁc) momentum strategies are
-working well. So too are factors such as consensus earnings
-and price target revisions breadth. 
-European Stocks Have Been in More of a Holding
-Pattern Than US Stocks
-Source: Bloomberg, Morgan Stanley Wealth Management Global Investment
-Ofﬁce as of May 29, 2026
-Asia/Emerging Markets: Separating the Secular From
-the Cyclical
-The MSCI Emerging Markets Index is enjoying a strong cyclical
-upswing in proﬁts, with 40% EPS growth expected this year.
-However, we don’t see it as the beginning of a secular bull
-market. Valuations are elevated, capital returns lag developed
-market peers, and concentration and geopolitical risks argue
-against making passive index investments. Our new 12-month
-base case target is 1,800. The message for global investors:
-Stay neutral on EM over the cycle and prioritize alpha
-through active theme and stock selection.
-Emerging Market Equities Are Enjoying a Proﬁt
-Upswing
-Source: Bloomberg, Morgan Stanley Wealth Management Global Investment
-Ofﬁce as of May 29, 2026
-AI: Reshaping Leadership
-Beyond earnings, there is the AI factor. AI is not a narrow US
-tech story; it is reshaping sector leadership and regional
-relative value simultaneously. In the US, AI adoption/“run it
-lean” and an AI capex cycle that continues to show
-momentum are key drivers of our constructive view on
-earnings. We see the hyperscalers as an attractive relative-
-value trade at reasonable valuations.
-In Europe, we believe AI productivity and return on
-investment are low hanging fruit. While Europe only has
-pockets of exposure to AI capital spending, should the
-market return to a focus on disruption risks, the MSCI
-Europe Index has high weightings of relatively hedged real
-assets, 38%, and goods, 16%.
-In Asia/emerging markets, AI is helping to power this year’s
-exceptional 40% earnings growth forecast, with current
-estimates revisions driven by information technology and
-energy. AI is also reshaping the index. Taiwan has displaced
-China as EM’s largest market, and Korea has overtaken India
-to become the third largest, driven by the supercycle in
-memory chips and the infrastructure needed to power A.
-For Japan, our base case is constructive, and we forecast the
-TOPIX to reach 4,300 by June 2027. That said, risks
-surrounding the Middle East could weigh on corporate
-earnings through higher raw materials costs, energy prices
-and logistical expenses. Accordingly, our base-case EPS
-assumptions remain two-to-three percentage points below
-consensus forecasts.
-The dispersion between our bull and bear cases has widened.
-Our base case forward P/E is 17.5. In the bear case, a global
-oil-led recession could cause the P/E to fall as low as 12,
-equivalent to the bottom 4% of the past 10 years’ range.
-Conversely, in our bull case, we believe the earnings multiple
-could expand to 18, corresponding to the top 4% of the past
-decade’s range.
-In Asia/EM, concentrate on energy, materials, industrials, and
-semiconductors and memory chips. Avoid autos, consumer IT
-services/e-commerce and downstream commodity-exposed
-industries. We prefer North Asia over South Asia and
-Australia; Brazil over the rest of Latin America; and Greece,
-Hungary and Saudi Arabia over the rest of the Eastern
-Europe, Middle East and Africa (EEMEA) region. We also have
-a structural overweight in Japan. ■
-This article was excerpted from the May 12 Morgan Stanley &
-Co. Research report, “Constructive, Not Complacent.” For a
-copy of the full report, please contact your Financial Advisor.
+US POLICY
+Deal or No Deal: The US TradeAgenda
+Monica Guerra, Investment Strategist, Morgan Stanley Wealth Management
+Kyle Kerr, Associate, Morgan Stanley Wealth Management
+US trade policy is no longer just about goods balances or
+market access. Rather, it is likely to be leveraged to reward
+regional alignment with the US and limit the inﬂuence of
+competitor nations. Here we discuss how tariffs have moved
+from policy shock to policy framework and offer details on
+the bilateral negotiations underway with China, Mexico,
+Canada and Europe.
+TARIFF TABLE STAKES. Since the announcement of the
+“Liberation Day” tariffs in 2025, Morgan Stanley Wealth
+Management’s US Policy team has maintained that tariffs are
+not a temporary negotiating tool but an enduring feature of
+the current policy regime. This view has been informed in part
+by the US ﬁscal backdrop.
+The One Big Beautiful Bill Act (OBBBA) passed last year is
+estimated to add roughly $4 trillion to the federal deﬁcit over
+10 years, contributing to the US debt-to-GDP ratio’s rise
+above 100% this year and reinforcing the need for new
+revenue sources as debt-service costs continue to increase. To
+date, that thesis has largely played out. Even after the
+Supreme Court’s February 2026 decision invalidated the
+International Emergency Economic Powers Act (IEEPA) tariff
+regime, the administration moved quickly to preserve tariff
+revenues through alternate means, including via Section 122
+and Section 232 provisions and proposed Section 301 actions.
+While the renewal of Section 122 is unlikely, the Committee
+for a Responsible Federal Budget estimates that their quick
+utilization has helped the US government recoup more than
+half of the lost IEEPA revenue. 
+If implemented and made permanent, the proposed Section
+301 tariffs, along with recent adjustments to Section 232
+steel, aluminum and copper tariffs, will raise an estimated
+$970 billion over 10 years, directly offsetting Section 122
+tariffs and maintaining the average effective tariff rate at
+around 11%. The result of these potential changes is a trade
+policy framework that looks less like a temporary disruption
+and more like a durable revenue, industrial policy and
+geopolitical instrument.
+INFLATION IMPACT. While the road to tariff stability is slowly
+being paved, we emphasize that the ﬁnal outcomes remain
+uncertain. That said, other areas of tariff-related policy are
+becoming clear. Speciﬁcally, the tariff changes have largely
+been absorbed by the consumer, though Morgan Stanley &
+Co. economists expect tariff pass-through to personal
+consumption expenditures (PCE) inﬂation to fade over the
+coming months.
+While the inﬂation pass-through from the IEEPA tariff regime
+continued through the ﬁrst half of 2026, it decelerated after
+the February Supreme Court decision, with goods more
+exposed to tariffs rising less in April than goods less exposed.
+MS & Co. estimates that tariffs have added 62 basis points to
+inﬂation for the year to date but that core goods inﬂation will
+normalize as the tariff impulse fades (see chart).
+Tariff Pass-Through Is Likely to Fade
+Source: Morgan Stanley &Co. Research, Morgan Stanley Wealth Management
+Global Investment Ofﬁce as of May 31, 2026
+BILATERAL NEGOTIATIONS. The next phase of the trade
+agenda is likely to be deﬁned by bilateral trade negotiations.
+China remains the center point of US trade policy, but the
+administration is also focused on the 2026 review of the US-
+Mexico-Canada Agreement (USMCA), European energy and
+defense purchases and a growing list of deals aimed at
+redirecting supply chains toward countries aligned with US
+industrial and national security priorities.
+World Trade Organization data from 2025 clearly indicates a
+decoupling of the US and China, with US imports from China
+declining by 29%. The result is that China has fallen from top
+US trade partner to third in less than 10 years. Meanwhile,
+the US has sought to expand trade relationships with its
+closest neighbors. Today, Mexico and Canada have overtaken
+China and compete for the top position (see chart).
+The continued decoupling between China and the US reﬂects
+the latter’s efforts to diversify supply chains amid economic
+competition and national security concerns. Severing the
+nations’ interdependence, however, is challenging. Notably,
+last month’s Beijing Summit, between Presidents Trump and
+Xi, resulted in near-term deescalation, with negotiations
+repricing downside risks to China-exposed equities. The
+agreement reduced pressures on import costs and supply
+chains, supporting rare-earth minerals, semiconductors,
+technology hardware and agriculture. In addition, both
+countries agreed to continued communication, with the
+creation of the US-China Board of Trade and the US-China
+Board of Investment, aimed at fostering a more nuanced
+approach to tariffs and addressing investment-related
+irritants.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
-US CORPORATE CREDIT
-US Corporate Credit: Writing BiggerChecks
-Vishwas Patkar, Head of US Corporate Credit Strategy, Morgan Stanley & Co.
-LLC
-US credit markets will enter the second half of 2026 at a
-crossroads: strong fundamentals and robust demand at
-elevated yields versus surging supply that is set to accelerate
-further alongside rising “animal spirits.” Valuations are tight
-relative to history but look “normal” in the context of the
-past three years.
-THE GOOD NEWS FIRST. Corporate fundamentals are quite
-strong, whether one looks at leverage, cash-ﬂow generation,
-margins or liquidity. Adding to that, earnings have been
-nothing short of stellar, with earnings per share (EPS) for the
-past 12 months tracking at approximately 18% for companies
-in the S&P 500 Index.
-The macroeconomic outlook remains healthy, as Morgan
-Stanley & Co.’s economists expect over 2% growth in the US,
-underpinned by a resilient high-income consumer and surging
-artiﬁcial intelligence (AI) capex. The micro outlook is even
-better, with expected EPS for the S&P 500 at 23% this year
-and 12% next year, according to MS & Co. Research’s equity
-strategists. Monetary policy is a mixed bag, as we expect
-Federal Reserve rate cuts to get pushed out to the ﬁrst half
-of 2027. Yet the bar for rate hikes remains high, making the
-setup for credit demand quite healthy.
-In fact, demand for credit from “yield buyers” has been a
-deﬁning feature of this cycle, especially demand from
-insurance companies buoyed by ﬁxed annuity sales.
-Furthermore, mutual fund and exchange-traded fund inﬂows
-have been robust so far this year. Notably, overseas demand
-for credit remains steady despite market concerns about a
-weaker US dollar.
-THE FLIP SIDE. A credit cycle that was largely benign for the
-past few years is showing clear signs of heating up: Supply is
-surging broadly, set to hit a new high in investment grade
-credit and up more than 50% year over year in high yield.
-Corporate sentiment is improving, driving increased capital
-markets activity, with mergers and acquisitions volume up
-20% year over year. AI capex—a key driver of increased
-issuance—is expected to accelerate further; MS & Co.
-Research equity analysts have penciled in $1.1 trillion of
-hyperscaler spending in 2027, up from $800 billion in 2026.
-PUTTING IT TOGETHER. We see this tension of strong
-fundamentals and demand versus rising supply and corporate
-animal spirits resolving in a credit market that lags other
-asset classes that have better demand-supply dynamics, such
-as agency mortgage-backed securities and securitized credit,
-as well as equities that are more directly levered to the
-strong earnings cycle. That said, with investor demand
-proving to be very robust and relatively inelastic to spreads at
-high all-in yields, the absolute move in credit spreads is quite
-benign.
-The medium-term playbook remains similar to that of 1997–
-1998 and 2005: a strong economy with robust earnings, a
-cycle that has room to run and credit modestly wider and
-lagging equities amid strong supply.
-LOOKING AHEAD. We see investment grade spreads
-modestly wider at 90 basis points by the second half of 2027
-and generally ﬂat excess returns, driven largely by long-end
-underperformance. We have brought in our high yield spread
-forecast from 300 basis points to 275 basis points, reﬂecting
-a strong earnings cycle and tailwinds from modest bull
-steepening of the yield curve. Our forecast for loans is mixed:
-While macro is turning more supportive, the micro story is
-more nuanced, especially in software, where we see
-prolonged underperformance and price declines. Across
-scenarios, we continue to see high yield in the sweet spot.
-US Credit Spread Forecasts for 2027
-  2Q27 Forecast
-Bull Base Bear
-Index Spread (basis points)      
-Investment Grade 70 90 125
-High Yield 230 275 425
-Leveraged Loans 390 440 575
-Total Return      
-Investment Grade   7.0%  
-High Yield   7.4%  
-Leveraged Loans   6.6%  
-Defaults - 12 Month      
-High Yield 1.5% 3.5% 5.5%
-Leveraged Loans 2.5% 5.5% 8.0%
-Note: US IG (HY) and leveraged loan spreads forecast for the Bloomberg
-Barclays US Corporate IG (HY) Bond and PitchBook LSTA Leveraged Loan
-indexes. Leveraged loan default rate includes hard defaults and distressed
-exchanges from Moody's.  
-Source: Bloomberg, Dealogic, PitchBook LCD, Morgan Stanley & Co. Research,
-Morgan Stanley Wealth Management Global Investment Ofﬁce as of May 15,
-2026
-Our supply forecasts remain strong, with investment grade
-credit set for a record year at $2.25 trillion, up 25% from
-2025. We have marked up our high yield issuance estimate
-from $410 billion to $440 billion to reﬂect growing needs for
-AI ﬁnancing (see chart).
+The US-China Trade Partnership Is Weakening
+Source: Haver Analytics, Morgan Stanley Wealth Management global
+Investment Ofﬁce as of June 22, 2026
+While China remains the central target of US trade policy, the
+sell-off in both China- and Mexico-exposed equities suggests
+investors are increasingly considering broader supply chain
+risk rather than just risks pertaining to China. Mexico-exposed
+stocks have underperformed more sharply than China-
+exposed stocks, rising 21.6% since 2024 versus  the S&P 500
+Index’s 55.4%. But China-exposed stocks have also lagged,
+gaining 31.5% over the same period, underscoring that
+countries positioned to beneﬁt from decoupling are not
+immune to markets pricing trade policy risk.
+That distinction matters as the administration turns from
+China to North America. Mexico’s rise as a top US trade
+partner has been a direct consequence of supply chain
+diversiﬁcation, but its deeper integration with the US also
+increases its exposure to the next round of negotiations. The
+2026 USMCA review is likely to serve as a referendum on the
+strength of US leadership in Western Hemisphere trade
+dynamics.
+TENSIONS OVER USMCA. The USMCA replaced the North
+American Free Trade Agreement (NAFTA) in 2020, preserving
+duty-free treatment for most qualifying goods while
+tightening North American rules of origin and strengthening
+labor provisions, particularly in the auto industry. The
+agreement includes a 16-year sunset clause, with the ﬁrst
+major review date on July 1, 2026. On that date, the US
+announced that it does not support an extension, triggering
+the agreement’s annual review process while leaving the deal
+in force until 2036 absent a future renewal or withdrawal.
+The administration committed to these serial annual reviews,
+but they mean that ongoing negotiations are likely to be
+protracted as each year offers opportunities for more scrutiny
+and increased policy uncertainty.
+We expect a protracted debate into the fall, with the US
+increasing pressure on Mexico and Canada to make
+concessions in exchange for the core duty-free components of
+the deal and reduced industry-speciﬁc tariffs for non-USMCA-
+covered goods and services.
+We believe one of the central themes to emerge will be
+preventing the transshipment of goods from China, or the
+import of Chinese goods into the US through indirect
+channels. The US and Mexico have already begun discussions
+on this topic, with Mexico agreeing to increase tariffs on
+China-linked imports in exchange for increased import
+commitments from the US in support of Mexican
+manufacturing. This dynamic is critical for Mexico as the US
+accounts for 80% of Mexican exports.  
+The US-Canada side of the agreement is different, with the
+transshipment story less foundational, despite US criticism of
+Canada’s trade activity with China. Rather, the focus is
+expected to be on energy, autos, lumber, steel, aluminum and
+agricultural trade.  The Canadian trade surplus with the US
+reached its highest level since before President Trump ﬁrst
+imposed tariffs in February 2025. Higher exports of crude oil
+as well as passenger cars and light trucks drove up exports to
+the US, supporting Canada’s position as top US trade partner.
+Canada has faced lower effective tariff rates than most major
+US trading partners, with an average effective tariff rate of
+3.35% versus the overall average of 7.03%. This is due to a
+major share of its exports through March 2026 remaining
+largely duty-free, given USMCA compliance. Despite this
+advantage, trade policy uncertainty has weighed heavily on
+Canadian trade and investment decisions. We expect the next
+phase of trade risk for Canada to be less about broad tariff
+escalation and more about whether industry-speciﬁc
+industrial policy gradually erodes the value of preferential
+access under USMCA.
+DEALMAKING WITH EUROPE. Europe may not sit at the
+center of the tariff debate like China or have the same supply
+chain immediacy for the US as Mexico and Canada, but it is
+becoming one of the administration’s most important
+negotiating fronts. The trade discussion between the US and
+the European Union (EU) is less about decoupling and more
+about using tariffs to extract concessions on energy
+purchases, defense spending, digital regulation and industrial
+competitiveness. Europe’s growing reliance on US natural gas
+and renewed focus on defense spending make it a natural
+venue for dealmaking.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
-Strong Supply Forecasts for US Investment Grade and
-High Yield Credit
-Source: Dealogic, PitchBook LCD, Morgan Stanley & Co. Research, Morgan
-Stanley Wealth Management Global Investment Ofﬁce as of May 12, 2026
-We ﬁnd BB-rated loans attractive for carry, with spreads more
-reasonable than in high yield. Within high yield, we are
-overweight data center debt and favor B over BB credits as a
-way to take on more risk through a strong and broadening
-earnings environment. Within investment grade credit, we
-prefer banks and utilities and would be underweight
-technology. ■
-This article was excerpted from the May 12 Morgan Stanley &
-Co. Research report, “Constructive, Not Complacent” and the
-May 19 report, “Financing the Future.” For a copy of the full
-reports, please contact your Financial Advisor.
+The European Parliament recently approved legislation
+implementing the EU’s tariff commitments under the EU-US
+Framework Agreement on Reciprocal, Fair and Balanced
+Trade, also known as the Turnberry Agreement, struck in July
+2025. Under the framework, the EU agreed to lower barriers
+on certain US exports, while the US maintained a 15% all-
+inclusive tariff ceiling on most EU exports. The recent vote
+reduces escalation risk and supports US exporters in energy,
+defense, agricultural, seafood and industrial goods. Steel,
+aluminum and copper remain clear outliers at roughly 50%,
+keeping input-cost pressure alive. However, because of
+exemptions, most favored nation (MFN)-only treatment,
+product mix and the temporary Section 122 regime, the
+effective trade-weighted tariff rate is closer to 11%–12%.
+That stabilization matters because recent US-EU trade ﬂows
+have already weakened meaningfully, falling approximately
+38% from March 2025 to March 2026 (see chart). While the
+decline in EU exports to the US is not unprecedented in
+magnitude, with exports declining approximately 25% during
+the Great Financial Crisis, the current episode is distinct.
+Unlike prior downturns, which were largely tied to
+synchronized demand shocks, the recent weakness appears
+directly linked to tariff policy, front-loaded shipments ahead
+of implementation and subsequent trade-ﬂow adjustment.
+EU Year-Over-Year Exports to the US Have Declined
+Source: Eurostat, Bloomberg, Morgan Stanley Wealth Management Global
+Investment ofﬁce as of March 31, 2026
+INVESTMENT PERSPECTIVE. The US trade agenda is evolving
+from tariff shock into a more durable policy framework, with
+implications that cut across inﬂation, margins, ﬁscal revenues
+and supply chain strategy. Tariffs have helped raise revenue
+and strengthen negotiating leverage, but they also leave
+consumers and import-sensitive companies exposed to higher
+costs, even as the near-term inﬂation impulse begins to fade.
+For investors, the key distinction is no longer simply which
+countries face tariffs, but which sectors and industries can
+absorb, pass through or beneﬁt from the elevated tariff costs.
+Companies tied to reshoring, domestic capex, defense, energy,
+agriculture and strategic supply chains may be better
+positioned, while auto manufacturers, retailers, consumer
+goods companies, industrial importers and globally integrated
+manufacturers remain more vulnerable to policy uncertainty
+and margin pressure. ■
+This article was excerpted from the June 25 Morgan Stanley
+Wealth Management report, “US Policy Pulse: Deal or No
+Deal: Markets and the US Trade Agenda.” For a copy of the
+full report, please contact your Financial Advisor.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  10
-FOREIGN EXCHANGE
-A Bit More Slack for the Greenback
-Matthew Hornbach, Global Head of Macro Strategy, Morgan Stanley & Co.
-LLC
-We expect modest US dollar weakness to continue in the
-coming months, with the US Dollar Index (DXY), recently in
-the 98–99 range, bottoming at 95 in the third quarter of
-2026. This move is likely to be limited in size and duration,
-however, marking the ﬁnal phase of the cyclical dollar sell-off
-that began in early 2025, with the DXY retracing its losses to
-ﬁnish 2027 at around 100.
-In our view, the macroeconomic backdrop supports a softer
-US currency. Growth remains resilient, core inﬂation is easing
-toward trend and supportive ﬁscal, monetary and regulatory
-policies are sustaining strong risk appetite, particularly for US
-equities.
-INITIAL DOLLAR SOFTNESS. US interest rates and rate
-differentials are expected to decline in the coming months,
-with the European Central Bank (ECB) and the Bank of Japan
-hiking to levels closer to US fed funds and continuing the
-medium-term trend of rate convergence between the US and
-the rest of the world (ROW).
-We also expect the DXY’s discount to rate differentials to
-widen modestly. Continued investor debate over the dollar’s
-long-term safe-haven status suggests a higher equilibrium
-level of the risk premium in the currency, all else equal. This
-should be reﬂected in a greater discount to rates-implied fair
-value.
-As US and ROW front-end rates converge, currency hedging
-costs fall, encouraging more hedging ﬂows that amplify US
-dollar weakness. This interaction between rate differentials
-and hedging costs creates convexity in both bullish and
-bearish dollar scenarios.
-RECOVERY ON THE WAY. Despite this near-term weakness,
-we do not view the decline as structural. As we approach the
-end of 2026 and start 2027, we expect the US currency to
-bottom and begin recovering for a few reasons.
-First, we think US growth outperformance will ultimately
-prove an important magnet for capital into the US, which
-creates a sustainable bottom for the DXY. Second, we see
-scope for investors to add euro-negative risk premium into
-that currency as we approach the French presidential election
-in spring 2027.
- 
-We also remain skeptical of long-term bearish narratives
-around the dollar’s reserve status. While concerns persist,
-there is little evidence of a broad shift away from US
-assets. Without a credible alternative, the US dollar’s
-dominance is likely to continue, implying this is a cyclical, not
-structural, downturn.
-NEAR-TERM OUTPERFORMANCE FOR OTHERS. Cyclical
-currencies should outperform during the dollar’s decline,
-though gains versus the greenback will likely be broad-based.
-Nordic currencies and the Swiss franc should lead European
-gains while the British pound lags, and in the dollar bloc, the
-Australian dollar and New Zealand dollar should outperform
-the Canadian dollar. In emerging markets, the supportive risk
-backdrop should prove a generally positive catalyst, with
-higher carrying currencies in Latin America and the Central
-and Eastern Europe, Middle East and Africa (CEEMEA) region
-outpacing peers in Asia ex Japan.
-We forecast the euro-US dollar exchange rate rising above
-1.20 this summer and reaching 1.23 in the third quarter,
-though we see this as the end of the cyclical upswing. The
-euro is then expected to begin underperforming the US
-currency, and on crosses reﬂect the increase in euro-negative
-risk premium ahead of the French presidential election and a
-reduction in carry from ECB rate cuts back to 2%.
-Morgan Stanley & Co. Foreign Exchange Forecasts
-Currency vs. US Dollar 2026 2027
-Q2 Q3 Q4 Q1 Q2 Q3 Q4
-Euro 1.19 1.23 1.20 1.18 1.16 1.15 1.14
-Japanese Yen 160 160 157 159 156 153.84 151.69
-British Pound 1.36 1.39 1.38 1.36 1.34 1.32 1.30
-Swiss Franc 0.76 0.73 0.74 0.74 0.75 0.77 0.78
-Swedish Krona 8.99 8.62 8.67 8.73 8.79 8.87 8.95
-Norwegian Krone 9.08 8.70 8.83 8.90 9.05 9.27 9.48
-Canadian Dollar 1.36 1.35 1.35 1.36 1.36 1.36 1.36
-Australian Dollar 0.72 0.74 0.75 0.74 0.733 0.72 0.710
-New Zealand Dollar 0.59 0.61 0.62 0.61 0.60 0.61 0.61
-Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management Global Investment Ofﬁce as of May 12, 2026
+Short Takes
+Source: Bloomberg, Morgan Stanley Wealth Management Global Investment Ofﬁce
+as of June 30. 2026
+Source: Bloomberg, Morgan Stanley Wealth Management Global Investment
+Ofﬁce as of June 30, 2026
+Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management
+Global Investment Ofﬁce as of June 11, 2026
+Is Gold’s Weakness an Opportunity?
+The spot price for gold has dropped 26% since its peak in
+January, as outﬂows from gold exchange-traded funds
+(ETFs) have accelerated. The metal initially fell alongside
+equities during the Iran war, likely reﬂecting proﬁt-taking
+after a period of strong price momentum. Recently, a
+more-hawkish-than-expected Federal Reserve has tested
+market sentiment; inﬂation swaps—a market-based
+measure of inﬂation expectations—have declined sharply,
+while real yields and the US dollar have moved higher,
+creating a more challenging backdrop for gold. Even so,
+Morgan Stanley & Co. Research remains constructive, with
+a price target of $5,200 for year-end 2026, implying 27%
+upside, despite the difﬁcult near-term conditions.—
+Alfredo Pinel, CAIA and Sonny Mendez
+One Giant Leap for Space ETFs
+SpaceX not only launched a record-breaking IPO but also
+likely drove a burst of growth in “space ETFs” in the ﬁrst
+half of 2026. The ﬁrst ETF with a thematic tilt to space
+came to market back in 2018, and as recently as year-end
+2025, there were still only three to choose from. But
+alongside SpaceX’s debut, 19 space ETFs have achieved
+liftoff over the past six months. A hefty $4.1 billion has
+ﬂowed into this cohort of funds for the year to date. These
+include 11 leveraged and inverse funds directly related to
+SpaceX. —Michael Suchanick
+South Korea’s Renaissance Hits Home
+South Korean households’ stock market participation has
+increased signiﬁcantly in what may be an inﬂection point
+in their risk appetite. Based on a June 11 report by Morgan
+Stanley & Co. Research, household equity holdings surged
+48% in 2025 versus a prior decade-long average of about
+7%. This shift follows decades of accumulating wealth
+mainly from real estate and a bias toward cash and
+deposits. MS & Co. Research analysts expect retail
+investor engagement to continue and have raised their
+KOSPI target to 9,000 by mid-2027. Rising household
+participation, policy tailwinds and improving market
+structure are pillars of South Korea’s “renaissance”—a
+multiyear deepening of the equity market, according to
+MS & Co. analysts.—Jane Yu Sullivan, CFA, CAIA
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  11
-We see the Japanese yen lagging in terms of cross-currency
-pairs in the second half of this year, alongside the greenback,
-and the dollar-yen exchange rate largely holding steady
-versus the dollar around current levels. Several factors,
-including persistently attractive carry for investors with long
-dollar-yen positions and elevated energy prices, suggest
-limited yen gains for now.
-SCANDINAVIA LEADS. In Europe, the Swedish krona will
-likely ﬁnd itself a global and regional leader, with the euro-
-krona rate falling to 10.40 by year-end and approaching a ﬁve-
-year low in 2027. The euro-Norwegian krone should follow a
-similar trajectory, while the Swedish krona catches up with
-the Norwegian currency, which has outperformed year to
-date, and the exchange rate falls about 2%.
-The euro versus the Swiss franc should fall to 0.89 by year-
-end and trend further lower into 2027, aided by rate
-compression in 2027, additional election risk premium and
-what we think is investors’ underestimation of the Swiss
-National Bank’s tolerance of modest currency strength.
-Meanwhile, the British pound should ﬁnd itself lagging its
-European peers, thanks in part to continued investor focus on
-the UK ﬁscal and political outlook.
-THE DOLLAR BLOC. The Australian and New Zealand
-currencies should see roughly equal gains, with the Australian
-versus US dollar rate rising to 0.75 and that of New Zealand
-versus the US rising to 0.62 by year end. Both will be aided
-by the weaker US currency and supported risk appetite, but
-more accommodative monetary policy in Australia than the
-market expects and limited ﬁscal tailwinds in New Zealand
-should temper the gains. The US versus Canadian dollar is
-expected to trade sideways at around 1.35–1.36, lagging
-commodity bloc peers due to the weaker US currency and
-continued investor uncertainty over renegotiations of the US-
-Mexico-Canada Agreement. ■
-This article was excerpted from the May 12 Morgan Stanley &
-Co. Research report, “Constructive, Not Complacent.” For a
-copy of the full report, please contact your Financial Advisor.
+US ECONOMICS
+The Road Map to Potential RateHikes
+Michael T. Gapen, Chief US Economist, Morgan Stanley & Co. LLC
+Following the June Federal Open Market Committee (FOMC)
+meeting, we maintained our forecast for the Federal Reserve
+to stay on hold in 2026 despite nine FOMC participants
+having submitted a projection for at least one rate hike this
+year. 
+FACTORS SUPPORTING OUR NO-HIKE OUTLOOK. We
+retained our baseline outlook for no hikes for several reasons.
+First, our inﬂation forecast is more sanguine than that of the
+average FOMC participant. We believe tariff pass-through is
+ending, paving the way for substantial disinﬂation in core
+goods over the next year. In addition, the recently signed
+memorandum of understanding (MOU) between the US and
+Iran has helped push oil prices back toward preconﬂict levels
+(see chart). We also look for further moderation in shelter
+inﬂation and some payback from residual seasonality into
+year-end. On net, and following the release of May personal
+consumption expenditures (PCE) inﬂation, our forecast for
+fourth-quarter-over-fourth-quarter headline and core PCE
+inﬂation, of 3.2% and 3.0%, this year is substantially below
+that of the median FOMC participant.
+Oil Prices Have Fallen in Recent Weeks
+Source: Bloomberg, Morgan Stanley Wealth Management Global Investment
+Ofﬁce as of June 30, 2026
+Second, we suspect that participants’ stated projections may
+overstate inﬂation pressures. In March, FOMC participants
+had to form their inﬂation projections shortly after the Iran
+conﬂict began. Without knowing its duration, they likely
+underestimated the extent to which inﬂation would ﬁrm in
+subsequent months. We think the Fed may have been
+overstating inﬂation pressures in June since forecasts were
+likely formed before the MOU took hold. Nine participants
+submitted forecasts of fourth-quarter-over-fourth-quarter
+headline inﬂation of 3.5% to 3.6%, while eight submitted
+forecasts between 3.7% and 4.2%. This suggests the average
+inﬂation forecast lies above the median forecast. We think
+these are too high in light of the subsequent decline in energy
+prices.
+Third, we believe most of the nine dots indicating projections
+for rate hikes this year were submitted by Federal Reserve
+Bank presidents, who may not be voters, rather than by board
+members; we also think it is likely that the majority of voters
+on the committee prefer the status quo policy-setting despite
+the evolution of the outlook. These voters are likely more
+comfortable with this outlook given incoming data since the
+conclusion of the June meeting.
+Finally, consumer spending has softened, in both as-reported
+and revised data, and we view recent payroll gains through
+May as outsized, due in part to a catch-up effect in hiring
+following the implementation of protectionist trade policies
+last year. If the Fed is patient, we expect FOMC voters to
+prefer the current policy stance over a more restrictive one.
+DATA THAT COULD CHANGE OUR OUTLOOK. That said, our
+forecast for monetary policy in 2026 depends on several
+conditioning assumptions that may not hold, and we detail
+how data could evolve in a way that leads us to change our
+outlook in favor of rate hikes. We focus most of our attention
+on our outlook for the data ﬂow in June through August given
+that the Fed will see it before it meets in September. If the
+Fed wants to raise rates in July, it seems unlikely that any data
+between now and then will sway the central bank’s thinking.
+Hence, we frame the data road map in terms of what may kick
+the Fed into action in September, or keep it on hold longer.
+On the inﬂation front, the Fed’s projections assume monthly
+run rates that persisted from April 2025 through December
+2025, which could result from core goods inﬂation closer to
+0.2% month over month on account of elongated tariff pass-
+through or more robust second-round effects from higher
+energy prices. This would mean a month-over-month core
+inﬂation rate around 0.3%. In our forecast, core CPI and PCE
+inﬂation run slightly below 0.2% month over month, on
+average, in the three releases between June and August.
+Hence, upside surprises to core could change our thinking.
+In addition, oil futures prices point to substantial payback in
+energy prices in June and July, with energy prices in PCE
+inﬂation set to fall by about 5.0% and 2.6%, respectively.
+Should the MOU between the US and Iran not hold and
+subsequent hostilities reclose the Strait of Hormuz, our
+forecast for monthly headline CPI declines, and roughly ﬂat
+readings on headline PCE inﬂation might not materialize. This
+would represent a higher probability of our oil risk premium
+scenario, where headline inﬂation remains ﬁrm and second-
+round effects on core inﬂation materialize.
+In the labor market, we project average increases of 50,000
+to 60,000 per month over the summer (total nonfarm and
+private), which should keep the unemployment rate roughly
+steady near recent levels. Should payroll gains outperform
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  12
-MUNICIPAL BONDS
-Keeping Cool With Munis
-Mark T. Schmidt, CFA, Strategist, Morgan Stanley & Co. LLC
-The economy is running hot, and municipal bonds may be a
-way for investors to keep cool.
-Despite a resilient US economy, there are still plenty of late-
-cycle signals as well as an unusual energy shock with
-uncertain feed-through to US inﬂation. We expect demand for
-munis to rise $50 billion beyond our earlier forecast, as
-investors rebalance portfolios and seek a late-cycle haven. We
-now anticipate about $200 billion in inﬂows for 2026.
-Meanwhile, supply is on track to meet our full-year target of
-$600 billion–$625 billion—but not exceed it. For the asset
-class overall, we forecast a total return of 5% this year.
-Given our expectations for an unusually favorable
-macroeconomic backdrop, with support for munis as a
-“haven,” it feels like 1996. Growth is accelerating, inﬂation
-may mellow and the Federal Reserve should eventually cut
-rates—an ideal recipe for positive muni performance.
-As demand rises, ratios between municipal bond yields and
-US Treasury yields should tighten. A key consideration is that
-several factors are likely to prompt high net worth investors
-to favor munis over other options. 
-Municipal Bonds: Forecast for Total Returns
-Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management
-Global Investment Ofﬁce as of May 18, 2026
-ATTRACTING HIGH NET WORTH INVESTORS. Among those
-factors is the environment for alternative investments, which
-have looked risky. Private credit industry challenges have
-made retail alts funds less attractive than before, dulling the
-appeal of a new asset class that had competed for the
-marginal high net worth investor dollar. Then there’s the
-equity market, with stocks potentially hitting new highs.
-Although this would be backed up by solid earnings growth,
-investors may want to lock in record gains and de-risk by
-rebalancing into munis.
-Additionally, municipal bond tax risk feels remote. Divided
-government looks probable for several years, making it less
-likely that munis’ tax exemption enters into either the policy
-discussion or investors’ frame of mind.
-ACCELERATING FLOWS. We expect ﬂows to accelerate
-across mutual funds, ETFs and separately managed accounts
-(SMAs), as investors add about $200 billion to the municipal
-bond asset class this year. With ratios tightening, banks and
-insurance companies may sell munis on the margin.
-Led by energy prepay and housing bonds, new issue volumes
-have been steady at around $11 billion–$13 billion per week.
-Supply-chain limitations, not economic uncertainty, are likely
-holding capex back for local governments and infrastructure
-enterprises. We expect supply to remain in this steady range
-until favorable summer reinvestment technicals reassert
-themselves, driving spreads and ratios tighter.
- 
-Record earnings growth means another good year is in store
-for government tax collections. Strength in mergers and
-acquisitions, initial public offerings and overall capital gains
-are likely to support municipal tax collections—good news
-for governments large and small. It should also ensure that
-spreads for California and New York bonds stay subdued.
- 
-SECTORS AND STRATEGY. In terms of sectors, gas/energy
-prepay bonds remain our top pick, followed by housing.
-Prepay bonds beneﬁt from liquidity, credit diversiﬁcation and
-excellent duration-adjusted spread. We continue to expect
-additional SMA buyers over the next 12 months, providing a
-technical tailwind.
-We are broadly equal-weight muni duration, though we would
-stay selective in maturities beyond 20 years. While a strong
-economy should keep credit quality intact, tight spreads make
-us favor investment grade over high yield, and coupon
-spreads over credit spreads. ■
-This article was excerpted from the Morgan Stanley & Co.
-Research May 12 report, “Constructive, Not Complacent,” and
-the May 18 report, “Keep Cool and Buy Munis.” For copies of
-the full reports, please contact your Financial Advisor.
+our expectations and push the unemployment rate below the
+median FOMC participants’ estimate of the longer-run neutral
+rate (4.2%), then the Fed may decide a more restrictive stance
+is needed to prevent labor market overheating. We think a
+move below 4.0% unemployment by September would
+increase cause for concern that the labor market is much
+stronger than thought.
+Finally, we acknowledge that economic data may not be the
+deciding factor for some FOMC participants. A year ago, the
+Fed viewed its policy stance as inappropriate in light of its
+view that downside risk to employment outweighed upside
+risk to inﬂation. Some of the nine projections for rate hikes
+may reﬂect a reversal in this risk-management approach; the
+participants may see the distribution of risks as skewed
+sufﬁciently in the direction of ﬁrmer inﬂation and view the
+current policy stance as inappropriate. In other words,
+subjective assessments about the distribution of outcomes
+around the modal path may be enough for hikes, diminishing
+the inﬂuence of incoming data.
+For now, we retain our forecast for no rate hikes from the Fed
+this year. While incoming data since the June FOMC has made
+us marginally more comfortable in this view, we remain
+attentive to the data and will adjust our views accordingly as
+the economy evolves. ■
+This article was excerpted from the June 26 Morgan Stanley &
+Co. Research report, “The Data Road Map to Rate Hikes.” For a
+copy of the full report, please contact your Financial Advisor.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  13
-HOUSING
-US Housing: Nowhere to Go But Up?
-James Egan, Strategist, Morgan Stanley & Co. LLC
-The US housing market is stuck in neutral. Existing home
-sales volumes are at their lowest level in decades. New home
-sales volumes are down 5% in the ﬁrst quarter on a year-
-over-year basis, for the softest ﬁrst three months of the year
-since 2017. Meanwhile, single-unit housing starts are down 6%
-to start the year and have come down 19% since local peaks
-in 2022. Nationally, home prices continue to climb, but the
-pace of the increase has slowed to just 0.7% year over year.
-With the 10-year US Treasury yield—the benchmark rate for
-residential mortgages—likely to be above 4% throughout the
-forecast horizon, we expect little affordability relief. Housing
-reform at the federal level will remain in focus, and while
-some form of intervention appears likely, we do not think it
-will have much impact on housing activity or prices in the
-next year or two.
-SUPPRESSED DEMAND. The combination of challenged
-affordability and geopolitical uncertainty/volatility should
-keep demand suppressed, while climbing for-sale inventory
-should continue to weigh on price appreciation (see table). At
-the same time, accelerating weakness in new home pricing
-and stubbornly elevated inventories there should keep
-building volumes muted. All told, we expect the housing
-market to deliver similar results to what we have been seeing:
-low single-digit growth in prices and sales, while housing
-starts contract in the short term before gaining some
-momentum out into 2027.
-Our affordability outlook assume a 30-year mortgage rate
-that ﬁnishes 2026 at 6.25% before ending 2027 at 6.125%.
-Affordability, as deﬁned by mortgage payment as a
-percentage of income, improves over the forecast horizon as
-income growth exceeds price appreciation, but it remains near
-its most challenged in decades.
-LOCKED IN. Affordability is also affected by the “lock-in”
-effect. About 75% of the mortgage universe has a rate below
-6%, which stiﬂes demand. Just think about the advantageous
-ﬁnancial position these households are in. For example, the
-monthly payment on the median-priced home in 2016 was
-13.6% of median household income. 
-If we assume that homeowners reﬁnanced during the period
-of record-low mortgage rates in 2020 and 2021 and that their
-income has grown at the same pace as median household
-income, their payment would only be 7.8% of their income
-today. After accounting for higher mortgage rates and home
-prices, the median purchaser today can expect a payment
-closer to 22% of their income. Exchanging that seasoned
-mortgage payment for today’s median would mean increasing
-monthly servicing costs by over $1,300, or roughly 200%.
-That said, some volume of housing transactions has to occur
-regardless of where affordability is. For 10 quarters now,
-existing home sales as a percentage of housing stock have
-been bouncing around 40-year lows. We expect support at
-these levels to hold.
-Single-unit building volumes continue to be the softest major
-housing metric, down a further 6% in the ﬁrst quarter after
-falling 7% year over year in 2025. Single-unit housing starts
-are down 19% from local peaks in 2022. That has allowed the
-backlog in units under construction to clear.
-HIGH HOME INVENTORY. The decrease in homes being built
-has not led to more new homes being sold. The inventory of
-new homes available for sale has climbed to its highest levels
-since 2008, and elevated new home inventory has weighed
-on pricing. Despite homebuilders offering rate buydowns that
-prop up home prices all else equal, new home prices have
-fallen below existing home prices for the ﬁrst time in the
-multidecade history of our data. With new home inventory
-elevated, homebuilder conﬁdence near its lowest levels since
-the Great Financial Crisis and new home prices continuing to
-fall, it is difﬁcult to see a material rebound in housing starts in
-2026.
-As inventory growth has outpaced demand, price appreciation
-has decelerated. As we approach 0% nationally, we expect
-home prices to ﬁnd a ﬂoor. There simply is not enough for-
-sale inventory to meaningfully drive prices down. We also do
-not expect distress to be severe enough for forced selling,
-which is typically indicative of larger price corrections. ■
-This article was excerpted from the May 15 Morgan Stanley &
-Co. Research report, “A Balancing Act.” For a copy of the full
-report, please contact your Financial Advisor.
-Morgan Stanley & Co. 2026 and 2027 US Housing Forecasts
-  Percent Change Actual Values
-2024A 2025A 2026E 2027E 2024A 2025A 2026E 2027E
-Home Price Appreciation (HPA) 4% 1% 2% 2%        
-Existing Home Sales -1% 1% 0% 3% 4,060,000 4,080,000 4,100,000 4,250,000
-New Home Sales 3% -1% -1% 6% 685,000 679,000 675,000 715,000
-Single-Unit Housing Starts 7% -7% 1% 3% 1,060,000 942,000 950,000 980,000
-Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management Global Investment Ofﬁce as of May 15, 2026
+CROSS-ASSET STRATEGY
+Financing AI: Is Capital theConstraint? 
+Michael J. Cyprys, CFA, CPA, Equity Analyst, Morgan Stanley & Co. LLC
+Artiﬁcial intelligence (AI) infrastructure is evolving from
+hyperscaler-funded capital expenditure into a multi-asset
+ﬁnancing ecosystem. We believe the constraint is not capital
+availability but how markets intermediate AI investment
+across equity, credit, securitization and private capital—with
+power and compute the real bottlenecks.
+A STEP-CHANGE. Like prior waves of technology, AI is
+expected to scale compute capacity by roughly 10 times,
+driving a step-change in infrastructure investment. The mobile
+internet followed a similar path, expanding compute by
+around 10 times and supporting roughly $1 trillion of cloud
+and network capex, while reshaping market leadership as new
+platform companies emerged and disrupted incumbents (see
+chart). 
+Every Tech Cycle Delivers 10 Times More Compute
+Source: Morgan Stanley & Co. Research, Company data; Morgan Stanley
+Wealth Management Global Investment Ofﬁce as of  May 29, 2026
+We believe AI could be larger and last longer than prior
+cycles because it requires a broader infrastructure footprint
+and is progressing at a faster pace. Investment spans
+semiconductors, servers, networking, data centers, power,
+cooling and related infrastructure. At the same time, model
+capabilities, inference demand and enterprise adoption
+continue to grow rapidly, creating a need for sustained
+incremental capacity. Across model development, usage and
+spend, the trajectory continues to surprise to the upside,
+underscoring the difﬁculty of forecasting exponential growth
+in real time.
+In the ﬁrst four years of this build-out, aggregate capex is
+tracking above $1 trillion, roughly 10 times higher than early-
+cycle cloud spending. Looking ahead, hyperscaler capex is
+expected to exceed $1 trillion annually by 2027, with compute
+capacity increasingly becoming a key constraint to further AI
+scaling. These dynamics suggest we are still in the early
+stages of a cycle, and as the infrastructure build-out
+broadens, funding will likely need to extend beyond
+hyperscaler balance sheets, making public and private capital
+markets critical enablers of the next phase of AI deployment.
+FINANCING THE BUILD-OUT. We believe the AI infrastructure
+cycle represents not only the next compute cycle, but also
+the next major capital markets evolution. The scale, duration
+and infrastructure-like characteristics of AI investment
+increasingly require ﬁnancing structures that extend beyond
+hyperscaler balance sheets and traditional corporate capex
+funding. In our view, the key challenge is not whether
+sufﬁcient global capital exists, but how ﬁnancial markets
+evolve to intermediate that capital across public equity,
+credit, securitized products, bank capital, private
+infrastructure and alternative ﬁnancing channels.
+The AI build-out should be supported by a diverse set of
+capital pools and ﬁnancing channels. These may include
+approximately $256 trillion of asset-owner capital; potentially
+$2.6 trillion of annual public equity issuance capacity and $17
+trillion of annual debt and loan market issuance capacity;
+nearly $8 trillion of money market liquidity; about $5 trillion
+of private market funds waiting to be deployed; and some
+$2.5 trillion of bank balance sheet capacity.
+Importantly, each capital pool is appropriate for different
+parts of the AI infrastructure stack, with investor mandates,
+liquidity needs, duration, collateral and return requirements
+shaping where capital is most likely to ﬂow. This is all while
+power and compute capacity remain the true bottlenecks. 
+DEEP POOLS OF GLOBAL CAPITAL. Concerns have surfaced
+around the ability of capital markets to ﬁnance a $10 trillion
+AI build-out, but we view these as overdone. We acknowledge
+that $10 trillion is large in absolute terms, but global capital
+pools are deep and diversiﬁed (see chart), and spending
+should unfold over a multiyear build-out cycle rather than all
+at once.
+Global Capital Pools Total $256 Trillion
+Note: Data as of December 2024, except sovereign wealth funds as of March
+2026 and international foundations as of December 2025. 
+Source: Morgan Stanley & Co. Research, Morgan Stanley Wealth Management
+Global Investment Ofﬁce as of June 30, 2026
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  14
-Q&A
-Emerging Market Equities: Can ItLast?
-After a 30% gain in 2025, emerging market equities have
-returned a remarkable 25% for this year through May.
-According to Alison Shimada, senior equity portfolio manager
-and head of the Total Emerging Markets team at Allspring
-Global Investments, this may well be the start of a multiyear
-cycle for these increasingly complex and technology-oriented
-markets. She recently discussed her outlook and the
-evolution of emerging market equity investing with Alfredo
-Pinel, global strategist at Morgan Stanley Wealth
-Management. Below is an edited version of their May 19
-conversation.
-Alfredo Pinel (AP): Let’s start with the outperformance. We
-haven’t seen this type of performance from emerging markets
-since the years following the Great Financial Crisis and the
-2000–2008 cycle led by the BRICs (Brazil, Russia, India and
-China). What do you think is driving the current
-outperformance, and how durable is it?
-Alison Shimada (AS): I think those are the questions on
-people’s minds at this moment. Most people haven’t been
-heavily involved with emerging markets since the last
-upswing 15 years ago—and so the outperformance has been a
-surprise.
-The drive for investors to look outside the US started last
-year with greater policy uncertainty in the US and a decline in
-the dollar. That was a high-level signal to diversify. There’s
-been a preponderance of allocations to the US, particularly to
-the technology sector, which has provided most of the
-earnings growth and capital appreciation.
-It’s said that every decade, market leadership changes. I think
-the most recent phase, with the US leading, was longer
-because of the pandemic. I’m not expecting a collapse of the
-US market, but it can’t be the only one that substantially
-outperforms. I think emerging markets will have a multiyear
-cycle, and there are a multitude of reasons for it.
-AP: You’ve been managing portfolios in emerging markets for
-20 years and global equities before that. How are companies
-in the emerging markets index different today from the early
-2000s? And is the current story broad-based or just an AI
-infrastructure trade?  
-AS: When we think about the sectors that led emerging
-markets in the 2000s through the 2008 market peak, energy
-and materials were dominant at about 29% of the index. So
-were ﬁnancials. But there was low representation from the
-tech and consumer sectors. I think what most people
-remember when they look back was a volatile, highly cyclical
-equity market.
-Since then, the emerging markets have been maturing. The
-larger countries like India, China, Korea, Taiwan, Brazil, Poland
-and those in the Middle East are all going up the same
-trajectory. There have also been structural changes: younger,
-growing populations in many countries, aging societies in
-others and the ﬁnancialization of savings—with households
-routing their savings into domestic markets.
-In terms of companies, ﬁnancials are still 18%–19% of the
-benchmark, but technology is now extremely large at the
-moment at 40% of the index, while energy and materials
-sectors have dropped to around 9%. During the bull market in
-the early 2000s, technology was centered in the developed
-markets, but now emerging markets are at the center of
-technology. That is a very big change, and it’s not a sideshow:
-Tech is critical to their development. Even if there is a tech
-pullback, it will remain a value-added area within emerging
-markets.
-So emerging economies have become more complex. They
-aren’t simply commodities and export stories anymore. That
-to me is why people need to consider exposure to them; the
-majority of global GDP now comes from emerging markets.
-AP: Turning to speciﬁc countries, India has a great secular
-growth story, but its equity market has been underperforming
-emerging markets for the past couple years—possibly this
-has been its worst underperformance ever. What do you think
-is driving this disconnect, and how are you thinking about
-India now?
-AS: India did well from 2021 through 2024, but that pushed
-valuations into expensive territory. Over the past year,
-investors have also begun to focus more on AI, and they see
-India as a bit of an anti-AI play or lagging on AI. So, I’d say
-valuations and lack of direct AI exposure in India drove capital
-into AI-heavy countries, including in North Asia.
-While one must be very selective, there are interesting areas
-to play in India. Number one is favorable demographics, which
-is supportive of ﬁnancial services, certain areas of
-consumption and autos. I also think India realizes from the
-Iran war that it needs a more aggressive stance on building
-out energy infrastructure. So I expect a refocus on this area,
-as well as increasing investment in ﬁnancial assets over hard
-assets.
-I’m very positive about India in the sense that it has an
-effective government in place for the ﬁrst time in a number of
-years. The government has built out services in rural areas to
-bring people out of poverty; institutionalized and
-standardized government regulation; and chosen certain
-sectors like energy and utilities to focus on.
-Going forward, the emphasis in emerging markets will
-broaden out. However, some consolidation within India’s
-stock market here would be helpful to lower valuations a bit
+With global retail and institutional capital pools at an
+estimated $256 trillion, a $10 trillion AI investment cycle
+would represent around 4% of identiﬁed asset-owner capital.
+Global equity market capitalization provides another
+reference point, at $159 trillion, with the US alone at about
+$76 trillion. Even though not all of this capital is available for
+AI, the aggregate pool appears large enough to support the AI
+build-out provided that the underlying economics remain
+attractive. 
+Importantly, the AI ﬁnancing need should not require
+meaningful liquidation of existing asset-owner holdings, as
+funding is more likely to come through gradual portfolio
+reallocation, new issuance, maturing ﬁxed income portfolios,
+private capital deployment and structured ﬁnancing channels.
+In particular, large institutional investors continually receive
+principal repayments and coupon cash ﬂows from sizable
+bond portfolios, creating recurring reinvestment capacity that
+can be redirected toward newly issued AI-related debt,
+infrastructure and private market opportunities over time.
+Further, continued strong retail demand for annuities—driven
+by aging demographics and demand for income and
+guaranteed retirement solutions—should continue to support
+insurance company demand for attractive investment-grade
+ﬁxed income and long-duration assets, including asset-based
+and structured solutions.
+DIFFERENT BUYERS, DIFFERENT INVESTMENTS. These
+capital pools are not interchangeable, as portfolio
+construction and asset allocation mandates should shape
+which parts of the AI build-out each investor pool is best
+positioned to ﬁnance. Insurance balance sheets are naturally a
+better ﬁt for long-duration, income-oriented credit and
+structured products, making them a logical source of demand
+for investment grade credit, asset-backed and commercial
+mortgage-backed securities, private credit and asset-based
+ﬁnance tied to contracted data center cash ﬂows (see chart).
+Pension funds and sovereign wealth funds can take a broader
+portfolio approach, with allocations across public equity,
+private equity, infrastructure, real assets and private credit,
+making them appropriate to participate across both corporate
+growth and longer-duration AI infrastructure projects.
+Insurance Capital Skews Toward Fixed Income
+Source: SNL, Morgan Stanley & Co. Research, Morgan Stanley Wealth
+Management Global Investment Ofﬁce as of September 2025
+ADDRESSING CONCENTRATION RISK. Financing activity is
+increasingly concentrating around a relatively small group of
+hyperscalers and highly rated technology issuers, which over
+time could create portfolio-construction and single-name
+exposure considerations for some asset owners. That said,
+institutional capital pools remain substantial, including
+around $42 trillion of insurance assets, $42 trillion of pension
+assets and $16 trillion of sovereign wealth fund capital.
+Further, concentration constraints vary meaningfully across
+institutions and are likely less relevant for some investors. In
+our view, investors also have tools available to help mitigate
+concentration risk if needed, including purchasing single-name
+or basket hedging through credit default swaps and other
+hedging structures.
+GROWING PRIVATE SECONDARY MARKET. We acknowledge
+that some investors may face constraints in increasing their
+private market allocations in the near term, given muted
+distributions and ongoing challenges in distributions to paid-in
+capital across portions of private markets. However, we
+increasingly see liquidity and portfolio management solutions
+emerging through the rapid expansion of the private
+secondary market. Secondary transaction volume exceeded
+$200 billion in 2025 for the ﬁrst time, up roughly 40% year
+over year; this was driven by both limited partner (LP)-led
+sales and general partner (GP)-led continuation vehicles and
+has compounded at around 20% annually since 2013.
+Looking ahead, the secondaries market continues to broaden
+beyond traditional buyout strategies and appears well
+positioned to support LP and GP liquidity needs, with over
+$200 billion of available funds ready to be invested. We
+believe secondary liquidity solutions, combined with an
+improving distribution backdrop over time, should help return
+meaningful liquidity to asset owners and support continued
+capital deployment into AI infrastructure and related private
+market opportunities. ■
+This article was excerpted from the May 29 Morgan Stanley &
+Co. Research report, “AI: Financing the Next 10x Tech Cycle—
+Is Capital the Constraint?” For a copy of the full report,
+please contact your Financial Advisor.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  15
-more. To me, earnings growth and valuations are always key
-to emerging markets; India’s not cheaper than other markets
-at the moment, and that’s a negative.
-AP: You mentioned the ﬁnancialization of assets in emerging
-markets as a structural shift. What do you think the
-implications are for equity markets and capital formation over
-time?
-AS: This is something that’s commonly overlooked as a driver
-of capital markets. In India, for example, automated ﬂows—
-taken out of people’s paychecks—go into mutual funds.
-These are consistent ﬂows regardless of market conditions.
-This is very supportive to the markets.
-Over the past three to ﬁve years, I’ve seen a realization in
-emerging markets—including China and Korea—that retail
-investors are the backbone of domestic markets rather than
-the foreigners coming in and out to trade. Governments are
-seeing the beneﬁt of providing good ﬁnancial education and
-having their own citizens invested.
-I also see a shift away from physical assets like gold and
-property. In China, for example, people were heavily geared to
-property, but there’s been improvement recently in their
-understanding of the stock market—that it’s not a casino. I
-expect that more household savings will head toward the
-markets in the future, both in emerging and developed
-markets.
-AP: China has become quite differentiated, and its
-correlations with other markets have plummeted. How are
-you balancing what appear to be good, long-term
-fundamentals at Chinese companies against the negative
-macroeconomic backdrop?
-AS: We’re relatively positive on China, and several people on
-our team have long-standing experience in the country. A few
-years ago, China was deemed “uninvestable,” and recently, it
-has been considered somewhat of a “safe haven.” I think China
-is neither—but perhaps in between. Never underestimate
-countries with an extremely high level of intelligence of
-ﬁnancial capital and a centralized government that can
-mobilize people very quickly. While you’re looking the other
-way, they can be developing all sorts of things.
-That’s what led to the DeepSeek moment in early 2025. I
-think China is moving into the upper echelon of cutting-edge
-technology, much as Japan did 30 years ago, to avoid
-complete commoditization of the economy—things like
-humanoid robotics, self-driving, automation, and even EVs and
-battery technology, though these are becoming a bit more
-commoditized.
-As for the property market in China, we’ve seen bubbles like
-this before—for example, in Southeast Asia in the late ’90s
-and early 2000s. They just built too much, and that has to
-unravel—it takes seven to 10 years to work through. For
-China, I think it will probably take another year or two to
-bottom out. However, that doesn’t mean the Chinese
-economy isn’t strong. It has a very tiered economy, a large
-service industry and a strong industrial base in a variety of
-sectors.
-There are some difﬁculties. Consumption has been slow to
-return. China’s access to AI is not complete without advanced
-computer chips from the US, but it can develop technology
-on its own—and more elite students are likely to stay in
-China now.
-AP: There’s been more fragmentation of the global economy
-over the past few years. When you invest in companies, how
-are you thinking about risks like geopolitics and supply
-chains?  And is this creating opportunities for active
-management?
-AS: Back in 2016–2020, all you had to do was buy ﬁve
-Chinese internet stocks, and I don’t think experience mattered
-that much. Even last year you could have invested in an
-emerging markets ETF, and it would have been ﬁne—
-everything was moving up. But now, with the war in Iran, US
-tariffs and all sorts of elections going on, we are in a different
-situation. If you want to have steady returns, you need to pick
-the stocks correctly. I think emerging markets absolutely
-require active management at this point in time.
-We take a bottom-up approach with a top-down view. There
-are similarities in the 24 countries in the MSCI EM index, but
-there are differences as well, so you have to make
-judgements on a country basis rather than an asset class
-basis. Our approach involves having a strong country view
-combined with stock selection that’s guided by shareholder
-return, which we think is an early indicator of better
-corporate governance and quality. This has been a very
-consistent way to invest in emerging markets.  
-AP: With the world becoming less globalized, do you see
-consumers in emerging markets shifting to local brands and
-“national champions?” Do you think that poses a longer-term
-challenge for multinationals that have beneﬁted from
-emerging markets growth in the past 20 years or longer?
-AS: Yes, there is a shift to local brands, and it’s partially
-dependent on cost to consumers. I think multinationals went
-into emerging markets just seeing big populations, without
-varying income levels. Now, there are more barriers to entry
-and higher costs in servicing overseas markets for
-multinationals.
-The local brands are also very strong, and there is much more
-competition for the consumer wallet today, from white
-goods, or household appliances, to alcohol to beverages to
-consumer staples. This may have been an evolutionary
-process: Local companies learned from watching
-multinational brands.
+Q&A
+The Wide World of Sports Investing
+Investing in sports has taken off as teams and leagues have
+become more proﬁtable, pursuing media rights, corporate
+sponsorships and global expansion. Sports teams are no
+longer “trophy” assets, explains Mark Affolter, partner and co-
+head of sports, media and entertainment at Ares. As soccer’s
+World Cup was underway across North America, he discussed
+the expanding universe of sports investing with Morgan
+Stanley & Co.’s lead analyst for media and entertainment,
+Sean Difﬂey. Below is an excerpt from their conversation on
+June 22.         
+Sean Difﬂey (SD): Let’s start with the development of sports
+investing itself. What has taken sports from entertainment to
+an investable asset class?
+Mark Affolter (MA): I think a combination of factors has come
+together over the past ﬁve years. COVID caused liquidity and
+cash-ﬂow constraints in sports overall and essentially
+catalyzed the move. Since then, I would go so far as to say
+that sports has become an institutionalized asset class.
+First and foremost over that time, the sports league
+regulatory framework has allowed for more direct investing in
+team stakes. The National Football League (NFL), for example,
+approved a select group of institutional capital providers,
+including Ares, to invest directly for the ﬁrst time in team
+stakes. There are also opportunities now in Major League
+Baseball (MLB) and the National Hockey League (NHL). From
+an investment perspective, the beauty of team stakes,
+particularly in closed leagues, which rarely expand—like
+those in North America—is that there’s a high degree of
+scarcity value.
+Another development is the rising cash ﬂows. Revenues and
+proﬁts associated with sports clubs, teams and the broader
+ecosystem have shown great growth. And on the team and
+league side, in particular, the cash ﬂows look like
+infrastructure ﬂows: They are underpinned by long-tail
+contractual revenues coming from media rights deals and
+auctions, as well as long-tail corporate sponsorship revenues.
+We believe these have improved the overall ﬁnancial proﬁle
+of the asset class.
+The proﬁles of the owners have also changed. They’re
+surrounding themselves with more sophisticated
+management teams—individuals who have business-building
+or private equity backgrounds—and as a result, they’re
+ﬁnding ways to pull growth-revenue levers. I think that’s
+changed the dynamics quite a bit and really accelerated
+growth in the asset class.
+SD: Are there any misconceptions about sports investing
+today?
+MA: I think the biggest misconception is the idea that sports
+teams and leagues are “trophy” assets. That implies that the
+investment opportunity is around intrinsic, emotional value as
+opposed to economic fundamentals. In fact, we ﬁnd the
+proﬁtability, cash ﬂows and balance sheets associated with
+sports clubs—the economic fundamentals—to be really
+compelling, and sports teams generally have high organic
+growth potential.
+SD: Aside from team ownership, how can investors gain
+exposure to sports?
+MA: The ecosystem is much broader than just team and
+league stakes. We think of all the adjacencies as part of the
+opportunity set—entities like ticketing platforms, stadium
+management and equipment- and gear-related businesses.
+Not only are they key stakeholders, but they also index to the
+same growth and proﬁtability that team and league stakes do.
+So they offer more opportunities to invest in the same
+fundamentals but enable investors to construct portfolios
+with a high degree of diversity. At Ares, we have ﬂexible
+capital, investing up and down the balance sheets of these
+entities.
+We look at the entire sports ecosystem as representing
+between $2 trillion and $3 trillion in opportunities. In
+contrast, focusing on just North American professional sports
+teams represents closer to $300 billion to $500 billion of
+that total addressable market.  
+SD: What do you think makes sports assets attractive from an
+investment perspective compared with more traditional asset
+classes?
+MA: While I would emphasize the scarcity value—the limited
+number of teams—the resiliency and value associated with
+sports assets start with the loyal customer base, if you will—
+the fans. Having lifetime viewership associated with your fans
+—essentially inelastic demand—drives revenue growth. It
+creates opportunities for corporate sponsorships and media
+rights as well as for growth through globalizing the brand.
+The loyalty of the fan base also helps make the asset class
+much less correlated with macroeconomic, capital market,
+geopolitical and technology risks.
+SD: Some sports teams and leagues have seen signiﬁcant
+appreciation over the past few years. How do you determine
+whether a sports asset is undervalued or fairly valued? 
+MA: Valuation is about the underlying fundamentals, in our
+opinion: the revenues, the cash-ﬂow proﬁle and the market
+reach. They differ by team and by league.
+In thinking about leagues, whether they’re open or closed is
+very important. Closed leagues have a set number of teams
+and may expand once or twice every 30, 40 or 50 years. In
+some cases, that lowers risk versus an open league.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  16
-What’s interesting to me is that relatively few emerging
-market brands have gone outside of their local markets. I
-think there’s opportunity for those with lower costs that can
-operate well at a large scale. I’m thinking speciﬁcally of
-brands coming out of China and Korea as examples—bubble
-tea, fast food, cosmetics and entertainment brands.
-Culturally, consumers are very interested.
-AP: What worries you about emerging markets that you feel
-is not appreciated by markets today?
-AS: The current risks for emerging markets are inﬂation,
-which would raise the cost of inputs, and the possibility of
-rising rates. But these are not any more severe than what we
-see in the US or other parts of the world. Emerging markets
-have handled geopolitics well, and we don’t see any systemic
-risks for them.
-As far as what can hold back emerging markets, not a lot
-worries me. I think they are trending well, and I am more
-positive on emerging markets than last year and many years
-before that. Investors are focusing on earnings and
-fundamentals, and looking for better quality companies,
-which is very logical. Perhaps one underappreciated risk is
-simply that many people have a backward-looking and
-outdated view of emerging markets. China, India, countries in
-the Middle East, Korea, Taiwan—these are sophisticated
-economies now.  Things are very, very different today. ■
-Alison Shimada is not an employee of Morgan Stanley Wealth
-Management or its afﬁliates. Opinions expressed by her are
-her own and may not necessarily reﬂect those of Morgan
+On a league-by-league basis, the underlying cost structure,
+including whether or not there are salary caps, can take some
+variability out of the cash ﬂows and proﬁts. The NFL is an
+example: Just under 50% of league revenues are shared with
+the players under a long-term collective bargaining
+agreement that is roughly coterminous with the media rights
+agreements. This promotes a high degree of visibility and
+reduces cash ﬂow uncertainty. I think that dynamic in
+particular has increased the appeal of investing and driven
+some of the valuation increase we’ve seen.         
+If you look back 15 years at the proﬁtability of professional
+sports teams in North America, the median was essentially
+break even. Today, their EBITDAs (earnings before interest,
+taxes, depreciation and amortization) are somewhere
+between $50 million and $100 million. The improved margins
+have been driven in large part by media rights. They continue
+to be incredibly valuable in driving subscriber retention and
+growth for streaming platforms. As the distribution points
+have expanded, the sports audience has widened, and
+consumption trends are positive. As a result, media rights are
+all that much more valuable to the streaming platforms.
+SD: What is your outlook for media rights and the potential
+for more sponsorships and partnerships across sports more
+broadly?
+MA: The consumption trends continue to be very positive
+across all the major demographics, including the youngest
+demographic—which has the highest lifetime value. That
+underpins the value that the streaming platforms are
+ascribing to the content. So I continue to believe that there is
+upside, at least for the most valuable leagues with the widest
+audiences. I also think there are opportunities within some of
+the streaming platforms that are just starting to participate
+more actively in media rights auctions.
+On the ﬂip side are two factors that we’re watching. One is
+the complexity for the consumer. Consumers have to take out
+more and more subscriptions to get access to sports—and it’s
+creating some noise.
+The other factor is the challenged regional sports network
+dynamic, which has affected MLB and, to a lesser extent, the
+NHL and NBA. However, there is an opportunity here for
+those leagues to take the rights, manage them in-house and
+distribute them on a direct-to-consumer basis, turning the
+revenues into more subscription-driven and advertising-driven
+growth.
+SD: Where do you see the biggest opportunities today? Are
+there underappreciated areas across the sports landscape?
+MA: One area of sports that we have spent a lot of time on
+recently is cricket. I think it’s a unique opportunity. It is the
+second-most-viewed sport on a global basis. I see opportunity
+there to drive further growth through media rights on an
+international basis.
+Also, women’s sports have been growing for at least the past
+ﬁve years, if not longer. Whether it’s the National Women’s
+Soccer League (NWSL) or the Women’s National Basketball
+Association (WNBA)—probably the two most notable
+examples in the US—the trends are positive. The ratings and
+demographics are positive, attendance is growing, the fan
+base is energized and participation at the amateur and youth
+level is growing, which is driving a new and larger fan base. I
+think the leagues are also getting more sophisticated in
+delivering engaging content to tap into some of those trends.
+On the WNBA, we believe it is past the inﬂection point in
+terms of its economic model, and the biggest driver of that
+has been the renewal of media rights. The NWSL is also
+notable for renewing its media rights at around 40 times,
+though from a lower base. I think hosting the World Cup this
+summer should energize the North American audience around
+soccer going forward—providing a positive tailwind for
+women’s professional soccer in the US.
+Another important opportunity we see is real estate
+development across the sports ecosystem. Sports facilities
+anchored by stadiums, arenas or training facilities, along with
+mixed development projects, have taken hold in North
+America. The opportunities are increasing globally too. I think
+real estate investments are a great way for us to play the
+sports ecosystem and also drive organic growth—that
+ﬂywheel effect associated with sports teams.
+SD: What do you think the biggest trends in sports investing
+will be over the next ﬁve to 10 years?
+MA: We think the real estate development opportunity in and
+around sports facilities will be compelling in the future as
+well. As a result, in addition to private equity in sports, we
+think pools of real estate and infrastructure capital could
+become much more prevalent players in the sports
+ecosystem. 
+I also think that further globalization will be a trend. We’ve
+been heavily focused on sports in North America and to a
+lesser extent in Western Europe. But there are compelling
+opportunities in Asia-Paciﬁc—cricket being a good example of
+that. And there will be other opportunities in Europe: I think
+we’re going to see the NBA leverage its brand to create a
+centralized, professional basketball league in Europe. That’s
+just one example. I think we’ll see many more brand-extension
+opportunities that investors will be able to lean into. ■
+Mark Affolter is not an employee of Morgan Stanley Wealth
+Management or its afﬁliates. Opinions expressed by him are
+his own and may not necessarily reﬂect those of Morgan
 Stanley Wealth Management or its afﬁliates.
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  17
@@ -1170,23 +1229,86 @@ Global Investment CommitteeTactical Asset Allocation
 The Global Investment Committee provides guidance on asset allocation decisions through its various allocation models. The
 ﬁve models below include allocations to traditional assets, real assets and hedged strategies. They are based on an increasing
 scale of risk (expected volatility) and expected return.
-Source: Morgan Stanley Wealth Management GIC as of June 2, 2026
+Source: Morgan Stanley Wealth Management GIC as of July 1, 2026
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  18
 The Global Investment Committee provides guidance on asset allocation decisions through its various allocation models. The
 ﬁve models below include allocations to traditional assets and alternative investments, including privates, and are
 recommended for investors with over $10 million in investable assets. They are based on an increasing scale of risk (expected
 volatility) and expected return.
-Source: Morgan Stanley Wealth Management GIC as of June 2, 2026
+Source: Morgan Stanley Wealth Management GIC as of July 1, 2026
 ON THE MARKETS
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  19
+Tactical Asset Allocation Reasoning
+Global Equities Weight Relative to
+Model Benchmark  
+US Overweight
+The productivity-boom thesis catalyzed by the GenAI-capex build-out, along with aggressive
+ﬁscal and regulatory stimulus, has become very much consensus. Forecasts are ambitious and
+embed an expectation for cyclical broadening that takes "S&P 493" earnings growth from 6%–
+8% in 2025 to 24%–26% in 2026. In a market that is already expensive, concentrated and
+complacent, this suggests the aperture for upside surprise is narrow, and markets are apt to be
+quite brittle in the face of exogenous shocks. With midterm-election-related policy already
+hitting a fever pitch, potential for these undiscounted events to occur is rising. Thus, while we
+are bullish (with MS & Co.'s 2Q2027 S&P 500 Index target at 8,300), we prefer stock-picking
+to simply owning the cap-weighted index. Favor ﬁnancials, health care, select industrials and
+energy.
+International Equities  (Developed
+Markets) Underweight
+Fiscal stimulus, a response to the "America First" agenda, has helped to drive recent
+outperformance. This is creating rest-of-world (ROW) opportunities that may simultaneously
+enjoy monetary, ﬁscal and currency-related stimulus. The outlook is improving in Japan, as
+corporate restructuring occurs alongside a reﬂationary surge three decades in the making.
+Emerging Markets Overweight
+The "new Monroe Doctrine" creates opportunities not only for pro-business political stability in
+Latin America, but also for direct investment. For Asia, strategic realignment opportunities
+continue to surface, as the US turns away and the US-China trade conﬂict has effectively
+reached a one-year truce, fostering opportunities. India remains a recommended secular
+growth long. The GIC reduced its oveweight after a signiﬁncant rally in semiconductor names,
+which skewed index composition.
+Global Fixed Income Weight Relative to
+Model Benchmark  
+US Investment Grade Underweight
+The GIC maintains close-to-neutral views in investment grade. In the ﬁrst half of 2026, solid
+growth, supported by ﬁscal stimulus, and inﬂationary pressures supported a higher-for-longer
+interest rate environment. Should the Fed maintain a "hold" versus enacting a hike as its next
+move, investors could ﬁnd some value in IG. As a point of caution, we do anticipate a surge in
+IG corporate issuance, on the back of increasing capex and rising M&A deal activity. Given the
+picture, we recommend limited short-duration exposure and moving toward the “belly of the
+curve” to capture decent coupons with lower price volatility. We see the long end continuing
+to be plagued by structural imbalances that show up as widening term premiums.
+Opportunistic 
+Fixed Income Market-Weight
+High yield is competing effectively, with better liquidity, greater transparency and more
+favorable credit quality than private credit. In ROW and emerging market debt, yields are
+decent, and there may be modest room for spread tightening, as economic growth improves.
+Alternative Investments Weight Relative to
+Model Benchmark  
+Real Assets Overweight
+We expect higher stock-bond correlations, which place a premium on the diversiﬁcation
+beneﬁts of investing in real assets. Nevertheless, with real interest rates positive and services
+inﬂation remaining quite sticky, we would need to be selective in adding to this asset class
+broadly. We are focused on industrial metals, energy infrastructure and interesting
+opportunities aimed at solving the residential housing shortage.
+Hedged Strategies Overweight
+We added to equity hedged positions early in 2026, noting the pickup in idiosyncratic risk and
+rising stock level dispersion. The current environment appears constructive for hedge fund
+managers, who are frequently good stock-pickers and can use leverage and risk management
+to potentially amplify returns. We prefer very active and fundamental strategies, especially
+high-quality, low-beta, low-volatility and absolute return/market neutral strategies.
+Note: Opportunistic Fixed Income includes Inﬂation-Linked Securities, High Yield Fixed Income, International Fixed Income and Emerging Market Fixed Income. The
+GIC asset allocation models’ benchmarks do not include exposure to Opportunistic Fixed Income. Real Assets includes Real Estate/REITs, Commodities and Energy
+Infrastructure/MLPs. Hedged Strategies include Absolute Return Assets, Equity Hedge Assets and Equity Return Assets. 
+Source: Morgan Stanley Wealth Management GlC as of July 1, 2026
+ON THE MARKETS
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  20
 Disclosure Section
 Important Information
 The Global Investment Committee (GIC) is a group of seasoned investment professionals from Morgan Stanley & Co. and Morgan StanleyWealth Management who meet regularly to discuss the global economy and markets. The committee determines the investment outlook thatguides our advice to clients. They continually monitor developing economic and market conditions, review tactical outlooks and recommendasset allocation model weightings, as well as produce a suite of strategy, analysis, commentary, portfolio positioning suggestions and otherreports and broadcasts.
 This material is primarily authored by, and reﬂects the opinions of, Morgan Stanley Smith Barney LLC (Member SIPC), as well as identiﬁedguest authors. Articles contributed by employees of Morgan Stanley & Co. LLC (Member SIPC) or one of its afﬁliates are used under licensefrom Morgan Stanley.
-Seth B. Carpenter, James Egan, Michael T. Gapen, Jonathan F. Garner, Vishwas Patkar, Alfredo Pinel, Mark T. Schmidt, Michael Wilson and MarinaZavolock are not members of the Global Investment Committee and any implementation strategies suggested have not been reviewed orapproved by the Global Investment Committee
+Michael J. Cyprys, Sean Difﬂey, Michael T. Gapen, Monica Guerra, Kyle Kerr, Shawn Kim, Sean Laaman, Sonny Mendez, Alfredo Pinel, MichaelSuchanick and Jane Yu Sullivan are not members of the Global Investment Committee and any implementation strategies suggested have notbeen reviewed or approved by the Global Investment Committee
 For index, indicator and survey deﬁnitions referenced in this report please visit the following:https://www.morganstanley.com/wealth-investmentsolutions/wmir-deﬁnitions
-The views and opinions and/or analysis expressed in the Q&A section are as of the date of preparation of this material and are subject tochange at any time without notice due to market or economic conditions and may not necessarily come to pass. Furthermore, the views willnot be updated or otherwise revised to reﬂect information that subsequently becomes available or circumstances existing, or changesoccurring, after the date of publication. The views expressed do not reﬂect the opinions of all investment personnel at Morgan StanleyInvestment Management (MSIM) and its subsidiaries and afﬁliates (collectively “the Firm”).
+The views and opinions and/or analysis expressed in the Q&A section are those of the MSREI team as of the date of preparation of this materialand are subject to change at any time without notice due to market or economic conditions and may not necessarily come to pass.Furthermore, the views will not be updated or otherwise revised to reﬂect information that subsequently becomes available or circumstancesexisting, or changes occurring, after the date of publication. The views expressed do not reﬂect the opinions of all investment personnel atMorgan Stanley Investment Management (MSIM) and its subsidiaries and afﬁliates (collectively “the Firm”).
 Forecasts and/or estimates provided herein are subject to change and may not actually come to pass. Information regarding expected marketreturns and market outlooks is based on the research, analysis and opinions of the authors or the investment team. These conclusions arespeculative in nature, may not come to pass and are not intended to predict the future performance of any speciﬁc strategy or product theFirm offers. Future results may differ signiﬁcantly depending on factors such as changes in securities or ﬁnancial markets or general economicconditions. This material has been prepared on the basis of publicly available information, internally developed data and other third-partysources believed to be reliable. However, no assurances are provided regarding the reliability of such information and the Firm has not soughtto independently verify information taken from public and third-party sources.
 This material is a general communication, which is not impartial and all information provided has been prepared solely for informational andeducational purposes and does not constitute an offer or a recommendation to buy or sell any particular security or to adopt any speciﬁcinvestment strategy.
 Important note regarding economic sanctions. This report may involve the discussion of country/ies which are generally the subject of selectivesanctions programs administered or enforced by the U.S. Department of the Treasury’s Ofﬁce of Foreign Assets Control (“OFAC”), the EuropeanUnion and/or by other countries or multi-national bodies. The content of this presentation is for informational purposes and does not representMorgan Stanley’s view as to whether or not any of the Persons, instruments or investments discussed are or may become subject tosanctions. Any references in this report to entities or instruments that may be covered by such sanctions should not be read as recommendingor advising on any investment activities involving such entities or instruments. Users of this report are solely responsible for ensuring that yourinvestment activities in relation to any sanctioned country/ies are carried out in compliance with applicable sanctions.
@@ -1201,7 +1323,7 @@ Price to forward earnings calculates the price-to-earnings ratio that uses proj
 Real Gross Domestic Product (GDP) is the GDP of the country measured at current market prices and adjusted for inﬂation or deﬂation.
 Volatility This is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by
 ON THE MARKETS
-Morgan Stanley Wealth Management  20
+Morgan Stanley Wealth Management  21
 using the standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, theriskier the security.
 Hedged Strategy Deﬁnitions
 Absolute return: This type of investing describes a category of investment strategies and mutual funds that seek to earn a positive return overtime—regardless of whether markets are going up, down, or sideways—and to do so with less volatility than stocks.
@@ -1218,7 +1340,7 @@ Managed futures investments are speculative, involve a high degree of risk, use
 Hedge funds may involve a high degree of risk, often engage in leveraging and other speculative investment practices that may increase the riskof investment loss, can be highly illiquid, are not required to provide periodic pricing or valuation information to investors, may involve complextax structures and delays in distributing important tax information, are not subject to the same regulatory requirements as mutual funds, oftencharge high fees which may offset any trading proﬁts, and in many cases the underlying investments are not transparent and are known only tothe investment manager.
 Hedge Funds of Funds and many funds of funds are private investment vehicles restricted to certain qualiﬁed private and institutional investors.They are often speculative and include a high degree of risk. Investors can lose all or a substantial amount of their investment. They may behighly illiquid, can engage in leverage and other speculative practices that may increase volatility and the risk of loss, and may be subject tolarge investment minimums and initial lockups. They involve complex tax structures, tax-inefﬁcient investing and delays in distributing important
 ON THE MARKETS
-Morgan Stanley Wealth Management  21
+Morgan Stanley Wealth Management  22
 tax information. Categorically, hedge funds and funds of funds have higher fees and expenses than traditional investments, and such fees andexpenses can lower the returns achieved by investors. Funds of funds have an additional layer of fees over and above hedge fund fees that willoffset returns.
 Private Real Estate: Risks of private real estate include: illiquidity; a long-term investment horizon with a limited or nonexistent secondarymarket; lack of transparency; volatility (risk of loss); and leverage. 
 An investment in an exchange-traded fund involves risks similar to those of investing in a broadly based portfolio of equity securities traded onan exchange in the relevant securities market, such as market ﬂuctuations caused by such factors as economic and political developments,changes in interest rates and perceived trends in stock and bond prices. Investing in an international ETF also involves certain risks andconsiderations not typically associated with investing in an ETF that invests in the securities of U.S. issues, such as political, currency, economicand market risks. These risks are magniﬁed in countries with emerging markets, since these countries may have relatively unstable governmentsand less established markets and economics. ETFs investing in physical commodities and commodity or currency futures have special taxconsiderations. Physical commodities may be treated as collectibles subject to a maximum 28% long-term capital gains rates, while futures aremarked-to-market and may be subject to a blended 60% long- and 40% short-term capital gains tax rate. Rolling futures positions may createtaxable events. For speciﬁcs and a greater explanation of possible risks with ETFs¸ along with the ETF’s investment objectives, charges andexpenses, please consult a copy of the ETF’s prospectus. Investing in sectors may be more volatile than diversifying across many industries. Theinvestment return and principal value of ETF investments will ﬂuctuate, so an investor’s ETF shares (Creation Units), if or when sold, may beworth more or less than the original cost. ETFs are redeemable only in Creation Unit size through an Authorized Participant and are notindividually redeemable from an ETF.
@@ -1234,7 +1356,7 @@ Treasury Inﬂation Protection Securities’ (TIPS) coupon payments and underly
 Ultrashort-term ﬁxed income asset class is comprised of ﬁxed income securities with high quality, very short maturities. They are thereforesubject to the risks associated with debt securities such as credit and interest rate risk.
 Although they are backed by the full faith and credit of the U.S. Government as to timely payment of principal and interest, Treasury Bills aresubject to interest rate and inﬂation risk, as well as the opportunity risk of other more potentially lucrative investment opportunities.
 ON THE MARKETS
-Morgan Stanley Wealth Management  22
+Morgan Stanley Wealth Management  23
 Principal is returned on a monthly basis over the life of a mortgage-backed security. Principal prepayment can signiﬁcantly affect the monthlyincome stream and the maturity of any type of MBS, including standard MBS, CMOs and Lottery Bonds. Yields and average lives are estimatedbased on prepayment assumptions and are subject to change based on actual prepayment of the mortgages in the underlying pools.  The levelof predictability of an MBS/CMO’s average life, and its market price, depends on the type of MBS/CMO class purchased and interest ratemovements.  In general, as interest rates fall, prepayment speeds are likely to increase, thus shortening the MBS/CMO’s average life and likelycausing its market price to rise.  Conversely, as interest rates rise, prepayment speeds are likely to decrease, thus lengthening average life andlikely causing the MBS/CMO’s market price to fall. Some MBS/CMOs may have “original issue discount” (OID). OID occurs if the MBS/CMO’soriginal issue price is below its stated redemption price at maturity, and results in “imputed interest” that must be reported annually for taxpurposes, resulting in a tax liability even though interest was not received.  Investors are urged to consult their tax advisors for moreinformation. 
 Yields are subject to change with economic conditions. Yield is only one factor that should be considered when making an investment decision. 
 Credit ratings are subject to change.
@@ -1250,7 +1372,7 @@ CDs are insured by the FDIC, an independent agency of the U.S. Government, up t
 Equity securities may ﬂuctuate in response to news on companies, industries, market conditions and general economic environment.
 Derivative instruments. Options, futures contracts, options on futures contracts, forward contracts, swaps and structured products areexamples of derivative instruments. Risks of derivative instruments include imperfect correlation between the value of the instruments and theunderlying assets; risks of default by the other party to certain transactions; risks that the transactions may result in losses that partially orcompletely offset gains in portfolio positions; and risks that the transactions may not be liquid. Please see the fund’s prospectus for additionalinformation.
 ON THE MARKETS
-Morgan Stanley Wealth Management  23
+Morgan Stanley Wealth Management  24
 Investing in smaller companies involves greater risks not associated with investing in more established companies, such as business risk,signiﬁcant stock price ﬂuctuations and illiquidity.
 Stocks of medium-sized companies entail special risks, such as limited product lines, markets, and ﬁnancial resources, and greater marketvolatility than securities of larger, more-established companies.
 Companies paying dividends can reduce or cut payouts at any time.
@@ -1261,22 +1383,18 @@ Because of their narrow focus, sector investments tend to be more volatile tha
 Artiﬁcial intelligence (AI) is subject to limitations, and you should be aware that any output from an IA-supported tool or service made availableby the Firm for your use is subject to such limitations, including but not limited to inaccuracy, incompleteness, or embedded bias.  You shouldalways verify the results of any AI-generated output.
 Environmental, Social and Governance (“ESG”) investments in a portfolio may experience performance that is lower or higher than a portfolionot employing such practices.  Portfolios with ESG restrictions and strategies as well as ESG investments may not be able to take advantage ofthe same opportunities or market trends as portfolios where ESG criteria is not applied. There are inconsistent ESG deﬁnitions and criteriawithin the industry, as well as multiple ESG ratings providers that provide ESG ratings of the same subject companies and/or securities thatvary among the providers.  Certain issuers of investments may have differing and inconsistent views concerning ESG criteria where the ESGclaims made in offering documents or other literature may overstate ESG impact. ESG designations are as of the date of this material, and noassurance is provided that the underlying assets have maintained or will maintain and such designation or any stated ESG compliance. As aresult, it is difﬁcult to compare ESG investment products or to evaluate an ESG investment product in comparison to one that does not focuson ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There isno assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependablemeasure of future results.
 Rebalancing does not protect against a loss in declining ﬁnancial markets. There may be a potential tax implication with a rebalancing strategy.Investors should consult with their tax advisor before implementing such a strategy.
-Virtual Currency Products (Cryptocurrencies)
-Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highlyspeculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
-Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highlyvolatile. The price of Digital Assets could decline rapidly, and investors could lose their entire investment.Certain Digital Asset funds and products, allow investors to invest on a more frequent basis than investors may withdraw from thefund or product, and interests in such funds or products are generally not freely transferrable. This means that, particularly given thevolatility of Digital Assets, an investor will have to bear any losses with respect to its investment for an extended period of time andwill not be able to react to changes in the price of the Digital Asset once invested (for example, by seeking to withdraw) as quickly aswhen making the decision to invest. Such Digital Asset funds and products, are intended only for persons who are able to bear theeconomic risk of investment and who do not need liquidity with respect to their investments.Given the volatility in the price of Digital Assets, the net asset value of a fund or product that invests in such assets at the time aninvestor’s subscription for interests in the fund or product is accepted may be signiﬁcantly below or above the net asset value of theproduct or fund at the time the investor submitted subscription materials.Certain Digital Assets are not intended to function as currencies but are intended to have other use cases. These other Digital Assetsmay be subject to some or all of the risks and considerations set forth herein, as well as additional risks applicable to such DigitalAssets. Buyers, sellers and users of such Digital Assets should thoroughly familiarize themselves with such risks and considerationsbefore transacting in such Digital Assets.The value of Digital Assets may be negatively impacted by future legal and regulatory developments, including but not limited toincreased regulation of such Digital Assets. Any such developments may make such Digital Assets less valuable, impose additionalburdens and expenses on a fund or product investing in such assets or impact the ability of such a fund or product to continue tooperate, which may materially decrease the value of an investment therein.Due to the new and evolving nature of digital currencies and the absence of comprehensive guidance, many signiﬁcant aspects of thetax treatment of Digital Assets are uncertain.  Prospective investors should consult their own tax advisors concerning the taxconsequences to them of the purchase, ownership and disposition of Digital Assets, directly or indirectly through a fund or product,under U.S. federal income tax law, as well as the tax law of any relevant state, local or other jurisdiction.Over the past several years, certain Digital Asset exchanges have experienced failures or interruptions in service due to fraud, securitybreaches, operational problems or business failure. Such events in the future could impact any fund’s or product’s ability to transact inDigital Assets if the fund or product relies on an impacted exchange and may also materially decrease the price of Digital Assets,thereby impacting the value of your investment, regardless of whether the fund or product relies on such an impacted exchange.
-ON THE MARKETS
-Morgan Stanley Wealth Management  24
-Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction andinaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed orinaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.Investors in funds or products investing or transacting in Digital Assets may not beneﬁt to the same extent (or at all) from “airdrops”with respect to, or “forks” in, a Digital Asset’s blockchain, compared to investors who hold Digital Assets directly instead of through afund or product. Additionally, a “fork” in the Digital Asset blockchain could materially decrease the price of such Digital Asset.Digital Assets are not legal tender, and are not backed by any government, corporation or other identiﬁed body, other than withrespect to certain digital currencies that certain governments are or may be developing now or in the future. No law requirescompanies or individuals to accept digital currency as a form of payment (except, potentially, with respect to digital currenciesdeveloped by certain governments where such acceptance may be mandated). Instead, other than as described in the precedingsentences, Digital Asset products’ use is limited to businesses and individuals that are willing to accept them. If no one were to acceptdigital currencies, virtual currency products would very likely become worthless.Platforms that buy and sell Digital Assets can be hacked, and some have failed. In addition, like the platforms themselves, digitalwallets can be hacked, and are subject to theft and fraud. As a result, like other investors have, you can lose some or all of yourholdings of Digital Assets.Unlike US banks and credit unions that provide certain guarantees of safety to depositors, there are no such safeguards provided toDigital Assets held in digital wallets by their providers or by regulators.Due to the anonymity Digital Assets offer, they have known use in illegal activity, including drug dealing, money laundering, humantrafﬁcking, sanction evasion and other forms of illegal commerce. Abuses could impact legitimate consumers and speculators; forinstance, law enforcement agencies could shut down or restrict the use of platforms and exchanges, limiting or shutting off entirely theability to use or trade Digital Asset products.Digital Assets may not have an established track record of credibility and trust. Further, any performance data relating to Digital Assetproducts may not be veriﬁable as pricing models are not uniform.Investors should be aware of the potentially increased risks of transacting in Digital Assets relating to the risks and considerations,including fraud, theft, and lack of legitimacy, and other aspects and qualities of Digital Assets, before transacting in such assets.The exchange rate of virtual currency products versus the USD historically has been very volatile and the exchange rate coulddrastically decline. For example, the exchange rate of certain Digital Assets versus the USD has in the past dropped more than 50% in asingle day. Other Digital Assets may be affected by such volatility as well.Digital Asset exchanges have limited operating and performance histories and are not regulated with the same controls or customerprotections available to more traditional exchanges transacting equity, debt, and other assets and securities. There is no assurance thata person/exchange who currently accepts a Digital Asset as payment will continue to do so in the future.The regulatory framework of Digital Assets is evolving, and in some cases is uncertain, and Digital Assets themselves may not begoverned and protected by applicable securities regulators and securities laws, including, but not limited to, Securities InvestorProtection Corporation coverage, or other regulatory regimes.Morgan Stanley Smith Barney LLC or its afﬁliates (collectively, “Morgan Stanley”) may currently, or in the future, offer or invest inDigital Asset products, services or platforms. The proprietary interests of Morgan Stanley may conﬂict with your interests.The foregoing list of considerations and risks are not and do not purport to be a complete enumeration or explanation of the risksinvolved in an investment in any product or fund investing or trading in Digital Assets.  
+Annuities are long term tax-deferred retirement savings vehicles.   Annuities are generally subject to surrender charges.  A surrender charge is apenalty you have to pay if you sell or withdraw money from an annuity before it matures. The time before an annuity’s maturity is called thesurrender period and usually lasts for several years after purchase. Surrender charges reduce the value of your annuity and its returns. Earlywithdrawals will reduce the death beneﬁt and cash surrender value.
+Under current law, a nonqualiﬁed annuity that is owned by an individual is generally entitled to tax deferral. IRAs and qualiﬁed plans—such as401(k)s and 403(b)s—are already tax-deferred. Therefore, a deferred annuity should be used only to fund an IRA or qualiﬁed plan to beneﬁtfrom the annuity’s features other than tax deferral. These include lifetime income and death beneﬁt options.
 The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not representthe performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and otherinvestment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly differentthan those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
 The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. MorganStanley Smith Barney LLC retains the right to change representative indices at any time.
 Hyperlinks
 This material may provide the addresses of, or contain hyperlinks to, websites. Except to the extent to which the material refers to websitematerial of Morgan Stanley Wealth Management, the ﬁrm has not reviewed the linked site. Equally, except to the extent to which the materialrefers to website material of Morgan Stanley Wealth Management, the ﬁrm takes no responsibility for, and makes no representations orwarranties whatsoever as to, the data and information contained therein. Such address or hyperlink (including addresses or hyperlinks towebsite material of Morgan Stanley Wealth Management) is provided solely for your convenience and information and the content of thelinked site does not in any way form part of this document. Accessing such website or following such link through the material or the websiteof the ﬁrm shall be at your own risk and we shall have no liability arising out of, or in connection with, any such referenced website.
-By providing links to third-party websites or online publication(s) or article(s), Morgan Stanley Smith Barney LLC (“Morgan Stanley”) is notimplying an afﬁliation, sponsorship, endorsement, approval, investigation, veriﬁcation with the third parties or that any monitoring is being doneby Morgan Stanley of any information contained within the articles or websites. Morgan Stanley is not responsible for the informationcontained on the third-party websites or your use of or inability to use such site. Nor do we guarantee their accuracy and completeness. Theterms, conditions, and privacy policy of any third-party website may be different from those applicable to your use of any Morgan Stanleywebsite. The information and data provided by the third-party websites or publications are as of the date when they were written and subjectto change without notice
-Disclosures
-Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy.  Past performance is not necessarily a guide to futureperformance. The author(s) (if any authors are noted) principally responsible for the preparation of this material receive compensation basedupon various factors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), clientfeedback and competitive factors.  Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securities
+By providing links to third-party websites or online publication(s) or article(s), Morgan Stanley Smith Barney LLC (“Morgan Stanley”) is notimplying an afﬁliation, sponsorship, endorsement, approval, investigation, veriﬁcation with the third parties or that any monitoring is being doneby Morgan Stanley of any information contained within the articles or websites. Morgan Stanley is not responsible for the informationcontained on the third-party websites or your use of or inability to use such site. Nor do we guarantee their accuracy and completeness. The
 ON THE MARKETS
 Morgan Stanley Wealth Management  25
-or instruments mentioned in this material.
+terms, conditions, and privacy policy of any third-party website may be different from those applicable to your use of any Morgan Stanleywebsite. The information and data provided by the third-party websites or publications are as of the date when they were written and subjectto change without notice
+Disclosures
+Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy.  Past performance is not necessarily a guide to futureperformance. The author(s) (if any authors are noted) principally responsible for the preparation of this material receive compensation basedupon various factors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), clientfeedback and competitive factors.  Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securitiesor instruments mentioned in this material.
 This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity/instrument, or to participate in any trading strategy. Any such offer would be made only after a prospective investor had completed itsown independent investigation of the securities, instruments or transactions, and received all information it required to make its owninvestment decision, including, where applicable, a review of any offering circular or memorandum describing such security or instrument.  Thatinformation would contain material information not contained herein and to which prospective participants are referred. This material is basedon public information as of the speciﬁed date, and may be stale thereafter.  We have no obligation to tell you when information herein maychange.  We make no representation or warranty with respect to the accuracy or completeness of this material.  Morgan Stanley WealthManagement has no obligation to provide updated information on the securities/instruments mentioned herein.
 The summary at the beginning of the report may have been generated with the assistance of artiﬁcial intelligence (AI).
 The securities/instruments discussed in this material may not be appropriate for all investors. The appropriateness of a particular investment orstrategy will depend on an investor’s individual circumstances and objectives.  Morgan Stanley Wealth Management recommends that investorsindependently evaluate speciﬁc investments and strategies, and encourages investors to seek the advice of a ﬁnancial advisor. The value of andincome from investments may vary because of changes in interest rates, foreign exchange rates, default rates, prepayment rates,securities/instruments prices, market indexes, operational or ﬁnancial conditions of companies and other issuers or other factors. Estimates offuture performance are based on assumptions that may not be realized. Actual events may differ from those assumed and changes to anyassumptions may have a material impact on any projections or estimates. Other events not taken into account may occur and may signiﬁcantlyaffect the projections or estimates. Certain assumptions may have been made for modeling purposes only to simplify the presentation and/orcalculation of any projections or estimates, and Morgan Stanley Wealth Management does not represent that any such assumptions will reﬂectactual future events. Accordingly, there can be no assurance that estimated returns or projections will be realized or that actual returns orperformance results will not materially differ from those estimated herein. This material should not be viewed as advice or recommendationswith respect to asset allocation or any particular investment. This information is not intended to, and should not, form a primary basis for anyinvestment decisions that you may make. Morgan Stanley Wealth Management is not acting as a ﬁduciary under either the EmployeeRetirement Income Security Act of 1974, as amended or under section 4975 of the Internal Revenue Code of 1986 as amended in providing thismaterial except as otherwise provided in writing by Morgan Stanley and/or as described at www.morganstanley.com/disclosures/dol.
@@ -1287,6 +1405,8 @@ If your ﬁnancial adviser is based in Australia, Switzerland or the United King
 This material is disseminated in the United States of America by Morgan Stanley Wealth Management. Third-party data providers make nowarranties or representations of any kind relating to the accuracy, completeness, or timeliness of the data they provide and shall not haveliability for any damages of any kind relating to such data.
 This material, or any portion thereof, may not be reprinted, sold or redistributed without the written consent of Morgan Stanley Smith BarneyLLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1780431120346 06/2026
 ON THE MARKETS
 Morgan Stanley Wealth Management  26
+RSI1783020699723 07/2026
+ON THE MARKETS
+Morgan Stanley Wealth Management  27
