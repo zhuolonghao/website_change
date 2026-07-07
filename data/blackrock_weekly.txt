@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Jun 29, 2026
+Jul 6, 2026
 BlackRock Investment Institute
-Dollar strength shifts case for EM
+Beyond the AI bubble debate
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -75,67 +75,64 @@ Facebook
 X
 Linkedin
 Transcript
-Market take
-Weekly video_20260629
-Michel Dilmanian
-Portfolio Strategist
-BlackRock Investment Institute
-Header:
-CAPITAL AT RISK. MARKETING MATERIAL.
-Opening frame: What’s driving markets? Market take
-Camera frame
-Title slide: Dollar strength shifts case for EM
-With the dollar index at a one-year high, the question is no longer whether the dollar’s haven role is intact, but what a resilient dollar means for emerging markets, in our view.
-1: Dollar decline worries are overdone
-We see two factors behind the dollar’s recent rebound: increased market expectations for a U.S. interest rate hike this year, and lower perceived risk around U.S. assets. Those factors – plus strong U.S. equity performance and portfolio flows – have supported demand for the dollar.
-Our framework suggests current dollar support levels are broadly aligned with fundamentals – not indicative of a new dollar bull market. But we think the more important question for investors is: what does a broadly stable dollar mean for emerging markets?
-2: Dual EM-dollar strength
-The Federal Reserve is central to the dollar’s near-term outlook, in our view. We think Kevin Warsh’s first meeting as chair was more about preserving optionality, rather than signaling a more restrictive course. The takeaway? Current rate projections should be viewed as a snapshot rather than a commitment. This supports a stable dollar backdrop and makes broad currency calls less compelling – increasing the importance of country-specific opportunities.
-3: Staying selective
-This reinforces our preference for a selective approach. We favor beneficiaries of the AI investment cycle. Within our EM equity overweight, we see opportunities in Latin American regions that are positioned to benefit from AI-fueled demand for critical minerals. Yet we think a stable dollar environment reinforces the case for active country and sector selection instead of broad currency calls.
-Outro: Here’s our Market take
-The dollar’s haven role is still intact. Yet we think EM performance increasingly depends on local fundamentals and selectivity – not the direction of the dollar alone.
-Closing frame: Read details: blackrock.com/weekly-commentary
-Dual strength
-The U.S. dollar’s safe-haven status remains intact, yet a stronger dollar no longer automatically translates into broad emerging market weakness.
+BlackRock Bottom Line: 2026 Midyear outlook
+Wei Li, Global Chief Investment Strategist, BlackRock Investment Institute
+We believe we’re in a world of scarcity. Strengthening mega forces are putting increasing pressure on supply-side constraints—labor, energy, infrastructure and capital. That in turn is shaping growth, inflation and market pricing.
+AI offers the promise of a permanent growth breakout through accelerating innovation, but the investment needed to build that future is reinforcing scarcity.
+That backdrop shapes the three investment themes we're focused on in our 2026 Midyear Outlook.
+First, AI scarcity.
+The AI buildout is accelerating and we’re focused on opportunities where bottlenecks are appearing: power, grids, chips and data centers. We see physical AI, including robotics and autonomous manufacturing, as the next frontier.
+Second, durable income.
+Higher yields have made income attractive again, but where that income comes from matters. We favor short-duration maturities, particularly euro area government bonds, along with public and private credit backed by resilient cash flows.
+Third, beyond labels.
+Traditional asset-class buckets are becoming less useful – and infrastructure highlights this. We think investors should start with the themes and risks they want exposure to—and then choose the best way to access them.
+The bottom line: AI may reshape the long-term growth outlook, but the route to such abundance runs through scarcity. We think investors should regularly reassess their exposures and get more granular with views as this economic transformation evolves.
+Disclosures
+FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of June 30, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority ('FSRA') to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
+In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK)  Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the 'Advice Law'), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority ('DFSA') Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China ('PRC', for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
+©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
+Reconciling AI earnings and valuations
+The debate over whether AI exuberance is overdone is less about today's valuations than whether future earnings can remain at extraordinary levels.
 Market backdrop
-Red-hot chip and memory stocks led a global equity retreat. We don’t see this as reflecting the ongoing revenue boost from the AI buildout.
+The S&P 500 rose 2% last week and capped its strongest quarter in six years as markets increasingly price the possibility of an AI-driven growth breakout.
 Week ahead
-U.S. payrolls this week will be a key market test after the Federal Reserve’s hawkish tilt reinforced expectations for a rate hike later this year.
-We pushed back against calls for the U.S. dollar’s demise last year, arguing its safe-haven role remained intact. Recent market moves have supported that view. The U.S. dollar index is at a one-year high after the Federal Reserve stoked expectations for a rate hike this month. The question is no longer whether the dollar can hold its ground, but what dollar strength means for risk assets, particularly emerging markets (EM). We see selectivity as key in EM.
+We eye minutes from the Fed’s June policy meeting for signs that policymakers struck a less hawkish tone than markets inferred from the June dot plot.
+Are we in an AI bubble? We think the answer depends on whether AI can turn today's scarcity into tomorrow's abundance. Markets are increasingly pricing that outcome, expecting AI to lift productivity and growth enough to sustain today's extraordinary earnings. Whether those earnings can endure – not where valuations sit relative to history – is key. Still-elevated margins suggest they can. We remain overweight U.S. equities, favoring the scarce inputs every AI system requires.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Dollar’s rate boostU.S. dollar index vs. trade-weighted two-year yield differentials, 2023-2026
-Source: BlackRock Investment Institute, with data from LSEG Datastream, June 2026. Notes: The orange line shows the U.S. Dollar Index (DXY). The yellow line shows the trade-weighted average U.S. two-year yield differential versus Germany, Japan, the UK, Canada, Sweden and Switzerland (right axis), using DXY currency weights. Yield differentials are shown in percentage points.
-Two factors have driven the dollar's recent rebound. First, markets have increased expectations for a U.S. interest rate hike this year, widening interest rate differentials in the dollar's favor. Second, stable perceived risk around U.S. assets, together with strong U.S. equity performance and portfolio flows, has supported demand for the dollar. See the chart. After falling sharply following President Donald Trump's tariff announcements in April 2025, the U.S. dollar index has recovered more than half of that decline, challenging the narrative that it had entered a new era of sustained dollar weakness. Much of the rally has come as markets reassessed the outlook for Federal Reserve policy. Yet we think some of the hawkish repricing in rate expectations may be overdone. Our analysis suggests current dollar levels are broadly in line with underlying fundamentals, making a sustained appreciation cycle less likely.
-The Federal Reserve remains central to the dollar’s near-term outlook. Markets viewed Chair Warsh's first meeting as a hawkish surprise, even after months of repricing toward a higher-for-longer policy path. Yet we think the meeting was less about signaling a more restrictive course than preserving optionality as policymakers reassess the outlook. That means current rate projections should be viewed as a snapshot rather than a commitment. That supports a stable dollar backdrop.
-A stable dollar environment
-A stable dollar does not preclude opportunities in emerging markets. Instead, it leaves greater scope for country-specific fundamentals to differentiate returns. EM assets have performed well even without the dollar weakness that has typically accompanied periods of EM outperformance. The dollar still matters, particularly for economies with large external financing needs, but domestic factors and structural opportunities are becoming increasingly important.
-Selectivity, rather than broad EM exposure, is key for investors. Structural investment themes that we have been highlighting — including artificial intelligence, infrastructure investment, energy security and rewiring supply chains - are creating opportunities that extend well beyond the U.S. At the same time, differences in energy dependence, commodity exposure and policy credibility mean some economies are better positioned than others to benefit. The improving earnings outlook reinforces that view. Consensus now expects headline earnings per share for the MSCI Emerging Markets Index to grow by more than 50% this year versus 2025, compared with expectations for an increase of 18% at the start of the year. Within our EM equity overweight, we see opportunities in Latin America, where AI-fueled demand for critical minerals like copper and lithium should benefit the region’s commodity and energy exporters. Fixed income also offers selective opportunities. Many central banks have completed their tightening cycles, yet local rates remain elevated in several markets, creating attractive income potential across parts of the EM debt market. In our view, a stable dollar backdrop reinforces the case for active country and sector selection over broad currency calls.
+Parting ways?Shiller CAPE ratio and S&P 500 forward earnings ratio, 1985-26
+The figure shown relates to past performance. Past performance is not a reliable indicator of current or future results. Source: BlackRock Investment Institute with data from LSEG Datastream, July 2026. Note: Shiller P/E is based on the ten-year average of inflation-adjusted earnings. The 12-month forward P/E is based on future 12-month earnings estimates. Historical averages: 1900–2026 for Shiller CAPE and 1985–2026 for the S&P 12-month forward P/E.
+U.S. equities are enjoying an extraordinary earnings run. S&P 500 earnings are expected to grow 23% year on year in Q2, marking a seventh-consecutive quarter of double-digit growth. The Shiller price-to-earnings (P/E) ratio has climbed to 40, back to levels last seen during the dot-com bubble. Yet the 12-month forward P/E ratio offers a more balanced perspective. At around 21, valuations look less stretched because earnings expectations have risen sharply with share prices. See the chart. Median external forecasts also point to U.S. growth of about 3.5% – roughly 1.7 times its historical trend – reinforcing market expectations that AI could drive a growth breakout. Whether today’s valuations prove justified comes down to whether the earnings momentum can be sustained.
+One essential nuance? Concluding AI has become a bubble is itself a significant call: it assumes the technology will not generate a lasting breakout in productivity and growth. Previous technological revolutions did not deliver a lasting breakout in productivity and growth, but AI could prove different by creating new, durable sources of revenue. The evidence so far has been supportive. Incremental margins remain above operating margins across most AI value-chain baskets, suggesting AI-related revenues are still translating into unusually strong profits. That reinforces our view that the investment cycle has further to run and supports our overweight to U.S. equities. While identifying the ultimate AI winners is difficult, we believe many will be found in the U.S. given its leadership in chips, frontier AI models and deep capital markets.
+An active approach to AI scarcity
+Within that, we prefer expressing the AI theme through scarcity. We do not need to know which AI model or application ultimately wins to know that every AI system depends on chips, memory, power and data center infrastructure. Companies supplying these scarce inputs benefit from sustained capital investment and, in many cases, long order books that provide greater visibility into future earnings. That makes scarcity one way to navigate uncertainty around earnings durability, and our highest-conviction AI investment idea.
+The AI opportunity, however, extends well beyond today's bottlenecks. As the buildout shifts toward physical AI, opportunities are emerging in robotics, sensors and industrial automation, making active security selection increasingly important. China has advantages across parts of that value chain, including manufacturing and batteries. Yet manufacturing strength alone does not guarantee attractive equity returns, reinforcing our preference for active investing rather than broad regional calls. We also see opportunities beyond today's mega caps. Select small-cap companies, emerging market infrastructure providers and industrial firms could offer attractive exposure to the scarce inputs powering the next phase of AI.
 Our bottom line
-The dollar’s safe-haven role remains intact, but EM performance increasingly depends on local fundamentals and selectivity rather than the direction of the dollar alone.
+We focus on companies best positioned to deliver a durable earnings breakout, expressing our AI conviction through scarcity while relying on an active approach to identify opportunities. We’re overweight U.S. equities on the AI theme.
 Market backdrop
-Chip stocks and memory makers led a global selloff in tech shares last week. The Philadelphia semiconductor index slid 8% on the week but is still up nearly 90% this year. The Nasdaq Composite shed 5%, while the S&P 500 lost 2%. We think AI-linked companies lifting guidance on revenue and profit margins show the AI buildout is rolling on. Oil hit pre-Middle East conflict lows, with Brent crude falling to $72 as Strait of Hormuz flows picked up. U.S. 10-year yields fell to 4.37%.
-The June payrolls report will be this week’s key market event in a shortened U.S. trading week ahead of the July 4 holiday. Following a hawkish market reaction to the Federal Reserve’s last meeting, investors will watch the report closely for clues about the economy’s underlying strength and whether conditions could still support an interest rate hike this year.
+The S&P 500 added 2% last week and capped off its strongest quarterly gain in six years. Semiconductors fell sharply – a prime example of the tension between our scarcity and abundance theme. The Japanese yen slid to a 40-year low against the dollar, though we don’t see these moves as the prelude to another bout of cross-asset volatility for now. U.S. 10-year Treasury yields climbed 10 basis points to 4.48% on concerns of potential interest rate hikes ahead.
+We eye the minutes from the Federal Reserve's June policy meeting for insight into the debate behind the decision to hold rates steady despite still-sticky inflation and a resilient labor market. What’s key is whether the discussion supports our view that markets took the June dot plot's hawkish signals too literally or instead points to a more meaningful shift in the Fed's policy approach.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of June 25, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-June 30
-U.S. job openings; UK GDP; China manufacturing PMI
-July 1
-Euro area flash inflation
-July 2
-U.S. payrolls; EU unemployment
-July 3
-UK service PMI
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 2, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+July 6
+S&P Global PMI final
+July 7
+U.S. trade balance
+July 8
+Fed June meeting minutes
+July 9
+China PPI and CPI
 Read our past weekly market commentaries here.
-Big calls
-Our highest conviction views on six- to 12-month (tactical) and over five-year (strategic) horizons, June 2026
-Key investment views
-Our highest conviction views, June 2026
+Intersecting mega forces
+Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
+From drivers to portfolio expressions
+Our highest conviction views, July 2026
 Driver
 What we think
 Portfolio expression
@@ -148,67 +145,67 @@ Prefer short- and medium-term government bonds over long bonds for income.
 Credit spreads and liquidity
 Selectivity is crucial amid tight spreads and uneven fundamentals.
 Credit with clear cash flows, lender protections and recovery value; higher-rated high yield.
-Inflation and  scarcity
+Inflation and scarcity
 Scarcity, secure supply and power demand carry inflation risks.
 Infrastructure, energy bottlenecks, EM local debt and real-asset-linked exposures.
 Alpha opportunity
-Wider dispersion and macro uncertainty raise value of active skill.
+Macro outcomes matter again in the new regime.
 Macro hedge funds, venture capital, market-neutral strategies, and selected private credit and non-U.S. alpha.
-Tactical granular views table
-Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, June 2026
-We have lengthened our tactical investment horizon back to six to 12 months. The table below reflects this and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at a time of heightened volatility.
-Granular views
-Six- to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, June 2026
+Source
+Note: Views are from a U.S. dollar perspective, July 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
+Asset class implications
+Six- to 12-month tactical positioning, July 2026
+This shows the implementation of our key investment views from the previous page through an asset class lens.
 Search views
 Asset
 Tactical view
 Commentary
 Equities
 United States
-We are overweight. Contained damage to global growth from the Mideast conflict and strong earnings expectations – particularly in tech – keep us risk-on.
+We are overweight. Strong corporate earnings, fueled by the AI buildout and a favorable macro backdrop, are outpacing higher interest rate expectations.
 Europe
-We are neutral. Europe’s high exposure to the energy shock from the Mideast conflict makes it vulnerable to higher inflation and lower growth.
+We are neutral. We would need to see more business-friendly policy and deeper capital markets for Europe to outperform. We favor financials, infrastructure, and industrials.
 UK
 We are neutral. Valuations remain attractive relative to the U.S., but we see few near-term catalysts to trigger a shift.
 Japan
-We are neutral. Japan’s exposure to imported energy may erode strong equity gains powered by healthy corporate balance sheets and governance reforms.
+We are neutral. Strong corporate balance sheets and governance reforms remain supportive. We prefer targeted exposures to physical AI and the buildout’s bottlenecks.
 Emerging markets (EM)
-We are overweight yet stay selective. We favor Asian countries that manufacture critical AI components and Latin American energy and commodity exporters.
+We are neutral. We see opportunities where the AI buildout drives demand for infrastructure, particularly in Latin America.
 China
-We are neutral. Trade relations with the U.S. have steadied, but property stress and an aging population still constrain the macro outlook. Relatively resilient activity limits near-term policy urgency. We like sectors like AI, automation and power generation.
+We are neutral. We see opportunities in physical AI. Cheap, open-source AI could drive adoption, but that doesn’t necessarily translate into AI-provider profitability.
 Fixed income
 Short U.S. Treasuries
-We are neutral. Shorter-term bonds are relatively attractive as the market has woken up to persistent inflation and higher rates.
+We are neutral. We prefer short- and medium-term Treasuries, given the attractive risk-adjusted income on offer.
 Long U.S. Treasuries
-We are underweight. Yields already faced upward pressure from rising term premia, as investors demand more compensation for the risk of holding long-term debt. The recent energy price shock compounds this by aggravating pre-existing inflationary pressures.
+We are underweight. We see investors wanting more compensation for holding long-term bonds amid persistent inflation and high debt loads. Long-duration bonds also are a less reliable portfolio diversifier in the new regime.
 Global inflation-linked bonds
-We are neutral. We think inflation will settle above pre-pandemic levels, but markets may not price this in the near term as growth cools.
+We are neutral. We see inflation settling above pre-pandemic levels, but markets may not price this in the near term as economic growth could slow.
 Euro area government bonds
-We are neutral short-term European government bonds. The market has repriced the ECB policy path more in line with our view. We think increased German bond issuance to finance its fiscal stimulus package is already largely reflected in the current level of 10-year yields.
+We are overweight short- and medium-term bonds. Markets are pricing restrictive policy rates of about 3% for several years. We think that’s overdone.
 UK gilts
-We are neutral. We expect volatility in gilts over the near-term. Gas powers much of the UK’s electricity, but storage is limited – making it especially vulnerable to a resurgence in inflation.
+We are neutral. We expect periods of elevated volatility given political uncertainty, longer-term bonds making up a larger market share, and buyers becoming more price-sensitive.
 Japanese government bonds
 We are underweight. Rate hikes, higher global term premium and heavy bond issuance will likely drive yields up further.
 China government bonds
-We are neutral. China bonds offer stability and diversification but developed market yields are higher and investor sentiment shifting towards equities limits upside.
+We are neutral. China bonds offer stability and diversification but developed market yields are higher. A shift in investor sentiment toward equities limits upside.
 U.S. agency MBS
-We are overweight. Agency MBS offer higher income than Treasuries with similar risk, and may offer more diversification amid fiscal and inflationary pressures.
+We are overweight. Agency MBS offer higher income than Treasuries with similar risk and may offer more diversification amid fiscal and inflationary pressures.
 Short-term IG credit
-We are neutral. Corporate strength means spreads are low, but they could widen if issuance increases.
+We are neutral. Spreads are tight due to corporate strength; they could widen if issuance increases or risk appetite shifts.
 Long-term IG credit
 We are underweight. We prefer short-term bonds less exposed to interest rate risk over long-term bonds.
 Global high yield
-We are neutral. High yield offers more attractive carry and shorter duration, but we think dispersion between higher and weaker issuers will increase.
+We are neutral. High yield offers attractive income. We prefer higher-rated U.S. and European high yield over investment grade and see dispersion of returns increasing.
 Asia credit
 We are neutral. Overall yields are attractive and fundamentals are solid, but spreads are tight.
 Emerging hard currency
-We are overweight. EM hard-currency indexes lean towards Latin American commodity exporters such as Brazil that stand to benefit as Mideast supply plummets.
+We are neutral. Fundamentals have improved, but we see a more attractive risk-reward profile in EM local debt.
 Emerging local currency
-We are neutral. The U.S. dollar has been strengthening as a safe-haven currency in the wake of the Middle East conflict. This could reverse year-to-date gains driven by a falling USD.
+We are overweight. We like the yield relative to its volatility and improving fundamentals.
 Source
 Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a U.S. dollar perspective. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 Euro-denominated tactical granular views
-Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, June 2026
+Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, July 2026
 We have lengthened our tactical investment horizon back to six to 12 months. The table below reflects this and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at a time of heightened volatility.
 Search views
 Asset
@@ -251,7 +248,7 @@ We are neutral. We favor short- to medium-term debt and Europe over the U.S. An 
 European high yield
 We are overweight. Spreads hover near historic lows, but credit losses have been limited in this cycle and better economic growth in 2026 could reduce them further.
 Source
-Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, June 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
+Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, July 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 On the go?
 Stay informed on our latest weekly Market take. Listen wherever you get your podcasts.
 Subscribe to Apple podcasts
@@ -261,10 +258,10 @@ Jean Boivin
 Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Axel Christensen
-Chief Investment Strategist for Latin America — BlackRock Investment Institute
-Michel Dilmanian
-Portfolio Strategist – BlackRock Investment Institute
+Vivek Paul
+Global Head of Portfolio Research – BlackRock Investment Institute
+Beata Harasim
+Senior Investment Strategist – BlackRock Investment Institute
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -392,9 +389,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of June 29, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of July 06, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0626-5664635-EXP0627
+BII0726-5720039-EXP0727
