@@ -63,11 +63,13 @@ Location not listed
 Welcome to the BlackRock site for individuals
 To reach a different BlackRock site directly, please update your user type.
 RESET
+Access BlackRock's Q2 2026 earnings
+Access BlackRock's Q2 2026 earnings
 MARKET INSIGHTS
 Weekly market commentary
-Jul 13, 2026
+Jul 20, 2026
 BlackRock Investment Institute
-Japan bonds tell global repricing story
+Staying risk-on in a more fragile world
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,62 +78,61 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260713
-Valerie Chan
+Weekly video_20260720
+Ehsan Khoman
 Investment Strategist
 BlackRock Investment Institute
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: Japan bonds tell global repricing story
-1: The global rates reset
-The major repricing of Fed policy expectations over the last six months has reverberated well beyond U.S. markets.
-In Japan, it has put pressure on the Bank of Japan's gradual policy normalization, with government bond yields climbing to multi-decade highs even as the yen has weakened. Japan's domestic backdrop, including rising inflation expectations and concerns over fiscal expansion, has amplified that move.
-2: Not all income is equal
-Higher interest rates have created a stronger environment for durable income. But not all income is equal. The key question is whether investors are being adequately compensated for the risks they take.
-Higher yields have also changed the role of long-term government bonds. More uncertainty about inflation, higher government borrowing and rising term premia mean they no longer provide the same reliable ballast during risk-off episodes. The result? Investors now have far more options for generating income than they did just a few years ago.
-3: Investment implications
-We favor areas where we think investors are best compensated for risk. Within government debt, that means the front-end and belly of the U.S. and European yield curves, along with selected local-currency emerging market debt where fundamentals have improved.
-Beyond government debt, we favor selected investment grade credit, higher-quality high yield and direct lending. In Japan, we continue to prefer equities over government bonds as the economy emerges from decades of deflation and the Bank of Japan gradually normalizes policy.
+Title slide: Staying risk-on in a more fragile world
+Renewed tensions in the Middle East have brought geopolitical risks back into focus. Yet markets have remained sanguine. We remain pro-risk, but with a higher bar: earnings growth must continue to outpace the rising cost of capital.
+1: A more measured story
+The Middle East conflict has escalated again. Yet the oil market is telling a more measured story. Oil prices have risen, but futures markets point to a temporary disruption, not a prolonged supply shock. We broadly agree. High oil inventories, demand adjustment, supportive fiscal policy and ongoing AI-led investment have helped contain the shock without materially changing the global outlook.
+2: Why we still see resilient growth
+For now, we see little evidence that the latest escalation will weaken economic growth enough to change our pro-risk stance. The AI investment boom remains intact, and today's global economy is far less oil-intensive than during past energy shocks.
+Inflation is a different story. We expect higher energy prices to add to headline inflation, with Europe and parts of Asia more exposed than the U.S.
+3: A higher bar
+We remain pro-risk as earnings growth continues to outpace the rising cost of capital. Higher interest rates don't automatically mean weaker equity markets if companies can keep supporting earnings. That's one reason we prefer U.S. equities over long-term government bonds. Yet we remain nimble and prepared to adjust as the facts and markets evolve.
 Outro: Here’s our Market take
-Higher interest rates are creating a stronger environment for durable income. We think focusing on areas where investors are best compensated for the risks they take is key.
+Geopolitical risks have risen, but they haven't changed our pro-risk stance. We continue to prefer U.S. equities over long-term government bonds, while staying nimble as the facts and markets evolve.
 Closing frame: Read details: blackrock.com/weekly-commentary
-A global shift
-Global yields have reset higher. Japan confirms the shift. Better income opportunities have returned, but not all income is equal.
+Rising tensions
+Renewed tensions in the Middle East have made the macro backdrop more fragile—but not enough to move us away from our pro-risk stance.
 Market backdrop
-U.S. stocks rose for a second straight week despite renewed Middle East tensions. We see investors looking through near-term geopolitical shocks.
+Tech and semiconductor stocks sold off sharply last week. We see these moves as overstated: cheaper AI changes the winners, not the investment case.
 Week ahead
-U.S. inflation data this week could reinforce the recent repricing of Fed policy expectations if price pressures remain firm.
-Are we in an AI bubble? We think the answer depends on whether AI can turn today's scarcity into tomorrow's abundance. Markets are increasingly pricing that outcome, expecting AI to lift productivity and growth enough to sustain today's extraordinary earnings. Whether those earnings can endure – not where valuations sit relative to history – is key. Still-elevated margins suggest they can. We remain overweight U.S. equities, favoring the scarce inputs every AI system requires.
+Resilient growth and moderating inflation remain our base case. This week’s UK inflation and PMI data will put that view to the test.
+We highlighted geopolitical risks and critical chokepoints as forces shaping markets in our 2026 Midyear Global Outlook. The latest Middle East escalation has brought those risks back to the fore. Yet markets have reacted less sharply, even as the global economy has fewer buffers against a prolonged energy shock. For now, we don’t push back against that assessment. We stay risk-on, but with a higher bar: earnings need to keep growing and outpace the rising cost of capital.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Closing the gap10-year government bond yields, 1990-2026
-The figure shown relates to past performance. Past performance is not reliable indicator of current or future results.Source: BlackRock Investment Institute with data from LSEG Datastream, July 2026.
-Government bond yields have reset higher across the U.S., Europe and Japan since 2020-21. See the chart. The recent repricing of U.S. policy expectations has provided a fresh catalyst. Higher Treasury yields and a stronger dollar have put renewed pressure on the yen, making the Bank of Japan's gradual normalization more challenging and pushing Japanese government bond yields higher. Japan's domestic backdrop – including rising inflation expectations and concerns over fiscal expansion – have amplified that move. Long-dated forward rates implied by JGBs are now around 5%, versus roughly 6% in the U.S., 5.3% in France, 5.5% in Australia and 6.5% in the U.K. If even Japan – long an outlier because of decades of deflation and ultra-loose monetary policy - is now trading broadly in line with its developed-market peers, we think that reinforces our view that the global rates reset is real and significant.
-Higher yields have created a stronger environment for generating durable income. Investors no longer need to rely on broad bond indices or extend far out the yield curve to earn attractive income. Yet not all income is equal. The key question is whether investors are being adequately compensated for the risks they assume. Japan illustrates why. The BoJ's gradual approach to tightening has helped keep the global repricing in rates relatively orderly, but increasingly crowded short-yen positioning warrants close monitoring. The yen remains an important funding currency for global carry trades. While higher JGB yields have made the yen a less attractive funding currency than in the past – reducing the risk of a repeat of the 2024 carry squeeze - any abrupt shift in BoJ policy could trigger an unwind in those trades and ripple across global markets.
-Income over duration
-Higher yields have also changed the role of long-duration government bonds in portfolios. Greater uncertainty about inflation, higher government borrowing and rising term premia mean they no longer provide the same reliable ballast during risk-off episodes. At the same time, investors have far more options for generating income than they did just a few years ago. Our analysis shows that over 80% of major global fixed income assets now yield above 4%, up from just 6% five years ago. The Global Aggregate currently yields 3.8% with 5.1% volatility, compared with an equally weighted income basket yielding 5.5% with 4.3% volatility, reinforcing the case for a more selective approach.
-We therefore favor focusing on areas where we think investors are best compensated for risk. Within government debt, we favor the front end and belly of the U.S. and European yield curves, as well as selected local-currency emerging market debt, where rates have repriced materially and fundamentals have improved. Beyond government debt, we favor selected investment grade credit, higher-quality high yield and direct lending. In Japan, however, we continue to prefer equities over government bonds. We continue to see a more constructive backdrop for Japanese equities as the economy emerges from decades of deflation and the BoJ gradually normalizes policy.
+A more muted responseBrent crude oil futures curves through the U.S.-Iran conflict
+Source: BlackRock Investment Institute with data from LSEG Datastream, July 17, 2026. Note: Lines show the Brent crude oil futures curve at selected points since the onset of the U.S.-Iran conflict. The "Peak during the conflict" curve corresponds to 18 May, when the average price of the first 12 monthly Brent futures contracts was at its highest during the conflict. The "Post-memorandum" curve corresponds to 8 July, following President Trump's declaration that the U.S.-Iran Memorandum of Understanding was "over."
+The Middle East conflict has escalated again after a short-lived U.S.-Iran diplomatic pause and tentative ceasefire collapsed. Yet the oil market is telling a more measured story. While Brent crude prices have risen by 13% since the latest flare-up, the futures curve suggests investors expect a temporary disruption—not a prolonged supply shock. See the chart. The relatively modest move further along the curve also reflects confidence that global oil supply can absorb the disruption—a view we don’t challenge today. High starting oil inventories, demand adjustment, supportive fiscal policy and ongoing AI-led investment have helped contain the shock without materially changing the global macroeconomic outlook so far. We estimate the conflict will shave around 0.4% off global GDP in 2026, with roughly 0.3 percentage points already reflected in market pricing.
+For now, we see little evidence that the latest escalation will weaken economic growth enough to change our pro-risk stance. The AI investment boom—an important driver of growth—and our preference for AI infrastructure remain intact despite recent volatility. Today's global economy is also far less oil-intensive than previous energy shocks, making it more resilient to higher energy prices. Inflation is a different story. We estimate the conflict will add around 0.8 percentage points to global headline inflation—though the impact is unlikely to be uniform. Europe and parts of Asia remain more exposed given their reliance on energy imports. For example, roughly 65% of South Korea's oil imports and one-third of China's LNG imports move through the Strait of Hormuz. The U.S. is relatively more insulated, supported by greater energy independence and exposure to the AI investment cycle.
+Immutable laws limit most extreme outcomes
+Even so, a more resilient economy does not eliminate downside risks. Oil inventories have already been drawn down by about 0.5 billion barrels this year, leaving roughly 0.5 billion barrels readily available to absorb further disruption. Those buffers could shrink further if tensions spread beyond the Strait of Hormuz to other key export routes like the Bab el-Mandeb Strait. Yet we believe immutable economic laws can limit the most extreme outcomes. As we outlined in March, the knock-on effects of a prolonged energy supply disruption create economic and political pressures for de-escalation—leaving incentives for all sides to find an off-ramp, in our view.
+Another reason we remain pro-risk? Earnings growth still comfortably outpaces the rising cost of capital. Markets are pricing a higher path for U.S. policy rates, while long-term government bond yields reflect concern over persistent inflation. Yet higher rates do not automatically translate into weaker equity markets. Companies with pricing power can pass higher costs through to customers, supporting revenues and earnings. That’s helped keep expectations high. Consensus now expects S&P 500 earnings to grow 25% in 2026, up from 18% just three months ago. We prefer U.S. equities over long-term government bonds—so long as earnings growth remains exceptionally strong while offsetting higher interest rates.
 Our bottom line
-Higher yields have made durable income an opportunity again, but investors should focus on areas where they are best compensated for the risks they take.
+While uncertainty has increased, we do not believe recent market moves warrant abandoning our overweight stance on U.S. equities and we remain risk-on. We remain nimble and prepared to adjust as the facts and markets evolve.
 Market backdrop
-The S&P 500 ended the week higher, leaving the index up 11% for the year and less than 1% off its record high, even as sharp swings in semiconductor stocks and renewed tensions between the U.S. and Iran kept investors focused on geopolitical risks. The Nasdaq advanced 1.7%. Brent crude is back above $76 a barrel, while the U.S. 10-year Treasury yield rose around 8 basis points to 4.55%. We think markets are continuing to look through near-term geopolitical shocks while remaining focused on the broader repricing in rates and resilient corporate fundamentals.
-This week we watch U.S. inflation data for signs that earlier increases in energy and producer costs are passing through to core prices. Recent CPI details showed limited spillover, but underlying inflation remains too firm to be confident in a return to 2%, keeping the Fed on hold. Markets are still pricing one quarter-point hike by the end of 2026.
+A sharp selloff in semiconductor stocks weighed on the broader market, sending the S&P 500 and Nasdaq 2% and 3% lower last week. The Philadelphia Semiconductor Index fell 11% and briefly entered a bear market on concerns that lower-cost large language models from China could challenge frontier models. We think the market reaction overlooks the other side of the story: cheaper AI could broaden adoption and reinforce demand for AI infrastructure.
+This week's macro calendar will test our view that the global economy is settling into a more balanced growth-inflation mix. The data will show whether resilient activity continues to coexist with gradually moderating inflation, helping determine how much room central banks have to ease policy ahead of next week's Fed decision.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 9, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-July 14
-U.S. CPI; China exports & imports
-July 15
-U.S. PPI; China GDP & unemployment
-July 16
-U.S. Philly Fed business index; UK GDP
-July 17
-UMich sentiment prelim; EU HICP
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 16, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+July 21
+UK unemployment & HMRC payrolls change
+July 22
+UK PPI & CPI; Japan trade balance
+July 23
+Euro area refinancing/deposit rates
+July 24
+S&P Global flash PMI; Japan CPI
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
@@ -258,14 +259,16 @@ Stay informed on our latest weekly Market take. Listen wherever you get your pod
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
+Jean Boivin
+Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Beata Harasim
-Senior Investment Strategist – BlackRock Investment Institute
-Valerie Chan
-Investment Strategist – BlackRock Investment Institute
-Serena Jiang
+Roelof Salomons
+Chief Investment Strategist for the Netherlands and the Nordics – BlackRock Investment Institute
+Ehsan Khoman
 Economist — BlackRock Investment Institute
+Tom Becker
+Portfolio Manager, BlackRock Multi-Asset Strategies and Solutions
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -314,8 +317,6 @@ Cash management
 Factor-based investing
 Investing for retirement
 LifePath® target date funds
-All active investment strategies
-All active investment strategies
 Insights & education
 INSIGHTS
 Weekly commentary
@@ -393,9 +394,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of July 13, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of July 20, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0726-5741441-EXP0727
+BII0726-5763124-EXP0727
