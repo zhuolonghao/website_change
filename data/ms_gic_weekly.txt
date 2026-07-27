@@ -1,208 +1,211 @@
 INVESTMENT STRATEGY
-Since the April–May surge and June 2 S&P 500 all-time high, US
-equities have traded in a tight range characterized by intra–tech
-sector rotations, high stock-level dispersion and low correlations
-within markets—all masked by benign index-level volatility. This has
-come despite ongoing strength in earnings-forecast revisions,
-improved breadth and positive second quarter earnings surprises.
-While churn and consolidation phases are usually healthy, this time,
-signs of fragility beneath the surface bear watching. The good news is
-that some valuation and concentration risks, amid extreme
-momentum, have eased marginally. Dynamics around ﬂows, leverage
-and sentiment, however, warn of complacency. Flows are being
-dominated by retail activity, quantitative trading and hedge fund
-positioning, while margin balances and thematic and leveraged ETF
-volumes are rising sharply. Meanwhile, neither credit nor equity
-investors seem worried about discriminating based on quality, and
-related risk premiums are very tight. Finally, historically low cash
-allocations, despite higher short-term yields and a bull-bear ratio near
-a historic peak, suggest midsummer exhaustion requiring fresh
-catalysts to boost markets in the near term. We recommend hedging
-with active stock-picking, adding ballast to portfolios overweight the
-market cap-weighted equity index and AI-linked themes. Consider
-adding to stability/quality and out-of-favor exposure in consumer
-staples, health care, HMOs, REITs and housing. We still like non-
-semiconductor-oriented emerging markets and Japan. We also prefer
-intermediate-term rates to credit, with additional diversiﬁcation from
-hedge funds, real assets, venture capital and growth equity.
-A top-line look at the benchmark S&P 500 Index in mid-July, according to many
-accounts, would suggest things are excellent. To wit, as we move just beyond
-midyear, the index is up nearly 9% and within 2% of an all-time high. Positive
-economic surprises, on top of stimulus and a powerful capex cycle, have analysts
-expecting 22%–23% annual earnings growth—with consensus forecast revisions
-still grinding higher. First quarter proﬁt reports were historically strong, rivaling
-A Fragile US Equity Market Balance for Now Lisa Shalett
+Apart from the Iran war and its consequences for oil and inﬂation,
+which prompted a brief ﬁrst-quarter risk-off period, US equities have
+enjoyed solid tailwinds that were foundational to the 2026 bull case.
+These have included ﬁscal stimulus, tariff rollback, lower policy rates,
+AI capex and consumer resilience, as economic surprises have fostered
+robust earnings revisions. Equities, however, have stalled in the past
+two to three months. While some of the consolidation is healthy, in
+addition to the technical vulnerabilities we highlighted last week, we
+now see more fundamental risk factors reafﬁrming that the market
+narrative needs a new catalyst for stocks to break out to the upside.
+We’re watching at least three such factors. First are real rates on long
+bonds, as the 30-year US Treasury real yield sits at nearly a 20-year
+high. Notably, real rates are strongly determinative of long-run stock
+multiples. Second, market reaction to exceptional earnings suggests
+investors are starting to suspect we are reaching peaks—in proﬁt
+margins, pricing power and rates of change. Finally, the Iran-ceaseﬁre
+collapse implies renewed geopolitical risk premiums. Active managers
+should exploit subsurface volatility, while passive investors should
+stay patient, as asymmetric downside risks may persist a while longer.
+Morgan Stanley & Co.’s 8,300 base-case S&P 500 target for the year
+ahead is still our call, albeit not in a straight line. Consider adding to
+stability/quality and out-of-favor exposure in consumer staples, health
+care, HMOs, REITs and housing. We still like non-semiconductor-
+oriented EM and Japan. We also prefer intermediate-term rates to
+credit, with added diversiﬁcation from hedge funds, real assets,
+venture capital and growth equity.
+Roughly halfway through summer, the S&P 500 Index is still near its early May
+levels. In several respects, the bullish narrative that dominated the lead-up to 2026
+has played out entirely, as economic growth and business proﬁts have been
+powered by ﬁscal and monetary stimulus, regulatory accommodation, easing tariff
+pressures, data-center capex and resurgent capital-market issuance. In fact,
+economic surprises have remained notably positive, the US labor market is stable,
+Headwinds Lisa Shalett
 Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-July 20
-US Leading Index
-July 21
-ADP Weekly Employment Change
-Philadelphia Fed Non-Manufacturing Survey
-July 22
-MBA Mortgage Applications
-July 23
+July 27
+US durable goods orders
+US capital goods orders
+Dallas Fed Manufacturing Activity Index
+July 28
+US wholesale inventories
+Richmond Fed Manufacturing Survey
+Conf. Board Consumer Conﬁdence Index
+July 30
+US personal income and spending
+US PCE
+US GDP
 US initial jobless claims
 US continuing jobless claims
-Kansas City Fed Manufacturing Survey
-July 24
-S&P Global US Composite PMI
-S&P Global US Manufacturing PMI
-Kansas City Fed Services Activity Survey
-US building permits
-Global Investment Committee | July 20, 2026
+July 31
+Employment Cost Index
+Global Investment Committee | July 27, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. Thismaterial has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-recession-recovery quarters, and second quarter earnings
-reports have so far suggested solid momentum. Perhaps most
-constructively, some concerning dynamics around market
-valuation and concentration have eased, as the cap-weighted
-S&P 500’s forward price/earnings (P/E) ratio has fallen to
-around 20, and Magniﬁcent Seven stock concentration has
-given way to a broader AI trade including semiconductor
-makers, power suppliers and networking-gear manufacturers.
-Capital markets have continued to easily digest new issuance
-in both the equity and debt market. In fact, the latter has
-achieved option-adjusted spreads on investment grade credit
-near the tightest levels in ﬁve years. Equally notable, macro
-headwinds, at least outside the Middle East, and oil-related
-frustrations seem benign. Last week’s inﬂation data
-suggested reason for patience, if not outright optimism, from
-the Federal Reserve, and employment data has been resilient.
-And yet, markets have not latched on to any of this good
-news to push through the June 2 closing high of 7,610. These
-circumstances—when good news is not good enough—
-sometimes imply not just healthy market consolidation, but
-exhaustion. Per our analysis, we may be at such a point.
-For starters, we look at portfolio positioning and sentiment.
-On that front, there is reason to believe we’re approaching
-maximum bullishness. According to AAII survey data,
-household portfolio stock exposure is hovering around 71%—
-1% below the highest level in 25 years and within 6% of
-1999’s all-time high. Household portfolio cash levels are also
-at a 10-year low, corroborating historically low cash
-allocations observed in Morgan Stanley’s $8 trillion private
-client book. The reduced allocations, despite front-end yields
-having moved up nearly 50 basis points in the past year and
-sitting comfortably above forecast inﬂation, suggest an
-investor base unafraid of risk exposure. And it isn’t only
-households: Goldman Sachs’ institutional bull/bear ratio
-indicator implies bullishness is near a historic high, based on
-75 years of data (see Chart of the Week).
-Beyond positioning, there are the compositional dynamics of
-new-money ﬂows. Historically, peaking retail investor
-engagement with markets has correlated with interim market
-tops. Over the past six years, daily notional retail trading
-volume has been reasonably steady, generally ﬂuctuating in a
-normal range within plus or minus one standard deviation,
-with the only material spike related to the pre-Fed rate-hike
-peak of 2021—that is, until 2026. This year, retail notional
-volume is consistently running two to three times higher than
-normal, with the maximum reached on June 12, SpaceX’s ﬁrst
-day of trading. Surging individual investor participation and
-momentum factor efﬁcacy have taken retail volume, which
-tends to be “weak-handed,” to more than 40% of the market.
-These trends have coincided with extraordinary growth in
-trading volume of semiconductor and leveraged ETFs.
-According to the Conference Board, customer-account
-margin-debt balances have grown nearly 40% since
-December, roughly four times the growth in US large-cap
-equity market cap. Hedge fund positioning, while not
-extended or provocative like retail or quantitative trading,
-overlaps meaningfully with these AI-linked themes.
-The gross exposures foster vulnerability to other extremes in
-cross-capital-market asset strategy. Take for example the
-potential for another bout of Japanese yen carry-trade
-weakness like we saw at the end of 2024. At 162.4 per US
-dollar, the yen is at its weakest in 40 years. The yen carry
-trade is also a potential source of temporary market stress,
-with the borrow/lend spread still a healthy 275 basis points
-and Bank of Japan hiking intentions intensifying.
-Finally, while leverage, ﬂows and positioning suggest
-brittleness, markets are also exhibiting complacency. Index-
-level implied volatility is below average, as measured by the
-CBOE Volatility Index (VIX), recently at 18; put/call ratios are
-pricing hedging as cheap; and quality risk premiums are de
-minimis. Even in the investment grade bond universe, amid
-record issuance, spreads between Aaa and Bbb paper are
-under 140 basis points, a 25-year low (see Fixed Income
-Insight). In their July 16 Global Insights Focus report, “When
-Momentum Crowds Out Quality,” our colleagues note a
-similar phenomenon regarding equity quality factors, with
-momentum stocks selling at a 44% P/E premium to the S&P
-500, a top-decile event since 1994, while high-quality factors
-are only in the 32nd percentile.
-Bottom Line. US equities are once again churning in a trading
-range, unable to register a new all-time high since June 2.
-While consolidation phases are usually healthy, when they
-arrive against a backdrop of positive economic surprises,
-strong earnings and forecast revisions, favorable sentiment
-and risk-on positioning, they often signal exhaustion
-requiring fresh market catalysts. We sense this may be such
-a juncture. Household portfolio cash allocations are
-historically low, despite rising front-end rates, while equity
-portfolio-share is near a high point. Extreme ﬂows from
-retail and quantitative investors, thematic crowding, margin
-debt, leverage and the absence of quality premiums also
-suggest fragility and complacency, with asymmetric risk of
-disappointment. While not as extreme as in autumn 2024,
-the yen carry trade is another potential source of temporary
-market stress. Against a “boring headline tape,” we suggest
-using the summer to add to value-oriented hedges. Watch
-ﬂows, put/call ratios, retail investor leverage, credit spreads
-and reactions to earnings announcements. Consider adding
-to stability/quality and out-of-favor exposure in consumer
-staples, health care, HMOs, REITs and housing. We still like
-non-semiconductor-oriented emerging markets and Japan.
-We also prefer intermediate-term rates to credit, with
-additional diversiﬁcation from hedge funds, real assets,
-venture capital and growth equity.
+and IPO and M&A markets are open, with ample liquidity to
+absorb record corporate debt issuance. Meanwhile, earnings
+revision forecasts have been powerful enough to suggest the
+greatest acceleration in nonrecessionary proﬁt growth in 40
+years (see Chart of the Week). To wit, consensus S&P 500
+earnings forecasts for 2026 have nearly doubled to 24%, with
+contributions expected from well beyond the Magniﬁcent
+Seven stocks and AI ecosystem. Markets, rightly so, have
+responded, recovering from the war-related oil-price and
+inﬂation scares of March to deliver an 8.3% year-to-date S&P
+500 gain. This year’s market action has constructively
+produced some relief for longer-term investors like the GIC,
+with valuations improving overall and a measure of market
+broadening curing some of last year’s concentration risk. That
+said, as we explained last week (see “The GIC Weekly: A
+Fragile US Equity Market Balance for Now”), temporal factors
+like stretched positioning, leverage, sentiment and retail
+participation suggest that consolidation and churn could
+persist. This week, we have begun to ﬂag more fundamental
+issues that could have implications for the next leg of the bull
+market narrative.
+First are real rates. We wrote about the breakout in longer-
+duration real rates roughly a month ago. Since then, the 10-
+year US Treasury real yield, at 2.44%, is up another 10 basis
+points, within 12 basis points of a ﬁve-year cycle high. The 30-
+year Treasury real yield, at 2.97%, has surged even more,
+toward nearly a 20-year high. While long rates can be volatile,
+if the latest move reﬂects market reassessment of economic
+growth, the Federal Reserve’s policy framework and a new
+neutral rate and/or scarcer liquidity to fund Western
+sovereign debt, there could be longer-term implications for
+stocks. Speciﬁcally, long-maturity real yields are foundational
+discounting rates for growth-capital cash ﬂows and thus for
+equity valuations. With the S&P 500’s average valuation
+multiple, at 20 times forward earnings, still at the high end of
+its historical range, one could argue that investors have
+shrugged off much of the repricing of real rates, as liquidity
+has stayed abundant. But if investors choose to view the
+move in the 30-year real yield as reﬂective of more-
+discriminatory capital rationing for an AI- and capex-hungry
+market, it could be a negative catalyst.
+Second, we are looking closely at investors’ reaction to
+second quarter earnings reports. Yes, forecasts are ambitious,
+but realized “beat rates” have remained strong, if not
+downright outstanding. Consider that, with roughly 16% of
+companies reporting ﬁnancial results, 91% have exceeded
+consensus earnings projections and 82% have beaten on
+revenues. The average earnings beat rate is currently at a ﬁve-
+year high last seen in the third quarter of 2021, while the
+revenue beat rate is even more astonishing, exceeding
+benchmarks over the past one, ﬁve and 10 years. Still, the
+S&P 500 is sitting approximately 2% below its level prior to
+second quarter earnings season. We consider weak price
+reaction to seemingly good news very noteworthy; it could
+signal investor sentiment that has grown more focused on
+proﬁt sustainability, cash ﬂows, margins and peaking rates of
+change. This material alteration in the narrative suggests that
+catalysts may require much more deﬁnitive forecasts for AI-
+capex returns on investment, for example, as positive current
+surprises are no longer enough to impress.
+Third and ﬁnally, investors face the fundamental reality that
+the war in Iran, which many presumed was resolved at the
+mere proposal of a ceaseﬁre, may in fact drag on into another
+phase. As we go to print, Brent crude oil is back at $97 per
+barrel, and West Texas Intermediate crude is at $90. While
+diplomatic developments may again provide market relief, the
+longer-term implication is that geopolitical volatility may be
+here to stay, convincing investors to demand risk premiums
+for their equity, credit and rate positions.
+Bottom Line. US equities have been stuck in a tight range in
+recent months, despite strong fundamentals, improving
+valuation support and broader leadership. Last week, we
+cited some dynamics around ﬂows, sentiment and
+positioning that might explain part of the stall. Technicals
+and seasonality can be useful short-term explanatory
+factors, and we have grown to increasingly appreciate them.
+They typically fade, however, and are rarely the sole drivers
+of major market breakouts—either up or down. Rather, such
+moves are usually prompted by a change in more
+fundamental assumptions. We have observed at least three
+factors that may signal inﬂection in the market narrative.
+First, rising real rates could imply that investors need to
+recalibrate expectations for policy reaction function and
+valuations. Second, poor market response to genuine upside
+earnings surprises could indicate investor concerns around
+peak growth rates, margins and/or pricing power. Finally, the
+Iran war’s resurgence reintroduces potential for higher
+geopolitical risk premiums. Now is the time for risk
+management and patience, not greed. MS & Co.’s base-case
+S&P 500 target for the year ahead remains 8,300, but it
+looks like the ride will be bumpy. Watch US real rates,
+trading responses to upside surprises and risk premiums in
+bonds, stocks and credit. Consider adding to stability/quality
+and out-of-favor exposure in consumer staples, health care,
+HMOs, REITs and housing. We still like non-semiconductor-
+oriented EM and Japan. We also prefer intermediate-term
+rates to credit, with added diversiﬁcation from hedge funds,
+real assets, venture capital and growth equity.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-Source: Bloomberg as of July 10, 2026
-Note: Z-score measures the number of standard deviations a data point is from the
-average (mean) of a dataset. A positive score means the value is above average, and
-a negative score means it is below. Source: Bloomberg as of June 30, 2026
-Chart of the Week: Peaking Sentiment
-US equity markets have recovered nicely from the ﬁrst
-quarter drawdown related to the Iran war, hitting a new
-all-time closing high of 7,610 on June 2. Since then,
-despite strong upside surprises and positive earnings
-revisions, the S&P 500 Index has traded in a tight range.
-This has not deterred strong ﬂows into the market and
-sustained high sentiment. In fact, the bull/bear ratio
-remains near historic peaks. Such a combination begs for
-new catalysts, amid asymmetric near-term risks.
-Fixed Income Insight: Deteriorating Quality Premiums
-2026 has seen record investment grade bond issuance,
-powered in part by surging AI-related capex. Despite the
-diversity of quality issuers, spreads across the quality
-spectrum have continued to compress, indicating ample
-appetite for debt capital and rising complacency. With
-Baa/Aaa spreads near the cycle trough, investors clearly
-are not demanding high-risk premiums for lower-quality
-debt.
-Market Factor Data Points (for the week ending July 17, 2026)
+Source: Bloomberg as of July 23, 2026
+Source: Bloomberg as of July 23, 2026
+Chart of the Week: Peaking Rates of Earnings Growth?
+Markets love positive rates of change and abhor
+deceleration. With the second quarter likely to represent
+one of the most powerful earnings accelerations against a
+nonrecessionary backdrop in history, it is understandable
+that investors may be starting to question not only
+earnings-growth sustainability but an outright peaking of
+growth rates, margins and pricing power. These questions
+are exacerbated by the fact that so much of the
+acceleration is tied to the AI-ecosystem build-out and
+supply-chain-related pricing power. Such concentration
+ampliﬁes market risks that could arise if capex begins to
+inﬂect, as it might if investors no longer reward higher
+and higher capex budgets. Stay tuned!
+Fixed Income Insight: Real Yields Driving Nominals
+Inﬂation swaps continue to suggest low anxiety about
+persistent inﬂation, and breakeven rates remain anchored
+despite renewed military action in Iran and concerns that
+inﬂation-fear-driven rate hikes are a nonzero possibility,
+per fed funds futures. Meanwhile, the 10-year US
+Treasury nominal yield is marching higher, recently hitting
+4.7%, paced by surging real rates. In fact, the real rate—a
+proxy for the noninﬂationary cost of risk-free capital—has
+jumped more than 50 basis points since mid-April. At
+least three factors seem to be at play: better-than-
+expected economic growth, a new Fed chair who has
+suggested a more traditional and data-driven policy
+framework and surging long-duration, global debt
+issuance, from both AI-linked borrowers and growing sovereign debt piles. At current levels, we think these rates will become
+a potential headwind to equity valuations and ﬁnancial conditions.
+Market Factor Data Points (for the week ending July 24, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-Consensus Earnings Forecasts Continue to Rise
-Source: MS & Co. Research as of July 15, 2026
-Earnings Strength Solid Outside of Just Energy
-Source: Empirical Research Partners as of July 15, 2026
-Macro Factor Heat Map (as of July 17, 2026)
-Note: Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
+The 30-Year US Treasury Yield Is Back Above 5%
+Source: Bloomberg as of July 22, 2026
+The 30-Year Yield Has Exceeded 5% 27 Days in 2026
+Source: Bloomberg as of July 22 2026
+Macro Factor Heat Map (as of July 24, 2026)
+Note: Text in a factor box denotes a color; In Europe, Earnings fell from Neutral to Risk Off due to decreasing ROE; In China, Earnings climbed from Neutral to
+Risk On due to rising earnings estimate revisions; In Brazil, Earnings fell from Neutral to Risk Off due to falling earnings estimate revisions. see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Kicking Off the 2Q2026 Earnings Season
-Sales and Margins Expected to Expand in Near Term
-Source: MS & Co. Research as of July 15, 2026
-AI Names Continue to Drive Growth
-Note: AI basket consists of 68 stocks, identiﬁed by Empirical Research Partners. 
-Source: Empirical Research Partners as of July 15, 2026
+Charts in Focus: Studying Long-Term US Treasury Yields
+30-Year Yield Approaching Its Highest Level Since 2007
+Source: Bloomberg as of July 22, 2026
+Real Yields Remain Resilient to US Dollar Movement
+Source: Bloomberg as of July 22, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
 Short-Term Stock-Bond Indicator
@@ -210,10 +213,10 @@ Note: Shading reﬂects the relative strength of each component signal on a perc
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of July 17, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of July 24, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-Asset Class Performance (as of July 17, 2026)
+Asset Class Performance (as of July 24, 2026)
 Note: Performance values calculated using USD. 1. As of June 30 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of June 30, 2026. 4.
 Volatility and Correlation: June 30, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds and managed
 futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its mean. 
@@ -221,12 +224,12 @@ Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of July 17, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of July 24, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of July 17, 2026
-S&P 500 Sector Performance and Valuation (as of July 17, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of July 24, 2026
+S&P 500 Sector Performance and Valuation (as of July 24, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of July 17, 2026)
+Equity Market Relative Valuation (as of July 24, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
@@ -235,11 +238,11 @@ Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of July 17, 2026
+Source: Bloomberg as of July 24, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of July 17, 2026
-Morgan Stanley & Co. Forecasts (as of July 17, 2026)
+Source: Bloomberg as of July 24, 2026
+Morgan Stanley & Co. Forecasts (as of July 24, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
@@ -463,6 +466,6 @@ Morgan Stanley Wealth Management is not acting as a municipal advisor to any mun
 Third-party data providers make no warranties or representations of any kind relating to the accuracy, completeness, or timeliness of the datathey provide and shall not have liability for any damages of any kind relating to such data.
 This material, or any portion thereof, may not be reprinted, sold or redistributed without the written consent of Morgan Stanley Smith BarneyLLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1784510115823 07/2026
+RSI1785084058313 07/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
