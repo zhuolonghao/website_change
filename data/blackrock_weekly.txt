@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Jul 27, 2026
+Aug 3, 2026
 BlackRock Investment Institute
-Cheaper AI, new earnings questions
+A quiet August? Not for investors
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,63 +76,70 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260727
-Natalie Gill
-Senior Portfolio Strategist
+Weekly video_20260803
+Michel Dilmanian
+Portfolio Strategist
 BlackRock Investment Institute
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: Cheaper AI, new earnings questions
-This earnings season comes with unusually high expectations. But we think the focus should not just be on earnings beats, but on whether today’s extraordinary profit levels can be sustained as cheaper AI models reshape the economics of AI - a key theme in our Midyear Outlook. And clues are likely to come from earnings call commentary rather than from headline results.
-1: Exceptional AI earnings pace
-Exceptional earnings growth – not re-rating - has driven U.S. equity returns this year, meaning valuations on a forward P/E basis don’t look so stretched if you believe this earnings strength is durable. That leaves investors looking beyond quarterly beats to what could sustain or erode the underlying driver of earnings strength, which has been the unprecedented speed and scale of the AI buildout.
-2: Who captures economic rent?
-The rising cost of enterprise AI, combined with the emergence of powerful Chinese AI models and other open-weight alternatives, raises a broader question: as competition intensifies, who will capture the economic rent? This earnings season is a chance to assess how companies will respond. We think the availability of cheaper AI models could create price pressure on other models and change the winners, but not the overall investment case. It reinforces our preference for AI infrastructure over the increasingly competitive model layer.
-3: The changing landscape
-This quarter’s headline earnings are unlikely to capture the true implications of the recent shift toward lower-cost and open-weight AI models. So, instead, investors should focus on hyperscaler capital spending plans, what management teams say on the changing competitive landscape and how companies across the broader economy are responding to the rising cost of AI.
-Outro: Here’s our Market take We remain overweight the AI theme, but it requires selective and active positioning. Rather than trying to identify long-term winners in the increasingly competitive model layer, we prefer investing around AI scarcity such as power and data center infrastructure.
+Title slide: A quiet August? Not for investors
+August is usually a quiet month for markets. Yet this year is looking different. Key factors like volatile oil prices amid the Middle East conflict and ongoing repricing in government bond yields underscore our long-held view of a world shaped by supply.
+1: Higher for longer
+Recent moves in bond markets fit that picture.
+After last week's FOMC meeting, investors demanded more compensation to hold long-term government bonds. At the same time, AI investment and persistent government borrowing are increasing competition for capital, while Middle East tensions continue to threaten energy supplies.
+We see that broader repricing as another sign that scarcity is shaping today's investment backdrop.
+2: Unpacking the repricing
+We don't see this as a short-term shift.
+The cost of long-term capital has been rising for years, and the AI buildout is adding to that trend. Companies are investing at an unprecedented pace, increasing demand for capital.
+AI may boost productivity over time, but today the buildout is helping push yields higher.
+3: Investment takeaways
+Higher borrowing costs are changing the role of fixed income.
+Long-term government bonds may no longer provide the same diversification benefits. Instead, we see stronger opportunities to build durable income through short- and medium-term government bonds and selected credit.
+Outro: Here’s our Market take
+Durable income is one of the clearest opportunities created by today’s higher cost of capital environment. We favor building durable income through short- and medium-term Treasuries, local-currency emerging market debt and short maturity euro area bonds, to name a few.
 Closing frame: Read details: blackrock.com/weekly-commentary
-AI durability
-U.S. earnings remain exceptionally strong. But the focus should also be on AI profit durability, not just another round of earnings beats.
+Structurally higher rates
+AI, oil and government bond yields are all sending the same message: scarcity is shaping markets and keeping borrowing costs higher.
 Market backdrop
-Geopolitics drove markets last week. Renewed Middle East supply risks and U.S. tariff tensions pushed oil briefly above $100 a barrel and Treasury yields higher.
+The sell-off in long-dated U.S. Treasuries pushed the 30-year yield to a 19-year high of 5.28% as markets reassessed the Fed’s reaction function.
 Week ahead
-The Federal Reserve takes center stage this week. Its rate decision, alongside U.S. GDP and PCE inflation data, could reinforce our high-for-longer rate view.
-This earnings season comes with unusually high expectations. Consensus expects a second consecutive quarter of more than 20% S&P 500 earnings growth, driven largely by the AI buildout. Early results have again exceeded forecasts. Yet the bigger question is whether today’s extraordinary profit levels can be sustained as cheaper models reshape the economics of AI, a key theme in our Midyear Outlook. The clues are more likely to come from earnings calls than from headline results.
+U.S. nonfarm payrolls take the spotlight this week, offering clues on whether labor market conditions are consistent with our high-for-longer rate view.
+Investors hoping August will bring a summer lull may be disappointed. Oil prices are swinging with every twist in the Middle East conflict, while AI earnings and spending plans are driving sharp moves in stocks. Alongside the repricing in government bond yields, these developments underscore our long-held view of a world shaped by supply scarcity keeping inflation and borrowing costs higher. For investors, the role of government bonds has shifted: less ballast, more income.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-High expectationsS&P 500 12-month forward earnings, 2012-28
-Forward-looking estimates may not come to pass. Source: BlackRock Investment Institute with data from LSEG Datastream, July 24, 2026. Notes: The dotted line shows the 20-year linear trend on a logarithmic scale, representing the long-run compound earnings growth path. The July 2028 projection is based on the latest 12-month forward earnings estimate and consensus expected earnings growth from months 12 to 24.
-U.S. equities do not look especially expensive on a forward price-to-earnings basis, but cyclically adjusted (Shiller CAPE) valuations remain historically rich. The difference reflects consensus expectations that today’s extraordinary earnings growth, supported by the unprecedented speed and scale of the AI buildout, will persist rather than revert to historical norms. See the chart. Whether that assumption holds is the question. The emergence of powerful Chinese AI models, including Moonshot's Kimi K3, could put it to the test. As competition intensifies, the debate is no longer just who will build the best model, but who will capture the economic rent. We think cheaper AI changes the winners, not the investment case. Instead, it reinforces our preference for AI infrastructure over the increasingly competitive model layer.
-The cost of AI is emerging as a key concern for companies deploying it. Gartner expects worldwide spending on AI models and platforms to reach $64 billion in 2026, up 63% from 2025. As enterprise AI bills rise, companies have a stronger incentive to contain costs through model routing and lower-cost models. Reflecting that shift, OpenRouter data on the 10 most widely used AI models show Chinese models processing roughly 23 trillion tokens a week, compared with about 12 trillion tokens for U.S. rivals. Together, these trends could erode the pricing power of frontier model developers even as AI adoption accelerates. Meanwhile, AI sovereignty is encouraging countries and companies to build their own AI capabilities, reinforcing demand for open-weight models and the infrastructure needed to train, host, and deploy AI at scale.
-Earnings calls test AI’s winners
-It is too early for this quarter’s reported earnings to reveal the impact of lower-cost and open-weight AI models. Instead, the first clues are likely to come from management commentary on earnings calls. We will be listening for two sets of signals. From hyperscalers, we want to know whether they remain committed to the AI buildout through their capital spending plans, how they balance capital discipline in a higher cost of capital environment, and whether those investments are generating returns. Alphabet’s earnings last week sharpened that focus after free cash flow turned negative for the first time. Decisions on whether and how to deploy lower-cost models on cloud platforms also matter because hyperscaler cash flows — and increasingly, debt financing — fund much of today’s AI ecosystem. From companies across the broader economy, we will look for comments on how they are responding to rising AI costs and the increasing importance of AI sovereignty, including how that is shaping model routing, model choice, and returns on AI adoption. Together, these discussions could offer clues about whether greater competition changes the winners rather than the investment case.
+The real deal10-year real government bond yields across major developed markets, 2010–2026
+Source: BlackRock Investment Institute, with data from LSEG Datastream, July 2026. Notes: Chart shows 10-year inflation-adjusted government bond yields for the U.S., U.K., Germany and Japan.
+The steepening of the two-year/30-year Treasury yield curve after last week’s Federal Reserve meeting reflects growing inflation worries and uncertainty over how the Fed will respond. We see this not as new but as a continuation of the broader macro regime we have described for several years. The fastest AI investment buildout in history is unfolding in a world shaped by supply scarcity, where energy constraints, tight labor markets and geopolitical fragmentation are shifting the focus from efficiency to resilience. Meanwhile, governments and hyperscalers are drawing on the same pool of savings, intensifying competition for capital. These forces are pushing investors to demand higher returns to lend for longer, lifting real yields across developed markets. See the chart. That broader repricing underpins today’s investment backdrop.
+The global repricing of long-term bond yields has come a long way. The U.S. 10-year Treasury yield has risen from less than 1% six years ago to nearly 5% today. German 10-year yields recently reached a 15-year high and Japanese 10-year yields have approached 3% for the first time since the mid-1990s.
+An accelerating repricing
+The structural forces behind higher bond yields have been building for several years but intensified this year. What was already the fastest AI investment boom in history has accelerated further, with consensus forecasts for hyperscaler capital spending in 2026 revised about 30% higher over the past six months to $720 billion. Greater sovereign borrowing and persistent fiscal deficits, alongside a shift in Middle Eastern investment toward domestic priorities, have reduced capital available for overseas investment and further intensified competition for capital. Scarcity-driven inflation—amplified by the Middle East energy and commodity shock—has driven a sharp repricing of Fed expectations from easing to tightening, prompting a global rise in bond yields. More recently, new uncertainty around the Fed’s reaction function under new Chair Kevin Warsh has pushed the term premium higher.
+Higher yields have changed both the role of government bonds in portfolios and the opportunity set for investors. Bonds have become a less effective portfolio ballast. The correlation between daily U.S. equity and 10-year Treasury returns averaged 7% over the last five years, compared to -43% in the decade prior to the pandemic. Still, higher yields have created attractive income opportunities, reinforcing our durable income theme. More than 80% of the global bond universe now yields above 4%, versus around 20% in the decade pre-pandemic. Rather than reaching further out the curve, we favor building durable income through short- and medium-term Treasuries, local-currency emerging market debt, short-maturity euro area bonds, agency mortgage-backed securities and selected public and private credit with resilient cash flows. Higher borrowing costs also raise the bar for equities. But companies able to grow earnings faster than borrowing costs increase can still outperform. However, we expect greater dispersion across companies, strengthening the case for active investing.
 Our bottom line
-Recent developments may shift where AI’s economic rent is captured. But cheaper models could also broaden AI adoption while AI sovereignty reinforces demand for AI infrastructure. We remain overweight on the AI theme, but it requires increasingly selective and active positioning. Rather than trying to identify long-term winners in the increasingly competitive model layer, we prefer investing around AI scarcity. More broadly, the U.S. still stands out for resilient corporate earnings, even outside the AI ecosystem.
+AI investment, prolonged supply shocks and heavy government borrowing are accelerating the repricing of long-term rates. Government bonds provide less ballast but more income, expanding the opportunity for durable income.
 Market backdrop
-Geopolitical risks returned to the fore last week. A sharp escalation in the Middle East conflict, alongside new global tariffs announced by U.S. President Donald Trump, pushed Brent crude oil prices briefly back above $100 a barrel and lifted 10-year Treasury yields to their highest levels since early 2025 as markets priced in a greater inflation risk. Technology shares also came under pressure after Alphabet raised its capital spending plans, with the Nasdaq ending the week down more than 1%.
-Markets face a packed week against a backdrop of escalating Middle East tensions and President Trump’s new global trade tariffs. Investors will watch policy decisions from the Federal Reserve, Bank of England, and Bank of Japan, alongside U.S. GDP and PCE inflation data. Together, they will test whether resilient growth and sticky inflation still support our high-for-longer rate view.
+Bond markets were in focus last week. Investors sold long-dated Treasuries after the Federal Reserve held rates steady, pushing the 30-year yield to a 19-year high of 5.28% as markets reassessed the Fed’s reaction function. At the same time, the two-year yield fell to 4.29%, steepening the two-year/30-year Treasury curve. Technology stocks also swung sharply, with the Nasdaq up 1.6% for the week as investors weighed hyperscaler earnings against another wave of AI investment.
+U.S. nonfarm payrolls will be in focus after last week’s Fed meeting. With less forward guidance from the Fed, the report will provide fresh insights into labor market conditions, wage growth and the outlook for inflation—and whether they remain consistent with our high-for-longer rate view.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 23, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-July 27
-Japan services PPI
-July 29
-Fed rate decision
-July 30
-U.S. GDP and PCE; EU GDP and unemployment; BoE rate decision
-July 31
-BoJ rate decision; EU HICP; UMich sentiment; China PMI
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 30, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+Aug. 3
+U.S. ISM manufacturing and EU manufacturing PMI
+Aug. 4
+U.S. job openings
+Aug. 6
+U.S. initial jobless claims and Q2 productivity; China trade balance
+Aug. 7
+U.S. payrolls
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
 From drivers to portfolio expressions
-Our highest conviction views, July 2026
+Our highest conviction views, August 2026
 Driver
 What we think
 Portfolio expression
@@ -152,9 +159,9 @@ Alpha opportunity
 Macro outcomes matter again in the new regime.
 Macro hedge funds, venture capital, market-neutral strategies, and selected private credit and non-U.S. alpha.
 Source
-Note: Views are from a U.S. dollar perspective, July 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
+Note: Views are from a U.S. dollar perspective, August 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
 Asset class implications
-Six- to 12-month tactical positioning, July 2026
+Six- to 12-month tactical positioning, August 2026
 This shows the implementation of our key investment views from the previous page through an asset class lens.
 Search views
 Asset
@@ -205,7 +212,7 @@ We are overweight. We like the yield relative to its volatility and improving fu
 Source
 Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a U.S. dollar perspective. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 Euro-denominated tactical granular views
-Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, July 2026
+Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, August 2026
 We have lengthened our tactical investment horizon back to six to 12 months. The table below reflects this and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at a time of heightened volatility.
 Search views
 Asset
@@ -213,42 +220,42 @@ Tactical view
 Commentary
 Equities
 Europe ex UK
-We are neutral. We would need to see more business-friendly policy and deeper capital markets for recent outperformance to continue and to justify a broad overweight. We stay selective, favoring financials, utilities and healthcare.
+We are neutral. We would need to see more business-friendly policy and deeper capital markets for Europe to outperform and to justify a broad overweight. We stay selective, favoring financials, infrastructure, industrials, materials and healthcare.
 Germany
-We are neutral. Increased spending on defense and infrastructure could boost the corporate sector. But valuations rose significantly in 2025 and 2026 earnings revisions for other countries are outpacing Germany.
+We are neutral. Higher spending on defense and infrastructure support the corporate sector. Valuations are not stretched but neither compelling and expected earnings growth lags other countries. Light positioning means potential easing in geopolitical tensions and AI lifting industrials-driven earnings could create opportunities.
 France
-We are neutral. Political uncertainty could continue to drag corporate earnings behind peer markets. Yet some major French firms are shielded from domestic weakness, as foreign activity accounts for most of their revenues and operations.
+We are neutral. Strong expected earnings growth and global revenue exposure support French corporates. Valuations are less compelling, albeit not stretched versus euro area peers. Persistent political uncertainty leaves the overall risk reward balanced.
 Italy
-We are neutral. Valuations are supportive relative to peers. Yet we think the growth and earnings outperformance that characterized 2022-2023 is unlikely to persist as fiscal consolidation continues and the impact of prior stimulus peters out.
+We are neutral. Earnings growth and momentum are strong, boosted by the significant exposure to financials, utilities and energy. Valuations are still at discount vs. peers, but not as much as in previous years. Political risk is currently low but likely to pick up ahead of 2027 elections.
 Spain
-We are overweight. Valuations and earnings growth are supportive relative to peers. Financials, utilities and infrastructure stocks stand to gain from a strong economic backdrop and advancements in AI. High exposure to fast-growing areas like emerging markets is also supportive.
+We are overweight. Valuations remain attractive vs. peers even if relative earnings momentum has slowed. Strong domestic demand growth and exposure to fast-growing areas like Latin America support Spanish stocks. Financials, utilities and infrastructure-linked stocks would benefit from Europe’s push towards autonomy.
 Netherlands
-We are neutral. Technology and semiconductors feature heavily in the Dutch stock market, but that’s offset by other sectors seeing less favorable valuations and a weaker earnings outlook than European peers.
+We are neutral. Earnings revisions in the IT sector, a large sector in the Dutch stock market is offset by other sectors seeing less favorable valuations and a weaker earnings outlook than European peers.
 Switzerland
-We are neutral. Valuations have improved, but the earnings outlook is weaker than other European markets. If global risk appetite stays strong, the index’s tilt to stable, less volatile sectors may weigh on performance.
+We are neutral. Valuations have improved, from stretched levels, but the earnings outlook is weaker than other European markets. If global risk appetite stays strong, the index’s tilt to stable, less volatile sectors may weigh on performance .
 UK
 We are neutral. Valuations remain attractive relative to the U.S., but we see few near-term catalysts to trigger a shift.
 Fixed income
 Euro area government bonds
-We are neutral short-term European government bonds. The market has repriced the ECB policy path more in line with our view. We think increased German bond issuance to finance its fiscal stimulus package is already largely reflected in the current level of 10-year yields.
+We are overweight short- and medium-term bonds. Markets are pricing restrictive policy rates of about 3% for several years. We think that’s overdone.
 German bunds
-We are neutral. Markets have largely priced in fiscal stimulus and bond issuance, and expectations for policy rates align with our view.
+We are overweight shorter-term Bunds as the market-implied ECB policy path appears too hawkish. We stay neutral long-dated Bunds. Fiscal stimulus and increased bond issuance exert upward pressure on yields, alongside inflation risks amid lingering geopolitical tensions.
 French OATs
-We are neutral. Political uncertainty, high budget deficits and slow structural reforms could stoke volatility, but current spreads incorporate these risks and we don’t expect a worsening from here.
+We are neutral. Elevated political uncertainty, high budget deficits and slow structural reforms could stoke volatility, but these risks already seem priced into OATs and we don’t expect a material worsening from here.
 Italian BTPs
-We are neutral. Demand from Italian households is strong at current yield levels. Spreads tightened in line with its sovereign credit upgrade, but a persistently high debt-to-GDP levels means they likely won’t tighten further.
+We are neutral. The spread over German bunds looks tight given Italy’s large budget deficits and growing public debt. Domestic factors remain supportive, with growth holding up relative to the rest of the euro area and local demand for BTPs solid at current yield levels. Domestic disapproval would likely prevent defense spending from reaching fiscally unstable levels. Political uncertainty is likely to increase ahead of next year’s elections.
 UK gilts
-We are neutral. We expect volatility in gilts over the near-term. Gas powers much of the UK’s electricity, but storage is limited – making it especially vulnerable to a resurgence in inflation.
+We are neutral. We expect periods of elevated volatility given political uncertainty, longer-term bonds making up a larger market share, and buyers becoming more price-sensitive.
 Swiss government bonds
-We are neutral. We don’t think the Swiss National Bank will slash policy rates to below zero, as markets expect.
+We are neutral. The SNB seems comfortable with its medium-term inflation outlook and its current policy stance. Market pricing is broadly in line with SNB messaging.
 European inflation-protected securities
-We are neutral. Our medium-term inflation expectations align with those implied in current market pricing.
+We are neutral. We see higher medium-term inflation, but inflation expectations are firmly anchored. Cooling inflation and uncertain growth may matter more near term.
 European investment grade
-We are neutral. We favor short- to medium-term debt and Europe over the U.S. An intense re-leveraging cycle to support the AI buildout could put upward pressure on U.S. spreads, making Europe relatively more attractive.
+European investment grade is supported by healthy corporate sector balance sheets, contained default rates and the persistently strong demand for durable income from European households. We prefer European investment grade over the U.S.
 European high yield
-We are overweight. Spreads hover near historic lows, but credit losses have been limited in this cycle and better economic growth in 2026 could reduce them further.
+We are overweight. While spreads are low, the income potential remains attractive. Defaults are contained and high yield is of higher quality and less sensitive to interest rate swings compared with the U.S.
 Source
-Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, July 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
+Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, August 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 On the go?
 Stay informed on our latest weekly Market take. Listen wherever you get your podcasts.
 Subscribe to Apple podcasts
@@ -258,10 +265,10 @@ Jean Boivin
 Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Carrie King
-Global Chief Investment Officer, Fundamental Equities – BlackRock
-Natalie Gill
-Senior Portfolio Strategist – BlackRock Investment Institute
+Ehsan Khoman
+Economist — BlackRock Investment Institute
+Michel Dilmanian
+Portfolio Strategist – BlackRock Investment Institute
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -387,9 +394,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of July 27, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of August 03, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0726-5783886-EXP0727
+BII0826-5805769-EXP0827
