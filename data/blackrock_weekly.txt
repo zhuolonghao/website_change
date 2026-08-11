@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Aug 3, 2026
+Aug 10, 2026
 BlackRock Investment Institute
-A quiet August? Not for investors
+Two market signals, one story
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,65 +76,67 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260803
-Michel Dilmanian
+Weekly video_20260810
+Devan Nathwani
 Portfolio Strategist
 BlackRock Investment Institute
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: A quiet August? Not for investors
-August is usually a quiet month for markets. Yet this year is looking different. Key factors like volatile oil prices amid the Middle East conflict and ongoing repricing in government bond yields underscore our long-held view of a world shaped by supply.
-1: Higher for longer
-Recent moves in bond markets fit that picture.
-After last week's FOMC meeting, investors demanded more compensation to hold long-term government bonds. At the same time, AI investment and persistent government borrowing are increasing competition for capital, while Middle East tensions continue to threaten energy supplies.
-We see that broader repricing as another sign that scarcity is shaping today's investment backdrop.
-2: Unpacking the repricing
-We don't see this as a short-term shift.
-The cost of long-term capital has been rising for years, and the AI buildout is adding to that trend. Companies are investing at an unprecedented pace, increasing demand for capital.
-AI may boost productivity over time, but today the buildout is helping push yields higher.
-3: Investment takeaways
-Higher borrowing costs are changing the role of fixed income.
-Long-term government bonds may no longer provide the same diversification benefits. Instead, we see stronger opportunities to build durable income through short- and medium-term government bonds and selected credit.
+Title slide: Two market signals, one story
+Rapidly rising earnings forecasts alongside higher long-term bond yields are not contradictory signals. We think they're telling the same story: structural forces are reshaping markets, supporting earnings and keeping the cost of capital higher.
+1: Beyond a normal business cycle
+Today's market isn't following the usual business cycle.
+Five years after the last economic downturn, analysts are still raising earnings forecasts. In the past, earnings growth typically stalled and then contracted every four to six years.
+We see that as evidence that structural forces are reshaping markets. For example, the AI buildout is boosting productivity and profit margins, while supply scarcity is changing how capital is deployed across the economy. Those forces are changing how we think about long-term investing.
+2: Higher cost of capital
+But the same forces supporting earnings are also pushing bond yields higher.
+Governments, AI hyperscalers and companies are all competing more intensely for capital. Combined with inflation uncertainty, we think investors will keep demanding more compensation for holding long-term government bonds, or term premium.
+That's why we see structurally higher cost of capital.
+3: Positioning portfolios
+We’ve argued that this environment calls for a different approach to portfolio construction. The industry’s growing focus on the total portfolio approach reflects that shift.
+We prefer growth exposure through equities and private infrastructure equity over high yield credit. Tighter spreads see us go underweight in high yield credit strategically, and reinforce our view that equities are better positioned if earnings strength persists.
+We favor durable income in select private credit over taking more duration risk in government bonds and global IG credit.
 Outro: Here’s our Market take
-Durable income is one of the clearest opportunities created by today’s higher cost of capital environment. We favor building durable income through short- and medium-term Treasuries, local-currency emerging market debt and short maturity euro area bonds, to name a few.
+The same structural changes supporting stronger earnings are also pushing bond yields higher. We reflect that through our preference for equities, durable income and limiting duration risk.
 Closing frame: Read details: blackrock.com/weekly-commentary
-Structurally higher rates
-AI, oil and government bond yields are all sending the same message: scarcity is shaping markets and keeping borrowing costs higher.
+A different approach
+Strong corporate earnings and rising government bond yields tell the same story: a structurally higher cost of capital calls for a different portfolio approach.
 Market backdrop
-The sell-off in long-dated U.S. Treasuries pushed the 30-year yield to a 19-year high of 5.28% as markets reassessed the Fed’s reaction function.
+U.S. Treasury yields fell as weak jobs data eased pressure for an immediate Fed rate rise. But a steeper yield curve suggests long-term inflation risks remain.
 Week ahead
-U.S. nonfarm payrolls take the spotlight this week, offering clues on whether labor market conditions are consistent with our high-for-longer rate view.
-Investors hoping August will bring a summer lull may be disappointed. Oil prices are swinging with every twist in the Middle East conflict, while AI earnings and spending plans are driving sharp moves in stocks. Alongside the repricing in government bond yields, these developments underscore our long-held view of a world shaped by supply scarcity keeping inflation and borrowing costs higher. For investors, the role of government bonds has shifted: less ballast, more income.
+July inflation data will show whether softer hiring and wages are feeding through to prices. We expect some inflation rebound from June’s softer reading.
+Analysts are raising corporate earnings forecasts even as long-term government bond yields rise. These are not contradictory signals. We think both are consistent with the structural changes reshaping markets. That’s why our capital market assumptions (for professional investors only) are built around multiple scenarios with different macro outcomes. That framework underpins our preference for equities and underweight to developed market government bonds.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-The real deal10-year real government bond yields across major developed markets, 2010–2026
-Source: BlackRock Investment Institute, with data from LSEG Datastream, July 2026. Notes: Chart shows 10-year inflation-adjusted government bond yields for the U.S., U.K., Germany and Japan.
-The steepening of the two-year/30-year Treasury yield curve after last week’s Federal Reserve meeting reflects growing inflation worries and uncertainty over how the Fed will respond. We see this not as new but as a continuation of the broader macro regime we have described for several years. The fastest AI investment buildout in history is unfolding in a world shaped by supply scarcity, where energy constraints, tight labor markets and geopolitical fragmentation are shifting the focus from efficiency to resilience. Meanwhile, governments and hyperscalers are drawing on the same pool of savings, intensifying competition for capital. These forces are pushing investors to demand higher returns to lend for longer, lifting real yields across developed markets. See the chart. That broader repricing underpins today’s investment backdrop.
-The global repricing of long-term bond yields has come a long way. The U.S. 10-year Treasury yield has risen from less than 1% six years ago to nearly 5% today. German 10-year yields recently reached a 15-year high and Japanese 10-year yields have approached 3% for the first time since the mid-1990s.
-An accelerating repricing
-The structural forces behind higher bond yields have been building for several years but intensified this year. What was already the fastest AI investment boom in history has accelerated further, with consensus forecasts for hyperscaler capital spending in 2026 revised about 30% higher over the past six months to $720 billion. Greater sovereign borrowing and persistent fiscal deficits, alongside a shift in Middle Eastern investment toward domestic priorities, have reduced capital available for overseas investment and further intensified competition for capital. Scarcity-driven inflation—amplified by the Middle East energy and commodity shock—has driven a sharp repricing of Fed expectations from easing to tightening, prompting a global rise in bond yields. More recently, new uncertainty around the Fed’s reaction function under new Chair Kevin Warsh has pushed the term premium higher.
-Higher yields have changed both the role of government bonds in portfolios and the opportunity set for investors. Bonds have become a less effective portfolio ballast. The correlation between daily U.S. equity and 10-year Treasury returns averaged 7% over the last five years, compared to -43% in the decade prior to the pandemic. Still, higher yields have created attractive income opportunities, reinforcing our durable income theme. More than 80% of the global bond universe now yields above 4%, versus around 20% in the decade pre-pandemic. Rather than reaching further out the curve, we favor building durable income through short- and medium-term Treasuries, local-currency emerging market debt, short-maturity euro area bonds, agency mortgage-backed securities and selected public and private credit with resilient cash flows. Higher borrowing costs also raise the bar for equities. But companies able to grow earnings faster than borrowing costs increase can still outperform. However, we expect greater dispersion across companies, strengthening the case for active investing.
+Breaking the cycleS&P 500 earnings growth estimate paths, 2021-2027
+Source: BlackRock Investment Institute with data from LSEG Datastream, August 7, 2026. Lines show the evolution of calendar year earnings estimates over time for the S&P 500 index.
+Rapidly rising earnings forecasts and higher government bond yields might seem hard to reconcile. Both trends can pull markets in opposing directions, as higher long-term rates tend to dampen earnings growth. Yet five years after the last economic downturn, consensus earnings forecasts for 2026 are still being revised higher, not lower. See the chart. We see this as evidence of structural forces at play. In our CMAs, we see strong earnings growth as durable. We expect U.S. corporate earnings to grow by 11.6% a year over the next five years — a pace seen in only about 15% of historical five-year periods. This outcome is not guaranteed and is conditional on AI adoption boosting productivity and profit margins. But the fact that it is plausible underscores why we cannot apply a typical business cycle playbook to long-term portfolios in this environment.
+The same forces supporting corporate earnings are also driving the global bond reset that has lifted government bond yields since 2021. That aligns with our long-held view of a world shaped by supply scarcity, where investors demand more compensation for holding long-term government debt. Rising public borrowing, greater inflation uncertainty and more volatile bond markets have reinforced that trend. Yet we remain strategically underweight developed market government bonds. This is an active call because we think long-term yields have more room to run. Governments, AI hyperscalers and companies across the economy are competing ever more intensely for capital, keeping upward pressure on long-term government bond yields — even in our AI productivity boom scenario. We’ve argued that this environment calls for a different approach to portfolio construction as long-standing macro anchors investors have come to rely upon, such as stable inflation expectations, become less reliable. The industry’s growing focus on a total portfolio approach reflects that shift.
+Shifting focus
+For us, this means focusing more on the underlying drivers of risk and return across the portfolio and less on asset class labels. We remain underweight global investment-grade credit because today’s tight spreads offer little compensation for additional duration risk. Instead, we like selected private credit, including direct lending, where resilient cash flows, stronger lender protections and recovery value can provide durable income. Rising dispersion — the widening gap between stronger- and weaker-performing managers and borrowers — also reinforces the importance of manager selection.
+We prefer growth exposure through equities and private infrastructure equity over high yield credit. Tighter spreads prompted our new strategic underweight in high yield this quarter and reinforce our view that equities are better positioned if earnings strength persists. We see valuations falling as earnings growth outpaces share price gains, allowing multiples to decline over time. We favor targeted exposures, such as in technology and healthcare, where structural shifts support earnings growth. We also see opportunities in infrastructure equity through investment in power, grids and data centers.
 Our bottom line
-AI investment, prolonged supply shocks and heavy government borrowing are accelerating the repricing of long-term rates. Government bonds provide less ballast but more income, expanding the opportunity for durable income.
+The same structural changes supporting stronger earnings are also pushing bond yields higher. We reflect that through our preference for equities, durable income and limiting duration risk on a strategic horizon of five years or more.
+This is our final edition before our summer publishing pause. The Weekly commentary will return on Monday, Aug. 31.
 Market backdrop
-Bond markets were in focus last week. Investors sold long-dated Treasuries after the Federal Reserve held rates steady, pushing the 30-year yield to a 19-year high of 5.28% as markets reassessed the Fed’s reaction function. At the same time, the two-year yield fell to 4.29%, steepening the two-year/30-year Treasury curve. Technology stocks also swung sharply, with the Nasdaq up 1.6% for the week as investors weighed hyperscaler earnings against another wave of AI investment.
-U.S. nonfarm payrolls will be in focus after last week’s Fed meeting. With less forward guidance from the Fed, the report will provide fresh insights into labor market conditions, wage growth and the outlook for inflation—and whether they remain consistent with our high-for-longer rate view.
+The S&P 500 and Nasdaq notched their biggest weekly gains in three months on hopes of a Middle East peace deal and solid earnings. U.S. Treasury yields fell after July payrolls unexpectedly declined. The gap between two- and 30-year yields has widened by roughly 20 basis points since the last Fed meeting. That leaves our investment view unchanged: the softer jobs report likely gives the Federal Reserve more flexibility but does not materially alter our longer-term inflation outlook.
+July inflation will show whether softer hiring and wage growth are starting to feed through to prices. We think much of June’s inflation softness reflected normalization in a handful of categories and is likely to reverse. The key watch is services inflation: sustained moderation there would strengthen the case for policy easing more than a single weak payroll reading.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of July 30, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-Aug. 3
-U.S. ISM manufacturing and EU manufacturing PMI
-Aug. 4
-U.S. job openings
-Aug. 6
-U.S. initial jobless claims and Q2 productivity; China trade balance
-Aug. 7
-U.S. payrolls
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of August 6, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+Aug. 10
+China total social financing
+Aug. 12
+U.S. CPI
+Aug. 13
+U.S. PPI; UK preliminary GDP
+Aug. 14
+UK total trade balance, flash employment & flash GDP
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
@@ -261,14 +263,14 @@ Stay informed on our latest weekly Market take. Listen wherever you get your pod
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
-Jean Boivin
-Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Ehsan Khoman
-Economist — BlackRock Investment Institute
-Michel Dilmanian
+Vivek Paul
+Global Head of Portfolio Research – BlackRock Investment Institute
+Devan Nathwani
 Portfolio Strategist – BlackRock Investment Institute
+Vidy Vairavamurthy
+Chief Investment Officer, Alternative Portfolio Solutions – BlackRock
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -394,9 +396,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of August 03, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of August 10, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0826-5805769-EXP0827
+BII0826-5824349-EXP0827
