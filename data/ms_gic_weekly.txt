@@ -1,313 +1,267 @@
 INVESTMENT STRATEGY
-Following a repricing of risk premiums and the wringing out of
-excesses that caused the May–July rotational stall, US equities have
-punched to new all-time highs. Renewed perspectives on
-monetization of AI capex and stunning second quarter earnings
-resilience are at the core of the move. While earnings have beneﬁted
-from stimulus tailwinds and the AI-capex boom, the economy has also
-deﬁed headwinds and monetary-policy uncertainty to generate the
-highest earnings-breadth beat ratio in history. What has underpinned
-the strength? First is the issue of expectations versus actual breadth.
-With investors anticipating major earnings growth and beats for the
-tech-centric AI ecosystem, ﬁnancials, health care and consumer
-cyclicals have produced the largest upside surprises. Second is the
-reality of still-underestimated monetary and ﬁscal stimulus, which has
-enhanced money growth and liquidity, offsetting higher interest rates.
-Third, the stimulus comes at a time of supply chain scarcity and
-pricing power across the AI ecosystem, engendering a multiplicative
-wedge whereby nominal GDP growth is running around four times
-real-volume growth, supporting S&P 500 revenues. With short-end
-rates biased to the downside and oil-shock headwinds potentially
-resolving alongside further infrastructure-build-out bottlenecks, we
-see solid US equity momentum through year-end. Consider adding to
-equal-weighted equity-index exposure or active stock selection to
-exploit value- and quality-oriented broadening. Financials, health care
-and some defensives ﬁt the bill, along with select overweights to the
-cloud-dominant hyperscalers. We still like non-semiconductor-
-oriented EM and Japan and prefer intermediate rates to credit, with
-portfolio diversiﬁcation also provided by hedge funds, real assets,
-venture capital and growth equity.
-After being stuck in a tight trading range from mid-May through the end of July—
-characterized by ferocious sector and factor rotation, material deleveraging, a
-correction in semiconductor stocks from speculative heights and a historic unwind
-in the momentum factor—US equities have reached new all-time highs in the ﬁrst
-Resilience! Lisa Shalett
+Last Wednesday, Treasury Secretary Bessent announced at least a
+doubling of potential purchases of longer-dated US bonds. While the
+immediate but seemingly temporary effect was to stem the sell-off on
+the long end of the curve, investors should be asking why the
+Treasury chose to do this, and why now. After all, the extraordinary
+event comes absent a crisis and amid above average nominal
+economic growth, nearly all-time-high equity prices, free-ﬂowing
+corporate credit and stellar earnings. Some have surmised that
+Bessent is simply testing market reactions or addressing liquidity-
+instability perceptions, while others cynically suggest it’s a tease of
+stealth QE. While the truth is undoubtedly more nuanced, it should
+reawaken investors to several important developments with
+implications for risk management. First, long-duration global debt
+issuance is growing, fostering yield competition and higher real rates
+—a headwind for stock multiples. Second, we are entering a new
+regime for policymakers, thus increasing unpredictability and term
+premiums. Finally, with dynamics resolved via currency markets,
+global rebalancing likely requires a weaker US dollar. Policy can run
+but ultimately can’t hide. We suggest benchmark-neutral duration-
+positioning focused on three-to-seven-year bonds. Consider
+rebalancing ﬁxed income toward strategic benchmarks, neutralizing
+tactical tilts, as we expect policy-related volatility to remain above
+average. In equities, add to equal-weighted index exposure or active
+stock selection. Financials, health care and some defensives ﬁt the
+bill, along with select overweights to cloud-dominant hyperscalers.
+We still like non-semiconductor-oriented EM and Japan and prefer
+intermediate rates to credit, with added diversiﬁcation from hedge
+funds, real assets, venture capital and growth equity.
+While most investors have spent the summer focused on equity markets and robust
+corporate earnings, US Treasuries have been under pressure. Since about mid-June,
+the 30-year bond is down more than 6%, with its yield recently piercing 5.3% for a
+20-year high. The 10-year yield has punched through 4.7%, to an 18-month high.
+Bessent and the Vigilantes Lisa Shalett
 Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-August 17
-Empire State Manufacturing Survey
-NAHB/Wells Fargo Housing Market Index
-August 18
+August 24
+Chicago Fed National Activity Index
+August 25
 ADP Weekly Employment Change
-US Import Price Index
-New York Fed Services Business Activity
-US industrial production
-US manufacturing production
-August 19
-FOMC meeting minutes
-August 20
-Philadelphia Fed Business Outlook Survey
+Richmond Fed Nonmanufacturing Index
+US new home sales
+Conf. Board Consumer Conﬁdence Index
+August 26
+US personal spending
+US personal income
+US PCE
+US durable goods orders
+US capital goods orders
+August 27
 US initial jobless claims
 US continuing jobless claims
-August 21
-S&P Global US Composite PMI
-Global Investment Committee | August 17, 2026
+Global Investment Committee | August 24, 2026
 The GIC Weekly
-Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. Thismaterial has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-two weeks of August. At 7,786, the S&P 500 Index is up 4.0%
-for the month and 13.7% for the year to date. If these gains
-hold, it will extend the period of two-times-normal annual
-equity returns to a full 17 years.
-In The GIC Weekly of Aug. 3, we explored the thesis that what
-made a rebound in markets attractive was the repricing of risk
-premiums and the return of those risk premiums to stocks,
-credit and US Treasuries. Beyond that, two other factors
-appear to have catalyzed the next leg of the bull market.
-First, with most AI tech names having reported earnings,
-investors have begun to get a clearer view of the
-monetization path for some of the most aggressive spenders.
-Competition is intensifying across the data-center
-architecture, especially around token-cost optimization,
-creating crosscurrents for many large language model (LLM)
-makers, chip designers and component suppliers. As that
-takes place, one theme that is emerging is potential business
-model sustainability for those who control the orchestration
-and optimization layers—the big-three hyperscalers, who are
-the original owners of the cloud businesses. Morgan Stanley
-& Co. Research has done some especially original work on the
-topic, and we note recent reports by Stephen Byrd and Brian
-Nowak (please see “The Paths to 25-50% GenAI ROIC,”
-“Weighing In: Open-Weights Models & 3 States of the World”
-and “How Could Open-Weight Models Impact GenAI ROIC?”
-published on July 27, Aug. 3 and Aug. 12, respectively). The
-second factor is the excellence of second quarter earnings,
-which were noteworthy not only for their strength—up 29%
-year over year after adjusting for “other income” marks on
-private investments—but for their breadth. Consider that an
-all-time-high 88% of companies beat earnings expectations in
-the quarter versus the 20-year average of 74%, with the size
-of the beats approaching an average of 7%. Rarely, if ever, do
-such numbers occur outside of recession recovery.
-Critically, positive surprises did not occur just in tech,
-although the sector accounted for a large share. The biggest
-surprises relative to expectations were in sectors like
-ﬁnancials, health care and consumer cyclicals—a staggering
-feat of resilience given the headwinds in the quarter. These
-challenges included higher inﬂation and interest rates, an oil
-price shock related to Mideast conﬂict involving the US and
-feds funds expectations ﬂipping from cuts to hikes on policy-
-uncertainty fears around a new Federal Reserve chair and the
-manner in which he is likely to interpret incoming data. What
-drove that resilience and its sustainability are critical
-questions for investors, as earnings—not multiples—are the
-primary return drivers right now.
-The ﬁrst thing the GIC has marveled at has been the breadth
-of operating leverage and margin improvement. Paced by the
-largest names, which are the tech titans—and clearly the
-quarter was ﬂattered by extreme gains among the
-semiconductor makers—aggregate margins for the S&P 500
-surged to an all-time high of 21%. Removing them all from the
-equation, however, non-tech sector operating margins jumped
-160 basis points, to more than 14%, approaching the 2022 all-
-time high. Productivity seems very much evident, with the no-
-hire, no-ﬁre labor-market stasis suggesting economy-wide
-labor productivity back above 2% and unit labor costs below
-a 1.5% annual pace. Analyst conﬁdence in sustainability of
-margins was also evident in continued earnings forecast
-revisions, which suggest that sectors as diverse as health care,
-materials and industrials could see further margin expansion
-over the next year between 150 and 250 basis points. This
-would be extraordinary considering that during the 10-year
-period of 2012–2022, which comprised the previous S&P 500
-margin peak, total margin gains for the index were only
-around 150 basis points.
-Ongoing and underappreciated ﬁscal and monetary stimulus
-has been a second driver of the remarkable resilience.
-Virtually everyone understood the potential tailwinds from
-the One Big Beautiful Bill Act for consumers and businesses
-around tax rates and proﬁts, given changes to depreciation,
-amortization and capital spending rules. Fewer, however,
-seemed to have factored in the additional impacts from
-shifting Federal Reserve, US Treasury and Congressional
-spending policy. First consider last December’s end of
-quantitative tightening and the commencement of the Fed’s
-Reserve Management Purchase program targeting “ample
-reserves.” While the central bank has been very careful to not
-label this quantitative easing, the shift in strategy has added
-back nearly $250 billion in US Treasury bills to the System
-Open Market Account (SOMA), roughly $160 billion of which
-is bank reserves, expanding the Fed’s balance sheet back to
-$6.7 trillion.
-This greasing of the rails for the banking system, combined
-with deliberate and progressive deregulation and reduction in
-capital reserve requirements, has contributed to a backdrop
-of stronger bank credit growth and economy-wide M2 money
-supply growth. The former is at close to an 8% annualized
-pace (several times greater than real GDP growth) and the
-latter is on track to annualize at close to 7% per year. Fiscal
-spending, for its part, has surged well above last year’s
-DOGE-impacted level, with increases for defense and other
-program spending running close to 7% annualized.
-Importantly, all these stimulus growth rates come on top of
-what has been exceptional nominal GDP growth of
-approximately 6.5% in the second quarter.
-A ﬁnal underappreciated contributor to resilience has been
-the systemic impact of pricing power across the AI ecosystem,
-due to supply chain bottlenecks and scarcity of components.
-Consider the multiplicative wedge that the AI-capex boom has
-produced for the economy. Amid real reported second
-quarter growth of 1.5% and nominal growth of 7.9%%, S&P
-500 sales growth was 17% and bottom-line proﬁt growth was
-30%! (See Chart of the Week.) We suspect that much of the
-upside surprise in earnings across the largest-cap companies
+Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. This
+material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
+security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.
+Please refer to important information, disclosures and qualiﬁcations at the end of this material.
+Perhaps more importantly, Treasury auctions this month were
+weak, with the 30-year bond exhibiting its worst pricing since
+2001 and the 10-year note its weakest since 2007.
+Admittedly, bond investors have had to discount their share
+of surprises this year, but action on the long end of the curve
+has not really been explained by inﬂation expectations, which
+are well anchored, or near-term economic surprises, which
+have actually weakened (see Chart of the Week), but by
+material repricing of real rates and term premiums. These
+components tend to reﬂect structural changes in long-run
+perceptions of the neutral rate of economic growth,
+supply/demand dynamics and policy predictability.
+It’s obvious why policymakers would watch these
+developments. Not only is the 10-year Treasury note the risk-
+free benchmark against which other global assets tend to be
+priced, but along with that of the 30-year bond, its yield
+impacts the all-important mortgage market. Equally critical
+are implications for US borrowing costs, which are ballooning
+as the Congressional Budget Ofﬁce (CBO) projects a 2026
+ﬁscal deﬁcit of close to $2.1 trillion, taking America’s debt
+above the $40 trillion milestone. In his initial press
+interactions, Federal Reserve Chair Warsh has seemed to
+extol letting markets reprice these realities, noting that it’s an
+important monetary policy signal. But Secretary Bessent’s
+recent actions suggest a more interventionist approach to
+rate management. In addition to last week’s surprise
+announcement to at least double the pace of long-duration
+liquidity-management purchases, on July 31, he announced
+highly unusual currency-market intervention aimed at
+strengthening the Japanese yen, with the implied objective of
+safeguarding Japanese demand for Treasuries. Bessent’s
+approach to “liquidity management” will likely be funded by
+more front-end issuance, a strategy that has correlated with
+tech-stock valuation support. The obvious questions for
+investors are, why is Bessent showing more urgency than
+Warsh, and why now? These questions seem especially
+compelling given that markets appear to be trading without
+major stress, credit spreads are near cycle lows, bank lending
+is growing at an 8% annual pace and corporate proﬁts have
+supported equities. In analyzing Bessent’s actions, there are
+several matters for investors to consider.
+The ﬁrst issue is that this is not simply about Bessent’s desire
+to do liquidity housekeeping on the long end of the curve and
+“squeeze out” short sellers. To the contrary, we see the real-
+rates backup as a global phenomenon. Per Bloomberg’s
+benchmark of global sovereign bonds with maturities of at
+least 20 years, the average long-maturity yield is approaching
+4.5%. In many cases, this is underpinned by surging debt and
+deﬁcits amid spending to retool defense, transition energy
+grids and bolster tech infrastructure in a multipolar world.
+Then there’s corporate issuance, supercharged by AI-related
+capex. Gross investment grade issuance is estimated to reach
+a record this year, at more than $2.2 trillion. On the demand
+front, many natural buyers—namely, insurance companies
+and pension funds—have new choices beyond Treasuries,
+with the former increasingly turning to private credit markets
+and many of the latter able to own riskier investments given
+overfunding. As a result, real rates have accounted for
+roughly one-third of the nominal rate move the past two
+months, with the 10-year real rate at 2.4%.
+Bessent is also keenly aware of rising US interest costs. The
+ﬁscal year-2026 cumulative deﬁcit was recently forecast at
+$1.9 trillion–$2.1 trillion, 10% above a prior CBO forecast that
+already pegged deﬁcits as a share of GDP at close to 6%. At
+roughly a 3.5% average effective cost of borrowing, the US
+Treasury is projected to pay out more than $1 trillion in
+interest, more than two-thirds of the increase in annual deﬁcit
+spending. Interest costs already take up 20% of tax revenue
+and account for around the same budget share as defense.
+When they grow faster than nominal GDP, as now, they
+actually add to debt. This is not about hitting a panic button
+over sustainability, as the US will not default even if it means
+printing money and debasing the greenback. But it is about a
+declining degree of ﬁscal-spending freedom. Building policy
+uncertainty is evident in the normalizing term premiums that
+have accounted for two-thirds of the move in nominal long-
+term rates, underscoring declining future policy predictability.
+Bottom Line. For several years, the GIC has argued that
+structurally faster growth, global releveraging and aging
+demographics, against a backdrop of strained debt
+sustainability and multipolarity, would likely cause US rates
+to normalize toward a “higher for longer” regime. Our thesis
+has been that this would actually be healthy, likely
+enhancing capital-allocation efﬁciency. This is ﬁnally playing
+out, with the ﬁrst genuine competition for longer-duration
+capital in nearly two decades. Policy risks are also rising, and
+while investors need to be mindful of tactical policymaker
+choices, we view non-crisis market intervention and ﬁnancial
+engineering attempts as short-lived gimmicks. For long-term
+investors, implications remain the same, arguing for well-
+diversiﬁed portfolios, as in a higher-for-longer rate
+environment stock valuations may plateau while ﬁxed
+income is challenged—creating an important role for real
+assets and alternatives. Watch long-term yield composition,
+noting that an unpredictable policy agenda might only drive
+further term-premium normalization. Consider rebalancing
+ﬁxed income toward strategic benchmarks, neutralizing
+tactical tilts, as we expect policy-related volatility to remain
+above average. In equities, add to equal-weighted index
+exposure or active stock selection. Financials, health care
+and some defensives ﬁt the bill, along with select
+overweights to cloud-dominant hyperscalers. We still like
+non-semiconductor-oriented EM and Japan and prefer
+intermediate rates to credit, with added diversiﬁcation from
+hedge funds, real assets, venture capital and growth equity.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-has thus been leveraged to pricing power—even if it isn’t yet
-fully showing up in the aggregate CPI and PPI data. Piper
-Sandler has done some excellent analysis on this front,
-pointing out, for example, that the personal consumption
-expenditures (PCE) deﬂator for computer software and
-accessories is up 27% for the year to date, while the GDP
-deﬂator for information processing equipment is up 7.4%. We
-understand that mix matters and that the S&P 500 is far
-from “the economy.” However, when surprises are this big and
-operating leverage is this outsized, absent cost cutting, we
-would assert that pricing power is bleeding into results, as
-the sources of revenue growth are increasingly obscured by
-the new revenue-contract-based accounting of the data
-centers.
-   
-Bottom Line. The AI-capex boom is supercharging S&P 500
-earnings growth while monetary and ﬁscal policy continue
-to surprise to the upside, supporting nominal results. In the
-second quarter, 1.5% real GDP growth produced nearly 30%
-year-over-year S&P 500 earnings growth—an extraordinary
-20-times multiple. These forces have been more powerful
-than the oil shock, higher rates, sticky inﬂation and
-monetary-policy uncertainty combined, and such resilience
-should have some staying power. AI-adopter margin gains
-should prove durable, with evidence lately in ﬁnancials and
-health care. Equally important, implications of liquidity-
-driven stimulus seem set to persist amid high-single-digit
-lending growth. Rapidly shifting geopolitics should also keep
-ﬁscal spending high. Finally, with no slowdown in AI-capex
-spending or near-term easing of related bottlenecks,
-ongoing excess returns appear likely for providers of supply-
-constrained components—powering operating leverage.
-Selectivity is key. We suggest leaning into names with high-
-quality, transparent balance sheets; solid returns on equity;
-decent valuations; and growing free cash ﬂow. Watch
-earnings, which are the engine fuel for now, noting our
-hypervigilance around quality, challenging comparisons to
-prior periods in the year ahead and pricing-power-sourced
-operating leverage. Consider adding to equal-weighted
-equity-index exposure or active stock selection to exploit
-value- and quality-oriented broadening. Financials, health
-care and some defensives ﬁt the bill, along with select
-overweights to the cloud-dominant hyperscalers. We still
-like non-semiconductor-oriented EM and Japan and prefer
-intermediate rates to credit, with portfolio diversiﬁcation
-also provided by hedge funds, real assets, venture capital
-and growth equity. 
-THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-Source: Bloomberg as of June 30, 2026
-Source: Bloomberg as of Aug. 7, 2026
-Chart of the Week: Dominant AI Capex Creates Wedge With Real Economy
-It’s often said that the S&P 500 is not the economy, and
-this is especially true during tech booms like this. While
-S&P 500 sales growth typically follows nominal GDP,
-when one theme dominated by megacap players drives
-results, the gap between the fortunes of the few and the
-broader economy expands. Such is the case now, with real
-second quarter GDP recently estimated at 1.5%, nominal
-GDP around 7.9%, S&P 500 sales up a stellar 17% and
-proﬁts up 30% ex extraordinary items. Such skews,
-distorted by pricing power and order backlogs, complicate
-forecasting earnings. While earnings power and factors
-enabling it appear resilient for now, high rates of surprise
-can be undermining as analysts grow exuberant, raising
-management-performance bars. For now, that’s a 2027 challenge; but stay vigilant, especially as disconnects exacerbate K-
-shaped economy imbalances.
-Fixed Income Insight: The Term Premium in Long Bonds Returns
-Many investors have been wringing their hands over US
-Treasury market weakness and the backup in long-
-duration yields. While market debate about policy focuses
-on inﬂation and Fed watching, long-term yields reﬂect a
-benign inﬂation outlook near 2%, with most of the
-backup from the real component and term premium. We
-have argued that this is very healthy. Real rates should
-reﬂect the neutral rate and the resting pulse of the US
-economy along with global capital demand. Amid the
-capital-hungry AI boom and debt-fueled US ﬁscal
-expansion, “r-star” should move up along with the growth
-rate. A potentially new monetary policy framework and
-geopolitical instability also argue for higher term
-premiums. Bond market participants are not acting as “vigilantes”; rather, the rates market looks rationally priced, and long-
-term investors can more easily consider adding duration as risk-adjusted return potential has improved.
-Market Factor Data Points (for the week ending Aug. 14, 2026)
+Source: Bloomberg as of Aug. 21, 2026
+Source: Bloomberg as of Aug. 14, 2026
+Chart of the Week: Long Rates Decoupling From Tactical-Horizon Surprises
+For signiﬁcant swaths of time—especially during the past
+decade and a half of well-telegraphed monetary policy—
+even long-term rates correlated fairly closely with
+economic surprises, amid the belief that they represented
+the marginal uncertainty in Fed policy direction. But more
+recently, long-bond yields, at multiperiod highs, have
+strongly decoupled from surprises, suggesting other
+forces are at work. We have noted that this is being
+fueled by the real and term-premium components of
+yields, driving changing perceptions of the neutral rate of
+economic growth and policy volatility going forward.
+These structural factors could imply that investors should
+prepare for a business cycle where rates are higher for
+longer while occupying a more normal zone than during the mid-1980s to the Great Financial Crisis.
+Fixed Income Insight: Term Premium Breaking Out
+Investors were treated to another “surprise” intervention
+announcement from Secretary Bessent last week. Bessent
+suggested that recent long-duration US Treasury bond
+weakness was not driven by fundamentals but impacted
+by liquidity technicals and that his solution was at least a
+doubling of long-bond buybacks. While his strategies may
+partially relieve some bond investors, we have focused on
+the longer-term trends suggesting normalizing long-bond
+term premiums. This began in earnest with 2021–2022
+Fed rate hikes and has continued with policy uncertainty
+priced amid shifting geopolitics, surging ﬁscal deﬁcits and
+appointment of a new Fed chair. While term premiums of
+75 to 85 basis points have been rare in the past 15 years,
+they are half the pre-GFC level. At the end of the day, given global capital competition, there is fundamental upward pressure
+on rates that the Treasury secretary cannot engineer away.
+Market Factor Data Points (for the week ending Aug. 21, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
-AI Build-Out Exceeding Other Capex Cycles
-Source: Bloomberg as of Aug. 10, 2026
-China Is a Contributor to Token Deﬂation
-Source: Morgan Stanley & Co. Research as of April 6, 2026
-Macro Factor Heat Map (as of Aug. 14, 2026)
-Note: Text in a factor box denotes a color; for further explanation of the chart, see page 11. 
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
+30-Year US Treasury Yield Above 2007 Levels
+Source: Bloomberg as of Aug. 19, 2026
+Foreign Demand for Treasuries Still Subdued
+Source: Oxford Economics as of July 31, 2026
+Macro Factor Heat Map (as of Aug. 21, 2026)
+Note: Text in a factor box denotes a color; In Europe, Economic Growth rose from Risk Off to Neutral due to increasing industrial production. Earnings increased
+from Risk Off to Neutral on positive earnings estimate revisions.; In Brazil, Liquidity increased from Risk Off to Neutral due to M1 Growth.; for further explanation
+of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Tracking the AI-Capex Build-Out
-Competition Has Lowered Compute Costs
-Source: Morgan Stanley & Co. Research as of June 22, 2026
-The AI-Capex Cycle May Have Room to Continue
-Source: BCA Research as of Aug. 6, 2026
+Charts in Focus: US Treasury Demand Dynamics
+Bond Fund Allocations Favoring Corporates
+Source: Bloomberg, Morningstar as of June 30, 2026
+Fed Balance Sheet Expansion Has Recently Halted
+Source: Strategas as of Aug. 18, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
 Short-Term Stock-Bond Indicator
 Note: Shading reﬂects the relative strength of each component signal on a percentile basis. The continuous color scale ranges from dark blue to dark gray, where
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Aug. 14, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Aug. 21, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
-Asset Class Performance (as of Aug. 14, 2026)
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
+Asset Class Performance (as of Aug. 21, 2026)
 Note: Performance values calculated using USD. 1. As of July 31 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of July 31, 2026. 4.
 Volatility and Correlation: July 31, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds and managed
 futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its mean. 
 Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  7
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of Aug. 14, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of Aug. 21, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of Aug. 14, 2026
-S&P 500 Sector Performance and Valuation (as of Aug. 14, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of Aug. 21, 2026
+S&P 500 Sector Performance and Valuation (as of Aug. 21, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of Aug. 14, 2026)
+Equity Market Relative Valuation (as of Aug. 21, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  7
 Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of Aug. 14, 2026
+Source: Bloomberg as of Aug. 21, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of Aug. 14, 2026
-Morgan Stanley & Co. Forecasts (as of Aug. 14, 2026)
+Source: Bloomberg as of Aug. 21, 2026
+Morgan Stanley & Co. Forecasts (as of Aug. 21, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
 Tactical Asset Allocation Reasoning
 Global Equities Weight Relative to
-Model Benchmark  
+Model Benchmark
+ 
 US Overweight
 The productivity-boom thesis catalyzed by the GenAI-capex build-out, along with aggressive ﬁscal
 and regulatory stimulus, has become very much consensus. Forecasts are ambitious and embed an
@@ -332,7 +286,8 @@ a one-year truce, fostering opportunities. India remains a recommended secular g
 GIC reduced its overweight after a signiﬁcant rally in semiconductor names, which skewed index
 composition.
 Global Fixed Income Weight Relative to
-Model Benchmark  
+Model Benchmark
+ 
 US Investment Grade Underweight
 The GIC maintains close-to-neutral views in investment grade. In the ﬁrst half of 2026, solid
 growth, supported by ﬁscal stimulus, and inﬂationary pressures supported a higher-for-longer
@@ -348,7 +303,8 @@ High yield is competing effectively, with better liquidity, greater transparency
 credit quality than private credit. In ROW and emerging market debt, yields are decent, and there
 may be modest room for spread tightening, as economic growth improves.
 Alternative Investments Weight Relative to
-Model Benchmark  
+Model Benchmark
+ 
 Real Assets Overweight
 We expect higher stock-bond correlations, which place a premium on the diversiﬁcation beneﬁts
 of investing in real assets. Nevertheless, with real interest rates positive and services inﬂation
@@ -366,165 +322,489 @@ GIC asset allocation models’ benchmarks do not include exposure to Opportunist
 Infrastructure/MLPs. Hedged Strategies include Absolute Return Assets, Equity Hedge Assets and Equity Return Assets. 
 Source: Morgan Stanley Wealth Management GlC as of July 1, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  10
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
 Macro Factor Heat Map Key
   Economic
 Growth Rates Inﬂation /
 Deﬂation Liquidity Sentiment and Risk Valuation Earnings Conclusion
-Dark Blue Economic growthrobust Steep yield curve Low-moderate andrising inﬂation
-Liquidityrobust ineconomy /bankingsystem
-Shorter-termsentiment andtechnicals bearish
-Risk assetsattractivelyvalued
-Earningsoutlookrobust
-Conﬂuence offactorssupports a risk-on investmentapproach
-Light Blue Economic growthneutral Normal yieldcurve
-Low-moderate anddeclining inﬂation;moderate inﬂation;higher and fallinginﬂation
-Liquidityneutral in theeconomy /bankingsystem
-Shorter-termsentiment andtechnicals neutral
-Risk assetsneutral
-Earningsoutlookneutral
-Conﬂuence offactorssupports aneutralinvestmentapproach
-Gray Economic growthanemic Flat/invertedyield curve
-Very high/lowinﬂation/deﬂation; highand rising inﬂation
-Liquidity lowin economy /bankingsystem
-Shorter-termsentiment andtechnicals bullish
-Risk assets are richly valued
-Earningsoutlookanemic
-Conﬂuence offactorssupports a risk-off investmentapproach
-Up Growthaccelerating Yield curvesteepening Inﬂation rising Liquidityincreasing
-Sentimentbecoming morebullish Valuations rising Earningsoutlookimproving  
-Down Growth declining Yield curveﬂattening Inﬂation falling Liquiditydecreasing
-Sentimentbecoming morebearish
-Valuationsfalling
-Earningsoutlookworsening  
-SignalHorizon One to three years One to threeyears One to three years One to threeyears One to threemonths Six months totwo years Six months totwo years  
+Dark Blue Economic growth
+robust Steep yield curve Low-moderate and
+rising inﬂation
+Liquidity
+robust in
+economy /
+banking
+system
+Shorter-term
+sentiment and
+technicals bearish
+Risk assets
+attractively
+valued
+Earnings
+outlook
+robust
+Conﬂuence of
+factors
+supports a risk-
+on investment
+approach
+Light Blue Economic growth
+neutral
+Normal yield
+curve
+Low-moderate and
+declining inﬂation;
+moderate inﬂation;
+higher and falling
+inﬂation
+Liquidity
+neutral in the
+economy /
+banking
+system
+Shorter-term
+sentiment and
+technicals neutral
+Risk assets
+neutral
+Earnings
+outlook
+neutral
+Conﬂuence of
+factors
+supports a
+neutral
+investment
+approach
+Gray Economic growth
+anemic
+Flat/inverted
+yield curve
+Very high/low
+inﬂation/deﬂation; high
+and rising inﬂation
+Liquidity low
+in economy /
+banking
+system
+Shorter-term
+sentiment and
+technicals bullish
+Risk assets are 
+richly valued
+Earnings
+outlook
+anemic
+Conﬂuence of
+factors
+supports a risk-
+off investment
+approach
+Up Growth
+accelerating
+Yield curve
+steepening Inﬂation rising Liquidity
+increasing
+Sentiment
+becoming more
+bullish
+Valuations rising
+Earnings
+outlook
+improving
+ 
+Down Growth declining Yield curve
+ﬂattening Inﬂation falling Liquidity
+decreasing
+Sentiment
+becoming more
+bearish
+Valuations
+falling
+Earnings
+outlook
+worsening
+ 
+Signal
+Horizon One to three years One to three
+years One to three years One to three
+years
+One to three
+months
+Six months to
+two years
+Six months to
+two years  
 Inputs
-• Industrialproduction
+• Industrial
+production
 • Unemployment
 • Total return
 • Earnings revisions
 • Home prices
-• OECD LEI (Chinaand Brazil)
-• MS & Co. ARIA(US)
-• 10-year vs. 2-year governmentbond yieldspread
+• OECD LEI (China
+and Brazil)
+• MS & Co. ARIA
+(US)
+• 10-year vs. 2-
+year government
+bond yield
+spread
 • Consumer Price Index
 • M1 growth
-• Privatecredit growth
-• Libor-OISspread
+• Private
+credit growth
+• Libor-OIS
+spread
  
  
  
  
-• MS US EquityRisk Indicator (US)
-• MS CombinedMarket TimingIndicator (Europe)
-• MS Global RiskDemand Index
-• Relative strengthindex
-• Members above /below movingaverage.
-• Index above /below movingaverage
-• Consumerconﬁdence
-• Forwardprice/earningsratio
-• Price/bookratio
-• Equity riskpremium
-• High yieldoption-adjustedspread
+• MS US Equity
+Risk Indicator (US)
+• MS Combined
+Market Timing
+Indicator (Europe)
+• MS Global Risk
+Demand Index
+• Relative strength
+index
+• Members above /
+below moving
+average.
+• Index above /
+below moving
+average
+• Consumer
+conﬁdence
+• Forward
+price/earnings
+ratio
+• Price/book
+ratio
+• Equity risk
+premium
+• High yield
+option-adjusted
+spread
  
  
  
-• Earningsrevisionsbreadth
-• Earningssurprise
-• Return onequity
+• Earnings
+revisions
+breadth
+• Earnings
+surprise
+• Return on
+equity
  
  
  
  
-• Weightedaverage z-score of allfactors
+• Weighted
+average z-
+score of all
+factors
 Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  11
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  10
 Disclosure Section
-The Global Investment Committee (GIC) is a group of seasoned investment professionals from Morgan Stanley & Co. and Morgan StanleyWealth Management who meet regularly to discuss the global economy and markets. The committee determines the investment outlook thatguides our advice to clients. They continually monitor developing economic and market conditions, review tactical outlooks and recommendasset allocation model weightings, as well as produce a suite of strategy, analysis, commentary, portfolio positioning suggestions and otherreports and broadcasts.
+The Global Investment Committee (GIC) is a group of seasoned investment professionals from Morgan Stanley & Co. and Morgan Stanley
+Wealth Management who meet regularly to discuss the global economy and markets. The committee determines the investment outlook that
+guides our advice to clients. They continually monitor developing economic and market conditions, review tactical outlooks and recommend
+asset allocation model weightings, as well as produce a suite of strategy, analysis, commentary, portfolio positioning suggestions and other
+reports and broadcasts.
 Glossary
-Drawdown refers to the largest cumulative percentage decline in net asset value or the percentage decline from the highest value or net assetvalue (peak) to the lowest value net asset value (trough) after the peak.
-Earnings revisions breadth is deﬁned as the number of positive analyst revisions minus the number of negative analyst revisions divided by thetotal number of revisions.
-Equity risk premium is the excess return that an individual stock or the overall stock market provides over a risk-free rate. The risk-free raterepresents the interest an investor would expect from an absolutely risk-free investment over a speciﬁed period of time.
+Drawdown refers to the largest cumulative percentage decline in net asset value or the percentage decline from the highest value or net asset
+value (peak) to the lowest value net asset value (trough) after the peak.
+Earnings revisions breadth is deﬁned as the number of positive analyst revisions minus the number of negative analyst revisions divided by the
+total number of revisions.
+Equity risk premium is the excess return that an individual stock or the overall stock market provides over a risk-free rate. The risk-free rate
+represents the interest an investor would expect from an absolutely risk-free investment over a speciﬁed period of time.
 Illiquidity premium is the extra yield investors expect to earn for giving up control to liquidate their capital for a certain period of time.
-M2 is a measure of the money supply that includes all elements of M1 as well as "near money." M1 includes cash and checking deposits, whilenear money refers to savings deposits, money market securities, mutual funds and other time deposits.
-Option-adjusted spread (OAS) is a measurement of the spread of a ﬁxed income security rate and the risk-free rate of return, which is adjustedto take into account an embedded option.
+M2 is a measure of the money supply that includes all elements of M1 as well as "near money." M1 includes cash and checking deposits, while
+near money refers to savings deposits, money market securities, mutual funds and other time deposits.
+Nominal Gross Domestic Product (GDP) is the GDP of the country measured at current market prices and not adjusted for inﬂation or
+deﬂation.
+Option-adjusted spread (OAS) is a measurement of the spread of a ﬁxed income security rate and the risk-free rate of return, which is adjusted
+to take into account an embedded option.
 Price to forward earnings calculates the price-to-earnings ratio that uses projected future earnings.
 R-star is the real short-term interest rate expected to prevail when an economy is at full strength and inﬂation is stable.
 Risk premium is the return in excess of the risk-free rate of return an investment is expected to yield.
 Term premium is the excess yield that investors require to commit to holding a long-term bond instead of a series of shorter-term bonds.
-Volatility This is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by usingthe standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, the riskier thesecurity.
-For index, indicator and survey deﬁnitions referenced in this report please visit the following: https://www.morganstanley.com/wealth-investmentsolutions/wmir-deﬁnitions
+Volatility This is a statistical measure of the dispersion of returns for a given security or market index. Volatility can either be measured by using
+the standard deviation or variance between returns from that same security or market index. Commonly, the higher the volatility, the riskier the
+security.
+For index, indicator and survey deﬁnitions referenced in this report please visit the following: https://www.morganstanley.com/wealth-
+investmentsolutions/wmir-deﬁnitions
 Risk Considerations
-Important note regarding economic sanctions. This report references jurisdiction(s) or person(s) that are the subject of economic sanctions. Anyreferences in this report to jurisdictions, persons (individuals or entities), debt or equity instruments, or projects that may be covered by suchsanctions are strictly incidental to general coverage of the relevant economic sector as germane to its overall ﬁnancial outlook, and should notbe read as recommending or advising as to any investment activities in relation to such jurisdictions, persons, instruments, or projects. Readersare solely responsible for ensuring that their investment activities are carried out in compliance with applicable laws.
+Important note regarding economic sanctions. This report references jurisdiction(s) or person(s) that are the subject of economic sanctions. Any
+references in this report to jurisdictions, persons (individuals or entities), debt or equity instruments, or projects that may be covered by such
+sanctions are strictly incidental to general coverage of the relevant economic sector as germane to its overall ﬁnancial outlook, and should not
+be read as recommending or advising as to any investment activities in relation to such jurisdictions, persons, instruments, or projects. Readers
+are solely responsible for ensuring that their investment activities are carried out in compliance with applicable laws.
 Equity securities may ﬂuctuate in response to news on companies, industries, market conditions and general economic environment.
 MLPs
-Master Limited Partnerships (MLPs) are limited partnerships or limited liability companies that are taxed as partnerships and whose interests(limited partnership units or limited liability company units) are traded on securities exchanges like shares of common stock. Currently, mostMLPs operate in the energy, natural resources or real estate sectors. Investments in MLP interests are subject to the risks generally applicableto companies in the energy and natural resources sectors, including commodity pricing risk, supply and demand risk, depletion risk andexploration risk. Individual MLPs are publicly traded partnerships that have unique risks related to their structure. These include, but are notlimited to, their reliance on the capital markets to fund growth, adverse ruling on the current tax treatment of distributions (typically mostlytax deferred), and commodity volume risk. The potential tax beneﬁts from investing in MLPs depend on their being treated as partnerships forfederal income tax purposes and, if the MLP is deemed to be a corporation, then its income would be subject to federal taxation at the entitylevel, reducing the amount of cash available for distribution to the fund which could result in a reduction of the fund’s value.
-MLPs carry interest rate risk and may underperform in a rising interest rate environment. MLP funds accrue deferred income taxes for future taxliabilities associated with the portion of MLP distributions considered to be a tax-deferred return of capital and for any net operating gains aswell as capital appreciation of its investments; this deferred tax liability is reﬂected in the daily NAV; and, as a result, the MLP fund’s after-taxperformance could differ signiﬁcantly from the underlying assets even if the pre-tax performance is closely tracked.
-Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economicand market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, anddomestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of variedeconomic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.
+Master Limited Partnerships (MLPs) are limited partnerships or limited liability companies that are taxed as partnerships and whose interests
+(limited partnership units or limited liability company units) are traded on securities exchanges like shares of common stock. Currently, most
+MLPs operate in the energy, natural resources or real estate sectors. Investments in MLP interests are subject to the risks generally applicable
+to companies in the energy and natural resources sectors, including commodity pricing risk, supply and demand risk, depletion risk and
+exploration risk. Individual MLPs are publicly traded partnerships that have unique risks related to their structure. These include, but are not
+limited to, their reliance on the capital markets to fund growth, adverse ruling on the current tax treatment of distributions (typically mostly
+tax deferred), and commodity volume risk. The potential tax beneﬁts from investing in MLPs depend on their being treated as partnerships for
+federal income tax purposes and, if the MLP is deemed to be a corporation, then its income would be subject to federal taxation at the entity
+level, reducing the amount of cash available for distribution to the fund which could result in a reduction of the fund’s value.
+MLPs carry interest rate risk and may underperform in a rising interest rate environment. MLP funds accrue deferred income taxes for future tax
+liabilities associated with the portion of MLP distributions considered to be a tax-deferred return of capital and for any net operating gains as
+well as capital appreciation of its investments; this deferred tax liability is reﬂected in the daily NAV; and, as a result, the MLP fund’s after-tax
+performance could differ signiﬁcantly from the underlying assets even if the pre-tax performance is closely tracked.
+Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economic
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  11
+and market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, and
+domestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of varied
+economic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.
+These risks include political and economic uncertainties of foreign countries as well as the risk of currency ﬂuctuations. These risks are
+magniﬁed in countries with emerging markets and frontier markets, since these countries may have relatively unstable governments and less
+established markets and economies.
+Alternative investments may be either traditional alternative investment vehicles, such as hedge funds, fund of hedge funds, private equity,
+private real estate and managed futures or, non-traditional products such as mutual funds and exchange-traded funds that also seek alternative-
+like exposure but have signiﬁcant differences from traditional alternative investments. Alternative investments often are speculative and include
+a high degree of risk. Investors could lose all or a substantial amount of their investment. Alternative investments are appropriate only for
+eligible, long-term investors who are willing to forgo liquidity and put capital at risk for an indeﬁnite period of time. They may be highly illiquid
+and can engage in leverage and other speculative practices that may increase the volatility and risk of loss. Alternative Investments typically
+have higher fees than traditional investments. Investors should carefully review and consider potential risks before investing. Certain of these
+risks may include but are not limited to: Loss of all or a substantial portion of the investment due to leveraging, short-selling, or other
+speculative practices; Lack of liquidity in that there may be no secondary market for a fund; Volatility of returns; Restrictions on transferring
+interests in a fund; Potential lack of diversiﬁcation and resulting higher risk due to concentration of trading authority when a single advisor is
+utilized; Absence of information regarding valuations and pricing; Complex tax structures and delays in tax reporting; Less regulation and higher
+fees than mutual funds; and Risks associated with the operations, personnel, and processes of the manager. Further, opinions regarding
+Alternative Investments expressed herein may differ from the opinions expressed by Morgan Stanley Wealth Management and/or other
+businesses/afﬁliates of Morgan Stanley Wealth Management.
+Certain information contained herein may constitute forward-looking statements. Due to various risks and uncertainties, actual events, results
+or the performance of a fund may differ materially from those reﬂected or contemplated in such forward-looking statements. Clients should
+carefully consider the investment objectives, risks, charges, and expenses of a fund before investing. Alternative investments involve complex
+tax structures, tax inefﬁcient investing, and delays in distributing important tax information. Individual funds have speciﬁc risks related to their
+investment programs that will vary from fund to fund. Clients should consult their own tax and legal advisors as Morgan Stanley Wealth
+Management does not provide tax or legal advice. Interests in alternative investment products are offered pursuant to the terms of the
+applicable offering memorandum, are distributed by Morgan Stanley Smith Barney LLC and certain of its afﬁliates, and (1) are not FDIC-insured,
+(2) are not deposits or other obligations of Morgan Stanley or any of its afﬁliates, (3) are not guaranteed by Morgan Stanley and its afﬁliates,
+and (4) involve investment risks, including possible loss of principal. Morgan Stanley Smith Barney LLC is a registered broker-dealer, not a bank
+It is important to note that only eligible investors can invest in alternative investment funds and that in order for an FA/PWA to engage a
+prospective investor in general discussions about Alternative Investments and speciﬁcally with regards to Private Funds, the prospective
+investor will need to be pre-qualiﬁed through the Reg D system. 
+Alternative investment securities discussed herein are not covered by the protections provided by the Securities Investor Protection
+Corporation, unless such securities are registered under the Securities Act of 1933, as amended, and are held in a Morgan Stanley Wealth
+Management Individual Retirement Account.
+Venture Capital investments involve a high degree of risk and are not appropriate for all investors. Financial and operating risks confronting
+startups are signiﬁcant. While targeted returns should reﬂect the perceived level of risk in any investment situation, such returns are unrealized
+and based solely on the startup’s own estimate of the current value of its fund investments, are not veriﬁed or audited by third party valuation,
+and do not represent actual return of capital or gain, may never be realized and/or may not be adequate to compensate an investor for risks
+taken. Loss of an investor’s entire investment is possible and can easily occur. Moreover, the timing of any return on investment is highly
+uncertain given the illiquid nature of venture capital investments. The venture capital market is highly competitive and the percentage of
+companies that survive and prosper is small. Startup investments often experience unexpected problems in the areas of product development,
+manufacturing, marketing, ﬁnancing, and general management, among others, which frequently cannot be solved. In addition, startups may
+require substantial amounts of ﬁnancing, which may not be available through institutional private placements, the public markets or otherwise.
+Managed futures investments are speculative, involve a high degree of risk, use signiﬁcant leverage, have limited liquidity and/or may be
+generally illiquid, may incur substantial charges, may subject investors to conﬂicts of interest, and are usually appropriate only for the risk
+capital portion of an investor’s portfolio. Before investing in any partnership and in order to make an informed decision, investors should read
+the applicable prospectus and/or offering documents carefully for additional information, including charges, expenses, and risks. Managed
+futures investments are not intended to replace equities or ﬁxed income securities but rather may act as a complement to these asset
+categories in a diversiﬁed portfolio.
+Hedge funds may involve a high degree of risk, often engage in leveraging and other speculative investment practices that may increase the risk
+of investment loss, can be highly illiquid, are not required to provide periodic pricing or valuation information to investors, may involve complex
+tax structures and delays in distributing important tax information, are not subject to the same regulatory requirements as mutual funds, often
+charge high fees which may offset any trading proﬁts, and in many cases the underlying investments are not transparent and are known only to
+the investment manager.
+Investing in commodities entails signiﬁcant risks. Commodity prices may be affected by a variety of factors at any time, including but not limited
+to, (i) changes in supply and demand relationships, (ii) governmental programs and policies, (iii) national and international political and economic
+events, war and terrorist events, (iv) changes in interest and exchange rates, (v) trading activities in commodities and related contracts, (vi)
+pestilence, technological change and weather, and (vii) the price volatility of a commodity. In addition, the commodities markets are subject to
+temporary distortions or other disruptions due to various factors, including lack of liquidity, participation of speculators and government
+intervention.
+Physical precious metals are non-regulated products. Precious metals are speculative investments, which may experience short-term and long
+term price volatility. The value of precious metals investments may ﬂuctuate and may appreciate or decline, depending on market conditions. If
+sold in a declining market, the price you receive may be less than your original investment. Unlike bonds and stocks, precious metals do not
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  12
-These risks include political and economic uncertainties of foreign countries as well as the risk of currency ﬂuctuations. These risks aremagniﬁed in countries with emerging markets and frontier markets, since these countries may have relatively unstable governments and lessestablished markets and economies.
-Alternative investments may be either traditional alternative investment vehicles, such as hedge funds, fund of hedge funds, private equity,private real estate and managed futures or, non-traditional products such as mutual funds and exchange-traded funds that also seek alternative-like exposure but have signiﬁcant differences from traditional alternative investments. Alternative investments often are speculative and includea high degree of risk. Investors could lose all or a substantial amount of their investment. Alternative investments are appropriate only foreligible, long-term investors who are willing to forgo liquidity and put capital at risk for an indeﬁnite period of time. They may be highly illiquidand can engage in leverage and other speculative practices that may increase the volatility and risk of loss. Alternative Investments typicallyhave higher fees than traditional investments. Investors should carefully review and consider potential risks before investing. Certain of theserisks may include but are not limited to: Loss of all or a substantial portion of the investment due to leveraging, short-selling, or otherspeculative practices; Lack of liquidity in that there may be no secondary market for a fund; Volatility of returns; Restrictions on transferringinterests in a fund; Potential lack of diversiﬁcation and resulting higher risk due to concentration of trading authority when a single advisor isutilized; Absence of information regarding valuations and pricing; Complex tax structures and delays in tax reporting; Less regulation and higherfees than mutual funds; and Risks associated with the operations, personnel, and processes of the manager. Further, opinions regardingAlternative Investments expressed herein may differ from the opinions expressed by Morgan Stanley Wealth Management and/or otherbusinesses/afﬁliates of Morgan Stanley Wealth Management.
-Certain information contained herein may constitute forward-looking statements. Due to various risks and uncertainties, actual events, resultsor the performance of a fund may differ materially from those reﬂected or contemplated in such forward-looking statements. Clients shouldcarefully consider the investment objectives, risks, charges, and expenses of a fund before investing. Alternative investments involve complextax structures, tax inefﬁcient investing, and delays in distributing important tax information. Individual funds have speciﬁc risks related to theirinvestment programs that will vary from fund to fund. Clients should consult their own tax and legal advisors as Morgan Stanley WealthManagement does not provide tax or legal advice. Interests in alternative investment products are offered pursuant to the terms of theapplicable offering memorandum, are distributed by Morgan Stanley Smith Barney LLC and certain of its afﬁliates, and (1) are not FDIC-insured,(2) are not deposits or other obligations of Morgan Stanley or any of its afﬁliates, (3) are not guaranteed by Morgan Stanley and its afﬁliates,and (4) involve investment risks, including possible loss of principal. Morgan Stanley Smith Barney LLC is a registered broker-dealer, not a bank
-It is important to note that only eligible investors can invest in alternative investment funds and that in order for an FA/PWA to engage aprospective investor in general discussions about Alternative Investments and speciﬁcally with regards to Private Funds, the prospectiveinvestor will need to be pre-qualiﬁed through the Reg D system. 
-Alternative investment securities discussed herein are not covered by the protections provided by the Securities Investor ProtectionCorporation, unless such securities are registered under the Securities Act of 1933, as amended, and are held in a Morgan Stanley WealthManagement Individual Retirement Account.
-Managed futures investments are speculative, involve a high degree of risk, use signiﬁcant leverage, have limited liquidity and/or may begenerally illiquid, may incur substantial charges, may subject investors to conﬂicts of interest, and are usually appropriate only for the riskcapital portion of an investor’s portfolio. Before investing in any partnership and in order to make an informed decision, investors should readthe applicable prospectus and/or offering documents carefully for additional information, including charges, expenses, and risks. Managedfutures investments are not intended to replace equities or ﬁxed income securities but rather may act as a complement to these assetcategories in a diversiﬁed portfolio.
-Hedge funds may involve a high degree of risk, often engage in leveraging and other speculative investment practices that may increase the riskof investment loss, can be highly illiquid, are not required to provide periodic pricing or valuation information to investors, may involve complextax structures and delays in distributing important tax information, are not subject to the same regulatory requirements as mutual funds, oftencharge high fees which may offset any trading proﬁts, and in many cases the underlying investments are not transparent and are known only tothe investment manager.
-Investing in commodities entails signiﬁcant risks. Commodity prices may be affected by a variety of factors at any time, including but not limitedto, (i) changes in supply and demand relationships, (ii) governmental programs and policies, (iii) national and international political and economicevents, war and terrorist events, (iv) changes in interest and exchange rates, (v) trading activities in commodities and related contracts, (vi)pestilence, technological change and weather, and (vii) the price volatility of a commodity. In addition, the commodities markets are subject totemporary distortions or other disruptions due to various factors, including lack of liquidity, participation of speculators and governmentintervention.
-Physical precious metals are non-regulated products. Precious metals are speculative investments, which may experience short-term and longterm price volatility. The value of precious metals investments may ﬂuctuate and may appreciate or decline, depending on market conditions. Ifsold in a declining market, the price you receive may be less than your original investment. Unlike bonds and stocks, precious metals do notmake interest or dividend payments. Therefore, precious metals may not be appropriate for investors who require current income. Preciousmetals are commodities that should be safely stored, which may impose additional costs on the investor. The Securities Investor ProtectionCorporation (“SIPC”) provides certain protection for customers’ cash and securities in the event of a brokerage ﬁrm’s bankruptcy, other ﬁnancialdifﬁculties, or if customers’ assets are missing. SIPC insurance does not apply to precious metals or other commodities.
-Bonds are subject to interest rate risk. When interest rates rise, bond prices fall; generally the longer a bond's maturity, the more sensitive it isto this risk. Bonds may also be subject to call risk, which is the risk that the issuer will redeem the debt at its option, fully or partially, beforethe scheduled maturity date. The market value of debt instruments may ﬂuctuate, and proceeds from sales prior to maturity may be more orless than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on atimely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment maybe reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant risksbeyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful to
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  13
-consider these risks alongside their individual circumstances, objectives and risk tolerance before investing in high-yield bonds. High yield bondsshould comprise only a limited portion of a balanced portfolio. Interest on municipal bonds is generally exempt from federal income tax;however, some bonds may be subject to the alternative minimum tax (AMT). Typically, state tax-exemption applies if securities are issued withinone's state of residence and, if applicable, local tax-exemption applies if securities are issued within one's city of residence.
-Treasury Inﬂation Protection Securities’ (TIPS) coupon payments and underlying principal are automatically increased to compensate forinﬂation by tracking the consumer price index (CPI). While the real rate of return is guaranteed, TIPS tend to offer a low return. Because thereturn of TIPS is linked to inﬂation, TIPS may signiﬁcantly underperform versus conventional U.S. Treasuries in times of low inﬂation.
-Ultrashort bond funds Ultra-short bond funds are mutual funds and exchange-traded funds that generally invest in ﬁxed income securities withvery short maturities, typically less than one year. They are not money market funds. While money market funds attempt to maintain a stablenet asset value, an ultra-short bond fund’s net asset value will ﬂuctuate, which may result in the loss of the principal amount invested. They aretherefore subject to the risks associated with debt securities such as credit and interest rate risk.
-Ultrashort-term ﬁxed income asset class is comprised of ﬁxed income securities with high quality, very short maturities. They are thereforesubject to the risks associated with debt securities such as credit and interest rate risk.
-Duration, the most commonly used measure of bond risk, quantiﬁes the effect of changes in interest rates on the price of a bond or bondportfolio. The longer the duration, the more sensitive the bond or portfolio would be to changes in interest rates. Generally, if interest ratesrise, bond prices fall and vice versa. Longer-term bonds carry a longer or higher duration than shorter-term bonds; as such, they would beaffected by changing interest rates for a greater period of time if interest rates were to increase. Consequently, the price of a long-term bondwould drop signiﬁcantly as compared to the price of a short-term bond.
-The majority of $25 and $1000 par preferred securities are “callable” meaning that the issuer may retire the securities at speciﬁc prices anddates prior to maturity. Interest/dividend payments on certain preferred issues may be deferred by the issuer for periods of up to 5 to 10 years,depending on the particular issue. The investor would still have income tax liability even though payments would not have been received. Pricequoted is per $25 or $1,000 share, unless otherwise speciﬁed. Current yield is calculated by multiplying the coupon by par value divided by themarket price. Some $25 or $1000 par preferred securities are QDI (Qualiﬁed Dividend Income) eligible. Information on QDI eligibility is obtainedfrom third party sources. The dividend income on QDI eligible preferreds qualiﬁes for a reduced tax rate. Many traditional ‘dividend paying’perpetual preferred securities (traditional preferreds with no maturity date) are QDI eligible.  In order to qualify for the preferential taxtreatment all qualifying preferred securities must be held by investors for a minimum period – 91 days during a 180 day window period,beginning 90 days before the ex-dividend date.
-The initial interest rate on a ﬂoating-rate security may be lower than that of a ﬁxed-rate security of the same maturity because investors expectto receive additional income due to future increases in the ﬂoating security’s underlying reference rate. The reference rate could be an index oran interest rate. However, there can be no assurance that the reference rate will increase. Some ﬂoating-rate securities may be subject to callrisk. 
-The market value of convertible bonds and the underlying common stock(s) will ﬂuctuate and after purchase may be worth more or less thanoriginal cost. If sold prior to maturity, investors may receive more or less than their original purchase price or maturity value, depending onmarket conditions. Callable bonds may be redeemed by the issuer prior to maturity. Additional call features may exist that could affect yield.
-Principal is returned on a monthly basis over the life of a mortgage-backed security. Principal prepayment can signiﬁcantly affect the monthlyincome stream and the maturity of any type of MBS, including standard MBS, CMOs and Lottery Bonds. Yields and average lives are estimatedbased on prepayment assumptions and are subject to change based on actual prepayment of the mortgages in the underlying pools. The levelof predictability of an MBS/CMO’s average life, and its market price, depends on the type of MBS/CMO class purchased and interest ratemovements.  In general, as interest rates fall, prepayment speeds are likely to increase, thus shortening the MBS/CMO’s average life and likelycausing its market price to rise. Conversely, as interest rates rise, prepayment speeds are likely to decrease, thus lengthening average life andlikely causing the MBS/CMO’s market price to fall. Some MBS/CMOs may have “original issue discount” (OID). OID occurs if the MBS/CMO’soriginal issue price is below its stated redemption price at maturity, and results in “imputed interest” that must be reported annually for taxpurposes, resulting in a tax liability even though interest was not received.  Investors are urged to consult their tax advisors for moreinformation.
-Asset-backed securities generally decrease in value as a result of interest rate increases, but may beneﬁt less than other ﬁxed-income securitiesfrom declining interest rates, principally because of prepayments.
+make interest or dividend payments. Therefore, precious metals may not be appropriate for investors who require current income. Precious
+metals are commodities that should be safely stored, which may impose additional costs on the investor. The Securities Investor Protection
+Corporation (“SIPC”) provides certain protection for customers’ cash and securities in the event of a brokerage ﬁrm’s bankruptcy, other ﬁnancial
+difﬁculties, or if customers’ assets are missing. SIPC insurance does not apply to precious metals or other commodities.
+Bonds are subject to interest rate risk. When interest rates rise, bond prices fall; generally the longer a bond's maturity, the more sensitive it is
+to this risk. Bonds may also be subject to call risk, which is the risk that the issuer will redeem the debt at its option, fully or partially, before
+the scheduled maturity date. The market value of debt instruments may ﬂuctuate, and proceeds from sales prior to maturity may be more or
+less than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.
+Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on a
+timely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment may
+be reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant risks
+beyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful to
+consider these risks alongside their individual circumstances, objectives and risk tolerance before investing in high-yield bonds. High yield bonds
+should comprise only a limited portion of a balanced portfolio. Interest on municipal bonds is generally exempt from federal income tax;
+however, some bonds may be subject to the alternative minimum tax (AMT). Typically, state tax-exemption applies if securities are issued within
+one's state of residence and, if applicable, local tax-exemption applies if securities are issued within one's city of residence.
+Treasury Inﬂation Protection Securities’ (TIPS) coupon payments and underlying principal are automatically increased to compensate for
+inﬂation by tracking the consumer price index (CPI). While the real rate of return is guaranteed, TIPS tend to offer a low return. Because the
+return of TIPS is linked to inﬂation, TIPS may signiﬁcantly underperform versus conventional U.S. Treasuries in times of low inﬂation.
+Ultrashort bond funds Ultra-short bond funds are mutual funds and exchange-traded funds that generally invest in ﬁxed income securities with
+very short maturities, typically less than one year. They are not money market funds. While money market funds attempt to maintain a stable
+net asset value, an ultra-short bond fund’s net asset value will ﬂuctuate, which may result in the loss of the principal amount invested. They are
+therefore subject to the risks associated with debt securities such as credit and interest rate risk.
+Ultrashort-term ﬁxed income asset class is comprised of ﬁxed income securities with high quality, very short maturities. They are therefore
+subject to the risks associated with debt securities such as credit and interest rate risk.
+Duration, the most commonly used measure of bond risk, quantiﬁes the effect of changes in interest rates on the price of a bond or bond
+portfolio. The longer the duration, the more sensitive the bond or portfolio would be to changes in interest rates. Generally, if interest rates
+rise, bond prices fall and vice versa. Longer-term bonds carry a longer or higher duration than shorter-term bonds; as such, they would be
+affected by changing interest rates for a greater period of time if interest rates were to increase. Consequently, the price of a long-term bond
+would drop signiﬁcantly as compared to the price of a short-term bond.
+The majority of $25 and $1000 par preferred securities are “callable” meaning that the issuer may retire the securities at speciﬁc prices and
+dates prior to maturity. Interest/dividend payments on certain preferred issues may be deferred by the issuer for periods of up to 5 to 10 years,
+depending on the particular issue. The investor would still have income tax liability even though payments would not have been received. Price
+quoted is per $25 or $1,000 share, unless otherwise speciﬁed. Current yield is calculated by multiplying the coupon by par value divided by the
+market price. Some $25 or $1000 par preferred securities are QDI (Qualiﬁed Dividend Income) eligible. Information on QDI eligibility is obtained
+from third party sources. The dividend income on QDI eligible preferreds qualiﬁes for a reduced tax rate. Many traditional ‘dividend paying’
+perpetual preferred securities (traditional preferreds with no maturity date) are QDI eligible.  In order to qualify for the preferential tax
+treatment all qualifying preferred securities must be held by investors for a minimum period – 91 days during a 180 day window period,
+beginning 90 days before the ex-dividend date.
+The initial interest rate on a ﬂoating-rate security may be lower than that of a ﬁxed-rate security of the same maturity because investors expect
+to receive additional income due to future increases in the ﬂoating security’s underlying reference rate. The reference rate could be an index or
+an interest rate. However, there can be no assurance that the reference rate will increase. Some ﬂoating-rate securities may be subject to call
+risk. 
+The market value of convertible bonds and the underlying common stock(s) will ﬂuctuate and after purchase may be worth more or less than
+original cost. If sold prior to maturity, investors may receive more or less than their original purchase price or maturity value, depending on
+market conditions. Callable bonds may be redeemed by the issuer prior to maturity. Additional call features may exist that could affect yield.
+Principal is returned on a monthly basis over the life of a mortgage-backed security. Principal prepayment can signiﬁcantly affect the monthly
+income stream and the maturity of any type of MBS, including standard MBS, CMOs and Lottery Bonds. Yields and average lives are estimated
+based on prepayment assumptions and are subject to change based on actual prepayment of the mortgages in the underlying pools. The level
+of predictability of an MBS/CMO’s average life, and its market price, depends on the type of MBS/CMO class purchased and interest rate
+movements.  In general, as interest rates fall, prepayment speeds are likely to increase, thus shortening the MBS/CMO’s average life and likely
+causing its market price to rise. Conversely, as interest rates rise, prepayment speeds are likely to decrease, thus lengthening average life and
+likely causing the MBS/CMO’s market price to fall. Some MBS/CMOs may have “original issue discount” (OID). OID occurs if the MBS/CMO’s
+original issue price is below its stated redemption price at maturity, and results in “imputed interest” that must be reported annually for tax
+purposes, resulting in a tax liability even though interest was not received.  Investors are urged to consult their tax advisors for more
+information.
+Asset-backed securities generally decrease in value as a result of interest rate increases, but may beneﬁt less than other ﬁxed-income securities
+from declining interest rates, principally because of prepayments.
 Yields are subject to change with economic conditions. Yield is only one factor that should be considered when making an investment decision. 
 Virtual Currency Products (Cryptocurrencies)
-Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highlyspeculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
-Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.The price of Digital Assets could decline rapidly, and investors could lose their entire investment.
-Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction andinaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed orinaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.
-Digital Assets may not have an established track record of credibility and trust. Further, any performance data relating to Digital Asset productsmay not be veriﬁable as pricing models are not uniform.
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  14
-Environmental, Social and Governance (“ESG”) investments in a portfolio may experience performance that is lower or higher than a portfolionot employing such practices. Portfolios with ESG restrictions and strategies as well as ESG investments may not be able to take advantage ofthe same opportunities or market trends as portfolios where ESG criteria is not applied. There are inconsistent ESG deﬁnitions and criteriawithin the industry, as well as multiple ESG ratings providers that provide ESG ratings of the same subject companies and/or securities thatvary among the providers. Certain issuers of investments may have differing and inconsistent views concerning ESG criteria where the ESGclaims made in offering documents or other literature may overstate ESG impact. ESG designations are as of the date of this material, and noassurance is provided that the underlying assets have maintained or will maintain and such designation or any stated ESG compliance. As aresult, it is difﬁcult to compare ESG investment products or to evaluate an ESG investment product in comparison to one that does not focuson ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There isno assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependablemeasure of future results.
+Morgan Stanley Wealth Management  13
+Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highly
+speculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
+Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.
+The price of Digital Assets could decline rapidly, and investors could lose their entire investment.
+Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction and
+inaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed or
+inaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.
+Digital Assets may not have an established track record of credibility and trust. Further, any performance data relating to Digital Asset products
+may not be veriﬁable as pricing models are not uniform.
+Environmental, Social and Governance (“ESG”) investments in a portfolio may experience performance that is lower or higher than a portfolio
+not employing such practices. Portfolios with ESG restrictions and strategies as well as ESG investments may not be able to take advantage of
+the same opportunities or market trends as portfolios where ESG criteria is not applied. There are inconsistent ESG deﬁnitions and criteria
+within the industry, as well as multiple ESG ratings providers that provide ESG ratings of the same subject companies and/or securities that
+vary among the providers. Certain issuers of investments may have differing and inconsistent views concerning ESG criteria where the ESG
+claims made in offering documents or other literature may overstate ESG impact. ESG designations are as of the date of this material, and no
+assurance is provided that the underlying assets have maintained or will maintain and such designation or any stated ESG compliance. As a
+result, it is difﬁcult to compare ESG investment products or to evaluate an ESG investment product in comparison to one that does not focus
+on ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There is
+no assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependable
+measure of future results.
 Companies paying dividends can reduce or cut payouts at any time.
-Investing in smaller companies involves greater risks not associated with investing in more established companies, such as business risk,signiﬁcant stock price ﬂuctuations and illiquidity.
-Stocks of medium-sized companies entail special risks, such as limited product lines, markets, and ﬁnancial resources, and greater marketvolatility than securities of larger, more-established companies.
-Value investing does not guarantee a proﬁt or eliminate risk. Not all companies whose stocks are considered to be value stocks are able to turntheir business around or successfully employ corrective strategies which would result in stock prices that do not rise as initially expected.
-Growth investing does not guarantee a proﬁt or eliminate risk. The stocks of these companies can have relatively high valuations. Because ofthese high valuations, an investment in a growth stock can be more risky than an investment in a company with more modest growthexpectations.
+Investing in smaller companies involves greater risks not associated with investing in more established companies, such as business risk,
+signiﬁcant stock price ﬂuctuations and illiquidity.
+Stocks of medium-sized companies entail special risks, such as limited product lines, markets, and ﬁnancial resources, and greater market
+volatility than securities of larger, more-established companies.
+Value investing does not guarantee a proﬁt or eliminate risk. Not all companies whose stocks are considered to be value stocks are able to turn
+their business around or successfully employ corrective strategies which would result in stock prices that do not rise as initially expected.
+Growth investing does not guarantee a proﬁt or eliminate risk. The stocks of these companies can have relatively high valuations. Because of
+these high valuations, an investment in a growth stock can be more risky than an investment in a company with more modest growth
+expectations.
 Asset allocation and diversiﬁcation do not assure a proﬁt or protect against loss in declining ﬁnancial markets.
 Credit ratings are subject to change.
-REITs investing risks are similar to those associated with direct investments in real estate: property value ﬂuctuations, lack of liquidity, limiteddiversiﬁcation and sensitivity to economic factors such as interest rate changes and market recessions. Because of their narrow focus, sectorinvestments tend to be more volatile than investments that diversify across many sectors and companies. Technology stocks may be especiallyvolatile. Risks applicable to companies in the energy and natural resources sectors include commodity pricing risk, supply and demand risk,depletion risk and exploration risk. Health care sector stocks are subject to government regulation, as well as government approval of productsand services, which can signiﬁcantly impact price and availability, and which can also be signiﬁcantly affected by rapid obsolescence and patentexpirations.
-Direct indexing may only be appropriate for people who have a considerable amount to invest in a taxable account and want a level ofcustomization they couldn’t otherwise obtain through a portfolio of funds or individual securities. If you invest in a tax-deferred account, such asa 401(k) or IRA, the tax-harvesting beneﬁts of direct indexing may provide no additional beneﬁt to you. There is no guarantee that you willmaximize value by tax-loss selling; holding onto slumping stock may have resulted in value greater than that obtained through tax-lossharvesting via direct indexing. In addition, you will incur asset-based fees and expenses in a direct indexing account that may be higher thanthose for other investments, as well as transaction costs arising from customization and frequent rebalancing.
-IRS rules stipulate that if a security is sold by an investor at a tax loss, the tax loss will not be currently usable if the investor has acquired (orhas entered into a contract or option on) the same or substantially identical securities 30 days before or after the sale that generated the loss.This so-called “wash sale” rule is applied with respect to all of the investor’s transactions across all accounts.
-Artiﬁcial intelligence (AI) is subject to limitations, and you should be aware that any output from an IA-supported tool or service made availableby the Firm for your use is subject to such limitations, including but not limited to inaccuracy, incompleteness, or embedded bias. You shouldalways verify the results of any AI-generated output.
-Rebalancing does not protect against a loss in declining ﬁnancial markets. There may be a potential tax implication with a rebalancing strategy.Investors should consult with their tax advisor before implementing such a strategy.
-The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not representthe performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and otherinvestment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly differentthan those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
-The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. MorganStanley Smith Barney LLC retains the right to change representative indices at any time.
+REITs investing risks are similar to those associated with direct investments in real estate: property value ﬂuctuations, lack of liquidity, limited
+diversiﬁcation and sensitivity to economic factors such as interest rate changes and market recessions. Because of their narrow focus, sector
+investments tend to be more volatile than investments that diversify across many sectors and companies. Technology stocks may be especially
+volatile. Risks applicable to companies in the energy and natural resources sectors include commodity pricing risk, supply and demand risk,
+depletion risk and exploration risk. Health care sector stocks are subject to government regulation, as well as government approval of products
+and services, which can signiﬁcantly impact price and availability, and which can also be signiﬁcantly affected by rapid obsolescence and patent
+expirations.
+Direct indexing may only be appropriate for people who have a considerable amount to invest in a taxable account and want a level of
+customization they couldn’t otherwise obtain through a portfolio of funds or individual securities. If you invest in a tax-deferred account, such as
+a 401(k) or IRA, the tax-harvesting beneﬁts of direct indexing may provide no additional beneﬁt to you. There is no guarantee that you will
+maximize value by tax-loss selling; holding onto slumping stock may have resulted in value greater than that obtained through tax-loss
+harvesting via direct indexing. In addition, you will incur asset-based fees and expenses in a direct indexing account that may be higher than
+those for other investments, as well as transaction costs arising from customization and frequent rebalancing.
+IRS rules stipulate that if a security is sold by an investor at a tax loss, the tax loss will not be currently usable if the investor has acquired (or
+has entered into a contract or option on) the same or substantially identical securities 30 days before or after the sale that generated the loss.
+This so-called “wash sale” rule is applied with respect to all of the investor’s transactions across all accounts.
+Artiﬁcial intelligence (AI) is subject to limitations, and you should be aware that any output from an IA-supported tool or service made available
+by the Firm for your use is subject to such limitations, including but not limited to inaccuracy, incompleteness, or embedded bias. You should
+always verify the results of any AI-generated output.
+Rebalancing does not protect against a loss in declining ﬁnancial markets. There may be a potential tax implication with a rebalancing strategy.
+Investors should consult with their tax advisor before implementing such a strategy.
+The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not represent
+the performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and other
+investment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly different
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  14
+than those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
+The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. Morgan
+Stanley Smith Barney LLC retains the right to change representative indices at any time.
 Disclosures
-Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell anysecurity or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to futureperformance.
+Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.
+This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
+security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future
+performance.
 The author(s) (if any authors are noted) principally responsible for the preparation of this material receive compensation based upon various
+factors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), client feedback and
+competitive factors. Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securities or
+instruments mentioned in this material. This material has been prepared for informational purposes only and is not an offer to buy or sell or a
+solicitation of any offer to buy or sell any security/instrument, or to participate in any trading strategy. Any such offer would be made only after
+a prospective investor had completed its own independent investigation of the securities, instruments or transactions, and received all
+information it required to make its own investment decision, including, where applicable, a review of any offering circular or memorandum
+describing such security or instrument. That information would contain material information not contained herein and to which prospective
+participants are referred. This material is based on public information as of the speciﬁed date, and may be stale thereafter. We have no
+obligation to tell you when information herein may change. We make no representation or warranty with respect to the accuracy or
+completeness of this material. Morgan Stanley Wealth Management has no obligation to provide updated information on the
+securities/instruments mentioned herein.
+The summary at the beginning of the report may have been generated with the assistance of artiﬁcial intelligence (AI).
+The securities/instruments discussed in this material may not be appropriate for all investors. The appropriateness of a particular investment or
+strategy will depend on an investor’s individual circumstances and objectives. Morgan Stanley Wealth Management recommends that investors
+independently evaluate speciﬁc investments and strategies, and encourages investors to seek the advice of a ﬁnancial advisor. The value of and
+income from investments may vary because of changes in interest rates, foreign exchange rates, default rates, prepayment rates,
+securities/instruments prices, market indexes, operational or ﬁnancial conditions of companies and other issuers or other factors. Estimates of
+future performance are based on assumptions that may not be realized. 
+Actual events may differ from those assumed and changes to any assumptions may have a material impact on any projections or estimates.
+Other events not taken into account may occur and may signiﬁcantly affect the projections or estimates. Certain assumptions may have been
+made for modeling purposes only to simplify the presentation and/or calculation of any projections or estimates, and Morgan Stanley Wealth
+Management does not represent that any such assumptions will reﬂect actual future events. Accordingly, there can be no assurance that
+estimated returns or projections will be realized or that actual returns or performance results will not materially differ from those estimated
+herein. This material should not be viewed as advice or recommendations with respect to asset allocation or any particular investment. This
+information is not intended to, and should not, form a primary basis for any investment decisions that you may make. Morgan Stanley Wealth
+Management is not acting as a ﬁduciary under either the Employee Retirement Income Security Act of 1974, as amended or under section 4975
+of the Internal Revenue Code of 1986 as amended in providing this material except as otherwise provided in writing by Morgan Stanley and/or
+as described at www.morganstanley.com/disclosures/dol.
+Morgan Stanley Smith Barney LLC, its afﬁliates and Morgan Stanley Financial Advisors do not provide legal or tax advice. Each client should
+always consult his/her personal tax and/or legal advisor for information concerning his/her individual situation and to learn about any potential
+tax or other implications that may result from acting on a particular recommendation.
+This material is disseminated in Australia to “retail clients” within the meaning of the Australian Corporations Act by Morgan Stanley Wealth
+Management Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian ﬁnancial services license No. 240813). Morgan Stanley Wealth
+Management is not incorporated under the People's Republic of China ("PRC") law and the material in relation to this report is conducted
+outside the PRC. This report will be distributed only upon request of a speciﬁc recipient. This report does not constitute an offer to sell or the
+solicitation of an offer to buy any securities in the PRC. PRC investors must have the relevant qualiﬁcations to invest in such securities
+and must be responsible for obtaining all relevant approvals, licenses, veriﬁcations and or registrations from PRC's relevant governmental
+authorities.
+If your ﬁnancial adviser is based in Australia, then please be aware that this report is being distributed by Morgan Stanley Wealth Management
+Australia Pty Ltd (ABN 19 009 145 555, AFSL No. 240813).
+Morgan Stanley Wealth Management is not acting as a municipal advisor to any municipal entity or obligated person within the meaning of
+Section 15B of the Securities Exchange Act (the “Municipal Advisor Rule”) and the opinions or views contained herein are not intended to be,
+and do not constitute, advice within the meaning of the Municipal Advisor Rule. This material is disseminated in the United States of America by
+Morgan Stanley Smith Barney LLC.  
+Third-party data providers make no warranties or representations of any kind relating to the accuracy, completeness, or timeliness of the data
+they provide and shall not have liability for any damages of any kind relating to such data. This material, or any portion thereof, may not be
+reprinted, sold or redistributed without the written consent of Morgan Stanley Smith Barney LLC.
+© 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
+RSI1787536440043 08/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
-factors, including quality and accuracy of their work, ﬁrm revenues (including trading and capital markets revenues), client feedback andcompetitive factors. Morgan Stanley Wealth Management is involved in many businesses that may relate to companies, securities orinstruments mentioned in this material. This material has been prepared for informational purposes only and is not an offer to buy or sell or asolicitation of any offer to buy or sell any security/instrument, or to participate in any trading strategy. Any such offer would be made only aftera prospective investor had completed its own independent investigation of the securities, instruments or transactions, and received allinformation it required to make its own investment decision, including, where applicable, a review of any offering circular or memorandumdescribing such security or instrument. That information would contain material information not contained herein and to which prospectiveparticipants are referred. This material is based on public information as of the speciﬁed date, and may be stale thereafter. We have noobligation to tell you when information herein may change. We make no representation or warranty with respect to the accuracy orcompleteness of this material. Morgan Stanley Wealth Management has no obligation to provide updated information on thesecurities/instruments mentioned herein.
-The summary at the beginning of the report may have been generated with the assistance of artiﬁcial intelligence (AI).
-The securities/instruments discussed in this material may not be appropriate for all investors. The appropriateness of a particular investment orstrategy will depend on an investor’s individual circumstances and objectives. Morgan Stanley Wealth Management recommends that investorsindependently evaluate speciﬁc investments and strategies, and encourages investors to seek the advice of a ﬁnancial advisor. The value of andincome from investments may vary because of changes in interest rates, foreign exchange rates, default rates, prepayment rates,securities/instruments prices, market indexes, operational or ﬁnancial conditions of companies and other issuers or other factors. Estimates offuture performance are based on assumptions that may not be realized. 
-Actual events may differ from those assumed and changes to any assumptions may have a material impact on any projections or estimates.Other events not taken into account may occur and may signiﬁcantly affect the projections or estimates. Certain assumptions may have beenmade for modeling purposes only to simplify the presentation and/or calculation of any projections or estimates, and Morgan Stanley WealthManagement does not represent that any such assumptions will reﬂect actual future events. Accordingly, there can be no assurance thatestimated returns or projections will be realized or that actual returns or performance results will not materially differ from those estimatedherein. This material should not be viewed as advice or recommendations with respect to asset allocation or any particular investment. Thisinformation is not intended to, and should not, form a primary basis for any investment decisions that you may make. Morgan Stanley WealthManagement is not acting as a ﬁduciary under either the Employee Retirement Income Security Act of 1974, as amended or under section 4975of the Internal Revenue Code of 1986 as amended in providing this material except as otherwise provided in writing by Morgan Stanley and/oras described at www.morganstanley.com/disclosures/dol.
-Morgan Stanley Smith Barney LLC, its afﬁliates and Morgan Stanley Financial Advisors do not provide legal or tax advice. Each client shouldalways consult his/her personal tax and/or legal advisor for information concerning his/her individual situation and to learn about any potentialtax or other implications that may result from acting on a particular recommendation.
-This material is disseminated in Australia to “retail clients” within the meaning of the Australian Corporations Act by Morgan Stanley WealthManagement Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian ﬁnancial services license No. 240813). Morgan Stanley WealthManagement is not incorporated under the People's Republic of China ("PRC") law and the material in relation to this report is conductedoutside the PRC. This report will be distributed only upon request of a speciﬁc recipient. This report does not constitute an offer to sell or thesolicitation of an offer to buy any securities in the PRC. PRC investors must have the relevant qualiﬁcations to invest in such securitiesand must be responsible for obtaining all relevant approvals, licenses, veriﬁcations and or registrations from PRC's relevant governmentalauthorities.
-If your ﬁnancial adviser is based in Australia, then please be aware that this report is being distributed by Morgan Stanley Wealth ManagementAustralia Pty Ltd (ABN 19 009 145 555, AFSL No. 240813).
-Morgan Stanley Wealth Management is not acting as a municipal advisor to any municipal entity or obligated person within the meaning ofSection 15B of the Securities Exchange Act (the “Municipal Advisor Rule”) and the opinions or views contained herein are not intended to be,and do not constitute, advice within the meaning of the Municipal Advisor Rule. This material is disseminated in the United States of America byMorgan Stanley Smith Barney LLC.  
-Third-party data providers make no warranties or representations of any kind relating to the accuracy, completeness, or timeliness of the datathey provide and shall not have liability for any damages of any kind relating to such data.
-This material, or any portion thereof, may not be reprinted, sold or redistributed without the written consent of Morgan Stanley Smith BarneyLLC.
-© 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1786897041330 08/2026
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  16
