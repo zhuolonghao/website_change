@@ -9,7 +9,7 @@ import difflib
 TARGETS = {
     "jpm_eotm": "https://privatebank.jpmorgan.com/nam/en/insights/latest-and-featured/eotm",
     "blackrock_weekly": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary",
-    "tickmill_insight": "https://www.tickmill.com/blog/category/market-insight",
+    #"tickmill_insight": "https://www.tickmill.com/blog/category/market-insight",
     "ubs_monthly": "https://www.ubs.com/global/en/wealthmanagement/insights/chief-investment-office/house-view/articles/monthly.html",
     "bofa_hartnett": "https://olui2.fs.ml.com/RIResearchReportsUI/BofAMLSearch.aspx?ResearchSearchQuery=TWljaGFlbCUyMEhhcnRuZXR0&NTR_RUN=RUN_RIResearchReportsUI_BofAMLHub",
     "ms_gic_weekly": "https://www.morganstanley.com/content/dam/mscampaign/wealth-management/wmir-assets/gic-weekly.pdf",
