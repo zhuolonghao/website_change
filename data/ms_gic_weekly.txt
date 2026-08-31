@@ -1,24 +1,22 @@
 INVESTMENT STRATEGY
-Last Wednesday, Treasury Secretary Bessent announced at least a
-doubling of potential purchases of longer-dated US bonds. While the
-immediate but seemingly temporary effect was to stem the sell-off on
-the long end of the curve, investors should be asking why the
-Treasury chose to do this, and why now. After all, the extraordinary
-event comes absent a crisis and amid above average nominal
-economic growth, nearly all-time-high equity prices, free-ﬂowing
-corporate credit and stellar earnings. Some have surmised that
-Bessent is simply testing market reactions or addressing liquidity-
-instability perceptions, while others cynically suggest it’s a tease of
-stealth QE. While the truth is undoubtedly more nuanced, it should
-reawaken investors to several important developments with
-implications for risk management. First, long-duration global debt
-issuance is growing, fostering yield competition and higher real rates
-—a headwind for stock multiples. Second, we are entering a new
-regime for policymakers, thus increasing unpredictability and term
-premiums. Finally, with dynamics resolved via currency markets,
-global rebalancing likely requires a weaker US dollar. Policy can run
-but ultimately can’t hide. We suggest benchmark-neutral duration-
-positioning focused on three-to-seven-year bonds. Consider
+There is no better testament to the breadth and depth of this year’s
+market resilience than small-cap US equities, with the Russell 2000
+up 20%. Encouragingly, small caps have been supported by strong
+fundamentals, as the asset class, leveraged to industrial strength, has
+beneﬁted from ﬁscal stimulus and tariff rebates while outrunning
+interest rate and oil price headwinds. Admittedly, the GIC got this one
+wrong—underweighting the asset class over the past year given our
+concerns around weak proﬁt dynamics and adverse selection in the
+space after two decades of aggressive buying by private equity GPs.
+But 6.5% nominal GDP growth lifts many boats, and here we are. That
+said, is now the time to add small caps to portfolios? We remain
+skeptical. Relative valuations have more than normalized and are now
+extended; economic surprises have turned negative; and yield-curve
+ﬂattening and/or delayed rate cuts are another potential headwind.
+While selecting individual small caps may still work, the overall asset
+class might only grind in line with the market from here. We prefer
+focusing our risk budget on large-cap quality names that may better
+withstand policy volatility and potential economic cooling. Consider
 rebalancing ﬁxed income toward strategic benchmarks, neutralizing
 tactical tilts, as we expect policy-related volatility to remain above
 average. In equities, add to equal-weighted index exposure or active
@@ -27,197 +25,195 @@ bill, along with select overweights to cloud-dominant hyperscalers.
 We still like non-semiconductor-oriented EM and Japan and prefer
 intermediate rates to credit, with added diversiﬁcation from hedge
 funds, real assets, venture capital and growth equity.
-While most investors have spent the summer focused on equity markets and robust
-corporate earnings, US Treasuries have been under pressure. Since about mid-June,
-the 30-year bond is down more than 6%, with its yield recently piercing 5.3% for a
-20-year high. The 10-year yield has punched through 4.7%, to an 18-month high.
-Bessent and the Vigilantes Lisa Shalett
+As August ends and we head for the ﬁnal third of the year, US equity markets have
+noticeably consolidated while continuing to exhibit healthy breadth and strong
+rotational currents. The S&P 500 Index is up close to 13%, supported by annual
+earnings gains near 30%—a dynamic that embeds a two-turn compression of
+valuation multiples. Nearly 70% of all large-cap S&P 500 constituents are trading
+above their 200-day moving average, and forecasts suggest that 2027 earnings for
+Revisiting Small Caps Lisa Shalett
 Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-August 24
-Chicago Fed National Activity Index
-August 25
-ADP Weekly Employment Change
-Richmond Fed Nonmanufacturing Index
-US new home sales
-Conf. Board Consumer Conﬁdence Index
-August 26
-US personal spending
-US personal income
-US PCE
-US durable goods orders
-US capital goods orders
-August 27
+August 31
+Dallas Fed Manufacturing Activity Index
+September 01
+ISM Manufacturing
+US construction spending
+US JOLTS Survey
+September 02
+ADP Employment Change
+US factory orders
+September 03
+US imports and exports
 US initial jobless claims
 US continuing jobless claims
-Global Investment Committee | August 24, 2026
+ISM Services
+ISM Services Prices Paid
+Global Investment Committee | August 31, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. This
 material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.
 Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-Perhaps more importantly, Treasury auctions this month were
-weak, with the 30-year bond exhibiting its worst pricing since
-2001 and the 10-year note its weakest since 2007.
-Admittedly, bond investors have had to discount their share
-of surprises this year, but action on the long end of the curve
-has not really been explained by inﬂation expectations, which
-are well anchored, or near-term economic surprises, which
-have actually weakened (see Chart of the Week), but by
-material repricing of real rates and term premiums. These
-components tend to reﬂect structural changes in long-run
-perceptions of the neutral rate of economic growth,
-supply/demand dynamics and policy predictability.
-It’s obvious why policymakers would watch these
-developments. Not only is the 10-year Treasury note the risk-
-free benchmark against which other global assets tend to be
-priced, but along with that of the 30-year bond, its yield
-impacts the all-important mortgage market. Equally critical
-are implications for US borrowing costs, which are ballooning
-as the Congressional Budget Ofﬁce (CBO) projects a 2026
-ﬁscal deﬁcit of close to $2.1 trillion, taking America’s debt
-above the $40 trillion milestone. In his initial press
-interactions, Federal Reserve Chair Warsh has seemed to
-extol letting markets reprice these realities, noting that it’s an
-important monetary policy signal. But Secretary Bessent’s
-recent actions suggest a more interventionist approach to
-rate management. In addition to last week’s surprise
-announcement to at least double the pace of long-duration
-liquidity-management purchases, on July 31, he announced
-highly unusual currency-market intervention aimed at
-strengthening the Japanese yen, with the implied objective of
-safeguarding Japanese demand for Treasuries. Bessent’s
-approach to “liquidity management” will likely be funded by
-more front-end issuance, a strategy that has correlated with
-tech-stock valuation support. The obvious questions for
-investors are, why is Bessent showing more urgency than
-Warsh, and why now? These questions seem especially
-compelling given that markets appear to be trading without
-major stress, credit spreads are near cycle lows, bank lending
-is growing at an 8% annual pace and corporate proﬁts have
-supported equities. In analyzing Bessent’s actions, there are
-several matters for investors to consider.
-The ﬁrst issue is that this is not simply about Bessent’s desire
-to do liquidity housekeeping on the long end of the curve and
-“squeeze out” short sellers. To the contrary, we see the real-
-rates backup as a global phenomenon. Per Bloomberg’s
-benchmark of global sovereign bonds with maturities of at
-least 20 years, the average long-maturity yield is approaching
-4.5%. In many cases, this is underpinned by surging debt and
-deﬁcits amid spending to retool defense, transition energy
-grids and bolster tech infrastructure in a multipolar world.
-Then there’s corporate issuance, supercharged by AI-related
-capex. Gross investment grade issuance is estimated to reach
-a record this year, at more than $2.2 trillion. On the demand
-front, many natural buyers—namely, insurance companies
-and pension funds—have new choices beyond Treasuries,
-with the former increasingly turning to private credit markets
-and many of the latter able to own riskier investments given
-overfunding. As a result, real rates have accounted for
-roughly one-third of the nominal rate move the past two
-months, with the 10-year real rate at 2.4%.
-Bessent is also keenly aware of rising US interest costs. The
-ﬁscal year-2026 cumulative deﬁcit was recently forecast at
-$1.9 trillion–$2.1 trillion, 10% above a prior CBO forecast that
-already pegged deﬁcits as a share of GDP at close to 6%. At
-roughly a 3.5% average effective cost of borrowing, the US
-Treasury is projected to pay out more than $1 trillion in
-interest, more than two-thirds of the increase in annual deﬁcit
-spending. Interest costs already take up 20% of tax revenue
-and account for around the same budget share as defense.
-When they grow faster than nominal GDP, as now, they
-actually add to debt. This is not about hitting a panic button
-over sustainability, as the US will not default even if it means
-printing money and debasing the greenback. But it is about a
-declining degree of ﬁscal-spending freedom. Building policy
-uncertainty is evident in the normalizing term premiums that
-have accounted for two-thirds of the move in nominal long-
-term rates, underscoring declining future policy predictability.
-Bottom Line. For several years, the GIC has argued that
-structurally faster growth, global releveraging and aging
-demographics, against a backdrop of strained debt
-sustainability and multipolarity, would likely cause US rates
-to normalize toward a “higher for longer” regime. Our thesis
-has been that this would actually be healthy, likely
-enhancing capital-allocation efﬁciency. This is ﬁnally playing
-out, with the ﬁrst genuine competition for longer-duration
-capital in nearly two decades. Policy risks are also rising, and
-while investors need to be mindful of tactical policymaker
-choices, we view non-crisis market intervention and ﬁnancial
-engineering attempts as short-lived gimmicks. For long-term
-investors, implications remain the same, arguing for well-
-diversiﬁed portfolios, as in a higher-for-longer rate
-environment stock valuations may plateau while ﬁxed
-income is challenged—creating an important role for real
-assets and alternatives. Watch long-term yield composition,
-noting that an unpredictable policy agenda might only drive
-further term-premium normalization. Consider rebalancing
-ﬁxed income toward strategic benchmarks, neutralizing
-tactical tilts, as we expect policy-related volatility to remain
-above average. In equities, add to equal-weighted index
-exposure or active stock selection. Financials, health care
-and some defensives ﬁt the bill, along with select
-overweights to cloud-dominant hyperscalers. We still like
-non-semiconductor-oriented EM and Japan and prefer
+the cap-weighted index will be up another 12%–13%.
+Improving breadth has led the equal-weighted S&P 500 to
+outperform by approximately 250 basis points for the year to
+date. Meanwhile, the price-momentum factor, which was a
+dominant performance driver through June, has faded in
+terms of leadership and given way to earnings-revision
+momentum. The future, furthermore, looks solid, with 2027
+GDP growth expected to remain resilient on the back of
+continued investment growth emanating from the AI-
+infrastructure build-out.
+Thus far, there has been no better example of this breadth
+and resilience than the performance of US small caps. As
+measured by the Russell 2000 Index, they are up roughly
+20% for the year to date, handily beating large caps. Indeed,
+as strong as large-cap earnings have been year over year,
+small-cap proﬁts have been even stronger, with operating
+margins on pace to average 9.3%—more than 2.5 times the
+2025 level. Inherently leveraged to economic growth, given
+the index’s composition, small caps tilt toward ﬁnancials,
+health care and industrials. They have outrun what we
+thought would be headwinds from higher-for-longer front-
+end rates and challenges of competing on scale and tech
+innovation with larger-cap companies and those owned by
+highly endowed private equity general partners (GPs). The
+cohort has offset higher rates and the unanticipated impact of
+increased oil prices, as better-than-expected manufacturing
+strength, the One Big Beautiful Bill Act and tariff rebates
+have helped cushion results amid robust nominal GDP
+growth, at around 6.5%. While the GIC underestimated this
+performance and missed adding exposure a year ago, now the
+question is, is it too late? We think it is.
+First consider relative valuations. This year’s catch-up trade
+has helped the Russell 2000 more than recover its historic
+price/earnings premium. As seen in Chart of the Week, the
+Russell 2000’s 29 times 12-month forward P/E ratio versus
+the S&P 500’s 20 equates to a relative ratio above 1.45, well
+over the 20-year average of 1.32 and in the 89th percentile of
+occurrences. And 2027 earnings estimates are ambitious,
+embedding another 250 basis points of operating-margin
+improvement in earnings forecast to be an extraordinary 50%
+higher than at year-end 2025.
+We consider these expectations to be challenged by a second
+reality, in the form of indications of cyclical economic slowing.
+Already, the Citi Economic Surprise Index, typically strongly
+correlated with the Russell 2000, has rolled over hard, with
+readings lately around 25 versus its June peak in the 60s.
+Industrial and manufacturing purchasing managers’ indexes
+(PMIs) recently missed expectations and decelerated, while
+nondefense capital goods orders weakened meaningfully in
+July, to only 0.2% month over month versus expectations of
+0.7%. Conference Board measures of consumer conﬁdence
+were also softer than hoped for. Ultimately, while we expect
+2027 real economic growth to remain solid, at around 2.0%
+to 2.5%, nominal growth is expected to become much slower,
+clocking in closer to 4.5%–5.0%.
+A ﬁnal point pertains to rates, the US dollar and commodities.
+Heretofore, small caps have shrugged off developments
+around Federal Reserve rate-cut expectations and weathered
+rate-hike potential priced by fed funds futures. With many
+small caps dependent on ﬂoating-rate front-end ﬁnancing, the
+50-basis-point two-year US Treasury yield backup since mid-
+April is signiﬁcant. Equally, Treasury Secretary Bessent’s
+potential bond market intervention to ﬂatten the yield curve
+could foster headwinds to banks’ proﬁts and willingness to
+lend. Bessent’s actions also suggest dollar debasement, and
+the greenback is now approximately 2% weaker than in June.
+This adds inﬂation pressure to imported input and commodity
+prices, which many smaller ﬁrms can’t offset with
+international sales revenues. Finally, there are the pressures
+from higher-for-longer oil and energy prices. It remains to be
+seen, which small-cap companies can sustain margin
+momentum against these headwinds.
+Bottom Line. A year ago, the GIC made an active decision not
+to overweight small-cap US stocks in our diversiﬁed
+portfolios, underestimating the magnitude and breadth of
+the cyclical rebound in 2026 and overestimating obstacles
+to strong operating-leverage and proﬁt recovery. We opted
+to spend our risk budget on real assets, emerging markets
+and hedge funds, which has been accretive to total returns.
+But we were wrong versus the S&P 500, as the Russell
+2000 has bested the S&P 500 this year. While we
+continually analyze our choices and process, we have to
+invest looking forward in the context of a fully diversiﬁed
+portfolio. While small-cap technicals and revisions
+momentum are encouraging, we are not prepared to add to
+small caps now in a capitulative chase. Relative valuations
+versus higher-quality large caps have recovered from their
+post-COVID malaise; consensus forecasts imply an ambitious
+2027 jump in margins just as manufacturing PMIs show signs
+of cooling; and rate-hike risk continues—all headwinds,
+especially if tariff uncertainty and higher energy prices
+persist. We prefer large-cap quality for the year ahead.
+Watch economic surprises and cyclical strength indicators as
+opportunities to rightsize small-cap exposure. Consider
+rebalancing ﬁxed income toward strategic benchmarks,
+neutralizing tactical tilts, as we expect policy-related
+volatility to remain above average. In equities, add to equal-
+weighted index exposure or active stock selection. Financials,
+health care and some defensives ﬁt the bill, along with
+select overweights to cloud-dominant hyperscalers. We still
+like non-semiconductor-oriented EM and Japan and prefer
 intermediate rates to credit, with added diversiﬁcation from
 hedge funds, real assets, venture capital and growth equity.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
+Source: Bloomberg as of Aug. 26, 2026
 Source: Bloomberg as of Aug. 21, 2026
-Source: Bloomberg as of Aug. 14, 2026
-Chart of the Week: Long Rates Decoupling From Tactical-Horizon Surprises
-For signiﬁcant swaths of time—especially during the past
-decade and a half of well-telegraphed monetary policy—
-even long-term rates correlated fairly closely with
-economic surprises, amid the belief that they represented
-the marginal uncertainty in Fed policy direction. But more
-recently, long-bond yields, at multiperiod highs, have
-strongly decoupled from surprises, suggesting other
-forces are at work. We have noted that this is being
-fueled by the real and term-premium components of
-yields, driving changing perceptions of the neutral rate of
-economic growth and policy volatility going forward.
-These structural factors could imply that investors should
-prepare for a business cycle where rates are higher for
-longer while occupying a more normal zone than during the mid-1980s to the Great Financial Crisis.
-Fixed Income Insight: Term Premium Breaking Out
-Investors were treated to another “surprise” intervention
-announcement from Secretary Bessent last week. Bessent
-suggested that recent long-duration US Treasury bond
-weakness was not driven by fundamentals but impacted
-by liquidity technicals and that his solution was at least a
-doubling of long-bond buybacks. While his strategies may
-partially relieve some bond investors, we have focused on
-the longer-term trends suggesting normalizing long-bond
-term premiums. This began in earnest with 2021–2022
-Fed rate hikes and has continued with policy uncertainty
-priced amid shifting geopolitics, surging ﬁscal deﬁcits and
-appointment of a new Fed chair. While term premiums of
-75 to 85 basis points have been rare in the past 15 years,
-they are half the pre-GFC level. At the end of the day, given global capital competition, there is fundamental upward pressure
-on rates that the Treasury secretary cannot engineer away.
-Market Factor Data Points (for the week ending Aug. 21, 2026)
+Chart of the Week: Small-Cap Relative Value Has Normalized
+After lagging from mid-2022 to mid-2025, the small-cap
+Russell 2000 has outpaced the S&P 500 in the past 12
+months and for the year to date. In fact, the year-to-date
+performance gap is over 700 basis points. The move,
+coinciding with cyclicals outperformance of defensives
+and improved market breadth, has been ratiﬁed by a
+rebound in small-cap earnings growth. Now, relative
+valuations have normalized, rising above the 20-year
+average. Small caps have been resilient amid higher rates
+and oil prices, as they have been buttressed by tax reform
+and tariff rebates. But without valuation support and with
+economic momentum potentially stalling, headwinds like
+higher rates and inputs costs, exacerbated by US dollar
+weakening, may inhibit the small-cap premium. We would be rebalancing and taking proﬁts, while redeploying to larger-cap
+quality among select hyperscalers, ﬁnancials, health care, energy/commodities and infrastructure.
+Fixed Income Insight: Price-Insensitive Buyers’ Exit Pressures Term Premiums
+Bond investors have continued to muse about Secretary
+Bessent’s intentions on long-maturity Treasury buyouts.
+While rhetoric around potential for even more purchases
+than the announced level recently drove 20-year-plus
+yields down around 15 basis points and reduced short
+exposure, the plan to suppress yields may face structural
+headwinds. Historically price-insensitive buyers like the
+Fed itself and other central banks have reduced their
+share of holdings from 46% ﬁve years ago to 35%. This
+has occurred as natural duration buyers—pension funds
+and insurers—have shifted toward higher-risk areas,
+including private credit. Notably, this doesn’t consider
+market competition from AI-linked and global sovereign
+issuers. As the investor base shifts, it is natural for term premiums demanded to rise. We’re not sure Secretary Bessant can ﬁx
+that, especially if the US’ relative ﬁnancials continue to deteriorate under the weight of uncontrolled debt and deﬁcits.
+Market Factor Data Points (for the week ending Aug. 28, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-30-Year US Treasury Yield Above 2007 Levels
-Source: Bloomberg as of Aug. 19, 2026
-Foreign Demand for Treasuries Still Subdued
-Source: Oxford Economics as of July 31, 2026
-Macro Factor Heat Map (as of Aug. 21, 2026)
-Note: Text in a factor box denotes a color; In Europe, Economic Growth rose from Risk Off to Neutral due to increasing industrial production. Earnings increased
-from Risk Off to Neutral on positive earnings estimate revisions.; In Brazil, Liquidity increased from Risk Off to Neutral due to M1 Growth.; for further explanation
-of the chart, see page 10. 
+US Treasury Financing Paced by Bill Issuance
+Source: Bloomberg as of July 31, 2026
+The Federal Interest Burden Is Rising
+Source: Bloomberg as of July 31, 2026
+Macro Factor Heat Map (as of Aug. 28, 2026)
+Note: Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: US Treasury Demand Dynamics
-Bond Fund Allocations Favoring Corporates
-Source: Bloomberg, Morningstar as of June 30, 2026
-Fed Balance Sheet Expansion Has Recently Halted
-Source: Strategas as of Aug. 18, 2026
+Charts in Focus: Checking in on the Cost of US Debt
+Market Yields Diverging From Existing Debt
+Source: Bloomberg as of Aug. 26, 2026
+Fed Balance Sheet Growth Not Absorbing Duration
+Source: Bloomberg as of Aug. 26, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
 Short-Term Stock-Bond Indicator
@@ -225,10 +221,10 @@ Note: Shading reﬂects the relative strength of each component signal on a perc
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Aug. 21, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Aug. 28, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-Asset Class Performance (as of Aug. 21, 2026)
+Asset Class Performance (as of Aug. 28, 2026)
 Note: Performance values calculated using USD. 1. As of July 31 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of July 31, 2026. 4.
 Volatility and Correlation: July 31, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds and managed
 futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its mean. 
@@ -236,12 +232,12 @@ Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of Aug. 21, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of Aug. 28, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of Aug. 21, 2026
-S&P 500 Sector Performance and Valuation (as of Aug. 21, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of Aug. 28, 2026
+S&P 500 Sector Performance and Valuation (as of Aug. 28, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of Aug. 21, 2026)
+Equity Market Relative Valuation (as of Aug. 28, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
@@ -250,11 +246,11 @@ Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of Aug. 21, 2026
+Source: Bloomberg as of Aug. 28, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of Aug. 21, 2026
-Morgan Stanley & Co. Forecasts (as of Aug. 21, 2026)
+Source: Bloomberg as of Aug. 28, 2026
+Morgan Stanley & Co. Forecasts (as of Aug. 28, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
@@ -687,9 +683,12 @@ information.
 Asset-backed securities generally decrease in value as a result of interest rate increases, but may beneﬁt less than other ﬁxed-income securities
 from declining interest rates, principally because of prepayments.
 Yields are subject to change with economic conditions. Yield is only one factor that should be considered when making an investment decision. 
-Virtual Currency Products (Cryptocurrencies)
+Interest income from taxable zero coupon bonds is subject to annual taxation as ordinary income even though no interest payments will be
+received by the investor if held in a taxable account.  Zero coupon bonds may also experience greater price volatility than interest bearing ﬁxed
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  13
+income securities because of their comparatively longer duration.
+Virtual Currency Products (Cryptocurrencies)
 Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highly
 speculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
 Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.
@@ -710,9 +709,8 @@ result, it is difﬁcult to compare ESG investment products or to evaluate an ES
 on ESG. Investors should also independently consider whether the ESG investment product meets their own ESG objectives or criteria. There is
 no assurance that an ESG investing strategy or techniques employed will be successful. Past performance is not a guarantee or a dependable
 measure of future results.
-Companies paying dividends can reduce or cut payouts at any time.
-Investing in smaller companies involves greater risks not associated with investing in more established companies, such as business risk,
-signiﬁcant stock price ﬂuctuations and illiquidity.
+Companies paying dividends can reduce or cut payouts at any time. Investing in smaller companies involves greater risks not associated with
+investing in more established companies, such as business risk, signiﬁcant stock price ﬂuctuations and illiquidity.
 Stocks of medium-sized companies entail special risks, such as limited product lines, markets, and ﬁnancial resources, and greater market
 volatility than securities of larger, more-established companies.
 Value investing does not guarantee a proﬁt or eliminate risk. Not all companies whose stocks are considered to be value stocks are able to turn
@@ -744,10 +742,10 @@ always verify the results of any AI-generated output.
 Rebalancing does not protect against a loss in declining ﬁnancial markets. There may be a potential tax implication with a rebalancing strategy.
 Investors should consult with their tax advisor before implementing such a strategy.
 The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not represent
-the performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and other
-investment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly different
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  14
+the performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and other
+investment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly different
 than those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
 The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. Morgan
 Stanley Smith Barney LLC retains the right to change representative indices at any time.
@@ -789,14 +787,13 @@ Morgan Stanley Smith Barney LLC, its afﬁliates and Morgan Stanley Financial Ad
 always consult his/her personal tax and/or legal advisor for information concerning his/her individual situation and to learn about any potential
 tax or other implications that may result from acting on a particular recommendation.
 This material is disseminated in Australia to “retail clients” within the meaning of the Australian Corporations Act by Morgan Stanley Wealth
-Management Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian ﬁnancial services license No. 240813). Morgan Stanley Wealth
-Management is not incorporated under the People's Republic of China ("PRC") law and the material in relation to this report is conducted
+Management Australia Pty Ltd (A.B.N. 19 009 145 555, holder of Australian ﬁnancial services license No. 240813). Morgan Stanley Wealth
+Management is not incorporated under the People's Republic of China ("PRC") law and the material in relation to this report is conducted
 outside the PRC. This report will be distributed only upon request of a speciﬁc recipient. This report does not constitute an offer to sell or the
-solicitation of an offer to buy any securities in the PRC. PRC investors must have the relevant qualiﬁcations to invest in such securities
-and must be responsible for obtaining all relevant approvals, licenses, veriﬁcations and or registrations from PRC's relevant governmental
-authorities.
-If your ﬁnancial adviser is based in Australia, then please be aware that this report is being distributed by Morgan Stanley Wealth Management
-Australia Pty Ltd (ABN 19 009 145 555, AFSL No. 240813).
+solicitation of an offer to buy any securities in the PRC. PRC investors must have the relevant qualiﬁcations to invest in such securities and
+must be responsible for obtaining all relevant approvals, licenses, veriﬁcations and or registrations from PRC's relevant governmental
+authorities. If your ﬁnancial adviser is based in Australia, then please be aware that this report is being distributed by Morgan Stanley Wealth
+Management Australia Pty Ltd (ABN 19 009 145 555, AFSL No. 240813).
 Morgan Stanley Wealth Management is not acting as a municipal advisor to any municipal entity or obligated person within the meaning of
 Section 15B of the Securities Exchange Act (the “Municipal Advisor Rule”) and the opinions or views contained herein are not intended to be,
 and do not constitute, advice within the meaning of the Municipal Advisor Rule. This material is disseminated in the United States of America by
@@ -805,6 +802,6 @@ Third-party data providers make no warranties or representations of any kind rel
 they provide and shall not have liability for any damages of any kind relating to such data. This material, or any portion thereof, may not be
 reprinted, sold or redistributed without the written consent of Morgan Stanley Smith Barney LLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1787536440043 08/2026
+RSI1788097967813 08/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
