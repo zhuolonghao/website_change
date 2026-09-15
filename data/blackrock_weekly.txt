@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Sep 8, 2026
+Sep 14, 2026
 BlackRock Investment Institute
-Why Japan matters for U.S. bond investors
+EM equities: back to overweight
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,71 +76,65 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260908
-Ben Powell
-Chief Investment Strategist for the Middle East and APAC
+Weekly video_20260914
+Michel Dilmanian
+Portfolio Strategist
 BlackRock Investment Institute
 SCRIPT
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: Why Japan matters for U.S. bond investors
-Rising Japanese government bond yields and a weak yen put pressure on the Bank of Japan to raise interest rates faster.
-1: A new alternative
-So, what’s changed in Japan?
-A 10-year Japanese government bond now yields around 3% — the most in three decades. That’s more than what a Japanese investor would get on a 10-year U.S. Treasury after hedging it back to the yen. It gives Japanese investors a much more viable alternative.
-On top of this, the Bank of Japan is in a tricky position. Underlying inflation pressure persists and wages are rising. That would typically warrant higher interest rates.
-But raising rates also makes Japan’s large government debt more expensive to manage.
-Markets now expect the Bank of Japan to raise rates this month.
-2: A global matter
-Here’s why it matters globally.
-For years, extremely low bond yields encouraged Japanese investors to look overseas for income. Japan still holds around $1.1 trillion in U.S. government bonds.
-As domestic yields become more attractive, fresh demand for foreign bonds could soften. That matters when governments and companies are already fighting hard to attract capital – including for projects related to the AI buildout.
-U.S. officials are clearly watching too. The U.S. Treasury joined Japan’s recent currency intervention to support the yen. We think that underlines how closely Japan’s markets are linked to global financial conditions.
-3: Selectivity is key
-We stay cautious on Japanese government bonds because we think yields could keep rising.
-But higher rates aren’t necessarily bad for riskier assets.
-We’re neutral on Japanese stocks overall, seeing opportunities in areas like financials, physical AI and companies benefitting from greater capital spending and corporate reforms.
-Outro: Here’s our Market take
-Japan’s shift to higher rates matters well beyond its borders. It’s not driving this global reset in bond yields, but it is an important channel for how that reset spreads. This keeps us cautious on Japanese government bonds and selective across Japanese risk assets.
+Title slide: EM equities: back to overweight
+Higher interest rates don't automatically mean trouble for stocks. The key question is: why are yields rising? If they're moving up because investment and growth are accelerating, stronger earnings can help outweigh the impact of higher borrowing costs. That nuance helps explain our pro-risk stance.
+1: Back to overweight EM stocks
+So, why did our views on EM stocks change? Earnings durability is a key measure as interest rates reset higher. EM equities stand out by this measure.
+Earnings growth has accelerated, while valuations remain well below those in the U.S. We stepped back to neutral in June as leverage concerns, especially in Korea, were building. Since then, deleveraging has eased those concerns, supporting our move back to overweight.
+2: The AI scarcity play
+EM equities offer another way to express one of our highest conviction investment themes: AI scarcity. South Korea and Taiwan are key players in the semiconductor, memory and hardware supply chains powering the AI buildout. Meanwhile, Latin America offers exposure to other scarce resources and physical infrastructure supporting the AI buildout.
+All of these are different expressions of the AI scarcity theme that underpins our U.S. equity overweight.
+3: Staying sharp
+We stay pro-risk, but nimble. Our return to overweight in EM equities comes alongside our downgrade of short-term European government bonds. More broadly, we're sticking with our overweights in U.S. equities and AI.
+We're also keeping a close eye on the key assumptions behind those views. If AI earnings disappoint, leverage concerns grow, or higher long-term rates create a bigger hurdle for stocks, we'd reassess. As always, we're ready to adjust as conditions change.
+Outro: Here’s our Market take
+We remain pro-risk as strong fundamentals help offset the impact of higher interest rates. But this isn't an all-clear signal, and we'll adjust our views if the data points us in a different direction.
 Closing frame: Read details: blackrock.com/weekly-commentary
-A global story
-Competition for capital is intensifying, and surging yields in Japan add another pressure: they could draw some capital home and dent U.S. Treasury demand.
+EM back in focus
+We stay pro-risk despite higher rates. Strong fundamentals and AI scarcity support our U.S. equity overweight and return to an overweight in EM equities.
 Market backdrop
-The 10-year JGB yield briefly topped 3% for the first time since 1996, while the yen weakened to ¥160 per dollar before rallying on intervention speculation.
+Oil topped $100 and long-term yields remain near multi-decade highs, yet stocks are near records. We think higher rates and strong equities can coexist.
 Week ahead
-U.S. inflation data take center stage this week. Sticky price pressures could reinforce the global rise in yields we see playing out in Japan.
-Japan has become a key focus in the global rate reset as competition for capital intensifies. JGB yields are surging just as persistent underlying inflation and yen weakness are putting pressure on the Bank of Japan to raise rates faster. That matters globally. Higher domestic yields could draw capital home, weighing on demand for U.S. debt at a time of rising global borrowing needs. Japan adds another channel that could amplify the rate reset through shifting capital flows.
+The Fed, BoE and BoJ take center stage this week. Their rate decisions will keep global yields and currencies in focus as policy paths diverge.
+Higher global rates are raising the hurdle for returns, but they have not knocked us off our pro-risk stance. Higher rates and strong equities need not be contradictory – what drives yields matters. When higher yields reflect stronger investment and growth, the resulting earnings strength can help offset a higher cost of capital. That explains why we maintain our U.S. equity and AI overweights. Our return to an overweight in EM equities offers another way to invest in the AI scarcity theme.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Home advantage?
-Ten-year government bond yields, 2020-2026
-The figure shown relates to past performance. Past performance is not a reliable indicator of current or future results. Source: BlackRock Investment Institute with data from Bloomberg, September 2026. Note: Bloomberg’s estimate of a three-month USD-JPY hedging cost is subtracted from the U.S. Treasury to derive the yen-hedged U.S. Treasury yield. Actual realised hedging costs may vary over time.
-A Japanese investor can now earn about 3% on a 10-year Japanese government bond versus 2% on a 10-year Treasury after hedging back into yen using rolling three-month FX forwards. See the chart. Japan now offers a meaningful risk-free yield: the 10-year JGB yield is up roughly 90 basis points this year and briefly topped 3%, while the 30-year has hit a record 4.18%. The economic backdrop warrants tighter policy as underlying inflation persists and wages rise. Yet more expansionary fiscal policy and government debt of more than twice GDP make higher rates costly. Keeping policy too loose has weighed on the yen, which fell to ¥160 per dollar last week before rallying on speculation of further intervention. Moving faster adds to fiscal pressure. With markets fully pricing a BoJ hike this month, that tension puts fiscal-dominance risk increasingly in focus.
-A faster BoJ hiking cycle would reverberate well beyond Japan. Decades of ultra-low domestic yields pushed Japanese investors overseas for income, making the country a major exporter of capital. That calculation is changing. Japan still holds roughly $1.1 trillion of U.S. Treasuries. For scale, an illustrative 5% shift would amount to $55 billion – equivalent to roughly a quarter of the increase in total foreign Treasury holdings over the past year and about 7% of the Treasury’s expected net borrowing this quarter. That would be meaningful at the margin even without a large-scale repatriation wave. This matters as governments and companies compete more intensely for a finite pool of capital.
-Spillover risks
-The spillover risks are real. A weaker yen can add upward pressure to U.S. yields if Japanese authorities decide to sell foreign assets, including Treasuries, to support the currency. That helps explain why the U.S. joined last month’s yen-buying intervention – the first coordinated operation with Japan since 1998. Yet the yen weakened back through ¥160 per dollar last week before rallying on speculation of further intervention and faster BoJ tightening. The risk is a feedback loop across bond markets: higher U.S. rates could weaken the yen and pressure the BoJ to move faster, while higher Japanese rates could draw more capital home, weakening demand for Treasuries and pushing U.S. borrowing costs higher.
-Japan has been one of our highest-conviction regional equity calls for years, and we still prefer its equities to its government bonds as the country shifts to a higher-inflation, higher-rate environment. We remain underweight JGBs as rising yields add to global competition for capital. We are neutral on Japanese equities after closing our overweight earlier this year as we dialed down risk amid the Middle East conflict and took profits after strong performance. Yet we still see opportunities beneath the index. For example, a steeper yield curve can boost profit margins for Japanese financials, while corporate reform, rising capital spending and the AI buildout support selected companies. More broadly, higher rates are not uniformly bearish for risk assets: we favor companies with the earnings and cash flows to outrun a higher cost of capital.
+Exceptional growth without demanding valuations
+12-month forward EPS growth and P/E, 2016–26
+Forward-looking estimates may not come to pass. Source: BlackRock Investment Institute, with data from LSEG Datastream, September 2026. Note: The chart shows 12-month forward consensus earnings-per-share growth and price-to-earnings ratios for the MSCI EM and MSCI U.S. indices.
+The bar for taking risk is rising as rates reset higher, making the durability of earnings more important. We think AI-related investment can support growth and profits even as the same investment boom absorbs capital, power and other scarce resources. EM equities now offer another place where earnings can clear that higher hurdle. The fundamental case has strengthened: earnings growth is exceptional even as valuations remain well below those in the U.S. See the chart. The tactical backdrop has improved too. We closed our previous overweight in EM equities in our Midyear Outlook in June as leverage concerns built, particularly in Korea. Korean equities subsequently experienced losses, and summer deleveraging has since eased those leverage concerns, supporting our return to overweight.
+The numbers reinforce the case for returning to EM equities. Consensus expects headline earnings per share for the MSCI Emerging Markets Index to grow over 34% over the next 12 months versus about 20% for the MSCI USA Index. Yet EM equities trade at only 10 times forward earnings versus nearly 20 times for their U.S. counterparts. That is a 50% discount, with the EM multiple in the bottom 10% of its 20-year history. A weaker U.S. dollar could add support by easing financial conditions, supporting local currencies and encouraging foreign capital inflows. But our view does not depend on it. We see dollar weakness and stronger inflows as additional support rather than the foundation of our EM call.
+EM at the center of AI scarcity
+The headline EM rally masks very different sources of returns, but AI scarcity is one thread connecting them. South Korea and Taiwan sit at the heart of semiconductor, memory and hardware supply chains. Latin America, including Brazil, offers exposure to the resources and physical infrastructure needed for the AI buildout. These are different expressions of the AI scarcity theme that is an important part of our U.S. equity overweight. That overlap is deliberate and concentrates some of our equity exposure to the AI buildout. Over time, cheaper models and greater commoditization could shift where AI profits accrue. We therefore prefer to stay selective and dynamic rather than assume today’s winners will remain tomorrow’s.
+We remain pro-risk, but see little room for complacency. We maintain our U.S. equity and AI overweights, return to an overweight in EM equities and downgrade short-term European government bonds to neutral. Two risks could challenge that stance. First, markets have absorbed the Middle East shock well, but Strait of Hormuz traffic remains severely constrained and scarcity has shifted downstream into refined products. Renewed energy pressure could keep inflation elevated just as the Fed faces a difficult policy choice. A hold despite persistent inflation and a tight labor market could test its credibility, with the term premium acting as a release valve as investors demand more compensation to hold long-term bonds. That could push long-end yields higher and raise the hurdle for equity returns. We stand ready to adjust as conditions change.
 Our bottom line
-Japan’s rate reset matters beyond its borders: shifting capital flows could add to upward pressure on global yields, while higher rates increase dispersion across risk assets, reinforcing the case for selectivity.
+Strong fundamentals keep us pro-risk despite higher rates. Exceptional earnings growth, attractive valuations and a cleaner tactical backdrop support our U.S. and AI overweights and a return to an overweight in EM equities. But this is not an unqualified bullish call. A lot can still go wrong, and we stand ready to shift from risk-on if the signposts change.
 Market backdrop
-The global bond sell-off that has defined the summer gathered fresh momentum last week, pushing yields to multi-year highs across the U.S., Europe and Japan. We see further upward pressure from higher oil prices and rate-hike expectations, alongside persistent inflation, heavy government borrowing and rising corporate financing needs. Higher yields need not diminish the appeal of bonds: they have transformed the opportunity set for income, provided investors stay selective about the risks they take to earn it.
-U.S. inflation takes center stage after a blowout jobs report last week strengthened expectations for a Fed rate increase this month. We still don’t see a hike as a foregone conclusion. This week’s CPI report will provide another crucial piece of data, with a hot print likely to tip the balance toward a hike and push global yields higher.
+Markets are balancing mounting macro pressures against strong corporate fundamentals. Brent crude topped $100 a barrel for the first time since July after the U.S. and Iran traded fresh attacks, while new U.S. inflation data prompted markets to ramp up Fed rate hike expectations. Long-term government bond yields remain near multi-decade highs. Yet stocks remain close to record highs. We think strong earnings help explain that resilience: U.S. earnings expectations have continued to rise, giving equities a cushion against higher rates and energy prices and reinforcing our overweight in U.S. stocks.
+Central banks take center stage this week, with the Federal Reserve, Bank of England and Bank of Japan all setting rates. Strong jobs and sticky inflation have sharply raised the market odds of a Fed hike, though we don’t see one as a foregone conclusion. The BoE is expected to hold and the BoJ may need to normalize faster. We expect the decisions to keep global yields and currencies in focus.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of September 3, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-Sep. 8
-Japan revised GDP; China trade balance
-Sep. 9
-China CPI and PPI
-Sep. 10
-U.S. PPI; ECB rate
-Sep. 11
-U.S CPI and UMich sentiment; UK GDP estimate
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of September 10, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+Sep. 15
+UK unemployment; China unemployment
+Sep. 16
+U.S. Fed rate decision; UK CPI; Japan trade balance
+Sep. 17
+UK BoE rate decision; U.S. Philly Fed business index, EU HICP final
+Sep. 18
+BoJ rate decision and Japan core CPI
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
@@ -151,7 +145,7 @@ What we think
 Portfolio expression
 Growth and AI scarcity
 The AI buildout is speeding up, making bottlenecks binding.
-Overweight U.S. equities; focus on AI bottleneck opportunities: power, chips and data centers.
+Overweight U.S. and EM equities; focus on AI bottleneck opportunities: power, chips and data centers.
 Duration and diversification
 Long bonds carry high rate sensitivity and are less reliable diversifiers.
 Prefer short- and medium-term government bonds over long bonds for income.
@@ -183,7 +177,7 @@ We are neutral. Valuations remain attractive relative to the U.S., but we see fe
 Japan
 We are neutral. Strong corporate balance sheets and governance reforms remain supportive. We prefer targeted exposures to physical AI and the buildout’s bottlenecks.
 Emerging markets (EM)
-We are neutral. We see opportunities where the AI buildout drives demand for infrastructure, particularly in Latin America.
+We are overweight. Strong earnings and cheaper valuations create opportunities. We particularly like different expressions of the AI scarcity theme across Asia and Latin America.
 China
 We are neutral. We see opportunities in physical AI. Cheap, open-source AI could drive adoption, but that doesn’t necessarily translate into AI-provider profitability.
 Fixed income
@@ -194,7 +188,7 @@ We are underweight. We see investors wanting more compensation for holding long-
 Global inflation-linked bonds
 We are neutral. We see inflation settling above pre-pandemic levels, but markets may not price this in the near term as economic growth could slow.
 Euro area government bonds
-We are overweight short- and medium-term bonds. Markets are pricing restrictive policy rates of about 3% for several years. We think that’s overdone.
+We are neutral short- and medium-term bonds. Current ECB rate pricing looks fairly valued given the balance of risks. Higher energy prices could push rates higher. We prefer to deploy risk elsewhere.
 UK gilts
 We are neutral. We expect periods of elevated volatility given political uncertainty, longer-term bonds making up a larger market share, and buyers becoming more price-sensitive.
 Japanese government bonds
@@ -243,7 +237,7 @@ UK
 We are neutral. Valuations remain attractive relative to the U.S., but we see few near-term catalysts to trigger a shift.
 Fixed income
 Euro area government bonds
-We are overweight short- and medium-term bonds. Markets are pricing restrictive policy rates of about 3% for several years. We think that’s overdone.
+We are neutral short- and medium-term bonds. Current ECB rate pricing looks fairly valued given the balance of risks. Higher energy prices could push rates higher. We prefer to deploy risk elsewhere.
 German bunds
 We are overweight shorter-term Bunds as the market-implied ECB policy path appears too hawkish. We stay neutral long-dated Bunds. Fiscal stimulus and increased bond issuance exert upward pressure on yields, alongside inflation risks amid lingering geopolitical tensions.
 French OATs
@@ -269,12 +263,12 @@ Subscribe to Apple podcasts
 Meet the authors
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Ben Powell
-Chief Investment Strategist for Middle East/APAC — BlackRock Investment Institute
-Yuichi Chiguchi
-Chief Investment Strategist for Japan — BlackRock
-Serena Jiang
-Economist — BlackRock Investment Institute
+Beata Harasim
+Senior Investment Strategist – BlackRock Investment Institute
+Michel Dilmanian
+Portfolio Strategist – BlackRock Investment Institute
+Sam Vecht
+Portfolio Manager, Global Emerging Market Equities – BlackRock
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -400,9 +394,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of September 8, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of September 14, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0926-M-5901236-EXP0927
+BII0926-M-5919758-EXP0927
