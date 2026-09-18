@@ -36,9 +36,10 @@ Specialty Lending
 Business Owners
 Corporate Executives
 Entertainers & Athletes
-Hedge Fund & Asset Managers
-Lawyers & Law Firms
 Family Offices
+Hedge Fund & Asset Managers
+IPO Planning for employees
+Lawyers & Law Firms
 Private Equity
 Partners
 Firms
@@ -72,12 +73,12 @@ Diverse Wealth Strategies
 Careers
 Michael Cembalest
 Chairman of Market and Investment Strategy for J.P. Morgan Asset & Wealth Management
-Trump Policy Impact Tracker:
+Online US Economy and Iran War Tracker
 We are actively monitoring Trump policies that materially affect the economy and corporate sector. The tracker monitors inflation expectations, markets, growth, capital spending, consumer sentiment, earnings expectations, energy production, inflation, wages, import prices, fiscal data, immigration and M&A activity.
 Explore Now
 Featured Research
-The Year of the Trojan Fire Horse: China’s imbalanced economy and energy mercantilism
-While there’s plenty of evidence to support Stephen Roach’s thesis of unsustainable imbalances in China’s economy, China is living up to anthropomorphic characteristics of this year’s zodiac, the Fire Horse, in at least one regard: bold moves, self-reliance, speed, action and innovation in the energy transition.
+Libertarians at the Gate: the remarkable and disturbing last 72 hours in AI
+A brief note on the extraordinary events of the last 72 hours: Anthropic power agreements, OpenAI Millennium and ARC prizes on remarkable jumps in model capabilities, disclosures by OpenAI and Anthropic regarding sandbox jailbreaks and coordinated AI agent swarm attacks, and the relentless campaign by frontier labs to argue for regulatory moats to dampen competitive threats from US/Chinese open models.
 Read more
 Latest
 Trade
@@ -85,6 +86,19 @@ Investments
 Politics
 Energy
 Municipals
+Libertarians at the Gate: the remarkable and disturbing…
+Economy & Markets
+Libertarians at the Gate: the remarkable and disturbing…
+A brief note on the extraordinary events of the last 72 hours: Anthropic power agreements, OpenAI Millennium and ARC prizes on…
+Michael Cembalest
+Sep 10, 2026
+Rear Window
+Contains video.
+Economy & Markets
+Rear Window
+Over the last year, the Eye on the Market included views on sectors, rates and currencies. For this back-to-school piece, I…
+Michael Cembalest
+Sep 1, 2026
 The Year of the Trojan Fire Horse: China’s imbalanced…
 Contains video.
 Economy & Markets
@@ -688,13 +702,6 @@ Dude, Where’s My Stuff?
 The global supply chain mess will require increased vaccination and acquired immunity, semiconductor capacity expansion and the…
 Michael Cembalest
 Sep 27, 2021
-Your Fall 2021 syllabus
-Contains audio.
-Economy & Markets
-Your Fall 2021 syllabus
-Greetings students. We look forward to seeing you back on campus. Your Fall 2021 syllabus is attached. Syllabus update: Biology…
-Michael Cembalest
-Sep 7, 2021
 Show more
 Oh, The Places We Could Go
 Contains audio.
@@ -753,6 +760,13 @@ Tracking the market risk unwind; Supply chain update; Ukraine; Invasion of the C
 Michael Cembalest
 Feb 15, 2022
 Show more
+Rear Window
+Contains video.
+Economy & Markets
+Rear Window
+Over the last year, the Eye on the Market included views on sectors, rates and currencies. For this back-to-school piece, I…
+Michael Cembalest
+Sep 1, 2026
 The Year of the Trojan Fire Horse: China’s imbalanced…
 Contains video.
 Economy & Markets
@@ -1285,13 +1299,6 @@ Dude, Where’s My Stuff?
 The global supply chain mess will require increased vaccination and acquired immunity, semiconductor capacity expansion and the…
 Michael Cembalest
 Sep 27, 2021
-Your Fall 2021 syllabus
-Contains audio.
-Economy & Markets
-Your Fall 2021 syllabus
-Greetings students. We look forward to seeing you back on campus. Your Fall 2021 syllabus is attached. Syllabus update: Biology…
-Michael Cembalest
-Sep 7, 2021
 Show more
 Not That 70's Show
 Contains video.
