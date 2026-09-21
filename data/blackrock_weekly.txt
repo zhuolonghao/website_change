@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Sep 14, 2026
+Sep 21, 2026
 BlackRock Investment Institute
-EM equities: back to overweight
+The AI buildout meets the 5% world
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,65 +76,66 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260914
-Michel Dilmanian
-Portfolio Strategist
+Weekly video_20260921
+Vivek Paul
+Global Head of Portfolio Strategy
 BlackRock Investment Institute
 SCRIPT
 Header:
 CAPITAL AT RISK. MARKETING MATERIAL.
 Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: EM equities: back to overweight
-Higher interest rates don't automatically mean trouble for stocks. The key question is: why are yields rising? If they're moving up because investment and growth are accelerating, stronger earnings can help outweigh the impact of higher borrowing costs. That nuance helps explain our pro-risk stance.
-1: Back to overweight EM stocks
-So, why did our views on EM stocks change? Earnings durability is a key measure as interest rates reset higher. EM equities stand out by this measure.
-Earnings growth has accelerated, while valuations remain well below those in the U.S. We stepped back to neutral in June as leverage concerns, especially in Korea, were building. Since then, deleveraging has eased those concerns, supporting our move back to overweight.
-2: The AI scarcity play
-EM equities offer another way to express one of our highest conviction investment themes: AI scarcity. South Korea and Taiwan are key players in the semiconductor, memory and hardware supply chains powering the AI buildout. Meanwhile, Latin America offers exposure to other scarce resources and physical infrastructure supporting the AI buildout.
-All of these are different expressions of the AI scarcity theme that underpins our U.S. equity overweight.
-3: Staying sharp
-We stay pro-risk, but nimble. Our return to overweight in EM equities comes alongside our downgrade of short-term European government bonds. More broadly, we're sticking with our overweights in U.S. equities and AI.
-We're also keeping a close eye on the key assumptions behind those views. If AI earnings disappoint, leverage concerns grow, or higher long-term rates create a bigger hurdle for stocks, we'd reassess. As always, we're ready to adjust as conditions change.
+Title slide: The AI buildout meets the 5% world
+An accelerating AI buildout is adding pressure to already elevated government borrowing needs. We think these pressures will keep borrowing costs elevated.
+1: A debt-hungry AI buildout
+The scale of U.S. financing demand is huge. Now, unprecedented AI-driven financing needs are rising sharply and scaling up that demand. We estimate annual U.S. financing demand could reach nearly $8 trillion by 2030 as the AI boom picks up.
+The key point is this: we think this financing wave has more room to run – even amid recent talk of slower frontier model development.
+2: More factors at play
+To be sure, other forces are also pushing yields higher. The Middle East conflict is another source of pressure, with Brent crude oil back above $100 per barrel. This comes against a backdrop of already-sticky inflation driven by a world shaped by supply – an environment we’ve long described.
+Another important detail? Policymakers are limited in what they can do, which makes how they respond crucial. The Federal Reserve’s first rate hike in three years last week underscores this dynamic: it helped reestablish the Fed’s credibility.
+The lesson is that credibility still matters. While policymakers can't ease the underlying competition for capital or resolve energy shortages, their policy decisions can influence market confidence.
+3: Winners and losers
+Who ultimately bears the higher cost of capital will vary. Companies with strong earnings and balance sheets have more room to absorb it, while leveraged borrowers are more challenged.
+We stay overweight U.S. equities and AI in this environment. In credit, higher yields have improved the income on offer, but selectivity is key. We favor attractive coupons that sit between the weakest borrowers and companies issuing the largest amount of debt.
 Outro: Here’s our Market take
-We remain pro-risk as strong fundamentals help offset the impact of higher interest rates. But this isn't an all-clear signal, and we'll adjust our views if the data points us in a different direction.
+AI investment is fueling fierce competition for capital, made even more intense by heavy government borrowing. We stay overweight U.S. equities and seek attractive income away from the weakest borrowers and largest debt issuers.
 Closing frame: Read details: blackrock.com/weekly-commentary
-EM back in focus
-We stay pro-risk despite higher rates. Strong fundamentals and AI scarcity support our U.S. equity overweight and return to an overweight in EM equities.
+Intensifying competition for capital
+An accelerating AI buildout and heavy government borrowing are intensifying competition for capital. We stay pro-risk and selective in bonds.
 Market backdrop
-Oil topped $100 and long-term yields remain near multi-decade highs, yet stocks are near records. We think higher rates and strong equities can coexist.
+U.S. two- and 10-year Treasury yields rose last week after the Fed raised interest rates. We think markets may be overinterpreting the Fed’s hawkish tone.
 Week ahead
-The Fed, BoE and BoJ take center stage this week. Their rate decisions will keep global yields and currencies in focus as policy paths diverge.
-Higher global rates are raising the hurdle for returns, but they have not knocked us off our pro-risk stance. Higher rates and strong equities need not be contradictory – what drives yields matters. When higher yields reflect stronger investment and growth, the resulting earnings strength can help offset a higher cost of capital. That explains why we maintain our U.S. equity and AI overweights. Our return to an overweight in EM equities offers another way to invest in the AI scarcity theme.
+We eye flash PMIs for signs business activity is holding up as borrowing costs rise. U.S. resilience would reinforce the case for rates staying higher for longer.
+The Federal Reserve raised rates for the first time in three years, easing near-term credibility concerns as the U.S. 10-year Treasury yield crossed 5%. But the hike is unlikely to end this year’s sharp rate reset. Intensifying competition for capital remains a key driver, as heavy government borrowing collides with growing AI financing needs. Sticky inflation adds pressure, keeping borrowing costs elevated. What drives yields matters. We stay risk-on and favor select credit for income.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Exceptional growth without demanding valuations
-12-month forward EPS growth and P/E, 2016–26
-Forward-looking estimates may not come to pass. Source: BlackRock Investment Institute, with data from LSEG Datastream, September 2026. Note: The chart shows 12-month forward consensus earnings-per-share growth and price-to-earnings ratios for the MSCI EM and MSCI U.S. indices.
-The bar for taking risk is rising as rates reset higher, making the durability of earnings more important. We think AI-related investment can support growth and profits even as the same investment boom absorbs capital, power and other scarce resources. EM equities now offer another place where earnings can clear that higher hurdle. The fundamental case has strengthened: earnings growth is exceptional even as valuations remain well below those in the U.S. See the chart. The tactical backdrop has improved too. We closed our previous overweight in EM equities in our Midyear Outlook in June as leverage concerns built, particularly in Korea. Korean equities subsequently experienced losses, and summer deleveraging has since eased those leverage concerns, supporting our return to overweight.
-The numbers reinforce the case for returning to EM equities. Consensus expects headline earnings per share for the MSCI Emerging Markets Index to grow over 34% over the next 12 months versus about 20% for the MSCI USA Index. Yet EM equities trade at only 10 times forward earnings versus nearly 20 times for their U.S. counterparts. That is a 50% discount, with the EM multiple in the bottom 10% of its 20-year history. A weaker U.S. dollar could add support by easing financial conditions, supporting local currencies and encouraging foreign capital inflows. But our view does not depend on it. We see dollar weakness and stronger inflows as additional support rather than the foundation of our EM call.
-EM at the center of AI scarcity
-The headline EM rally masks very different sources of returns, but AI scarcity is one thread connecting them. South Korea and Taiwan sit at the heart of semiconductor, memory and hardware supply chains. Latin America, including Brazil, offers exposure to the resources and physical infrastructure needed for the AI buildout. These are different expressions of the AI scarcity theme that is an important part of our U.S. equity overweight. That overlap is deliberate and concentrates some of our equity exposure to the AI buildout. Over time, cheaper models and greater commoditization could shift where AI profits accrue. We therefore prefer to stay selective and dynamic rather than assume today’s winners will remain tomorrow’s.
-We remain pro-risk, but see little room for complacency. We maintain our U.S. equity and AI overweights, return to an overweight in EM equities and downgrade short-term European government bonds to neutral. Two risks could challenge that stance. First, markets have absorbed the Middle East shock well, but Strait of Hormuz traffic remains severely constrained and scarcity has shifted downstream into refined products. Renewed energy pressure could keep inflation elevated just as the Fed faces a difficult policy choice. A hold despite persistent inflation and a tight labor market could test its credibility, with the term premium acting as a release valve as investors demand more compensation to hold long-term bonds. That could push long-end yields higher and raise the hurdle for equity returns. We stand ready to adjust as conditions change.
+Competing for capital
+U.S. financing demand, 2018-30
+Forward-looking estimates may not come to pass. Source: BlackRock Investment Institute, U.S. Congressional Budget Office, Federal Reserve, EIA. Note: The bars show the net demand for funding of various entities. The chart follows the Fed’s definitions for borrowers. Any AI-related financing is included in nonfinancial corporate debt and net corporate equity.
+The numbers show the most intense competition for capital since the great financial crisis and the Covid-19 shock. We estimate annual U.S. financing demand could exceed $7.5 trillion by 2030, driven mainly by the capital needs of the AI buildout. See the chart. The broader AI and data-center bond universe accounts for about 14% of U.S. investment-grade issuance this year, up from 5% in 2025 and 1% over the previous decade. We think this financing wave has room to run. Markets have been rattled by talk of slowing frontier-model development, but we would not equate that with a slower physical AI buildout. For now, demand remains robust: most AI compute is used for inference – running existing models – rather than training new ones. With adoption still in its early stages, inference should keep driving demand for compute even if frontier-model progress slows.
+That persistent demand for capital is one reason we think borrowing costs can stay elevated. But other forces could push them higher still. The Strait of Hormuz remains effectively closed amid the ongoing Middle East conflict. Brent crude has moved back above $100 a barrel, adding to already sticky inflation pressures driven by a world shaped by supply. Higher energy prices do not just lift headline inflation. If the effects spill over to wages and other costs, they can make core inflation more persistent, potentially keeping monetary policy tighter for longer.
+Focus on underlying drivers
+That makes what drives yields critical. Central banks shouldn’t interfere with growth-driven competition for capital and can’t resolve energy shortages, but they can prevent an unnecessary rise in term premium – the extra compensation investors demand to hold long-term bonds – by maintaining credibility. The Fed’s rate hike last week helped reestablish that credibility. So far, higher yields have mostly reflected rising real rates and expectations for tighter policy rather than a sharp increase in term premium. Attempts to suppress yields by tolerating more inflation or without addressing underlying fiscal concerns could undermine that confidence and push term premium higher. But after last week, the risk of a credibility-driven surge looks contained. That matters for our investment views: a rise in yields driven by resilient growth, investment demand and central-bank efforts to maintain credibility can coexist with our pro-risk stance. A rise increasingly driven by inflation or concerns about policy credibility would be more concerning.
+Who ultimately bears the higher cost of capital will vary. Companies with strong earnings and balance sheets have more room to absorb it, while leveraged borrowers face greater pressure. We stay overweight U.S. equities and AI, where resilient earnings can help absorb higher financing costs. This environment has also created rich opportunities across fixed income, but selectivity is key. We favor short- to medium-term government bonds on a strategic horizon of five years or longer. In credit, higher yields have improved the income on offer, but who investors lend to matters. We prefer attractive coupons away from the two extremes: the weakest borrowers and companies issuing large amounts of debt.
 Our bottom line
-Strong fundamentals keep us pro-risk despite higher rates. Exceptional earnings growth, attractive valuations and a cleaner tactical backdrop support our U.S. and AI overweights and a return to an overweight in EM equities. But this is not an unqualified bullish call. A lot can still go wrong, and we stand ready to shift from risk-on if the signposts change.
+Heavy government borrowing and the AI buildout are intensifying competition for capital. We stay pro-risk and overweight U.S. equities while favoring attractive coupons away from the weakest borrowers and largest debt issuers.
 Market backdrop
-Markets are balancing mounting macro pressures against strong corporate fundamentals. Brent crude topped $100 a barrel for the first time since July after the U.S. and Iran traded fresh attacks, while new U.S. inflation data prompted markets to ramp up Fed rate hike expectations. Long-term government bond yields remain near multi-decade highs. Yet stocks remain close to record highs. We think strong earnings help explain that resilience: U.S. earnings expectations have continued to rise, giving equities a cushion against higher rates and energy prices and reinforcing our overweight in U.S. stocks.
-Central banks take center stage this week, with the Federal Reserve, Bank of England and Bank of Japan all setting rates. Strong jobs and sticky inflation have sharply raised the market odds of a Fed hike, though we don’t see one as a foregone conclusion. The BoE is expected to hold and the BoJ may need to normalize faster. We expect the decisions to keep global yields and currencies in focus.
+The S&P 500 was little changed last week and the two- and 10-year U.S. Treasury yields rose, after markets took a hawkish read of Fed Chair Kevin Warsh’s post-meeting comments. The 10-year climbed back to 5%, reversing declines seen following the Fed’s first rate hike in three years. We think markets risk overinterpreting the hawkish tone of the press conference. A hike that reinforces Fed credibility against a backdrop of strong growth is, on net, good news for risk assets.
+We’re watching flash PMIs for signs that business activity across the U.S., UK and Europe is holding up as borrowing costs rise. Further U.S. resilience would reinforce the case for rates staying higher for longer. Final University of Michigan data will show whether September’s sharp drop in consumer sentiment and rise in inflation expectations persist – a combination we think would leave the Fed facing a tougher policy trade-off.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of September 10, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-Sep. 15
-UK unemployment; China unemployment
-Sep. 16
-U.S. Fed rate decision; UK CPI; Japan trade balance
-Sep. 17
-UK BoE rate decision; U.S. Philly Fed business index, EU HICP final
-Sep. 18
-BoJ rate decision and Japan core CPI
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of September 17, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+Sept. 22
+EU final consumer confidence
+Sept. 23
+U.S., UK & EU flash PMI
+Sept. 24
+Japan flash PMI
+Sept. 25
+Umich final consumer sentiment
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
@@ -239,7 +240,7 @@ Fixed income
 Euro area government bonds
 We are neutral short- and medium-term bonds. Current ECB rate pricing looks fairly valued given the balance of risks. Higher energy prices could push rates higher. We prefer to deploy risk elsewhere.
 German bunds
-We are overweight shorter-term Bunds as the market-implied ECB policy path appears too hawkish. We stay neutral long-dated Bunds. Fiscal stimulus and increased bond issuance exert upward pressure on yields, alongside inflation risks amid lingering geopolitical tensions.
+We are neutral Bunds. Current ECB rate pricing looks more fairly valued given the balance of risks. Fiscal stimulus and increased bond issuance exert upward pressure on yields, alongside inflation risks amid lingering geopolitical tensions.
 French OATs
 We are neutral. Elevated political uncertainty, high budget deficits and slow structural reforms could stoke volatility, but these risks already seem priced into OATs and we don’t expect a material worsening from here.
 Italian BTPs
@@ -261,14 +262,14 @@ Stay informed on our latest weekly Market take. Listen wherever you get your pod
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
+Jean Boivin
+Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock Investment Institute
-Beata Harasim
-Senior Investment Strategist – BlackRock Investment Institute
-Michel Dilmanian
-Portfolio Strategist – BlackRock Investment Institute
-Sam Vecht
-Portfolio Manager, Global Emerging Market Equities – BlackRock
+Vivek Paul
+Global Head of Portfolio Research – BlackRock Investment Institute
+Ehsan Khoman
+Economist — BlackRock Investment Institute
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -394,9 +395,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of September 14, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of September 21, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0926-M-5919758-EXP0927
+BII0926-M-5942235-EXP0927
