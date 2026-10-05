@@ -65,9 +65,9 @@ To reach a different BlackRock site directly, please update your user type.
 RESET
 MARKET INSIGHTS
 Weekly market commentary
-Sep 28, 2026
+Oct 5, 2026
 BlackRock Investment Institute
-China: up the value chain
+U.S. dollar: surprisingly resilient
 To view this video please enable JavaScript, and consider upgrading to a
 web browser that supports HTML5 video.
 Share
@@ -76,68 +76,69 @@ X
 Linkedin
 Transcript
 Market take
-Weekly video_20260928
-Serena Jiang
-Economist
+Weekly video_20261005
+Michel Dilmanian
+Portfolio Strategist
 BlackRock Investment Institute
 SCRIPT
+Header:
+CAPITAL AT RISK. MARKETING MATERIAL.
+Opening frame: What’s driving markets? Market take
 Camera frame
-Title slide: China: up the value chain
-China is increasingly competing on quality in advanced manufacturing – not just scale. In our latest China research, we argue cheaper Chinese technology can lower costs for users while pressuring competitors’ margins and market share.
-1: Moving up the value chain
-China’s move up the manufacturing value chain has global implications. Its long-held focus on cheap, labor-intensive exports has evolved. Today, China is gaining market share in cutting-edge industries like EVs, batteries, advanced machinery and AI.
-And there’s a key nuance underscoring this shift. While what China sells has moved decidedly upmarket, it’s relying more on its own supply chains.
-2: Intensifying competition
-The result is greater competition for producers, even as low-cost Chinese technology benefits the end user. Outside of China, the important question is whether companies rely on Chinese technology, or compete against it. For example, cheaper Chinese robots can boost productivity, but they also put pressure on rivals.
-And China is moving from customer to competitor. Just last year, Beijing overtook Germany as the world's largest machine-tool exporter.
-We see a similar divide in AI, where cheaper Chinese models could accelerate adoption commoditizing the model markets.
-3: Scale doesn’t equal returns
-Whether growth can translate into profits and shareholder returns inside China is an open question. China's industrial policies have built globally competitive companies, but market share gains don't always lead to stronger earnings.
-AI-related industries are benefiting, while intense competition is squeezing profits elsewhere. Industrial strength, in other words, doesn't guarantee investment returns.
-Outro: Here’s our Market take
-China's move up the industrial value chain is reshaping global competition. We’re neutral Chinese equities and stay focused on the areas where growth is translating into strong returns, including around physical AI.
+Title slide: U.S. dollar: surprisingly resilient
+We think fundamental drivers, such as rate differentials, explain the dollar’s resilience this year, supporting our view that calls for its debasement are overdone. At the same time, we don’t think its strength means the beginning of a sustained upswing.
+1: Big swings
+The dollar has swung dramatically over the past 18 months. It dropped after the 'Liberation Day' tariffs, stabilized for a time, and then weakened again as investors questioned the Fed's credibility.
+Now it's rebounding. The main reason? Markets have sharply repriced the path of Fed rates, pushing U.S. two-year yields higher relative to other developed market economies.
+2: A more mundane picture
+To be sure, we think market expectations for as many as four hikes over the next twelve months are overdone. If investors pare back expectations for further tightening, yield differentials could narrow and weigh on the dollar. That would reinforce our broader pro-risk stance and support our EM equity overweight.
+3: More than one fundamental driver
+But there’s more to the story. Strong U.S. growth, corporate earnings and AI investment have helped U.S. equities outperform for much of this year. Case in point: Foreign investors have poured nearly $1 trillion into U.S. assets in the 12 months through July, according to the Bureau of Economic Analysis. Our analysis also captures traditional drivers like risk sentiment and term premium.
+On balance, we see little room for another sustained dollar rally. We expect the dollar to stay around current levels, if not somewhat weaker. That underscores skepticism of the debasement narrative around the dollar. If investors were losing confidence in the dollar’s long-term role, we would expect more weakness.
+Outro: Here’s our Market take
+The dollar’s resilience is largely explained by fundamental drivers, supporting our view that concerns about its long-term role are overdone. A stable or moderately weaker dollar would also reinforce our EM equity overweight.
 Closing frame: Read details: blackrock.com/weekly-commentary
-Competition heating up
-China is increasingly competing on quality – not just scale – in advanced manufacturing. We see uneven effects for companies and investors globally.
+Dollar resilience
+Fundamentals help explain the dollar’s resilience, supporting our view that it’s too soon to call for its demise. Yet we don’t think this portends a sustained rally.
 Market backdrop
-Global government bond yields soared to multi-decade highs last week. Market expectations for further Fed tightening may be overstated, in our view.
+A soft U.S. jobs report helped cap gains in U.S. 10-year Treasury yields. Yet the structural forces driving long-term yields remain intact.
 Week ahead
-We look to September U.S. payrolls and PCE for signs that slower labor supply is keeping wage pressures – and ultimately inflation – elevated.
-AI was a key topic when President Donald Trump met Chinese President Xi Jinping last week, underscoring China’s move up the manufacturing value chain into advanced technologies. In our latest China research, we argue cheaper Chinese technology can lower costs for users while pressuring competitors' margins and market share. But trade and technology tensions can cloud profits and market access. We stay neutral Chinese equities but see opportunities in physical AI.
+We look to September FOMC meeting minutes for details on the central bank’s discussion underscoring its first rate hike in three years.
+The U.S. dollar has rallied over the past month, taking its gains this year to about 4% against developed-market currencies. Its resilience suggests it may be too soon to write off the dollar’s long-term role. Familiar drivers like rate differentials and risk sentiment help explain the rebound. Yet the greenback is stronger than the level suggested by our analysis. With markets pricing more Fed tightening than we think will materialize, there is limited scope for a sustained dollar bull run.
 Download full commentary (PDF)
 Market commentary
 Asset class views
 Paragraph-2,Paragraph-3,Image-1,Paragraph-4
 Paragraph-5,Advance Static Table-1,Paragraph-6,Advance Static Table-2,Paragraph-7,Advance Static Table-3,Paragraph-8,Advance Static Table-4
-Leaning outward
-China’s share of global merchandise trade, 2000–25
-Source: IMF Direction of Trade Statistics (DOTS) via LSEG Datastream, September 2026. Notes: Lines show China’s exports to and imports from the world as a share of total global exports and imports, respectively. Exports are measured free on board (FOB); imports are measured cost, insurance and freight (CIF).
-China’s climb up the manufacturing value chain is reshaping industries and global profit pools. China’s 2001 entry into the World Trade Organization unleashed what some academics called the “China shock”: cheap, labor-intensive exports soared, but so did imports as China became embedded in global supply chains. Made in China 2.0 looks different. State support has helped China rapidly gain market share in cutting edge industries like EVs, advanced machinery and AI, backed increasingly by its own supply chains. This means while China’s share of global exports has stayed steady, what it sells has moved decidedly upmarket. At the same time, its import share has fallen from its 2021 peak as domestic demand trails production. See the chart. The result is greater competition for producers globally, even as lower-cost Chinese technology benefits end users.
-Outside China, the key question is whether companies use Chinese technology or compete against it. Cheaper Chinese industrial robots and machinery can boost productivity and ease labor shortages for their customers. For rival producers, the economics are less appealing. European machinery makers illustrate the squeeze. China has moved from a major buyer of advanced machinery to a formidable competitor at home and abroad. In 2025, it overtook Germany as the world’s largest machine-tool exporter for the first time.
-AI creates a similar divide
-AI creates a similar divide. Cheaper Chinese models could accelerate AI adoption while commoditizing the model market. That could shift value toward the physical infrastructure needed to support greater AI use - computing power, data centers and electricity - reinforcing the scarcity investment theme from our Midyear Global Outlook. Physical AI could amplify demand for power electronics and batteries while broadening demand for components like motors and actuators – areas where China already has a manufacturing and supply-chain advantage. But technology sovereignty cuts both ways: export controls and efforts to reduce reliance on Chinese technology could limit market access. That makes geopolitics a key risk to where the opportunity ultimately lies.
-Inside China, industrial policy has helped build scale and competitiveness, but growth alone does not guarantee shareholder returns. Long-standing challenges – including weak domestic consumption, a soft property market and an aging population – remain, while intense competition can squeeze margins even in industries where China has gained global market shares. The divergence is stark: profits at Chinese electronic-device makers rose 110% year over year in the first seven months of 2026, supported by global AI demand, while auto profits fell 20.4%, according to data from the National Bureau of Statistics of China. Likewise, AI hardware suppliers have expanded margins, while solar manufacturers have seen theirs collapse. Markets echo that divide: the MSCI China index has lost 11% in U.S. dollar terms this year through Sept. 21, while the MSCI China Information Technology index has gained 7%.
+Swing dollar
+U.S. dollar index vs. trade-weighted two-year yield differential, 2022–2026
+Source: BlackRock Investment Institute, with data from LSEG Datastream, October 2026. Notes: The orange line shows the U.S. Dollar Index (DXY). The yellow line shows the trade-weighted average U.S. two-year yield differential versus Germany, Japan, the UK, Canada, Sweden and Switzerland (right axis), using DXY currency weights. Yield differentials are shown in percentage points.
+The dollar’s journey over the past 18 months has been telling. It fell sharply after President Donald Trump’s “Liberation Day” tariff announcements fueled warnings about dollar debasement, stabilized, then weakened again this summer amid Fed credibility concerns. It has since rebounded as Fed rate expectations swung dramatically – from as many as two cuts this year to one hike already delivered and more tightening priced. The dollar has closely tracked the resulting shift in two-year yield differentials. See the chart. The DXY has now retraced most of its post-April 2 tariff decline. That supports our pushback last year against the dollar debasement narrative. Yet we don’t expect a sustained appreciation cycle. Even with Fed repricing, strong U.S. growth and robust equity inflows, our analysis suggests the dollar is stronger than these and other fundamental drivers imply. The bar for further gains is high.
+Start with the Fed rate path. The dramatic repricing has provided a powerful boost to the dollar and dollar assets this year. Markets have gone from pricing cuts at the start of the year to pricing roughly four more hikes over the next 12 months, on top of last month’s rate increase. We think that is too much. Last week’s weaker-than-expected jobs report highlights a macro backdrop that remains fluid. If expectations for further Fed tightening are pared back, the yield differentials that have helped drive the dollar’s rebound could narrow and weigh on the currency. A weaker dollar would reinforce our broader risk-on stance and create a more supportive backdrop for our EM equity overweight.
+Other fundamental drivers
+Next come capital flows. Strong U.S. growth, corporate earnings and AI investment have helped U.S. equities outperform since the start of the war in Iran, drawing global capital into dollar assets. Foreign investors poured nearly $1 trillion into U.S. equities and investment fund shares in the 12 months to July, including a record $426 billion in the second quarter alone, according to the Bureau of Economic Analysis. We expect that support to persist as earnings growth stays robust. U.S. equity outperformance should provide a partial offset if Fed repricing narrows yield differentials and weighs on the dollar.
+Our analysis also captures traditional drivers, including risk sentiment and term premium. The latter has eased slightly after briefly rising this summer, as the Fed’s September hike helped restore central bank credibility. On balance, we see little room for another sustained dollar upswing. Instead, we see the currency staying around current levels, if not somewhat weaker. That is hard to square with the structural debasement narrative that started emerging last year: if investors were losing confidence in the dollar’s long-term role, we would expect a bigger deviation from the dollar’s fundamental drivers. That doesn’t mean the risks have disappeared. The fiscal backdrop remains challenging, with a $1.9 trillion deficit and public debt near 101% of GDP. While not a driver of the dollar today, these risks could return to the fore.
 Our bottom line
-This divide reinforces our selective approach: we stay neutral Chinese equities while favoring areas where growth is translating into stronger margins and returns – particularly in AI hardware and select advanced manufacturing.
+The dollar’s resilience shows its moves are still largely explained by fundamental drivers rather than concerns about its long-term role. A stable or moderately weaker dollar would also reinforce our EM equity overweight.
 Market backdrop
-The global bond selloff accelerated last week, pushing long-dated U.S. Treasury yields to their highest levels in over 20 years. The 30-year yield reached 5.53%, a level last seen in 2004, while the 10-year rose to a 19-year high of 5.22% on expectations for further rate hikes. We think markets may be getting ahead of themselves. A hike that strengthens Fed credibility, against a backdrop of stronger growth, is in our view on net good news for risk assets.
-U.S. payrolls and inflation are in focus. Slower labor supply growth means softer job gains need not signal a weaker economy, in our view. We expect hiring around levels consistent with full employment – enough to keep wage pressures elevated and risk keeping inflation sticky. September PCE will show whether that pressure is feeding through, with core inflation still running above 3%.
+The global bond selloff deepened last week, with U.S. 10-year Treasury yields climbing to 5.34%, their highest level since 2002. A softer-than-expected jobs report added to the volatility as investor expectations for Fed tightening whipsawed. We see a consistent story: shifts in Fed expectations can influence rate moves in the near term, but they do not alter the structural forces driving long-term yields, including the intensifying competition for capital we have long described.
+We look to September FOMC meeting minutes in a light macroeconomic data week. After the Fed raised interest rates for the first time in three years, we’re keen to see how hawkish the discussion surrounding the decision was among committee members. We also eye preliminary consumer sentiment data from the University of Michigan, after the index fell to its second-lowest reading ever at the end of September.
 Week ahead
 Source
-Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of September 24, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
-Sept. 29
-U.S. job openings; U.S. & EU consumer confidence final
-Sept. 30
-U.S. PCE; UK GDP; China manufacturing PMI
-Oct. 1
-Global PMI final; EU unemployment
-Oct. 2
-U.S. nonfarm payrolls; Japan unemployment, EU flash HICP
+Past performance is not a reliable indicator of current or future results. Indexes are unmanaged and do not account for fees. It is not possible to invest directly in an index. Sources: BlackRock Investment Institute, with data from LSEG Datastream as of October 1, 2026. Notes: The two ends of the bars show the lowest and highest res at any point year to date, and the dots represent current year-to-date res. Emerging market (EM), high yield and global corporate investment grade (IG) res are denominated in U.S. dollars, and the rest in local currencies. Indexes or prices used are: spot Brent crude, ICE U.S. Dollar Index (DXY), spot gold, spot bitcoin, MSCI Emerging Markets Index, MSCI Europe Index, LSEG Datastream 10-year benchmark government bond index (U.S., Germany and Italy), Bloomberg Global High Yield Index, J.P. Morgan EMBI Index, Bloomberg Global Corporate Index and MSCI USA Index.
+Oct. 5
+Global composite/services PMI final
+Oct. 6
+U.S. international trade; EU & UK construction PMI
+Oct. 7
+FOMC minutes
+Oct. 9
+UMich preliminary consumer sentiment
 Read our past weekly market commentaries here.
 Intersecting mega forces
 Since we launched our mega forces framework it has become clearer how their intersection shapes almost all our investment views and opens up alpha opportunities. They cut across asset class labels, spurring a rethink of portfolio construction. Investors need to be deliberate about the economic or thematic exposures they own, the vehicles they use to implement them and their investment horizons.
 From drivers to portfolio expressions
-Our highest conviction views, September 2026
+Our highest conviction views, October 2026
 Driver
 What we think
 Portfolio expression
@@ -157,9 +158,9 @@ Alpha opportunity
 Macro outcomes matter again in the new regime.
 Macro hedge funds, venture capital, market-neutral strategies, and selected private credit and non-U.S. alpha.
 Source
-Note: Views are from a U.S. dollar perspective, September 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
+Note: Views are from a U.S. dollar perspective, October 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast of future events or a guarantee of future results. This information should not be relied upon by the reader as research or investment advice regarding any particular funds, strategy or security.
 Asset class implications
-Six- to 12-month tactical positioning, September 2026
+Six- to 12-month tactical positioning, October 2026
 This shows the implementation of our key investment views from the previous page through an asset class lens.
 Search views
 Asset
@@ -210,7 +211,7 @@ We are overweight. We like the yield relative to its volatility and improving fu
 Source
 Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a U.S. dollar perspective. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 Euro-denominated tactical granular views
-Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, September 2026
+Six to 12-month tactical views on selected assets vs. broad global asset classes by level of conviction, October 2026
 We have lengthened our tactical investment horizon back to six to 12 months. The table below reflects this and, importantly, leaves aside the opportunity for alpha, or the potential to generate above-benchmark returns – especially at a time of heightened volatility.
 Search views
 Asset
@@ -253,20 +254,20 @@ European investment grade is supported by healthy corporate sector balance sheet
 European high yield
 We are overweight. While spreads are low, the income potential remains attractive. Defaults are contained and high yield is of higher quality and less sensitive to interest rate swings compared with the U.S.
 Source
-Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, September 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
+Past performance is not a reliable indicator of current or future results. It is not possible to invest directly in an index. Note: Views are from a euro perspective, October 2026. This material represents an assessment of the market environment at a specific time and is not intended to be a forecast or guarantee of future results. This information should not be relied upon as investment advice regarding any particular fund, strategy or security.
 On the go?
 Stay informed on our latest weekly Market take. Listen wherever you get your podcasts.
 Subscribe to Apple podcasts
 Subscribe to Apple podcasts
 Meet the authors
+Jean Boivin
+Head – BlackRock Investment Institute
 Wei Li
 Global Chief Investment Strategist – BlackRock
-Ben Powell
-Chief Investment Strategist for Middle East/APAC — BlackRock Investment Institute
-Serena Jiang
-Economist — BlackRock Investment Institute
-Lucy Liu
-Portfolio Manager, BlackRock Fundamental Equities - BlackRock
+Roelof Salomons
+Chief Investment Strategist for the Netherlands and the Nordics – BlackRock Investment Institute
+Michel Dilmanian
+Portfolio Strategist – BlackRock Investment Institute
 INSIGHTS AND RESOURCES
 Building the transformation
 Mega forces, or structural shifts like the rise of artificial intelligence, are reshaping economies. Learn more about our big investment calls for 2025.
@@ -392,9 +393,9 @@ You are leaving BlackRock’s website and entering a third-party website that is
 Continue to third-party site
 Cancel
 FOR PUBLIC DISTRIBUTION IN THE U.S., CANADA, LATIN AMERICA, AUSTRIA, BELGIUM, DENMARK, FINLAND, FRANCE, GERMANY, IRELAND, ISRAEL, ITALY, LIECHENSTEIN, LUXEMBOURG, NETHERLANDS, NORWAY, PORTUGAL, SOUTH AFRICA, SPAIN, SWEDEN, SWITZERLAND, THE UNITED KINGDOM, HONG KONG, SINGAPORE AND AUSTRALIA. FOR INSTITUTIONAL, PROFESSIONAL, QUALIFIED CLIENTS/INVESTORS IN OTHER PERMITTED COUNTRIES.
-General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of September 28, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
+General disclosure: This document is marketing material, is intended for information and educational purposes only, and does not constitute investment advice, a recommendation or an offer or solicitation to purchase or sell any securities or any investment strategies. The opinions expressed are as of October 05, 2026 and are subject to change without notice. Reliance upon information in this material is at the sole discretion of the reader. Investing involves risks. This information is not intended to be complete or exhaustive and no representations or warranties, either express or implied, are made regarding the accuracy or completeness of the information contained herein. This material may contain estimates and forward-looking statements, which may include forecasts and do not represent a guarantee of future performance.
 In EMEA, in the UK and Non-European Economic Area (EEA) countries: this is Issued by BlackRock Investment Management (UK) Limited, authorised and regulated by the Financial Conduct Authority. Registered office: 12 Throgmorton Avenue, London, EC2N 2DL. Tel: + 44 (0)20 7743 3000. Registered in England and Wales No. 02020394. For your protection telephone calls are usually recorded. Please refer to the Financial Conduct Authority website for a list of authorised activities conducted by BlackRock. In the European Economic Area (EEA): this is Issued by BlackRock (Netherlands) B.V. is authorised and regulated by the Netherlands Authority for the Financial Markets. Registered office Amstelplein 1, 1096 HA, Amsterdam, Tel: 31-20-549- 5200. Trade Register No. 17068311 For your protection telephone calls are usually recorded. In Italy, for information on investor rights and how to raise complaints please go to https://www.blackrock.com/corporate/compliance/investor-right available in Italian. BlackRock Advisors (UK) Limited - Abu Dhabi Global Market (ADGM) Branch is a Branch of a Foreign Company registered with the Abu Dhabi Global Market Registration Authority (Registered number 21523), with its office at Floor 25, Al Sila Tower, Abu Dhabi Global Market Square, Al Maryah Island, Abu Dhabi, UAE, and is regulated by the ADGM Financial Services Regulatory Authority (“FSRA”) to engage in the regulated activities of ‘Arranging Deals in Investments’; ‘Advising on Investments or Credit’ ‘Managing Assets’; and ‘Managing in a Collective Investment Fund’ (FRSA Reference 240099). Blackrock Advisors (UK) Limited - Dubai Branch is a Dubai International Financial Centre (DIFC) Foreign Recognised Company registered with the DIFC Registrar of Companies (DIFC Registered Number 546), with its office at Unit L15 - 01A, ICD Brookfield Place, DIFC, PO Box 506661, Dubai, UAE, and is regulated by the DFSA to engage in the regulated activities of ‘Advising on Financial Products’ and ‘Arranging Deals in Investments’ in or from the DIFC, both of which are limited to units in a collective investment fund (DFSA Reference Number F000738).
 In Albania, Angola, Armenia, Azerbaijan, Botswana, Bulgaria, Egypt, Georgia, Ghana, Jordan, Kazakhstan, Kenya, Kosovo, Lebanon, Mauritius, Morocco, Mozambique, Namibia, Nigeria, North Macedonia, Pakistan, Rwanda, Serbia, Tanzania, Turkey, Uganda, Uzbekistan, Zambia, Zimbabwe, this document is intended strictly for central banks and sovereign investors only. In Israel: BlackRock Investment Management (UK) Limited is not licensed under Israel’s Regulation of Investment Advice, Investment Marketing and Portfolio Management Law, 5755-1995 (the “Advice Law”), nor does it carry insurance thereunder. In South Africa, please be advised that BlackRock Investment Management (UK) Limited is an authorized financial services provider with the South African Financial Services Board, FSP No. 43288. In the ADGM, the information contained in this document is intended strictly for Professional Clients. In the DIFC, this material is intended strictly for Professional Clients as defined under the Dubai Financial Services Authority (“DFSA”) Conduct of Business (COB) Rules. In the Kingdom of Bahrain and the Sultanate of Oman, the information contained in this document is intended strictly for sophisticated institutions. In the State of Kuwait, the information contained in this document is intended strictly for sophisticated institutions that are ‘Professional Clients’ as defined under the Kuwait Capital Markets Law and its Executive Bylaws. In Qatar, the information contained in this document is intended strictly for sophisticated investors and high net worth investors. In the Kingdom of Saudi Arabia, this material is for distribution to Institutional and Qualified Clients (as defined by the Implementing Regulations issued by Capital Market Authority) only and should not be relied upon by any other persons. In United Arab Emirates (UAE) (excluding the DIFC and the ADGM: the information contained in this document is intended strictly for Professional Investors. In Australia and New Zealand, issued by BlackRock Investment Management (Australia) Limited ABN 13 006 165 975 AFSL 230 523 (BIMA). The material provides general information only and does not take into account your individual objectives, financial situation, needs or circumstances. Refer to BIMAL’s Financial Services Guide on its website for more information. In New Zealand, this material is for the exclusive use of the recipient, who warrants by receipt of this material that they are a wholesale client as defined under the New Zealand Financial Advisers Act 2008 respectively. BIMAL is not licensed by a New Zealand regulator to provide ‘Financial Advice Service’ ‘Investment manager under an FMC offer’ or ‘Keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons’. BIMAL’s registration on the New Zealand register of financial service providers does not mean that BIMAL is subject to active regulation or oversight by a New Zealand regulator. In China, this material may not be distributed to individuals resident in the People’s Republic of China (“PRC”, for such purposes, excluding Hong Kong, Macau and Taiwan) or entities registered in the PRC unless such parties have received all the required PRC government approvals to participate in any investment or receive any investment advisory or investment management services. In Hong Kong, this material is issued by BlackRock Asset Management North Asia Limited and has not been reviewed by the Securities and Futures Commission of Hong Kong. In Japan, this is issued by BlackRock Japan. Co., Ltd. (Financial Instruments Business Operator: The Kanto Regional Financial Bureau. License No375, Association Memberships: Japan Investment Advisers Association, The Investment Trusts Association, Japan, Japan Securities Dealers Association, Type II Financial Instruments Firms Association) for Institutional Investors only. All strategies or products BLK Japan offer through the discretionary investment contracts or through investment trust funds do not guarantee the principal amount invested. The risks and costs of each strategy or product we offer cannot be indicated here because the financial instruments in which they are invested vary each strategy or product. In Singapore, this is issued by BlackRock (Singapore) Limited (Co. registration no. 200010143N). This advertisement or publication has not been reviewed by the Monetary Authority of Singapore. In South Korea, this information is issued by BlackRock Investment (Korea) Limited, for distribution to Qualified Professional Investors (as defined in the Financial Investment Services and Capital Market Act and its sub-regulations). In Taiwan, independently operated by BlackRock Investment Management (Taiwan) Limited. Address: 28F., No. 100, Songren Rd., Xinyi Dist., Taipei City 110, Taiwan. Tel: (02)23261600. For other APAC countries, this material is issued for Institutional Investors only (or professional/sophisticated /qualified investors, as such term may apply in local jurisdictions). In Latin America, no securities regulator within Latin America has confirmed the accuracy of any information contained herein. The provision of investment management and investment advisory services is a regulated activity in Mexico thus is subject to strict rules. For more information on the Investment Advisory Services offered by BlackRock Mexico please refer to the Investment Services Guide available at www.blackrock.com/mx.
 Not FDIC Insured | May Lose Value | No Bank Guarantee
 ©2026 BlackRock, Inc. or its affiliates. All Rights Reserved. BLACKROCK is a trademark of BlackRock, Inc., or its affiliates. All other trademarks are those of their respective owner.
-BII0926-M-5964329-EXP0927
+BII1026-M-5987502-EXP1027
