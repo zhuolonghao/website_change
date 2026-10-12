@@ -1,222 +1,210 @@
 INVESTMENT STRATEGY
-Investors and policymakers continue to be comforted by the fact that
-surging US Treasury yields have mostly been the result of a growth
-boom powered by the rate-insensitive AI build-out. Related economic
-strength has stabilized labor markets, bolstered earnings and
-anchored equity volatility while fostering recalibration of Federal
-Reserve policy expectations. To wit, the S&P 500 Index is up 12.8% for
-the year to date, as economic growth appears to be accelerating while
-inﬂation is not. We consider these stock and bond market
-developments to be both rational and disciplined, reﬂecting rate
-normalization, global capital competition and increasing dependence
-on price-sensitive buyers to absorb new issuance. Our constructive
-stance is not without risks, however, and whenever the cost of capital
-moves this far, this fast, one should expect breakage. We are watching
-three areas for signs of stress: equity market and earnings revisions
-breadth; high yield bond spreads; and US dollar strength along with
-currency market volatility. In the longer term, there is the issue of US
-debt sustainability, which is not yet urgent but will likely be a growing
-constraint. Investors should not misconstrue resilience as a signal to
-be complacent. Now is the time to review portfolios for vulnerabilities
-in the year ahead. Consider adding to municipals, for tax-sensitive
-investors, neutralizing tilts away from strategic benchmarks and
-minding credit exposure. Prepare for some market narrowing around
-quality large-cap US stocks, amid headwinds for consumer-exposed
+America is enjoying a midcycle expansion—typically a period of
+relative calm punctuated by an upward earnings grind and narrower
+leadership around quality secular growers in prevailing themes. Given
+the AI build-out’s unique scale and the rate insensitivity of the
+corporations and households driving growth, we are constructively
+positioned for these trends to continue. That said, the very
+uniqueness of this business cycle heightens our vigilance and
+willingness to tactically reposition. First, consider that while AI capex
+may not be constrained by rates, it might be restricted by power
+shortfalls and politics, potentially compounding already-discounted
+spending-growth deceleration. Second, household spending continues
+to surprise to the upside, increasingly because of ties to wealth
+creation—a type of circular reference to markets themselves. Finally,
+the economy’s rate sensitivity is partially obscured by private actors
+and sovereign governments in debt markets. The cornerstone of our
+advice rests on strategic allocations, with tactical observations meant
+to aid cash movement and rebalancing pace. But these are not typical
+times, and we are highly attuned to potential negative surprises and
+inﬂection points in our bull case for both stocks and bonds. Consider
+adding to municipals, for tax-sensitive investors, neutralizing major
+tilts away from strategic benchmarks while minding credit exposure
+and preparing for a bond rally. Anticipate some narrowing around
+quality large-cap US stocks amid headwinds for consumer-exposed
 cyclicals. Financials, health care, energy and some defensives work as
-overweights, along with select cloud-dominant hyperscalers. We still
-like EM (Brazil, India, Mexico and more recently China) and Japan and
-prefer intermediate rates to credit.
-As investors put a marker down on the third quarter, most should be relieved.
-Despite oil price gains close to 60%, a reversal in Fed policy and extreme repricing
-in Treasuries—with the 10-year yield hitting a 24-year high—the S&P 500 is up
-12.8% for the year to date, with the generic 60/40 balanced stock/bond portfolio up
-5.4%. Equally impressive, despite the global bond market turmoil, US stocks, as
-In the Wake of the Rate Surge Lisa Shalett
-Chief Investment Ofﬁcer
+overweights, along with select cloud-dominant hyperscalers and AI
+adopters. We still like EM (Brazil, India, Mexico and China) and Japan
+and prefer intermediate rates to credit.
+Heading into mid-October and third quarter earnings, US equity investors seemingly
+feel comfortable. After roughly seven weeks of range-bound churn, the S&P 500
+and Nasdaq Composite indexes hit new highs on Oct. 6, paced by strong earnings
+and revisions. Economic momentum has accelerated, labor markets are stable and
+inﬂation has been well behaved versus expectations. While the S&P 500 is up 14.1%
+The Importance of Being Tactical Lisa ShalettChief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-October 05
-ISM Services Index
-October 06
-US trade balance
-October 07
+October 13
+NFIB Small Business Optimism Index
+US existing home sales
+October 14
 MBA mortgage applications
-US consumer credit
-FOMC meeting minutes
-October 08
+US CPI
+US core CPI
+October 15
 US initial jobless claims
-US continuing jobless claims
-US wholesale trade sales
-October 09
-U. of M. Consumer Sentiment Index
-U. of M. 1 Yr. Inﬂation Expectations
-U. of M. 5-10 Yr. Inﬂation Expectations
-Global Investment Committee | October 05, 2026
+US retail sales
+US PPI
+Empire State Manufacturing Survey
+October 16
+US import prices
+US industrial production
+Global Investment Committee | October 12, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. This
 material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.
 Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-measured by the passive, cap-weighted S&P 500, are only
-1.2% below their all-time high, as the CBOE Volatility Index
-(VIX) sits at a benign 15.3. This comes as forward price/
-earnings multiples have improved from 22.5 in January to 19.5.
-The AI-capex boom, which has so far appeared fully rate-
-insensitive, has underpinned these dynamics, fostering well-
-behaved labor markets as aggregate earnings forecasts grind
-ever higher. Evidence of economic acceleration has further
-accumulated in the past 10 days, with S&P Global purchasing
-managers’ indexes at ﬁve-year year highs, annualized capital
-goods orders up by close to 15%, personal consumption 3.8%
-higher year over year and second quarter nominal GDP
-estimated at an extraordinary 8.3%. Especially heartening,
-despite hand-wringing from Fed ofﬁcials, price metrics are not
-worsening and market-based inﬂation expectations have been
-fairly subdued, at around 2.5%. While we remain constructive
-on US equities over the next six to 12 months, noting Morgan
-Stanley & Co.’s mid-2027 S&P 500 price target of 8,300 and
-10-year US Treasury yield forecast of 4.7% for next December,
-we are far from complacent. History is not kind to rapid rate
-repricing. As displayed in Chart of the Week, the recent one is
-noteworthy for both magnitude and speed, and we should be
-on the lookout for breakage. That said, we are focused on at
-least three immediate areas of concern.
-First, there’s the issue of equity market breadth, which has
-deteriorated sharply in the past six weeks, pummeling the
-equal-weighted index, small-caps and regional banks. The
-share of stocks trading above their 50-day moving average
-has fallen from around 70% in midsummer to 20.6% at the
-end of September, while the median stock is down more than
-15% from its 52-week high. To appreciate the performance
-skew and current index-performance concentration, consider
-that while the S&P 500 is only 1.2% below its all-time high,
-over 70% of its constituents were recently more than 10%
-beneath their highs. While this ampliﬁes the importance of
-stock selection and could present opportunities, it could also
-signal longer-tail economic impacts in the coming year, with
-earnings revisions possibly vulnerable.
-Second, there are the concerns about the high yield market,
-where spreads widened by around 50 basis points in just a
-week. This new development (unlike CCC-rated bonds,
-broader high yield spreads were more restrained for most of
-the past six months) exacerbates the pain of underlying rate
-repricing, speaks to potentially expanding stress and
-complicates portfolio construction, especially if spreads are
-no longer absorbing rate moves. While the overall average
-spread, at around 320 basis points, is still far from alarming,
-given the low starting point, it raises nominal cost of capital
-for borrowers above 8%, which is apt to prompt questioning
-of private credit books regarding markdowns.
-Third, in the immediate term, there’s the potential
-destabilization of currency markets, with the US dollar up 3%
-in a month—a move that could amplify pain for certain
-importing countries with weaker currencies, especially oil-
-dependent ones. The rapid reversal of the US dollar
-debasement trade also generates headwinds for unhedged
-exposure to non-US equities and can renew speculative
-appetites in currency carry trades, which are a source of
-systemic leverage and risk.
-In the longer term, we also cannot dismiss what is different
-about the debt sustainability debate, as rates hit 24-year
-highs. This is not about the level of debt per se—it is about
-the speed at which it’s growing and the cost to ﬁnance it.
-Debt and deﬁcits usually grow countercyclically, when the
-economy is in recession. This time, an economic boom is
-occurring alongside surging rates and increasing deﬁcits, with
-the rising debt/GDP ratio suggesting that multiyear deﬁcits
-are growing faster than nominal GDP. With the cost of new
-Treasury borrowing now above 5% across much of the yield
-curve, any nominal growth slowdown could result in interest
-payments themselves adding to the debt pile, creating a
-sustainability constraint.
-Bottom Line. Relative equity market calm amid the bond
-market’s “perfect storm” is understandable, given
-accelerating economic growth and the AI boom’s rate
-insensitivity. Equally relevant, inﬂation is not breaking
-higher, while expectations are anchored. In fact, we see
-pricing for both stocks and rates as mostly rational and
-disciplined. But as sanguine as we are regarding the proﬁt
-cycle’s durability, history suggests that whenever global
-rates reprice this far, this fast, there is damage. We are
-hyper-vigilant around three areas. Notably, deteriorating
-equity and earnings revisions breadth could signal negative
-fundamentals ahead; widening spreads among high yield
-bonds could prompt questions about private debt re-
-marking; and US dollar strength and currency volatility could
-be a source of instability. A ﬁnal implication may be most
-important. Given the US Treasury’s cost of capital above 5%,
-America’s ﬁscal ﬂexibility is declining. Ultimately, this could
-become a constraint that limits any wiggle room for the next
-recession or crisis. Stay vigilant and selective; economic
-strength can offset some potholes but not eliminate them
-all. Watch equity market breadth, high yield spreads and
-currency volatility as potential warnings demanding
-portfolio recalibration. Consider adding to municipals, for
-tax-sensitive investors, neutralizing tilts away from strategic
-benchmarks and minding credit exposure. Prepare for some
-market narrowing around quality large-cap US stocks, amid
-headwinds for consumer-exposed cyclicals. Financials, health
-care, energy and some defensives work as overweights,
-along with select cloud-dominant hyperscalers. We still like
-EM (Brazil, India, Mexico and more recently China) and Japan
-and prefer intermediate rates to credit.
+for the year to date, forward price/earnings multiples have
+come in by 3.5 turns to 19 times, reﬂecting the 10-year US
+Treasury yield’s 75-basis-point backup over a two-month span.
+Yes, the market has meaningfully narrowed on rate repricing,
+but that is typical of a midcycle expansion when rate hikes
+have yet to truly bite and markets concentrate around quality
+secular growers and the cycle’s thematic leaders. While many
+sectors will likely eventually be impacted by higher-for-longer
+rates, the key growth vectors for this boom—AI capex and
+wealth-linked consumption—have thus far proved rate-
+insensitive. The story has been the scale and scope of those
+factors in the economic aggregates. Equities have also taken
+their cue from other indicators that back the constructive
+stance—notably yield-curve resteepening despite higher
+rates, and anchored investment grade spreads despite surging
+issuance and unprovocative volatility. The GIC embraces this
+bullish stance, maintaining an overweight to quality large-cap
+US equities, but we also acknowledge the uniqueness of this
+cycle. Traditional correlations, such as those between
+consumer conﬁdence and personal spending, have broken
+down, removing some elements of our playbook and raising
+risks of disappointment and surprise. Policy leads and lags
+between higher rates and manufacturing activity and capex
+are also apt to be distorted by the AI-capex cycle. To some
+extent ﬂying blind on these business-cycle determinants, we
+are hyper-focused on emerging inﬂection points from other
+sources.
+First consider the AI-capex cycle. Several potential threats to
+forecasts have recently arisen, including industry regulation
+and a rogue-agent accident. Intensifying competition, slowing
+adoption and disappointing IPO prospects are also possible.
+Granted, investors are already poised to absorb the
+deceleration in the growth rate of capex, summarized in Chart
+of Week. While annual growth rates are still expected to be
+above 50% through next June, by the third quarter of 2027,
+they could fall toward 20%, putting added onus on the rest
+of the economy. We are concerned about two other risks as
+well, both of which are difﬁcult to predict. The ﬁrst pertains
+to power availability. Morgan Stanley & Co. Research has
+estimated a 57-gigawatt data-center power shortfall between
+2026 and 2028, out of 97 GWs expected to be needed; by
+2029, that nearly doubles to a 107-GW shortfall versus 165
+GWs deemed necessary. Any slippage in equipment
+availability or supply chain bottlenecks would start to
+endanger ﬁnancial forecasts. Then there is the
+unpredictability of local politics, which could shift with
+changes in consumer attitudes.
+A second factor is consumer resilience and how long personal
+spending can outpace personal income growth, especially
+amid weak consumer conﬁdence, high job market anxiety and
+low savings rates that leave little buffer for a slowdown.
+Consumer spending growth reached a blistering annualized
+pace of greater than 10% in August, versus personal income
+growth of 2.4%, well below current inﬂation. Critically, recent
+data revisions suggest as much as 17% of spending gains have
+come from ﬁnancial markets and “wealth effects.” That is up
+from 14% in 2021 and 10% in 2015. Spending supported by
+markets becomes virtually self-referential, potentially
+amplifying the economic implications of a drawdown.
+A ﬁnal point relates to taking business-cycle cues from the
+credit market. Most investment grade and non-CCC high yield
+issuance has been priced at historically tight spreads, with
+few signs of rising stress. But the still-opaque private credit
+space—with much of it ﬁnancing private equity–backed ﬁrms
+—is approaching $2 trillion. Furthermore, its estimated 2.7%
+default rate potentially undercounts payment-in-kind and
+liquidity-management situations. With intertest rates having
+risen so far, so fast, marking private loans remains a source of
+potential surprise as well. Last, there is the challenge of
+decoding sovereign rates markets, with Europe the latest
+epicenter of stress. For now, we assume that the credit
+market is healthy and that sovereign debt market stress can
+be short-lived and contained. But these assumptions are not
+assured either.
+Bottom Line. US equities have been eerily calm the past two
+months, as bond volatility has surged. In our view, the stock
+market’s behavior has been completely rational, reﬂecting
+rising rates amid valuation compression and earnings
+durability. Given rate-insensitive growth drivers, economic
+resilience has been central to investor conﬁdence, with
+ﬁnancial gains likely sustaining the US consumer. This has
+resulted in a midcycle expansion, as impressive earnings have
+been fueled by operating leverage and productivity. While
+we are conﬁdent in this dynamic’s near-term sustainability,
+we are hyper-vigilant on tactical positioning, focusing on at
+least three potential sources of disappointment. First, the
+AI-capex cycle could be unraveled by any number of factors,
+but especially by power constraints or politics. The US
+consumer is another source of uncertainty, with much
+resilience apparently linked to wealth creation. Finally, rate
+sensitivity and volatility may be obscured by the role of
+private investors and sovereign governments. All in all, we
+are prepared to be more tactical than typical, as this cycle is
+unlike any before it. Watch earnings revisions, credit spreads
+and asset class volatility for signs that things are changing.
+Consider adding to municipals, for tax-sensitive investors,
+neutralizing major tilts away from strategic benchmarks
+while minding credit exposure and preparing for a bond rally.
+Anticipate some narrowing around quality large-cap US
+stocks amid headwinds for consumer-exposed cyclicals.
+Financials, health care, energy and some defensives work as
+overweights, along with select cloud-dominant hyperscalers
+and AI adopters. We still like EM (Brazil, India, Mexico and
+China) and Japan and prefer intermediate rates to credit.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-Source: Bloomberg as of Oct. 1, 2026
-Source: Bloomberg as of Oct. 1, 2026
-Chart of the Week: Treasury Market Volatility Feels Worse Than It Looks
-The past six weeks have been jarring in the US Treasury
-market, and not only due to the magnitude and speed of
-repricing. Consider that there is evidence that markets are
-struggling with a litany of factors, including neutral-
-policy-rate reassessment, a potentially new Fed policy
-framework, stronger economic growth, surging
-investment grade issuance and sticky oil prices amid slow
-progress on Middle East conﬂict resolution. Other factors
-include Treasury activism, declining participation from
-price-insensitive buyers and US debt and deﬁcit dynamics.
-Nevertheless, while intraday implied volatility has risen,
-the six-week stretch has not reached the extremes that
-catalyzed the 2022 equity bear market. That said, it’s not
-just the rate of change that matters but the level, and with many companies’ debt cost of capital now exceeding nominal GDP
-growth, the risk of breakage has gone up considerably.
-Fixed Income Insight: Economy Not Constrained by Rising Rates
-An economics education has historically suggested that
-neutral policy rates are those that match longer-run
-nominal GDP growth rates. Based on that, we can observe
-that US monetary policy is far from restrictive, with policy
-since 2020 rivaling the accommodation and stimulus of
-the 1960s and 1970s and the ﬁve-year average of GDP
-outpacing the 10-year yield by roughly 200 basis points.
-This understanding, amid the AI-capex boom, has many
-suggesting the Fed can afford to raise rates much more
-than implied by the FOMC “dot plot,” which suggests two
-more hikes, or fed funds futures, which discount four.
-While MS & Co.’s view is that nominal growth will
-ultimately slow, as real growth and inﬂation both cool
-over the next year, it’s hard to suggest the Fed is “tight,” leaving the door open to further volatility and risk premiums as the
-debate rages on.
-Market Factor Data Points (for the week ending Oct. 2, 2026)
+Note: Hyperscalers include Amazon, Alphabet, Meta, Microsoft, Apple, Oracle,
+Nvidia and Tesla. Source: Bloomberg as of Oct. 8, 2026
+Source: Bloomberg as of Oct. 7, 2026
+Chart of the Week: AI-Capex Growth Rate Peaking
+The strength of AI capex has been one of the drivers of
+market, earnings and economic surprises in 2026. For
+most of the year, spending estimates continued to
+accelerate, with year-over-year investment more than
+doubling. This dynamic kept analysts chasing revisions
+higher. Current consensus contemplates a different
+scenario in 2027, featuring signiﬁcant deceleration in
+growth rates. While upside surprises could again fuel
+markets, the negative second derivative, if correct, could
+prove a headwind to equities next year.
+Fixed Income Insight: All About the Real Rate, Not Inﬂation
+Despite correlations that may suggest otherwise, the 10-
+year US Treasury yield’s third quarter move of
+approximately 75 basis points was not about inﬂation or
+oil prices. Sure, the Federal Reserve’s policy-pivot rhetoric
+is about inﬂation fears, but based on inﬂation swaps and
+breakevens, investors are not worried. Instead, the move
+is mostly related to the real component—reﬂecting
+concerns about growth, the neutral rate, policy
+frameworks and US debt and deﬁcits. Real rates are now
+at their highest level in 25 years, signifying a secular
+reproving of cost of capital.
+Market Factor Data Points (for the week ending Oct. 9, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-2026 US Treasury Performance in Negative Territory
-Source: Bloomberg as of Sept. 30, 2026
-Bond Volatility Elevated Versus Equities
-Source: Bloomberg as of Sept. 30, 2026
-Macro Factor Heat Map (as of Oct. 2, 2026)
-Note: Text in a factor box denotes a color; In Japan, Economic Growth fell from Risk On to Neutral due to rising two-year yields. Sentiment and Risk rose from
-Neutral to Risk On due to increasing breadth; In Brazil, Rates increased from Risk Off to Neutral due to falling two-year yields. Earnings rose from Risk Off to
-Neutral due to rising earnings surprises; In China, Sentiment and Risk rose from Neutral to Risk On due to loosening ﬁnancial conditions. Valuation increased from
-Neutral to Risk On due to falling P/E Ratios.; for further explanation of the chart, see page 10. 
+S&P 500 at Record Highs Despite Weaker Breadth
+Source: Bloomberg as of Oct. 8, 2026
+Breadth Faltering Across Several Metrics
+Source: Bloomberg as of Oct. 8, 2026
+Macro Factor Heat Map (as of Oct. 9, 2026)
+Note: Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Tracking US Treasury Market Performance
-US Treasuries Retreated Sharply in September
-Source: Bloomberg as of Sept. 30, 2026
-US Treasury Auctions Have Remained Weak
+Charts in Focus: Bad Breadth
+Few S&P 500 Companies Hitting New 52-Week Highs
+Source: Bloomberg as of Oct. 8, 2026
+The S&P 500 Advance/Decline Line Remains Stagnant
 Source: Bloomberg as of Sept. 23, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
@@ -225,11 +213,10 @@ Note: Shading reﬂects the relative strength of each component signal on a perc
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Oct. 2, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Oct. 9, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-
-Asset Class Performance (as of Oct. 2, 2026)
+Asset Class Performance (as of Oct. 9, 2026)
 Note: Performance values calculated using USD. 1. As of September 30 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of September
 30, 2026. 4. Volatility and Correlation: August 31, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds
 and managed futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its
@@ -238,12 +225,12 @@ Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 2, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of Oct. 9, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 2, 2026
-S&P 500 Sector Performance and Valuation (as of Oct. 2, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of Oct. 9, 2026
+S&P 500 Sector Performance and Valuation (as of Oct. 9, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of Oct. 2, 2026)
+Equity Market Relative Valuation (as of Oct. 9, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
@@ -252,11 +239,11 @@ Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of Oct. 2, 2026
+Source: Bloomberg as of Oct. 9, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of Oct. 2, 2026
-Morgan Stanley & Co. Forecasts (as of Oct. 2, 2026)
+Source: Bloomberg as of Oct. 9, 2026
+Morgan Stanley & Co. Forecasts (as of Oct. 9, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
@@ -326,12 +313,8 @@ Source: Morgan Stanley Wealth Management GlC as of July 1, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
 Macro Factor Heat Map Key
-  Economic
-Growth Rates Inﬂation /
-Deﬂation Liquidity Sentiment and Risk Valuation Earnings Conclusion
-Dark Blue Economic growth
-robust Steep yield curve Low-moderate and
-rising inﬂation
+  EconomicGrowth Rates Inﬂation /Deﬂation Liquidity Sentiment and Risk Valuation Earnings Conclusion
+Dark Blue Economic growthrobust Steep yield curve Low-moderate andrising inﬂation
 Liquidity
 robust in
 economy /
@@ -351,10 +334,7 @@ factors
 supports a risk-
 on investment
 approach
-Light Blue Economic growth
-neutral
-Normal yield
-curve
+Light Blue Economic growthneutral Normal yieldcurve
 Low-moderate and
 declining inﬂation;
 moderate inﬂation;
@@ -379,65 +359,11 @@ supports a
 neutral
 investment
 approach
-Gray Economic growth
-anemic
-Flat/inverted
-yield curve
-Very high/low
-inﬂation/deﬂation; high
-and rising inﬂation
-Liquidity low
-in economy /
-banking
-system
-Shorter-term
-sentiment and
-technicals bullish
-Risk assets are 
-richly valued
-Earnings
-outlook
-anemic
-Conﬂuence of
-factors
-supports a risk-
-off investment
-approach
-Up Growth
-accelerating
-Yield curve
-steepening Inﬂation rising Liquidity
-increasing
-Sentiment
-becoming more
-bullish
-Valuations rising
-Earnings
-outlook
-improving
- 
-Down Growth declining Yield curve
-ﬂattening Inﬂation falling Liquidity
-decreasing
-Sentiment
-becoming more
-bearish
-Valuations
-falling
-Earnings
-outlook
-worsening
- 
+Gray Economic growthanemic Flat/invertedyield curve Very high/lowinﬂation/deﬂation; highand rising inﬂation Liquidity lowin economy /bankingsystem Shorter-termsentiment andtechnicals bullish Risk assets are richly valued Earningsoutlookanemic Conﬂuence offactorssupports a risk-off investmentapproach
+Up Growthaccelerating Yield curvesteepening Inﬂation rising Liquidityincreasing Sentimentbecoming morebullish Valuations rising Earningsoutlookimproving  
+Down Growth declining Yield curveﬂattening Inﬂation falling Liquiditydecreasing Sentimentbecoming morebearish Valuationsfalling Earningsoutlookworsening  
 Signal
-Horizon One to three years One to three
-years One to three years One to three
-years
-One to three
-months
-Six months to
-two years
-Six months to
-two years  
+Horizon One to three years One to threeyears One to three years One to threeyears One to threemonths Six months totwo years Six months totwo years  
 Inputs
 • Industrial
 production
@@ -564,7 +490,6 @@ performance could differ signiﬁcantly from the underlying assets even if the p
 Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economic
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  11
-
 and market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, and
 domestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of varied
 economic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.
@@ -800,6 +725,6 @@ Third-party data providers make no warranties or representations of any kind rel
 they provide and shall not have liability for any damages of any kind relating to such data. This material, or any portion thereof, may not be
 reprinted, sold or redistributed without the written consent of Morgan Stanley Smith Barney LLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1791159335365 10/2026
+RSI1791729386772 10/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
