@@ -24,6 +24,7 @@ Annuities
 Currencies, Commodities & Rates
 Equities
 Fixed Income
+Tax Efficient Investing
 Private Banking Services
 Business Banking
 Banking Client Experiences
@@ -53,8 +54,10 @@ Eye on the Market
 Market Thoughts
 Ideas & Insights
 Top Market Takeaways
+Alternative Investment Insights
 Wealth Planning
 Ideas & Insights
+Wealth strategy before and after an IPO
 Reports
 Family Office Report
 Principal Discussions Report
@@ -77,8 +80,8 @@ Online US Economy and Iran War Tracker
 We are actively monitoring Trump policies that materially affect the economy and corporate sector. The tracker monitors inflation expectations, markets, growth, capital spending, consumer sentiment, earnings expectations, energy production, inflation, wages, import prices, fiscal data, immigration and M&A activity.
 Explore Now
 Featured Research
-Libertarians at the Gate: the remarkable and disturbing last 72 hours in AI
-A brief note on the extraordinary events of the last 72 hours: Anthropic power agreements, OpenAI Millennium and ARC prizes on remarkable jumps in model capabilities, disclosures by OpenAI and Anthropic regarding sandbox jailbreaks and coordinated AI agent swarm attacks, and the relentless campaign by frontier labs to argue for regulatory moats to dampen competitive threats from US/Chinese open models.
+Califoreboding
+Many client questions I received last week in California were laden with a sense of foreboding: third rail questions about the US Federal debt as ten year yields blow through the Bessent Maginot line, the elevated share of US market returns and growth attributable to AI, the sustainability of US equity markets close to all-time highs, Anthropic’s dire warnings about open weight models and cyber risks, rising stress in private credit and European deindustrialization.
 Read more
 Latest
 Trade
@@ -86,6 +89,13 @@ Investments
 Politics
 Energy
 Municipals
+Califoreboding
+Contains video.
+Economy & Markets
+Califoreboding
+Many client questions I received last week in California were laden with a sense of foreboding: third rail questions about the…
+Michael Cembalest
+Oct 8, 2026
 Libertarians at the Gate: the remarkable and disturbing…
 Economy & Markets
 Libertarians at the Gate: the remarkable and disturbing…
@@ -152,11 +162,11 @@ Economy & Markets
 Pandora’s Bog: the global energy shock of 2026
 The last 48 hours have seen an escalation in attacks on Gulf energy infrastructure.
 Michael Cembalest
-Mar 21, 2026
-Eye on the Market Energy Paper: Fighting Words
+Mar 20, 2026
+16th Annual Energy Paper: Fighting Words (2026)
 Contains video.
 Economy & Markets
-Eye on the Market Energy Paper: Fighting Words
+16th Annual Energy Paper: Fighting Words (2026)
 This year we tackle the fiercest energy debates— from data centers and power prices to the “primary energy” fallacy and more.
 Michael Cembalest
 Mar 3, 2026
@@ -278,10 +288,10 @@ Fifty Days of Grey
 Here’s the interesting thing about the stock market: it cannot be indicted, arrested or deported; it cannot be intimidated,…
 Michael Cembalest
 Mar 12, 2025
-Eye on the Market Energy Paper: Heliocentrism
+15th Annual Energy Paper: Heliocentrism (2025)
 Contains video.
 Economy & Markets
-Eye on the Market Energy Paper: Heliocentrism
+15th Annual Energy Paper: Heliocentrism (2025)
 Our 15th annual energy paper covers the speed of the transition, electrification, the changing planet, the high cost of…
 Michael Cembalest
 Mar 4, 2025
@@ -406,10 +416,10 @@ The Good, the Bad and the Ugly: on tech valuations, AI, energy and US politics.
 Last week I spoke to the firm’s tech CEO…
 Michael Cembalest
 Apr 2, 2024
-14th Annual Energy Paper (2024)
+14th Annual Energy Paper: Electravision (2024)
 Contains video.
 Economy & Markets
-14th Annual Energy Paper (2024)
+14th Annual Energy Paper: Electravision (2024)
 The predominant vision for the future involves the electrification of everything, powered by solar, wind, transmission and…
 Michael Cembalest
 Mar 5, 2024
@@ -454,7 +464,7 @@ Economy & Markets
 New York, Just Like I Pictured It
 A comparison of NYC to 21 other US cities with respect to urban recovery, commercial real estate, mass transit, crime,…
 Michael Cembalest
-Oct 16, 2023
+Oct 15, 2023
 What was I made for: Large Language Models in the Real World
 Contains video.
 Economy & Markets
@@ -489,7 +499,7 @@ Economy & Markets
 Too Long at the Fair
 Time to retire the US/Emerging Markets barbell for a while.
 Michael Cembalest
-May 23, 2023
+May 22, 2023
 Oh, The Places We Could Go
 Contains audio.
 Economy & Markets
@@ -504,10 +514,10 @@ Frankenstein's Monster
 Frankenstein’s Monster: banking system deposits and the unintended fallout from the Fed’s monetary experiment; commercial real…
 Michael Cembalest
 Apr 10, 2023
-13th Annual Energy Paper (2023)
+13th Annual Energy Paper: Growing Pains (2023)
 Contains audio.
 Economy & Markets
-13th Annual Energy Paper (2023)
+13th Annual Energy Paper: Growing Pains (2023)
 Renewables are growing but don’t always behave the way you want them to.
 Michael Cembalest
 Mar 28, 2023
@@ -585,7 +595,7 @@ On CPI, S&P, GHG and the IRS
 Three topics in this month’s Eye on the Market.
 First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
-Sep 6, 2022
+Sep 5, 2022
 The second gear of the Manchin-Schumer bill
 Policy & Law
 The second gear of the Manchin-Schumer bill
@@ -604,7 +614,7 @@ Economy & Markets
 Dearly beloved
 Dearly Beloved: some comments on Jamie’s hurricane reference last week regarding the US economy, and a eulogy for unprofitable…
 Michael Cembalest
-Jun 7, 2022
+Jun 6, 2022
 Bear Market Barometers
 Contains audio.
 Economy & Markets
@@ -612,10 +622,10 @@ Bear Market Barometers
 The slowdown induced by central bank tightening is just starting. You can be patient when adding risk to portfolios; earnings…
 Michael Cembalest
 May 17, 2022
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 Contains audio.
 Economy & Markets
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 We examine the energy landscape in 2022, including the energy crisis in Europe, deep decarbonization plans through…
 Michael Cembalest
 May 4, 2022
@@ -688,20 +698,6 @@ Thanksgiving Eye on the Market: “The Thing”
 Some things just cannot be talked about. So in this year’s Thanksgiving piece, I wrote about something else.
 Michael Cembalest
 Nov 15, 2021
-Help Wanted
-Contains audio.
-Economy & Markets
-Help Wanted
-Topics: Labor shortages, the issue of Taiwan and an update on the most over-indebted US states
-Michael Cembalest
-Oct 20, 2021
-Dude, Where’s My Stuff?
-Contains audio.
-Economy & Markets
-Dude, Where’s My Stuff?
-The global supply chain mess will require increased vaccination and acquired immunity, semiconductor capacity expansion and the…
-Michael Cembalest
-Sep 27, 2021
 Show more
 Oh, The Places We Could Go
 Contains audio.
@@ -717,10 +713,10 @@ Bear Market Barometers
 The slowdown induced by central bank tightening is just starting. You can be patient when adding risk to portfolios; earnings…
 Michael Cembalest
 May 17, 2022
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 Contains audio.
 Economy & Markets
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 We examine the energy landscape in 2022, including the energy crisis in Europe, deep decarbonization plans through…
 Michael Cembalest
 May 4, 2022
@@ -760,6 +756,13 @@ Tracking the market risk unwind; Supply chain update; Ukraine; Invasion of the C
 Michael Cembalest
 Feb 15, 2022
 Show more
+Califoreboding
+Contains video.
+Economy & Markets
+Califoreboding
+Many client questions I received last week in California were laden with a sense of foreboding: third rail questions about the…
+Michael Cembalest
+Oct 8, 2026
 Rear Window
 Contains video.
 Economy & Markets
@@ -809,10 +812,10 @@ Salem’s Lot: Gulf War update; the Purge of senior US…
 Salem’s Lot: an update on the Gulf War. Topics include international commodity price pass-throughs to the US, the limits of…
 Michael Cembalest
 Apr 6, 2026
-Eye on the Market Energy Paper: Fighting Words
+16th Annual Energy Paper: Fighting Words (2026)
 Contains video.
 Economy & Markets
-Eye on the Market Energy Paper: Fighting Words
+16th Annual Energy Paper: Fighting Words (2026)
 This year we tackle the fiercest energy debates— from data centers and power prices to the “primary energy” fallacy and more.
 Michael Cembalest
 Mar 3, 2026
@@ -922,10 +925,10 @@ Fifty Days of Grey
 Here’s the interesting thing about the stock market: it cannot be indicted, arrested or deported; it cannot be intimidated,…
 Michael Cembalest
 Mar 12, 2025
-Eye on the Market Energy Paper: Heliocentrism
+15th Annual Energy Paper: Heliocentrism (2025)
 Contains video.
 Economy & Markets
-Eye on the Market Energy Paper: Heliocentrism
+15th Annual Energy Paper: Heliocentrism (2025)
 Our 15th annual energy paper covers the speed of the transition, electrification, the changing planet, the high cost of…
 Michael Cembalest
 Mar 4, 2025
@@ -1077,7 +1080,7 @@ Economy & Markets
 New York, Just Like I Pictured It
 A comparison of NYC to 21 other US cities with respect to urban recovery, commercial real estate, mass transit, crime,…
 Michael Cembalest
-Oct 16, 2023
+Oct 15, 2023
 What was I made for: Large Language Models in the Real World
 Contains video.
 Economy & Markets
@@ -1112,7 +1115,7 @@ Economy & Markets
 Too Long at the Fair
 Time to retire the US/Emerging Markets barbell for a while.
 Michael Cembalest
-May 23, 2023
+May 22, 2023
 Oh, The Places We Could Go
 Contains audio.
 Economy & Markets
@@ -1188,7 +1191,7 @@ On CPI, S&P, GHG and the IRS
 Three topics in this month’s Eye on the Market.
 First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
-Sep 6, 2022
+Sep 5, 2022
 Independence Days
 Contains audio.
 Economy & Markets
@@ -1201,7 +1204,7 @@ Economy & Markets
 Dearly beloved
 Dearly Beloved: some comments on Jamie’s hurricane reference last week regarding the US economy, and a eulogy for unprofitable…
 Michael Cembalest
-Jun 7, 2022
+Jun 6, 2022
 Bear Market Barometers
 Contains audio.
 Economy & Markets
@@ -1209,10 +1212,10 @@ Bear Market Barometers
 The slowdown induced by central bank tightening is just starting. You can be patient when adding risk to portfolios; earnings…
 Michael Cembalest
 May 17, 2022
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 Contains audio.
 Economy & Markets
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 We examine the energy landscape in 2022, including the energy crisis in Europe, deep decarbonization plans through…
 Michael Cembalest
 May 4, 2022
@@ -1285,20 +1288,6 @@ Thanksgiving Eye on the Market: “The Thing”
 Some things just cannot be talked about. So in this year’s Thanksgiving piece, I wrote about something else.
 Michael Cembalest
 Nov 15, 2021
-Help Wanted
-Contains audio.
-Economy & Markets
-Help Wanted
-Topics: Labor shortages, the issue of Taiwan and an update on the most over-indebted US states
-Michael Cembalest
-Oct 20, 2021
-Dude, Where’s My Stuff?
-Contains audio.
-Economy & Markets
-Dude, Where’s My Stuff?
-The global supply chain mess will require increased vaccination and acquired immunity, semiconductor capacity expansion and the…
-Michael Cembalest
-Sep 27, 2021
 Show more
 Not That 70's Show
 Contains video.
@@ -1313,7 +1302,7 @@ Economy & Markets
 New York, Just Like I Pictured It
 A comparison of NYC to 21 other US cities with respect to urban recovery, commercial real estate, mass transit, crime,…
 Michael Cembalest
-Oct 16, 2023
+Oct 15, 2023
 The Rasputin Effect: Global resilience to higher rates
 Contains video.
 Economy & Markets
@@ -1362,7 +1351,7 @@ On CPI, S&P, GHG and the IRS
 Three topics in this month’s Eye on the Market.
 First, an update on the Fed, inflation and corporate profits since we believe…
 Michael Cembalest
-Sep 6, 2022
+Sep 5, 2022
 The second gear of the Manchin-Schumer bill
 Policy & Law
 The second gear of the Manchin-Schumer bill
@@ -1370,31 +1359,38 @@ While the Manchin-Schumer bill (if passed) would almost certainly accelerate the
 Michael Cembalest
 Aug 1, 2022
 Show more
-Eye on the Market Energy Paper: Fighting Words
+16th Annual Energy Paper: Fighting Words (2026)
 Contains video.
 Economy & Markets
-Eye on the Market Energy Paper: Fighting Words
+16th Annual Energy Paper: Fighting Words (2026)
 This year we tackle the fiercest energy debates— from data centers and power prices to the “primary energy” fallacy and more.
 Michael Cembalest
 Mar 3, 2026
-14th Annual Energy Paper (2024)
+15th Annual Energy Paper: Heliocentrism (2025)
 Contains video.
 Economy & Markets
-14th Annual Energy Paper (2024)
+15th Annual Energy Paper: Heliocentrism (2025)
+Our 15th annual energy paper covers the speed of the transition, electrification, the changing planet, the high cost of…
+Michael Cembalest
+Mar 4, 2025
+14th Annual Energy Paper: Electravision (2024)
+Contains video.
+Economy & Markets
+14th Annual Energy Paper: Electravision (2024)
 The predominant vision for the future involves the electrification of everything, powered by solar, wind, transmission and…
 Michael Cembalest
 Mar 5, 2024
-13th Annual Energy Paper (2023)
+13th Annual Energy Paper: Growing Pains (2023)
 Contains audio.
 Economy & Markets
-13th Annual Energy Paper (2023)
+13th Annual Energy Paper: Growing Pains (2023)
 Renewables are growing but don’t always behave the way you want them to.
 Michael Cembalest
 Mar 28, 2023
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 Contains audio.
 Economy & Markets
-12th Annual Energy Paper (2022)
+12th Annual Energy Paper: The Elephants in the Room (2022)
 We examine the energy landscape in 2022, including the energy crisis in Europe, deep decarbonization plans through…
 Michael Cembalest
 May 4, 2022
@@ -1404,7 +1400,7 @@ Economy & Markets
 New York, Just Like I Pictured It
 A comparison of NYC to 21 other US cities with respect to urban recovery, commercial real estate, mass transit, crime,…
 Michael Cembalest
-Oct 16, 2023
+Oct 15, 2023
 The ARC and the Covenants 4.0
 Economy & Markets
 The ARC and the Covenants 4.0
