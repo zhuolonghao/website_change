@@ -1,25 +1,23 @@
 INVESTMENT STRATEGY
-Last week’s hot inﬂation data, underscoring the Fed’s policymaking
-task, seemed to upset US equities’ eerily calm balance over most of
-the past two months. Strong corporate earnings and rising proﬁt
-forecasts had been seen as offsetting higher real rates and global
-bond weakness, but tighter ﬁnancial conditions were apt to bite
-somewhere (see The GIC Weekly of Oct. 12, “The Importance of Being
-Tactical”). Tensions emerged among credit default swaps, where a key
-neocloud provider’s debt reached distressed levels. While the
-semiconductor selloff has been jarring, we view the recent market
-action as healthy, as it has recalibrated yields and awakened corners
-of the market from complacency. When several elements of major
-rate repricing—speed, magnitude and overall level—collide, investors
-should expect turbulence. That said, growth and earnings remain
-strong, equity valuations have improved and the AI-capex cycle—
-dominated by rate-insensitive hyperscalers—is secure. 2027 should
-feature slowing capex growth, cooling inﬂation comparisons and
-further valuation reversion toward sustainable trend proﬁt growth.
-Investment monetization, quality cash ﬂows and manageable leverage
-will determine equity winners. Use the volatility to rebalance, with
-stocks and bonds likely to deliver mid-to-high-single-digit returns next
-year. Consider adding to municipals, for tax-sensitive investors,
+One of this cycle’s main sources of economic resilience has been the
+power of the wealth effect to support consumption. Yes, 2026 tax-
+reform tailwinds have been critical, but the reality is that nominal
+spending growth has outpaced personal income growth, defying
+tariffs, gas prices and higher interest rates, among other factors. This
+conﬁdence can be attributed to household net worth, up over 70%
+since 2020. Certainly, wealth concentration, demographics and
+shifting risk attitudes are at play. But how long can this delicate
+balance—premised on conﬁdence in the aggregate household balance
+sheet—last? Noting our constructive stock and bond forecasts, the
+consumer outlook based on the wealth effect should stay decent, but
+we remain cautious on consumption in 2027. Our ﬁrst concern is
+housing-market softening. With pending home sales at a 25-year low,
+it might not be long before prices ﬁnally roll over nationally. A second
+concern is the level of household equity-market positioning itself,
+topped only during the 1997–2000 tech boom. A ﬁnal point relates
+to margin leverage and credit card debt, as further releveraging based
+on both could be constrained by higher rates. Stay cautious on the US
+consumer. Consider adding to municipals, for tax-sensitive investors,
 neutralizing tilts away from strategic benchmarks while minding
 credit exposure and preparing for a bond rally. Anticipate some
 narrowing around quality large-cap US stocks amid headwinds for
@@ -27,136 +25,138 @@ consumer-exposed cyclicals. Financials, health care, energy and some
 defensives work as overweights, along with select cloud-dominant
 hyperscalers and AI adopters. We still like EM and Japan and prefer
 intermediate rates to credit.
-Most investors entered third quarter earnings season with a sense of relative calm.
-After all, equities had endured a radical repricing of global rates in the prior two
-months. The yield curve’s upward shift of 60–75 basis points reﬂected recognition
-that a new Federal Reserve rate cycle could include three more hikes,
-Cracks and Jitters Lisa ShalettChief Investment Ofﬁcer
+This cycle has been noteworthy for the growing number of “broken correlations”
+and variables that are no longer predictive, making forecasts especially challenging.
+While much of this can be chalked up to the unique nature of the AI-capex-driven
+boom, understanding consumer behavior and consumption, with the latter
+accounting for roughly 60% of the US economy, has become especially vexing.
+Spending has been impacted by wealth effects, demographics and risk attitudes
+Watch What They Do, Not ... Lisa ShalettChief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-October 20
-US housing starts
-US building permits
-US pending home sales
-October 21
-UK CPI
-MBA mortgage applications
-October 22
+October 27
+US durable goods orders
+Conf. Board Consumer Conﬁdence Index
+US new home sales
+October 28
+US wholesale inventories
+October 29
 US initial jobless claims
 US continuing jobless claims
-US leading indicators
-October 23
-S&P Global US Manufacturing PMI
-S&P Global US Services PMI
-S&P Global US Composite PMI
-Global Investment Committee | October 19, 2026
+US GDP
+US personal income
+US personal spending
+US core PCE
+October 30
+US Employment Cost Index
+Global Investment Committee | October 26, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. This
 material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.
 Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-acknowledgement of prolonged higher energy prices and
-geopolitical instability. Despite it all, the S&P 500 Index and
-Nasdaq Composite Index, recently up around 14% and 19% for
-the year, hit new all-time highs. Equally important, earnings
-revisions were again improving, with third quarter forecasts
-calling for 27% year-over-year growth, for the third
-consecutive quarter of 20%-plus gains. Such resilience was
-anchored in the fundamentals of AI capex, the US consumer
-and credit spreads. Despite record issuance, spreads were
-stable all year, pinned near cycle lows. At the same time,
-global stress was mostly absorbed by the US Treasury
-market. With the 10-year yield hovering around 5.25%—
-having reached a 24-year high—bond market volatility
-likewise approached a cycle high. Equity volatility, however,
-was nowhere close to that level, per the CBOE Volatility
-Index’s (VIX) benign level of approximately 15. As we noted in
-The GIC Weekly of Oct. 12, such disconnects may foster
-events demanding vigilance and a willingness to be tactical.
-Well, no sooner said than done. Last week, three
-developments catalyzed strong asset class repositioning
-premised on a perceived “growth scare.” First was
-acceleration of the global semiconductor stock sell-off,
-seemingly spurred by renewed rhetoric around Chinese
-innovation and AI-ecosystem competition that may challenge
-pricing and architectures. While not exactly a “DeepSeek
-moment,” it fueled a 12%–14% industry sector drawdown
-over multiple days. Second was hotter-than-expected
-inﬂation, as new CPI and PPI data likely cemented more-
-hawkish Fed policy-path expectations, prompting a
-meaningful initial jump in yields. The inﬂation readings were
-undeniably discouraging, with the month-over-month
-numbers easily outpacing forecasts and aggregate data
-exhibiting broadening beyond energy. This was accompanied
-by turmoil in the credit default market, as instruments tied to
-the debt of an AI-ecosystem neocloud supplier raised
-questions about the sustainability of select data center build-
-outs. As CoreWeave’s unsecured bonds, due in 2032, plunged,
-their yield rose above 15%, and insurance to protect against
-default went through 1,100 basis points—essentially marking
-a distressed credit. Already priced for higher rates and tighter
-monetary policy, ﬁnancial markets concluded there was
-potential for a “stagﬂationary” growth scare. With that, the
-ﬁrst ﬂight-to-quality trade in months occurred, pulling 10- and
-30-year US Treasury yields down more than 20 basis points
-from the start of the week (see Chart of the Week), as the
-curve ﬂattened in stagﬂationary fashion.
-On a certain level, the market action was disconcerting. With
-the possible exception of record net-short speculative
-positions in Treasuries, it didn’t appear to have been foretold
-by technicals or ﬂows. Nor did the inﬂation surprises
-themselves constitute the real stress, given that Fed rhetoric
-had been hawkish, oil dynamics baked in and rate hikes priced.
-The developments should not be viewed as unexpected,
-however. After all, when cost of capital reprices to the extent
-it did over roughly the past eight weeks—noting exceptional
-speed, magnitude and resulting overall levels—something is
-apt to break. At the moment, that appears partially due to
-some overleveraged players in the AI ecosystem. But from
-where we sit, very little has changed around our fundamental
-story. About 80% of AI capex is driven by price-insensitive,
-megacap hyperscalers with stronger balance sheets than the
-US government, and these companies are directly linked to
-nearly 70% of AI-oriented investment grade debt. Any credit
-market–related slowdown is likely to be incremental to what
-we anticipate for capex in 2028–2029 due to power-supply
-and political constraints, and we think it has already been
-telegraphed by markets. Furthermore, Morgan Stanley & Co.
-Research estimates that even if the lowest-quality neocloud
-players were forced to reduce their spending by 50%,
-aggregate industry spending would still exceed $1.2 trillion
-and $1.35 trillion, respectively, in 2027 and 2028. In any case,
-this development should not be feared—at least not yet.
-Overall economic growth and order backlogs underpinning
-earnings forecasts seem solid. In fact, there is limited evidence
-of a demand problem; rather, it is more likely a normal and
-healthy process in the midst of the business cycle, beginning
-a weeding out of winners and losers.
-Bottom Line. Market complacency is dangerous, and it was
-always risky to assume that the radical repricing of global
-rates would not foster at least a modest growth scare. Last
-week, that occurred, with hot inﬂation apparently cementing
-the reality of tighter monetary policy. Tensions emerged in
-the pricing of CoreWeave’s long-dated debt. That coincided
-with a vicious US semiconductor stock correction, a more
-severe drawdown for Asian suppliers and a US Treasury
-market ﬂight to safety. While these events are always
-jarring, last week’s data does not challenge the
-fundamentals of our 2027 forecast. We estimate that 80%
-of AI capex will come from rate-insensitive borrowers with
-strong balance sheets. Even if the lowest-quality
-hyperscalers cut or delay spending, aggregate AI capex
-should top $1.2 trillion and $1.35 trillion in 2027 and 2028.
-Normalization of the boom is inevitable, and as we enter the
-tougher middle innings, it’s time for selectivity and
-diversiﬁcation, using the volatility to rebalance. Watch
-earnings realization, forward guidance and credit spreads to
-ratify cycle health. Consider adding to municipals, for tax-
-sensitive investors, neutralizing major tilts away from
-strategic benchmarks while minding credit exposure and
-preparing for a bond rally. Anticipate some narrowing
+honed over 17 years of untraditional monetary policy. First
+consider the backdrop for the US consumer. While overall
+unemployment is low, at 4.2%, wage growth has decelerated
+from the 2023 peak, with total nominal labor income rising
+around 3% annually, a level that falls into negative territory
+when adjusted for personal consumption expenditures (PCE)
+inﬂation of 3.4%. While total income growth, at 4.3%
+including government transfers and investment income, helps
+cushion inﬂation a bit better, University of Michigan
+sentiment readings near the data set’s all-time lows reﬂect
+the marginal cash-ﬂow gains. These aren’t exactly inputs that
+foretell the 6.1% nominal consumption growth we have
+experienced—a full 180 basis points ahead of income gains
+and over 200 basis points ahead of 2009–2019 average
+nominal-consumption growth.
+So, if sentiment isn’t driving conﬁdence, what is? The
+willingness to “spend into savings” has been explained by the
+so-called wealth effect—or the reality that household net
+worth has risen more than 70% since 2020—with home
+prices up 62%, on average, and equities up 132%. These
+factors, along with the Federal Reserve’s ﬁnancial repression
+of interest rates, drove balance sheet deleveraging, as assets
+grew several times faster than debt costs, which were mostly
+reﬁnanced. Wealth effects have also been compounded by
+extreme wealth concentration, per both income and
+demographic band, as a larger portion of total consumption
+has grown “price-insensitive” to dynamics stemming from
+tariffs, oil and rates. After all, people over 65—a cohort
+whose social security payments are adjusted for cost-of-living
+increases—own a disproportionate amount of nominal
+wealth. For those Cassandras worried about the future of the
+labor market, wealth effects’ role in consumption resilience
+may be reassuring, especially since labor-income trends have
+been uninspiring. But how secure are household balance
+sheets going forward? If the GIC’s call on consumption were
+premised solely on the level and direction of stock and bond
+performance, given our constructive, high-single-digit return
+outlook for both, we would be sanguine. But our view is
+tempered by several recent observations.
+First, we are increasingly convinced that housing weakness
+could ﬁnally morph into lower prices, materially impacting
+household balance sheets. Even if housing has fallen from
+37% of total household assets in 2005 to roughly 25%, it still
+matters, especially to the lower 60% of wealth cohorts. In
+the past month, pending new home sales, the best indicator
+of demand, hit a 25-year low—below both the COVID and
+Great Financial Crisis troughs. With 30-year mortgage rates
+near 7.5%, mortgage applications are also down, while
+housing inventory is building. Although prices are still rising
+year over year—as indicated by the S&P Cotality Case-Shiller
+US National Home Price Index’s recent 1.9% increase—
+markdowns could occur, especially as the vacancy rate for
+rentals has surged amid multifamily completions at a nine-
+month high.
+Household balance sheets could also be impacted by
+portfolio exposure to equities themselves—without even
+accounting for a potential market drawdown. Conﬁdence in
+further appreciation, after four years of double-digit gains,
+and conviction in the AI-capex story have driven household
+US equity exposure to roughly 72%. That has only been
+topped in the 1997–2000 tech boom, at 77%. Meanwhile,
+Morgan Stanley’s proprietary gauge of household cash
+balances is at a cycle low, as is the national savings rate, at
+4.1%. While households could boost allocations even further,
+that would diverge from American Association of Individual
+Investors (AAII) bullish-bearish sentiment data suggesting
+caution (see Chart of the Week). If capital market returns
+moderate in 2027, as we expect, and incremental portfolio
+additions are capped, total contributions to wealth gains
+could also decline in importance.
+Finally, even well-insulated household balance sheets could
+be dented by rising costs of capital. Although perceived as
+manageable relative to net worth, margin and credit card
+debt are at record highs in nominal-dollar terms. While net
+worth may continue to rise in 2027, potentially supporting
+consumption, related marginal spending could be consumed
+by higher interest costs.
+Bottom Line. While all eyes are on the AI-capex cycle as the
+driver of this bull market, economic resilience has also
+surprised upward given the durability of consumption. The
+root cause is the wealth effect, which has deﬁed many
+leading indicators of consumer spending. Conﬁdence in
+household balance sheet strength has helped spending
+outpace income growth, driving market exposure up and
+savings rates down despite potential headwinds such as
+higher tariff-related costs, interest rates and oil prices. While
+our positive 2027 capital market outlook suggests that the
+delicate equilibrium can be maintained, we are proceeding
+cautiously, with muted enthusiasm for consumer-linked
+stocks. The ﬁrst risk is intensifying housing market stress,
+which could ﬁnally hit prices. Second, household portfolio
+positioning is near an extreme. Finally, for those dependent
+on the cost of capital for credit card or margin debt, higher
+rates could become a constraint. Avoid perceived value in
+consumer sectors. It’s still too early. Watch for convergence
+between spending growth and income growth to indicate
+genuine consumer conﬁdence. Consider adding to
+municipals, for tax-sensitive investors, neutralizing tilts away
+from strategic benchmarks while minding credit exposure
+and preparing for a bond rally. Anticipate some narrowing
 around quality large-cap US stocks amid headwinds for
 consumer-exposed cyclicals. Financials, health care, energy
 and some defensives work as overweights, along with select
@@ -165,56 +165,57 @@ EM and Japan and prefer intermediate rates to credit.
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
 Source: Bloomberg as of Oct. 15, 2026
-Source: Bloomberg as of Oct. 15, 2026
-Chart of the Week: AI Trade Shows Rotation … Again
-For most of the bull market, investors have ﬂipped from
-focusing on the semiconductor manufacturers to the
-“Magniﬁcent Seven,” most of which are AI hyperscaler
-operators. Now, there appears to be another rotation
-from the chipmakers to the cloud-services providers.
-While the GIC recommended reducing semiconductor
-positions near the June highs and adding to higher-quality
-hyperscalers, the trade has been volatile given the
-dynamic AI build-out, with new questions seeming to arise
-every week. We see the volatility as healthy, reﬂecting a
-lack of complacency and a cycle entering its middle
-innings. Fundamentals of demand exceeding supply
-appear intact, and we believe the strongest-balance-sheet
-companies—the hyperscalers—will prevail in this period of higher-for-longer rates. History is not kind to narratives that paint
-cyclical, capital-intensive industries like semiconductors as perpetual growers. We doubt this will be different.
-Fixed Income Insight: Flight to Safety and “Growth Scare” Reprice Treasuries
-Wednesday’s extreme US Treasury repricing, with yields
-dropping over 20 basis points, was a conundrum for
-investors convinced that oil and inﬂation fears have
-driven rates. CPI and PPI data surprised to the upside,
-suggesting inﬂation was stickier, accelerating and
-broadening. But the data and Fed policy implications did
-not impact long-run inﬂation breakeven rates. As
-conﬁrmed by the drastic move in the 10-year real rate,
-markets focused on potential for higher-for-longer rates
-to undermine the business cycle and slow growth. Amid
-concerns about the AI-capex cycle, this underscores the
-theme’s primacy for stocks and bonds. And with the
-overall cycle intact, rate hikes priced and inﬂation
-comparisons apt to get easier by mid-2027, we are buyers of both. In our view, slowing but steady growth in 2027 and high but
-contained inﬂation can produce mid-to-high-single-digit returns for both asset classes.
-Market Factor Data Points (for the week ending Oct. 16, 2026)
+Source: MS & Co. Research as of Oct. 22, 2026
+Chart of the Week: Household Equity Allocations Close to Prior Peak
+Retail investors, powered by deep conﬁdence in “buying
+the dip,” have been an increasingly major source of
+market support during the four-year bull market. Driven
+by signiﬁcant equity gains and rising relative participation,
+however, total portfolio allocations to US stocks now sit
+at 72%—a level previously associated with market peaks
+and surpassed only during the 1997–2000 tech boom.
+This is also occurring as household cash allocations are
+near the bottom of their historical range and many
+investors are underweight bonds, given their relatively
+poor performance since 2021. But growing skittishness
+around the AI-capex narrative, especially pertaining to
+software companies and semiconductor makers, has
+depressed retail enthusiasm at the same time that real rates are at their highest levels in 24 years. The implication: Markets
+appear primed for a stock-bond rebalancing.
+Fixed Income Insight: Financial Conditions Have Finally Tightened
+Bond markets have led the Federal Reserve for most of
+the year, as nominal US Treasury yields have reacted
+more strongly than multiple asset classes to the repricing
+of oil, real growth rates and the Fed’s policy path. While
+one of the tailwinds for equities was easy ﬁnancial
+conditions, they have ﬁnally tightened, and equity and
+credit markets are feeling a pinch equivalent to about 45
+basis points of restraint. Although we have described the
+weakness in tech-linked stocks and credits as part of a
+healthy correction and consider the “safe haven” trade
+toward Treasuries to be a relief valve for market stress,
+we remain vigilant. Geopolitics is especially unstable and
+could become an additional consideration for the Fed,
+even if consensus still discounts approximately 65 basis points of rate cuts by next December. Stay balanced and diversiﬁed
+between stocks and bonds.
+Market Factor Data Points (for the week ending Oct. 23, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-US CPI Registered a 3.7% Year-Over-Year Advance …
-Source: Bloomberg as of Sept. 30, 2026
-Diffusion Indexes Show Worsening Inﬂation Breadth
-Source: Bloomberg as of Sept. 30, 2026
-Macro Factor Heat Map (as of Oct. 16, 2026)
+Equities Have Driven Wealth for High-Income Cohorts
+Source: Oxford Economics as of Oct. 22, 2026
+Household Compensation Driven by Equities
+Source: Bloomberg as of Aug. 31, 2026
+Macro Factor Heat Map (as of Oct. 23, 2026)
 Note: Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Tracking US Inﬂation
-… Rising for the Third Consecutive Month
-Source: Bloomberg as of Sept. 30, 2026
-AI-Related Inputs Continue to Exert Price Pressure
-Source: Bloomberg as of Sept. 30, 2026
+Charts in Focus: Net Worth and the Wealth Effect
+Equity Assets Have Exceeded Real Estate’s Share of Net
+Worth
+Source: Bloomberg as of June 30, 2026
+Equity Holdings Account for Record Share of Income
+Source: Haver Analytics as of June 30, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
 Short-Term Stock-Bond Indicator
@@ -222,10 +223,10 @@ Note: Shading reﬂects the relative strength of each component signal on a perc
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Oct. 16, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Oct. 23, 2026
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-Asset Class Performance (as of Oct. 16, 2026)
+Asset Class Performance (as of Oct. 23, 2026)
 Note: Performance values calculated using USD. 1. As of September 30 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of September
 30, 2026. 4. Volatility and Correlation: August 31, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds
 and managed futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its
@@ -234,12 +235,12 @@ Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 16, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of Oct. 23, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 16, 2026
-S&P 500 Sector Performance and Valuation (as of Oct. 16, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of Oct. 23, 2026
+S&P 500 Sector Performance and Valuation (as of Oct. 23, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of Oct. 16, 2026)
+Equity Market Relative Valuation (as of Oct. 23, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
@@ -248,11 +249,11 @@ Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of Oct. 16, 2026
+Source: Bloomberg as of Oct. 23, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of Oct. 16, 2026
-Morgan Stanley & Co. Forecasts (as of Oct. 16, 2026)
+Source: Bloomberg as of Oct. 23, 2026
+Morgan Stanley & Co. Forecasts (as of Oct. 23, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
 Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
@@ -475,11 +476,6 @@ the standard deviation or variance between returns from that same security or ma
 security.
 For index, indicator and survey deﬁnitions referenced in this report please visit the following: https://www.morganstanley.com/wealth-
 investmentsolutions/wmir-deﬁnitions
-Additional Index Deﬁnitions
-BLOOMBERG MAGNIFICENT 7 INDEX This index is an equal-dollar weighted equity benchmark that tracks a ﬁxed basket of seven major US
-tech and growth companies: Alphabet, Amazon, Apple, Meta, Microsoft, Nvidia and Tesla.
-PHLX SEMICONDUCTOR INDEX This index is designed to track the performance of a set of companies engaged in the design, distribution,
-manufacture and sale of semiconductors.
 Risk Considerations
 Important note regarding economic sanctions. This report references jurisdiction(s) or person(s) that are the subject of economic sanctions. Any
 references in this report to jurisdictions, persons (individuals or entities), debt or equity instruments, or projects that may be covered by such
@@ -495,8 +491,6 @@ to companies in the energy and natural resources sectors, including commodity pr
 exploration risk. Individual MLPs are publicly traded partnerships that have unique risks related to their structure. These include, but are not
 limited to, their reliance on the capital markets to fund growth, adverse ruling on the current tax treatment of distributions (typically mostly
 tax deferred), and commodity volume risk. The potential tax beneﬁts from investing in MLPs depend on their being treated as partnerships for
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  11
 federal income tax purposes and, if the MLP is deemed to be a corporation, then its income would be subject to federal taxation at the entity
 level, reducing the amount of cash available for distribution to the fund which could result in a reduction of the fund’s value.
 MLPs carry interest rate risk and may underperform in a rising interest rate environment. MLP funds accrue deferred income taxes for future tax
@@ -504,6 +498,8 @@ liabilities associated with the portion of MLP distributions considered to be a 
 well as capital appreciation of its investments; this deferred tax liability is reﬂected in the daily NAV; and, as a result, the MLP fund’s after-tax
 performance could differ signiﬁcantly from the underlying assets even if the pre-tax performance is closely tracked.
 Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economic
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  11
 and market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, and
 domestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of varied
 economic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.
@@ -560,8 +556,6 @@ Physical precious metals are non-regulated products. Precious metals are specul
 term price volatility. The value of precious metals investments may ﬂuctuate and may appreciate or decline, depending on market conditions. If
 sold in a declining market, the price you receive may be less than your original investment. Unlike bonds and stocks, precious metals do not
 make interest or dividend payments. Therefore, precious metals may not be appropriate for investors who require current income. Precious
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  12
 metals are commodities that should be safely stored, which may impose additional costs on the investor. The Securities Investor Protection
 Corporation (“SIPC”) provides certain protection for customers’ cash and securities in the event of a brokerage ﬁrm’s bankruptcy, other ﬁnancial
 difﬁculties, or if customers’ assets are missing. SIPC insurance does not apply to precious metals or other commodities.
@@ -569,10 +563,12 @@ Bonds are subject to interest rate risk. When interest rates rise, bond prices 
 to this risk. Bonds may also be subject to call risk, which is the risk that the issuer will redeem the debt at its option, fully or partially, before
 the scheduled maturity date. The market value of debt instruments may ﬂuctuate, and proceeds from sales prior to maturity may be more or
 less than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.
-Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on a
-timely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment may
-be reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant risks
-beyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful to
+Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  12
+a timely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment
+may be reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant
+risks beyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful to
 consider these risks alongside their individual circumstances, objectives and risk tolerance before investing in high-yield bonds. High yield bonds
 should comprise only a limited portion of a balanced portfolio. Interest on municipal bonds is generally exempt from federal income tax;
 however, some bonds may be subject to the alternative minimum tax (AMT). Typically, state tax-exemption applies if securities are issued within
@@ -623,13 +619,13 @@ Yields are subject to change with economic conditions. Yield is only one factor
 Interest income from taxable zero coupon bonds is subject to annual taxation as ordinary income even though no interest payments will be
 received by the investor if held in a taxable account.  Zero coupon bonds may also experience greater price volatility than interest bearing ﬁxed
 income securities because of their comparatively longer duration.
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  13
 Virtual Currency Products (Cryptocurrencies)
 Buying, selling, and transacting in Bitcoin, Ethereum or other digital assets (“Digital Assets”), and related funds and products, is highly
 speculative and may result in a loss of the entire investment. Risks and considerations include but are not limited to:
 Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.
 The price of Digital Assets could decline rapidly, and investors could lose their entire investment.
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  13
 Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction and
 inaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed or
 inaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.
@@ -681,13 +677,13 @@ Investors should consult with their tax advisor before implementing such a strat
 The indices are unmanaged. An investor cannot invest directly in an index. They are shown for illustrative purposes only and do not represent
 the performance of any speciﬁc investment. The indices are not subject to expenses or fees and are often comprised of securities and other
 investment instruments the liquidity of which is not restricted. A particular investment product may consist of securities signiﬁcantly different
-THE GIC WEEKLY
-Morgan Stanley Wealth Management  14
 than those in any index referred to herein. Comparing an investment to a particular index may be of limited use.
 The indices selected by Morgan Stanley Wealth Management to measure performance are representative of broad asset classes. Morgan
 Stanley Smith Barney LLC retains the right to change representative indices at any time.
 Disclosures
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.
+THE GIC WEEKLY
+Morgan Stanley Wealth Management  14
 This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future
 performance.
@@ -739,6 +735,6 @@ Third-party data providers make no warranties or representations of any kind rel
 they provide and shall not have liability for any damages of any kind relating to such data. This material, or any portion thereof, may not be
 reprinted, sold or redistributed without the written consent of Morgan Stanley Smith Barney LLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1792368579193 10/2026
+RSI1792960968494 10/2026
 THE GIC WEEKLY
 Morgan Stanley Wealth Management  15
