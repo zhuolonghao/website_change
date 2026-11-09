@@ -1,262 +1,118 @@
 INVESTMENT STRATEGY
-While last week’s ﬂood of macro, policy and stock-speciﬁc data could
-easily foster confusion around the market narrative, we see investor
-jumpiness as a healthy sign that complacency is not excessive. So,
-what’s the big picture? First, investors are not abandoning equities.
-Despite intense subsurface rotations, the S&P 500 Index remains
-within 3.1% of its all-time closing high, amid stronger breadth and
-positive earnings revisions, as demand for capital issuance has held up
-well. Second, news ﬂow continues to conﬁrm the growth-boom
-regime. Financial conditions have tightened and credit spreads have
-widened, but the AI-capex story is intact amid few signs of reduced
-demand due to higher-for-longer oil prices and rates. Finally, markets
-are becoming calmer regarding the Federal Reserve’s inﬂation-target
-commitment and Chair Warsh’s leadership. In fact, while inﬂation
-might not be slowing, it appears stable, with investors more focused
-on real growth. Diversiﬁed portfolios are working, and we encourage
-staying the course amid a decent big-picture environment for both
-stocks and bonds, even if upcoming returns will most likely be in the
-single digits. Consider adding to municipals, in the case of tax-
-sensitive ﬁxed income investors, while maintaining exposure to both
-rates and IG credit in taxable accounts, focusing on quality. Prepare
-for narrowing around quality large-cap US stocks amid headwinds for
-consumer-exposed cyclicals. Financials, health care, energy and some
-defensives work as overweights, along with select cloud-dominant
-hyperscalers and AI adopters. We still like EM, especially after recent
-sell-offs, as well as Japan, with potential diversiﬁcation provided by
-hedge funds, real assets, venture capital and growth equity.
-The past 10 weeks have felt incredibly eventful, even if equity indexes and the 10-
-year US Treasury yield, respectively, are nearly unchanged from early August and
-September. Stocks have lurched several times—from narrowing around the AI trade
-to concerns about rates and oil to fears of overheating to relief that the Fed would
-pause in October. These shifts have been followed by broader market participation
-after an epic momentum-stock drawdown related to credit fears. The Treasury
-Noise Versus Signal Lisa ShalettChief Investment Ofﬁcer
+Lisa Shalett’s commentary will return in the Nov. 16 issue of The GIC Weekly.
+Lisa Shalett
+Chief Investment Ofﬁcer
 Head of the Global Investment Ofﬁce
 Morgan Stanley Wealth Management
 Lisa.Shalett@morganstanley.com
 Upcoming Catalysts
-November 02
-ISM Manufacturing PMI
-US construction spending
-November 03
-US factory orders
-November 04
-ADP Employment Change
-US trade balance
-ISM Services Index
-November 05
+November 09
+US Wholesale Trade report
+China exports
+November 10
+NFIB Small Business Optimism Index
+US Consumer Price Index
+US real average hourly earnings
+November 11
+Japan PPI
+November 12
+UK GDP
 US initial jobless claims
 US continuing claims
-November 06
-US nonfarm payrolls
-US unemployment rate
-U. of M. Consumer Sentiment Index
-Global Investment Committee | November 02, 2026
+US existing home sales
+November 13
+US Producer Price Index ex Food and Energy
+Global Investment Committee | November 09, 2026
 The GIC Weekly
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States. This
 material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future performance.
 Please refer to important information, disclosures and qualiﬁcations at the end of this material.
-market’s round trip has been even more volatile, with the 10-
-year yield at one point hitting a 24-year high, as US debt
-holders digested potential for a far higher neutral policy rate,
-surging sovereign and investment grade debt issuance and
-concerns over US debt sustainability. In the past few weeks,
-especially as the Fed committed to a deliberate rate-hiking
-pace, investors have aggressively repositioned multi–asset
-class portfolios, rebalancing into oversold Treasuries while
-rotating defensively in equities, waiting  for last week’s ﬂood
-of news from the Fed, earnings reports and government
-releases to clarify things amid geopolitical stress.
-Unfortunately, despite creating noise, the revelations offered
-minimal additional clarity. The Fed behaved as expected,
-holding its short-term rate ﬂat while sustaining a focus on its
-2% inﬂation target and suggesting fewer upcoming policy
-meetings, thus implying less forward guidance and slower
-policy change even if it boosts volatility. The central bank
-acknowledged higher-than-preferred inﬂation but expects AI-
-related productivity gains to solve things, even if geopolitics
-doesn’t. Tech company earnings were solid but revealed
-various nuances around spending, free cash ﬂow and business
-vulnerabilities amid an intensifying ﬁght for market share. The
-Fed did not change its capex outlook or suggest explicit
-constraints from rising costs of capital, but investors reacted
-poorly to increasing anxiety around timing of investment
-monetization. Inﬂation data, meanwhile, was broadly in line
-with expectations as growth data surprised upward. Where
-does this leave us? Four years into the bull market, we are
-entering the tougher innings, when comparisons and
-expectations suggest a slowing rate of upside surprises and
-declining earnings-revision momentum. Looking at the big
-picture, we remain ﬁrmly in the growth-boom quadrant of
-economic regimes, which is typically very good for equities,
-especially in the context of a diversiﬁed portfolio.
-For important perspective, ﬁrst consider that despite the
-violence of many of the tech sector moves around the AI-
-capex ecosystem—where we have seen corrections and even
-technical bear markets—equity indexes are close to
-unchanged from early August, validating the contention that
-market action reﬂects economic broadening and rotation, not
-capital drawdown. Tech sector capital issuance, both credit
-and equity, has continued to go well, with new issues several
-times oversubscribed. Equity inﬂows remain positive, as does
-retail participation. Breadth has improved dramatically, with
-the share of stocks above their 50-day moving average back
-over 50% from a late-September trough around 21%. Overall
-earnings realization has been excellent, with S&P 500
-corporate proﬁt growth on pace to be up 30% versus last
-year. Earnings revisions also remain positive.
-Second, the macro backdrop remains highly constructive,
-placing us in a growth-boom economic regime, as aggregate
-AI-capex forecasts have again been revised upward. And while
-year-over-year growth estimates may signal deceleration, if
-Morgan Stanley & Co.’s $1.4 trillion–$1.5 trillion forecast is
-correct, the slowing will be far more modest than
-contemplated only three months ago. Last week’s economic
-releases conﬁrmed earlier reads on ISM manufacturing and
-services, with activity and new orders above average
-expansion rates. Third quarter real GDP is estimated to have
-registered a healthy 3.4% quarter-over-quarter annualized
-rate, while personal consumption was also strong—up 3.8%
-and beating expectations, even as consumers eat into savings.
-Leading indicators of continued manufacturing strength, like
-Korean exports as a proxy for US capex orders, also suggest
-positive momentum (see Chart of the Week).
-Finally, inﬂation data conﬁrmed continuing solid demand and
-an impact from oil-linked pass-through that’s still under
-control. Yes, headline personal consumption expenditure
-(PCE) inﬂation, at 3.6% annualized, was up from last month,
-but core PCE came in at 2.5% on a quarter-over-quarter basis.
-Even as oil prices pushed higher last week, the 10-year
-Treasury yield fell to 4.93%—indicating that inﬂation
-expectations are anchored and bond investors are becoming
-more comfortable with the Fed’s go-slow approach.
-Bottom Line. While last week’s FOMC meeting and ﬂood of
-data had the potential to upend the bull market narrative,
-the growth-boom story appears intact. Subsector rotations
-and drawdowns reﬂect healthy skepticism, and there is no
-evidence of investor withdrawal from equities given positive
-ﬂows. Capex-linked earnings revisions and hopes for
-productivity gains are still supportive, as valuations
-moderate. Furthermore, data around ISM new orders, Asian
-exports, GDP growth and consumption continues to conﬁrm.
-Finally, inﬂation has not been unanchored, as the Fed’s
-credibility appears to be building. The implication is that US
-Treasuries are again a “ﬂight to safety” trade, restoring
-portfolio diversiﬁcation. Noting a good entry point for both
-stocks and bonds over the year ahead, we recommend long-
-term investors stay the course, focusing on selectivity and
-quality. Watch midcycle dynamics, as shifting growth and
-inﬂation over the next 6–12 months should determine
-whether the bull market extends to a “Goldilocks” regime or
-we lapse into a “stagﬂationary” bust. Consider adding to
-municipals, in the case of tax-sensitive ﬁxed income
-investors, while maintaining exposure to both rates and IG
-credit in taxable accounts and focusing on quality. Prepare
-for narrowing around quality large-cap US stocks amid
-headwinds for consumer-exposed cyclicals. Financials, health
-care, energy and some defensives work as overweights,
-along with select cloud-dominant hyperscalers and AI
-adopters. We still like EM, especially after recent sell-offs, as
-well as Japan, with potential diversiﬁcation provided by
-hedge funds, real assets, venture capital and growth equity.
-THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
-Source: Bloomberg as of Sept. 30, 2026
-Source: Bloomberg as of Oct. 30, 2026
-Chart of the Week: Leading Indicators Suggest Durability of Capex Story
-One of the narrative threads we have been pointing out
-to investors is how different this cycle is in terms of
-historical paradigms around leading and lagging economic
-forecasting variables. In many cases, traditional correlative
-relationships have broken down during the AI-capex cycle.
-One important relationship factor that has changed is the
-predictive power of Korean exports. Global exports to the
-US were formerly strong predictors of US consumption,
-as much of our imports were consumer goods. This cycle,
-our Asian imports are concentrated in semiconductors
-and memory chips—critical inputs for AI and industrial
-capex. Based on the most recent data, the trend of
-strengthening US capital goods orders looks to be
-persistent.
-Fixed Income Insight: Stock-Bond Diversiﬁcation Has Returned, Thankfully
-The October drawdown in Nasdaq stocks echoed AI-
-ecosystem jitters back in the May–July period, but unlike
-that summer swoon, which was accompanied by surging
-US interest rates, the recent equity repricing has occurred
-amid calming and retreating US Treasury yields. With the
-shift in correlation levels, diversiﬁed stock-bond portfolios
-have been better hedged, as stronger Treasury prices
-have partially offset weaker tech stocks. This reﬂects the
-shifting debate focus—from uncertainty, term premiums
-and inﬂation expectations to the outlook for real growth
-and AI capex. While the GIC does not think we’re out of
-the woods on inﬂation and sees nonzero stagﬂation risks
-ahead, which would impede bonds’ capacity as a hedge for stocks, inﬂation appears stable for now. This cross-asset rotation is
-healthy, and we remain patient as markets recalibrate to midcycle maturation.
-Market Factor Data Points (for the week ending Oct. 30, 2026)
+Source: Strategas as of Nov. 6, 2026
+Source: Bloomberg as of Nov. 3, 2026
+Chart of the Week: Midterms Typically Clear Uncertainty
+US midterm elections, especially those delivering
+government divided between the president and Congress,
+have been positive for markets, with nearly a 15% 12-
+month average forward price return for the S&P 500. This
+has been particularly so in the case of a Republican
+president and Democratic Congress. Since 1954, there
+have been only two instances when the 12-month forward
+return was below double digits when a Republican
+president served with a Democratic Congress—during the
+Reagan and George W. Bush administrations in 1986 and
+2006, respectively. While some are concerned about data
+center regulations and moratoriums following the
+Democratic sweep, on this issue, we think the cycle will
+simply slow from a pace entailing “boom-bust” risks to a “Goldilocks” pace. Regarding ﬁscal policy, debt and deﬁcits, we believe
+divided government forces compromise and better outcomes—one reason the bond market has continued to rally.
+Fixed Income Insight: Global Rates Reﬂect Boom Conditions
+Global ﬁnancial conditions are tightening as long-term
+rates reprice higher to reﬂect strong real growth and
+surging demand for capital from sovereign issuers and
+players in the AI ecosystem. As capital becomes scarcer,
+valuation multiples will likely face headwinds globally—a
+reality favoring those with manageable debt and deﬁcits.
+Interestingly, this comes against a current backdrop
+favoring emerging markets over developed markets.
+Market Factor Data Points (for the week ending Nov. 6, 2026)
 Color coding shows how actual data compares with consensus estimates. Green implies better than expected, red implies worse than expected. Trend shows the
 one-period change between actual and prior reports. Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
-Equity Breadth Has Recovered From September
-Source: Bloomberg as of Oct. 29, 2026
-The AI Complex Remains Dominant
-Source: Strategas as of Oct. 22, 2026
-Macro Factor Heat Map (as of Oct. 30, 2026)
-Note: Text in a factor box denotes a color; In China, Rates declined from Neutral to Risk Off due to a ﬂattening yield curve. Inﬂation and Deﬂation fell from Risk
-On to Neutral due to decelerating inﬂation. Earnings declined from Neutral to Risk Off due to declining earnings estimate revisions; In Japan, Sentiment and Risk
-rose from Neutral to Risk On due to falling risk demand. Earnings declined from Neutral to Risk Off declining earnings estimate revisions; In Brazil, Inﬂation and
-Deﬂation rose from Neutral to Risk On due to accelerating inﬂation; In Europe, Valuations increased from Risk Off to Neutral due to declining P/E ratios.  for
-further explanation of the chart, see page 10. 
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  2
+Nasdaq-100 Entered Its Third Correction of 2026
+Source: Bloomberg as of Nov. 6, 2026
+Semiconductor Gauge Trading Below Key Thresholds
+Source: Bloomberg as of Nov. 6, 2026
+Macro Factor Heat Map (as of Nov. 6, 2026)
+Note:  Text in a factor box denotes a color; for further explanation of the chart, see page 10. 
 Source: Morgan Stanley Wealth Management GIC
-Charts in Focus: Technicals and Rotational Dynamics
-Equities Continue to Rotate Toward Defensives
-Source: Bloomberg as of Oct. 29, 2026
-The Rotation Away From Tech Stocks May Continue
-Source: Bloomberg as of Oct. 29, 2026
+Charts in Focus: Tech Price Action
+Tech Valuations Have Fallen Meaningfully
+Source: Bloomberg as of Nov. 6, 2026
+Hyperscaler Valuations Exhibiting a Long-Term Decline
+Source: Bloomberg as of Nov. 6, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  3
 Short-Term Stock-Bond Indicator
 Note: Shading reﬂects the relative strength of each component signal on a percentile basis. The continuous color scale ranges from dark blue to dark gray, where
 blue indicates an Overweight stocks vs. bonds signal, white indicates a Neutral signal, and dark gray indicates an Underweight stocks vs. bonds signal. Signals are
 classiﬁed as Underweight for percentile readings between 0%–25%, Neutral between 25%–60%, and Overweight between 60%–100%. For additional detail on
 the Stock-Bond Indicator methodology, please refer to the primer, Stock-Bond Indicator: Rebuilding a Transparent, Adaptive Signal for Tactical Allocation. 
-Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Oct. 30, 2026
+Source: Morgan Stanley Wealth Management GIC, Morgan Stanley & Co., Haver Analytics, Bloomberg, FactSet as of Nov. 6, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
-Asset Class Performance (as of Oct. 30, 2026)
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  4
+Asset Class Performance (as of Nov. 6, 2026)
 Note: Performance values calculated using USD. 1. As of October 30 2026. 2. Forward P/E using Next 12-month earnings 3. 20-year average as of October 30,
 2026. 4. Volatility and Correlation: August 31, 2006 – Present. 5. Volatility and Correlation: Jan. 31, 1998 – Present Hedged strategies consist of hedge funds and
 managed futures 6. Volatility and Correlation: Feb. 28, 1998 – Present. Standard deviation (volatility) is a measure of the dispersion of a set of data from its
 mean. 
 Source: FactSet, Bloomberg, Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  5
 S&P 500 Earnings Estimates
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 30, 2026
+Source: FactSet, Morgan Stanley & Co. Research as of Nov. 6, 2026
 MS & Co. S&P 500 Price Target: Midyear 2027
-Source: FactSet, Morgan Stanley & Co. Research as of Oct. 30, 2026
-S&P 500 Sector Performance and Valuation (as of Oct. 30, 2026)
+Source: FactSet, Morgan Stanley & Co. Research as of Nov. 6, 2026
+S&P 500 Sector Performance and Valuation (as of Nov. 6, 2026)
 Source: Morgan Stanley & Co. Research
-Equity Market Relative Valuation (as of Oct. 30, 2026)
+Equity Market Relative Valuation (as of Nov. 6, 2026)
 Note: Dark blue, light blue and gray ﬁll denotes whether the group is relatively attractive, neutral or unattractive to other groups under the same metric. 
 Source: Bloomberg
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  7
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  6
 Government Debt Monitor & Fixed Income Spread Dashboard
 Unless stated, indexes utilized are FTSE Broad Investment Grade, FTSE High Yield, and FTSE Global Indexes †Interest Rate Volatility measured by Merrill Lynch
 Option Volatility Estimate (MOVE) Index *MBS distills high grade agency-rated mortgage-backed securities, a substantial subsector of investment grade indexes.
 **OAS stands for Option-Adjusted Spread or spread over the Treasury. Grey diamond denotes current OAS; blue circle denotes two-year average. 
-Source: Bloomberg as of Oct. 30, 2026
+Source: Bloomberg as of Nov. 6, 2026
 Government Debt Monitor & Benchmark Returns
 *Global total returns reﬂect Citigroup 7- to 10-year bond indexes and Muni total returns reﬂect Bloomberg Municipal Bond Index Total Return 
-Source: Bloomberg as of Oct. 30, 2026
-Morgan Stanley & Co. Forecasts (as of Oct. 30, 2026)
+Source: Bloomberg as of Nov. 6, 2026
+Morgan Stanley & Co. Forecasts (as of Nov. 6, 2026)
 Source: Morgan Stanley & Co. Research
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  7
 Tactical Asset Allocation Reasoning
 Global Equities Weight Relative to
 Model Benchmark
@@ -321,10 +177,10 @@ GIC asset allocation models’ benchmarks do not include exposure to Opportunist
 Infrastructure/MLPs. Hedged Strategies include Absolute Return Assets, Equity Hedge Assets and Equity Return Assets. 
 Source: Morgan Stanley Wealth Management GlC as of July 1, 2026
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  8
 Macro Factor Heat Map Key
-  EconomicGrowth Rates Inﬂation /Deﬂation Liquidity Sentiment and Risk Valuation Earnings Conclusion
-Dark Blue Economic growthrobust Steep yield curve Low-moderate andrising inﬂation
+  Economic Growth Rates Inﬂation / Deﬂation Liquidity Sentiment and Risk Valuation Earnings Conclusion
+Dark Blue Economic growth robust Steep yield curve Low-moderate and rising inﬂation
 Liquidity
 robust in
 economy /
@@ -344,7 +200,7 @@ factors
 supports a risk-
 on investment
 approach
-Light Blue Economic growthneutral Normal yieldcurve
+Light Blue Economic growth neutral Normal yield curve
 Low-moderate and
 declining inﬂation;
 moderate inﬂation;
@@ -369,11 +225,11 @@ supports a
 neutral
 investment
 approach
-Gray Economic growthanemic Flat/invertedyield curve Very high/lowinﬂation/deﬂation; highand rising inﬂation Liquidity lowin economy /bankingsystem Shorter-termsentiment andtechnicals bullish Risk assets are richly valued Earningsoutlookanemic Conﬂuence offactorssupports a risk-off investmentapproach
-Up Growthaccelerating Yield curvesteepening Inﬂation rising Liquidityincreasing Sentimentbecoming morebullish Valuations rising Earningsoutlookimproving  
-Down Growth declining Yield curveﬂattening Inﬂation falling Liquiditydecreasing Sentimentbecoming morebearish Valuationsfalling Earningsoutlookworsening  
+Gray Economic growth anemic Flat/inverted yield curve Very high/low inﬂation/deﬂation; high and rising inﬂation Liquidity low in economy / banking system Shorter-term sentiment and technicals bullish Risk assets are  richly valued Earnings outlook anemic Conﬂuence of factors supports a risk- off investment approach
+Up Growth accelerating Yield curve steepening Inﬂation rising Liquidity increasing Sentiment becoming more bullish Valuations rising Earnings outlook improving  
+Down Growth declining Yield curve ﬂattening Inﬂation falling Liquidity decreasing Sentiment becoming more bearish Valuations falling Earnings outlook worsening  
 Signal
-Horizon One to three years One to threeyears One to three years One to threeyears One to threemonths Six months totwo years Six months totwo years  
+Horizon One to three years One to three years One to three years One to three years One to three months Six months to two years Six months to two years  
 Inputs
 • Industrial
 production
@@ -446,7 +302,7 @@ score of all
 factors
 Source: Morgan Stanley Wealth Management GIC
 THE GIC WEEKLY
-Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  10
+Please refer to important information, disclosures and qualiﬁcations at the end of this material. Morgan Stanley Wealth Management  9
 Disclosure Section
 The Global Investment Committee (GIC) is a group of seasoned investment professionals from Morgan Stanley & Co. and Morgan Stanley
 Wealth Management who meet regularly to discuss the global economy and markets. The committee determines the investment outlook that
@@ -499,7 +355,7 @@ well as capital appreciation of its investments; this deferred tax liability is 
 performance could differ signiﬁcantly from the underlying assets even if the pre-tax performance is closely tracked.
 Investing in foreign markets entails greater risks than those normally associated with domestic markets, such as political, currency, economic
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  11
+Morgan Stanley Wealth Management  10
 and market risks. Investing in currency involves additional special risks such as credit, interest rate ﬂuctuations, derivative investment risk, and
 domestic and foreign inﬂation rates, which can be volatile and may be less liquid than other securities and more sensitive to the effect of varied
 economic conditions. In addition, international investing entails greater risk, as well as greater potential rewards compared to U.S. investing.
@@ -565,7 +421,7 @@ the scheduled maturity date. The market value of debt instruments may ﬂuctuate
 less than the amount originally invested or the maturity value due to changes in market conditions or changes in the credit quality of the issuer.
 Bonds are subject to the credit risk of the issuer. This is the risk that the issuer might be unable to make interest and/or principal payments on
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  12
+Morgan Stanley Wealth Management  11
 a timely basis. Bonds are also subject to reinvestment risk, which is the risk that principal and/or interest payments from a given investment
 may be reinvested at a lower interest rate. Bonds rated below investment grade may have speculative characteristics and present signiﬁcant
 risks beyond those of other securities, including greater credit risk and price volatility in the secondary market. Investors should be careful to
@@ -625,7 +481,7 @@ speculative and may result in a loss of the entire investment. Risks and cons
 Digital Assets have only been in existence for a short period of time and historical trading prices for Digital Assets have been highly volatile.
 The price of Digital Assets could decline rapidly, and investors could lose their entire investment.
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  13
+Morgan Stanley Wealth Management  12
 Although any Digital Asset product and its service providers have in place signiﬁcant safeguards against loss, theft, destruction and
 inaccessibility, there is nonetheless a risk that some or all of a product’s Digital Asset could be permanently lost, stolen, destroyed or
 inaccessible by virtue of, among other things, the loss or theft of the “private keys” necessary to access a product’s Digital Asset.
@@ -683,7 +539,7 @@ The indices selected by Morgan Stanley Wealth Management to measure performance
 Stanley Smith Barney LLC retains the right to change representative indices at any time.
 Disclosures
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  14
+Morgan Stanley Wealth Management  13
 Morgan Stanley Wealth Management is the trade name of Morgan Stanley Smith Barney LLC, a registered broker-dealer in the United States.
 This material has been prepared for informational purposes only and is not an offer to buy or sell or a solicitation of any offer to buy or sell any
 security or other ﬁnancial instrument or to participate in any trading strategy. Past performance is not necessarily a guide to future
@@ -700,7 +556,8 @@ participants are referred. This material is based on public information as of th
 obligation to tell you when information herein may change. We make no representation or warranty with respect to the accuracy or
 completeness of this material. Morgan Stanley Wealth Management has no obligation to provide updated information on the
 securities/instruments mentioned herein.
-The summary at the beginning of the report may have been generated with the assistance of artiﬁcial intelligence (AI).
+Certain images and/or content included in this report may have been generated or created, in whole or in part, using artiﬁcial intelligence (AI)
+technology.
 The securities/instruments discussed in this material may not be appropriate for all investors. The appropriateness of a particular investment or
 strategy will depend on an investor’s individual circumstances and objectives. Morgan Stanley Wealth Management recommends that investors
 independently evaluate speciﬁc investments and strategies, and encourages investors to seek the advice of a ﬁnancial advisor. The value of and
@@ -736,6 +593,6 @@ Third-party data providers make no warranties or representations of any kind rel
 they provide and shall not have liability for any damages of any kind relating to such data. This material, or any portion thereof, may not be
 reprinted, sold or redistributed without the written consent of Morgan Stanley Smith Barney LLC.
 © 2026 Morgan Stanley Smith Barney LLC. Member SIPC.
-RSI1793549031754 11/2026
+RSI1794069341962 11/2026
 THE GIC WEEKLY
-Morgan Stanley Wealth Management  15
+Morgan Stanley Wealth Management  14
